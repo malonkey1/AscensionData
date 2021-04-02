@@ -1,0 +1,1314 @@
+Power Synergist_Support.Robotics.Assault_Bot
+{
+	Name                 "Assault_Bot"                 
+	DisplayName          "P524637202"
+	ModesDisallowed      kDisable_All, kSynergist_Transform_Mode
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kLocation
+	Range                60
+	EnduranceCost        19.5
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         120
+	ActivatePeriod       0
+	EffectArea           kLocation
+	Radius               0
+	Arc                  0
+	TargetNearGround     kTrue
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kKnockback_Boost, kStunned_Boost
+	VisualFX             "menu\Powers\AnimFX\Robotics_AssaultMech_Summon.pfx"
+	include              menu\Powers\AnimFX\Robotics_AssaultMech_Summon.pfx
+	DisplayShortHelp     "P1161639854"
+	DisplayHelp          "P2129612331"
+	IconName             "Robotics_AssembleAssaultMech.tga"
+	TimeToConfirm        0
+	ShowBuffIcon         kFalse
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                 
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                -1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                2
+		Duration             99999
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kIgnore
+		EntityDef            MastermindPets_Assault_Bot
+		PriorityList         Pet
+		// Additional Power Attribs
+		DoNotTint            1
+	}
+}
+
+Power Synergist_Support.Robotics.Deflection_Shield
+{
+	Name                 "Deflection_Shield"           
+	DisplayName          "P1823934049"
+	ModesDisallowed      kDisable_All
+	Type                 kToggle
+	Accuracy             1
+	EntsAffected         kFriend, kCaster
+	EntsAutoHit          kFriend, kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        0.2
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         2
+	ActivatePeriod       0.5
+	EffectArea           kSphere
+	Radius               60
+	Arc                  0
+	AIReport             kNever
+	BoostsAllowed        kEnduranceDiscount_Boost, kBuff_Defense_Boost, kRange_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ForceField_PersonalForceField.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ForceField_PersonalForceField.PFX
+	DisplayShortHelp     "P1710388808"
+	DisplayHelp          "P1882102583"
+	DisplayAttackerHit   "P737094794"
+	DisplayVictimHit     "P2660225500"
+	IconName             "Robotics_DeflectionShield.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        255
+	Cancelable           kTrue
+	DisplayTargetShortHelp "P2240545096"
+	DisplayTargetHelp    "P639359596"
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kSmashing_Attack
+		Target               kAffected
+		Scale                0.40
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kLethal_Attack
+		Target               kAffected
+		Scale                0.40
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX2
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kMelee_Attack
+		Target               kAffected
+		Scale                0.40
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kToxic
+		Target               kAffected
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kSmashing_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.60
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kLethal_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.60
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX2
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Melee_Buff_Def"             
+		Aspect               kCur
+		Attrib               kMelee_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.60
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kToxic
+		Target               kCastersOwnerAndAllPets
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+}
+
+Power Synergist_Support.Robotics.Triage_Beacon
+{
+	Name                 "Triage_Beacon"               
+	DisplayName          "P3860346273"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        13
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2.77
+	RechargeTime         200
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	TargetNearGround     kTrue
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kHeal_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_TriageBeacon.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_TriageBeacon.PFX
+	DisplayShortHelp     "P3379444764"
+	DisplayHelp          "P2896528946"
+	IconName             "Robotics_TriageBeacon.tga"
+	TimeToConfirm        0
+	ShowBuffIcon         kFalse
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                -1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		EntityDef            Pets_Traps_Triage_Beacon
+		PriorityList         PL_StaticObject
+	}
+}
+
+Power Synergist_Support.Robotics.Insulation_Shield
+{
+	Name                 "Insulation_Shield"           
+	DisplayName          "P4034787409"
+	ModesDisallowed      kDisable_All
+	Type                 kToggle
+	Accuracy             1
+	EntsAffected         kFriend, kCaster
+	EntsAutoHit          kFriend, kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        0.2
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         4
+	ActivatePeriod       0.5
+	EffectArea           kSphere
+	Radius               60
+	Arc                  0
+	AIReport             kNever
+	BoostsAllowed        kEnduranceDiscount_Boost, kBuff_Defense_Boost, kRange_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\SynergistSupport_Robotics_InsulationShield.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\SynergistSupport_Robotics_InsulationShield.PFX
+	DisplayShortHelp     "P2299597199"
+	DisplayHelp          "P3880114694"
+	DisplayAttackerHit   "P1119988492"
+	DisplayVictimHit     "P2372394357"
+	IconName             "Robotics_InsulationShield.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        255
+	Cancelable           kTrue
+	DisplayTargetShortHelp "P1099294673"
+	DisplayTargetHelp    "P3977068540"
+
+		AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kFire_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kCold_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX2
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kEnergy_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kNegative_Energy_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kRanged_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kAOE_Attack
+		Target               kCastersOwnerAndAllPets
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kRecovery
+		Target               kCastersOwnerAndAllPets
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kEndurance
+		Target               kCastersOwnerAndAllPets
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+		AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kFire_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kCold_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX2
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kEnergy_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kNegative_Energy_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kRanged_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kAOE_Attack
+		Target               kAffected
+		Scale                0.20
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kRecovery
+		Target               kAffected
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kEndurance
+		Target               kAffected
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+}
+
+Power Synergist_Support.Robotics.Force_Field_Generator
+{
+	Name                 "Force_Field_Generator"       
+	DisplayName          "P1946739647"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kLocation
+	Range                20
+	EnduranceCost        16.25
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         15
+	ActivatePeriod       0
+	EffectArea           kLocation
+	Radius               0
+	Arc                  0
+	TargetNearGround     kTrue
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kBuff_Defense_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_ForceFieldGenerator.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_ForceFieldGenerator.PFX
+	DisplayShortHelp     "P1025502389"
+	DisplayHelp          "P1221351809"
+	IconName             "Traps_DroppedAoEBuffDefense.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Level"                       
+		Table                "Ranged_Level"                
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             240
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		EntityDef            Pets_Traps_FF_Generator
+		PriorityList         Pet.Follow
+	}
+}
+
+Power Synergist_Support.Robotics.Poison_Trap
+{
+	Name                 "Poison_Trap"                 
+	DisplayName          "P1358094474"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        16.25
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2.77
+	RechargeTime         90
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	TargetNearGround     kTrue
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kHold_Boost, kSlow_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_PoisonTrap.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_PoisonTrap.PFX
+	DisplayShortHelp     "P2416056650"
+	DisplayHelp          "P3754884774"
+	IconName             "Robotics_PoisonTrap.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Level"                       
+		Table                "Ranged_Level"                
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             260
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kTrue
+		CancelOnMiss         kFalse
+		StackType            kStack
+		EntityDef            Pets_Traps_Poison_Trap
+		PriorityList         PL_Untargetable_FightPreferRanged
+	}
+}
+
+Power Synergist_Support.Robotics.Repair
+{
+	Name                 "Repair"                      
+	DisplayName          "P2303209751"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kMyPet
+	EntsAutoHit          kMyPet
+	Target               kMyPet
+	Range                80
+	EnduranceCost        16.25
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         120
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost, kRecovery_Boost
+	VisualFX             "menu\Powers\AnimFX\Robotics_Repair.pfx"
+	include              menu\Powers\AnimFX\Robotics_Repair.pfx
+	DisplayShortHelp     "P4028681910"
+	DisplayHelp          "P342572899"
+	IconName             "Robotics_Repair.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kHeal
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P352795579"
+		StackType            kStack
+		Requires             MastermindPets_Assault_Bot target.VillainName>
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kEndurance
+		Target               kTarget
+		Scale                0.25
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+}
+
+Power Synergist_Support.Robotics.Trip_Mine
+{
+	Name                 "Trip_Mine"                   
+	DisplayName          "P466688635"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        16.25
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        4
+	TimeToActivate       5
+	RechargeTime         20
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	TargetNearGround     kTrue
+	BoostsAllowed        kAccuracy_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kDamage_Boost, kKnockback_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_TripMine.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\MastermindBuff_Traps_TripMine.PFX
+	DisplayShortHelp     "P2631147992"
+	DisplayHelp          "P652232395"
+	IconName             "Robotics_TripMine.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Level"                       
+		Table                "Ranged_Level"                
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             260
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		EntityDef            Pets_Traps_Mine
+		PriorityList         PL_Untargetable_FightPreferRanged
+	}
+}
+
+Power Synergist_Support.Robotics.Merge_Bot
+{
+	Name                 "Merge_Bot"       
+	DisplayName          "P2259517410"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kCaster, kMyPet
+	EntsAutoHit          kCaster, kMyPet
+	Target               kMyPet
+	Range                30
+	EnduranceCost        2.6
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         240
+	ActivatePeriod       0.5
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kEnduranceDiscount_Boost, kRecharge_Boost, kRes_Damage_Boost
+	IgnoreStrength       True
+	// Additional Power Factors
+	VisualFX             "menu\Powers\AnimFX\Robotics_Upgrade.pfx"
+	include              menu\Powers\AnimFX\Robotics_Upgrade.pfx
+	DisplayShortHelp     "P1493065189"
+	DisplayHelp          "P2479789803"
+	DisplayAttackerHit   "P445682185"
+	IconName             "Robotics_Merge.tga"
+	TimeToConfirm        0
+	CastThroughHold      kTrue
+	CastThroughSleep     kTrue
+	CastThroughStun      kTrue
+	CastThroughTerrorize kTrue
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kSleep
+		Target               kSelf
+		Scale                -4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kRes
+		Attrib               kSleep
+		Target               kSelf
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kSelf
+		Scale                -4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kRes
+		Attrib               kTerrorized
+		Target               kSelf
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kStun
+		Target               kSelf
+		Scale                -1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "SpeedJumping"                
+		Table                "Melee_SpeedJumping"          
+		Aspect               kRes
+		Attrib               kLethal
+		Target               kSelf
+		Scale                0.105
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "SpeedJumping"                
+		Table                "Melee_SpeedJumping"          
+		Aspect               kRes
+		Attrib               kCold
+		Target               kSelf
+		Scale                0.105
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "SpeedJumping"                
+		Table                "Melee_SpeedJumping"          
+		Aspect               kRes
+		Attrib               kPsionic
+		Target               kSelf
+		Scale                0.105
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kAbsorb
+		Target               kCaster
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kMax
+		Attrib               kAbsorb
+		Target               kCaster
+		Scale                6
+		Type                 kExpression
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		MagnitudeExpr        Max.kHitPoints source> @Strength *
+		AllowCombatMods      kFALSE
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kSetMode
+		Target               kSelf
+		Scale                1
+		Type                 kConstant
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            kSynergist_Transform_Mode
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kSetCostume
+		Target               kSelf
+		Scale                1
+		Type                 kConstant
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kExtend
+		// Additional Power Attribs
+		Params               7
+		CostumeName          "Mastermind_Assault_Bot"
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kSilentKill
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                1.25
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack		
+		Requires             MastermindPets_Assault_Bot target.VillainName>
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kTranslucency
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                1
+		Duration             100
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             MastermindPets_Assault_Bot target.VillainName>
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kIntangible
+		Target               kTarget
+		Scale                100
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            100
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             MastermindPets_Assault_Bot target.VillainName>
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kUntouchable
+		Target               kTarget
+		Scale                100
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            100
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             MastermindPets_Assault_Bot target.VillainName>
+	}
+}

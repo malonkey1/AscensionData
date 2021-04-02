@@ -1,0 +1,12 @@
+PowerCategory Synergist_Support
+{
+	DisplayName "P1337578041"
+	PowerSets Synergist_Support.Hellfire_Aura
+	PowerSets Synergist_Support.Natural_Instinct
+	PowerSets Synergist_Support.Nether_Force
+	PowerSets Synergist_Support.Ninjitsu
+	PowerSets Synergist_Support.Robotics
+	PowerSets Synergist_Support.Streetwise
+	PowerSets Synergist_Support.Super_Serum
+	PowerSets Synergist_Support.Mental_Projection
+}

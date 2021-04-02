@@ -1,0 +1,656 @@
+PowerSet Synergist_Support.Hellfire_Aura
+{
+	Name             "Hellfire_Aura"
+	DisplayName      "P2648838997"
+	DisplayShortHelp "P2648838997"
+	DisplayHelp      "P751654362"
+	IconName         "Demon_Summoning_set.ico"
+
+	Powers Synergist_Support.Hellfire_Aura.Summon_Demons
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Fire_Shield
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Healing_Flames
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Plasma_Shield
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Forge
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Thaw
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Hell_On_Earth
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Fiery_Embrace
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Hellfire_Aura.Merge_Demons
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Natural_Instinct
+{
+	Name             "Natural_Instinct"
+	DisplayName      "P754651892"
+	DisplayShortHelp "P754651892"
+	DisplayHelp      "P2761383659"
+	IconName         "Nature_Affinity_set.ico"
+
+	Powers Synergist_Support.Natural_Instinct.Summon_Dire_Wolf
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Hardened_Carapace
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Regrowth
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Environmental_Adaptation
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Boundless_Energy
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Wild_Growth
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.DNA_Siphon
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Wild_Bastion
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Natural_Instinct.Merge_Wolf
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Nether_Force
+{
+	Name             "Nether_Force"
+	DisplayName      "P4022775679"
+	DisplayShortHelp "P4022775679"
+	DisplayHelp      "P2340395656"
+	IconName         "Dark_Armor_set.ico"
+
+	Powers Synergist_Support.Nether_Force.Lich
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Dark_Embrace
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Twilight_Grasp
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Murky_Cloud
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Obsidian_Shield
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Shadow_Fall
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Cloak_of_Fear
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Nether_Force.Soul_Transfer
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	//TESTING
+	Powers Synergist_Support.Nether_Force.Merge_Lich
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Ninjitsu
+{
+	Name             "Ninjitsu"
+	DisplayName      "P2546782405"
+	DisplayShortHelp "P2546782405"
+	DisplayHelp      "P2998955237"
+	IconName         "Ninjitsu_set.ico"
+
+	Powers Synergist_Support.Ninjitsu.Call_Jounin
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Ninja_Reflexes
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Caltrops
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Danger_Sense
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Kuji-In_Rin
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Kuji-In_Sha
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Smoke_Flash
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Blinding_Powder
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Ninjitsu.Merge_Ninja
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Robotics
+{
+	Name             "Robotics"
+	DisplayName      "P1963361941"
+	DisplayShortHelp "P1963361941"
+	DisplayHelp      "P3284189322"
+	IconName         "Robotics_set.ico"
+
+	Powers Synergist_Support.Robotics.Assault_Bot
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Deflection_Shield
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Triage_Beacon
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Insulation_Shield
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Force_Field_Generator
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Poison_Trap
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Repair
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Trip_Mine
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Robotics.Merge_Bot
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Streetwise
+{
+	Name             "Streetwise"
+	DisplayName      "P4149362117"
+	DisplayShortHelp "P4149362117"
+	DisplayHelp      "P3877431251"
+	IconName         "Willpower_set.ico"
+
+	Powers Synergist_Support.Streetwise.Call_Bruiser
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Mind_Over_Body
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Fast_Healing
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Indomitable_Will
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Rally
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Rise_to_the_Challenge
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Gang_War
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Resurgence
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Streetwise.Call_Everybody
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Super_Serum
+{
+	Name             "Super_Serum"
+	DisplayName      "P3409802089"
+	DisplayShortHelp "P3409802089"
+	DisplayHelp      "P1993497039"
+	IconName         "Mercenaries_set.ico"
+
+	Powers Synergist_Support.Super_Serum.Commando
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Temp_Invulnerability
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Weaken
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Resist_Elements
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Resist_Energies
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Antidote
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Elixir_of_Life
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Invincibility
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Super_Serum.Transmute
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+
+PowerSet Synergist_Support.Mental_Projection
+{
+	Name             "Mental_Projection"
+	DisplayName      "P3455256583"
+	DisplayShortHelp "P3455256583"
+	DisplayHelp      "P2021209852"
+	IconName         "Illusion_Control_set.ico"
+
+	Powers Synergist_Support.Mental_Projection.Doppleganger
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Mind_Link
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Daze
+	Available 3
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Group_Invisibility
+	Available 9
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Clear_Mind
+	Available 15
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Decoy
+	Available 19
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Foresight
+	Available 27
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Mass_Placate
+	Available 34
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Synergist_Support.Mental_Projection.Astral_Form
+	Available 37
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}

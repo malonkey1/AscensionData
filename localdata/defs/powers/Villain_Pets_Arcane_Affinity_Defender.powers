@@ -1,0 +1,270 @@
+Power Villain_Pets.Arcane_Affinity_Defender.Crowleys_Hex_AoE
+{
+	Name                 "Crowleys_Hex_AoE"
+	DisplayName          "Crowley's Hex"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kCaster
+	Range                80
+	EnduranceCost        7.8
+	IdeaCost             0
+	TravelSuppression    3.5
+	InterruptTime        0
+	TimeToActivate       0
+	RechargeTime         8
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               15
+	Arc                  0
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kAccuracy_Boost, kDebuff_ToHit_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\Pets_CrowleysHex_AoE.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\Pets_CrowleysHex_AoE.PFX
+	DisplayShortHelp     "P1331656250"
+	DisplayHelp          "P3867344021"
+	IconName             "DarkMiasma_TwilightGrasp.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        16
+	DisplayTargetShortHelp "P3286818350"
+	DisplayTargetHelp    "P2083002603"
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_ToHit"                
+		Table                "Ranged_Debuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1458056037"
+		DisplayVictimHit     "P559189768"
+		StackType            kStack		
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kLethal
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kFire
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kCold
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kToxic
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_ToHit"                
+		Table                "Ranged_Debuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1458056037"
+		DisplayVictimHit     "P559189768"
+		StackType            kStack
+	}
+}

@@ -1,0 +1,2948 @@
+Power Defender_Buff.Arcane_Affinity.Crowleys_Hex
+{
+	Name                 "Crowleys_Hex"
+	DisplayName          "P2003020607"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                80
+	EnduranceCost        7.8
+	IdeaCost             0
+	TravelSuppression    3.5
+	InterruptTime        0
+	TimeToActivate       2.37
+	RechargeTime         8
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kAccuracy_Boost, kDebuff_ToHit_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_CrowleysHex.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_CrowleysHex.PFX
+	DisplayShortHelp     "P3082151310"
+	DisplayHelp          "P2553951961"
+	IconName             "ArcaneAffinity_CrowleysHex.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P2089352224"
+	DisplayTargetHelp    "P2060934046"
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kEntCreate
+		Target               kTarget
+		Scale                -1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             1
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> critter eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		EntityDef            Pets_ArcaneAffinityHex
+		PriorityList         PL_Untargetable_FightPreferRanged
+		// Additional Power Attribs
+		KeepThroughDeath     kTrue
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_ToHit"                
+		Table                "Ranged_Debuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1458056037"
+		DisplayVictimHit     "P559189768"
+		StackType            kStack		
+		ContinuingFX         PFX
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P461811130"
+		DisplayVictimHit     "P4036616589"
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kLethal
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kFire
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kCold
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kToxic
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_Dam"                  
+		Table                "Ranged_Debuff_Dam"           
+		Aspect               kStr
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1.2
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_ToHit"                
+		Table                "Ranged_Debuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1458056037"
+		DisplayVictimHit     "P559189768"
+		StackType            kStack
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Eleusinian_Charm
+{
+	Name                 "Eleusinian_Charm"
+	DisplayName          "P776283999"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kFriend, kCaster
+	EntsAutoHit          kFriend, kCaster
+	Target               kCaster
+	Range                45
+	EnduranceCost        13.52
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2
+	RechargeTime         10
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               45
+	Arc                  0
+	BoostsAllowed        kEnduranceDiscount_Boost, kHeal_Boost, kRecharge_Boost, kRecovery_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_EleusianianCharm.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_EleusianianCharm.PFX
+	DisplayShortHelp     "P3715214457"
+	DisplayHelp          "P3657914484"
+	IconName             "ArcaneAffinity_EleusinianCharm.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        255
+	DisplayTargetHelp    "P221528647"
+
+	AttribMod
+	{
+		Name                 "Heal"                        
+		Table                "Ranged_Heal"                 
+		Aspect               kAbs
+		Attrib               kHeal
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1375209846"
+		DisplayVictimHit     "P1223988864"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Heal"                        
+		Table                "Ranged_Heal"                 
+		Aspect               kAbs
+		Attrib               kHeal
+		Target               kTarget
+		Scale                0.15
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             4.1
+		Magnitude            1
+		Period               1
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1375209846"
+		DisplayVictimHit     "P1223988864"
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kRegeneration
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             30
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1375209846"
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/BuffMaxHPCont.fx
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kRes
+		Attrib               kHeal
+		Target               kTarget
+		Scale                -0.1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             30
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFALSE
+		Requires             rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kRecovery
+		Target               kTarget
+		Scale                0.25
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Glimpse_of_Doom
+{
+	Name                 "Glimpse_of_Doom"            
+	DisplayName          "P4149070004"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                80
+	EnduranceCost        14.56
+	IdeaCost             0
+	TravelSuppression    3.5
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         60
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               20
+	Arc                  0
+	BoostsAllowed        kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost, kSlow_Boost, kFear_Boost, kDebuff_ToHit_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_GlimpseOfDoom.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_GlimpseOfDoom.PFX
+	DisplayShortHelp     "P382047382"
+	DisplayHelp          "P3353685420"
+	DisplayAttackerHit   "P721381768"
+	IconName             "ArcaneAffinity_GlimpseOfDoom.tga"
+	TimeToConfirm        0
+	ShowBuffIcon         kFALSE
+	DisplayTargetShortHelp "P1053843631"
+	DisplayTargetHelp    "P4256405408"
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                  
+		Aspect               kStr
+		Attrib               kRechargeTime
+		Target               kTarget
+		Scale                0.65
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             1.3
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P721381768"
+		DisplayVictimHit     "P1208204422"
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Ranged_DeBuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                1.25
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             1
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/DeBuffToHitContinuing.fx
+	}
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Ranged_Fear"                 
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                15
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2570855788"
+		DisplayVictimHit     "P2445882492"
+		StackType            kStack
+		ConditionalFX        GenericContinuing/AfraidContinuing.fx
+		Requires             enttype target> critter eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Ranged_Fear"                 
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                15
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2570855788"
+		DisplayVictimHit     "P2445882492"
+		StackType            kStack
+		ConditionalFX        GenericContinuing/AfraidContinuing.fx
+		Requires             enttype target> player eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		MagnitudeExpr        Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum?
+		Suppress             Held 15 WhenInactive
+		Suppress             Sleep 15 WhenInactive
+		Suppress             Stunned 15 WhenInactive
+		Suppress             Immobilized 15 WhenInactive
+		Suppress             Terrorized 15 WhenInactive
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kAbs
+		Attrib               kRevokePower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kIgnore
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+		// Additional Power Attribs
+		Params               All
+	}
+
+}
+
+Power Defender_Buff.Arcane_Affinity.Hequats_Blessing
+{
+	Name                 "Hequats_Blessing"
+	DisplayName          "P2708584744"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kFriend, kCaster
+	EntsAutoHit          kFriend, kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        20.8
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       2.03
+	RechargeTime         360
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               25
+	Arc                  0
+	AIReport             kNever
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRecovery_Boost, kBuff_ToHit_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_HequatsBlessing.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_HequatsBlessing.PFX
+	DisplayShortHelp     "P3034931782"
+	DisplayHelp          "P1368757628"
+	IconName             "ArcaneAffinity_HequatsBlessing.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        255
+	DisplayTargetShortHelp "P3350986457"
+	DisplayTargetHelp    "P3626927373"
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kNull
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kStr
+		Attrib               kRechargeTime
+		Target               kTarget
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		DisplayVictimHit     "P704747742"
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_ToHit"                  
+		Table                "Ranged_Buff_ToHit"           
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.4
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kRecovery
+		Target               kTarget
+		Scale                0.1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             30
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.False_Obolus
+{
+	Name                 "False_Obolus"                   
+	DisplayName          "P3299014042"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kDeadPlayerFriend
+	EntsAutoHit          kDeadPlayerFriend
+	Target               kDeadPlayerFriend
+	Range                15
+	EnduranceCost        26
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       3.2
+	RechargeTime         180
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_FalseObolus.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_FalseObolus.PFX
+	DisplayShortHelp     "P547824692"
+	DisplayHelp          "P175199817"
+	IconName             "ArcaneAffinity_FalseObolus.tga"
+	TimeToConfirm        15
+	DisplayConfirm       "POBOLOUSCONFIRM"
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kHeal
+		Target               kTarget
+		Scale                2
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.5
+		Magnitude            1
+		Period               1
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3332415816"
+		DisplayVictimHit     "P2255058502"
+		StackType            kStack
+		ContinuingBits       ANIM_RAISEDEAD
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kEndurance
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0.25
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kXPDebtProtection
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kSmashing
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         GenericContinuing/BuffDamageContinuing.fx
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kLethal
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kFire
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kCold
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kEnergy
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               knegative_Energy
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kToxic
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"              
+		Aspect               kStr
+		Attrib               kPsionic
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		AllowCombatMods      kFalse
+		Requires             1 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kMelee_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/BuffDefContinuing.fx
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kRanged_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kAOE_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kSmashing_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kLethal_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kFire_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kCold_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kEnergy_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kNegative_Energy_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kPsionic_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kMelee_Attack
+		Target               kSelf
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/BuffDefContinuing.fx
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kRanged_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kAOE_Attack
+		Target               kSelf
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kSmashing_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kLethal_Attack
+		Target               kSelf
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kFire_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kCold_Attack
+		Target               kSelf
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kEnergy_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kNegative_Energy_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Def"                    
+		Table                "Ranged_Buff_Def"             
+		Aspect               kCur
+		Attrib               kPsionic_Attack
+		Target               kTarget
+		Scale                0.35
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             2.25
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 2 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kRegeneration
+		Target               kTarget
+		Scale                5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/BuffMaxHPCont.fx
+		Requires             3 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kCur
+		Attrib               kRecovery
+		Target               kTarget
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/BuffEndContinuing.fx
+		Requires             4 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <=
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kLethal
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kFire
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kCold
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? ! 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+		CancelEvents         Held, Stunned, Sleep
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kElusivityBase
+		Target               kSelf
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kLethal
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kFire
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kCold
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= && 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Melee_Res_Dmg"               
+		Aspect               kRes
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0.75
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             isPVPMap? 5 Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+		Suppress             MissionObjectClick 10 Always
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kAbs
+		Attrib               kRevokePower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kIgnore
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+		// Additional Power Attribs
+		Params               All
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Rite_of_Protection
+{
+	Name                 "Rite_of_Protection"
+	DisplayName          "P544877068"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	EntsAffected         kFriend
+	EntsAutoHit          kFriend
+	Target               kFriend
+	Range                70
+	EnduranceCost        5.2
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       1.08
+	RechargeTime         4
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_RiteOfProtection.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_RiteOfProtection.PFX
+	DisplayShortHelp     "P1266298732"
+	DisplayHelp          "P738931790"
+	DisplayAttackerHit   "P928854079"
+	DisplayVictimHit     "P3273068231"
+	IconName             "ArcaneAffinity_RiteOfProtection.tga"
+	TimeToConfirm        0
+	Cancelable           kTrue
+	DisplayTargetShortHelp "P934205233"
+	DisplayTargetHelp    "P3634399496"
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kStun
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         POWERS/ability/StrengthContinuing.fx
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kSleep
+		Target               kTarget
+		Scale                5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kSleep
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kImmobilize
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kHeld
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kConfused
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                -30
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap? !
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kStun
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kSleep
+		Target               kTarget
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kImmobilize
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kHeld
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kConfused
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             isPVPMap?
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kRes
+		Attrib               kPerceptionRadius
+		Target               kTarget
+		Scale                2.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Boolean"                 
+		Table                "Ranged_Res_Boolean"          
+		Aspect               kCur
+		Attrib               kPerceptionRadius
+		Target               kTarget
+		Scale                2.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             90
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Binding
+{
+	Name                 "Binding"             
+	DisplayName          "P2632650425"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                70
+	EnduranceCost        7.8
+	IdeaCost             0
+	TravelSuppression    3.5
+	InterruptTime        0
+	TimeToActivate       1.08
+	RechargeTime         16
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kHold_Boost, kDamage_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_Bind.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_Bind.PFX
+	DisplayShortHelp     "P2093084175"
+	DisplayHelp          "P4011467110"
+	IconName             "ArcaneAffinity_Binding.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P4033537223"
+	DisplayTargetHelp    "P759283215"
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+
+	AttribMod
+	{
+		Name                 "Hold"                  
+		Table                "Ranged_Hold"           
+		Aspect               kCur
+		Attrib               kHeld
+		Target               kTarget
+		Scale                8
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3888718066"
+		DisplayVictimHit     "P1717084879"
+		StackType            kStack
+		ConditionalBits      ANIM_STUN ANIM_BEAM ANIM_PLAYER
+		ConditionalFX        PFX
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Hold"                  
+		Table                "Ranged_Hold"           
+		Aspect               kCur
+		Attrib               kHeld
+		Target               kTarget
+		Scale                2
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3888718066"
+		DisplayVictimHit     "P1717084879"
+		StackType            kStack
+		ConditionalBits      ANIM_LASSOSTUN
+		ConditionalFX        PFX
+		Requires             enttype target> player eq
+		Suppress             Held 15 WhenInactive
+		Suppress             Sleep 15 WhenInactive
+		Suppress             Stunned 15 WhenInactive
+		Suppress             Immobilized 15 WhenInactive
+		Suppress             Terrorized 15 WhenInactive
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> critter eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                2.49825101470489
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> player eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Hold"                  
+		Table                "Ranged_Hold"           
+		Aspect               kCur
+		Attrib               kHeld
+		Target               kTarget
+		Scale                8
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ConditionalBits      ANIM_LASSOSTUN
+		ConditionalFX        PFX
+		Requires             Ghost target.HasTag? Demon target.HasTag? || Undead target.HasTag? ||
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Phantom_Storm
+{
+	Name                 "Phantom_Storm"                   
+	DisplayName          "P3388085951"
+	ModesDisallowed      kDisable_All
+	Type                 kToggle
+	Accuracy             0.67
+	AttackTypes          kAOE_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kCaster
+	Range                0
+	EnduranceCost        2.6
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       1.17
+	RechargeTime         4
+	ActivatePeriod       5
+	EffectArea           kSphere
+	Radius               15
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kDamage_Boost, kFear_Boost
+	// Additional Power Factors
+	StrengthsDisallowed  kRange
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_PhantomStorm.pfx"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_PhantomStorm.pfx
+	DisplayShortHelp     "P1989433325"
+	DisplayHelp          "P2749975068"
+	IconName             "ArcaneAffinity_PhantomStorm.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        10
+	DisplayTargetShortHelp "PSTORMSHELP"
+	DisplayTargetHelp    "PSTORMLHELP"
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Melee_Fear"                  
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                5
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            2
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ConditionalFX        GenericContinuing/AfraidContinuing.fx
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Melee_Fear"                  
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                2
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            2
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ConditionalFX        GenericContinuing/AfraidContinuing.fx
+		Requires             enttype target> player eq
+		Suppress             Held 15 WhenInactive
+		Suppress             Sleep 15 WhenInactive
+		Suppress             Stunned 15 WhenInactive
+		Suppress             Immobilized 15 WhenInactive
+		Suppress             Terrorized 15 WhenInactive
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3628030904"
+		DisplayVictimHit     "P310874651"
+		StackType            kStack
+		Requires             enttype target> critter eq rand 5 * Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? <= &&
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Ranged_DeBuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                1.25
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             1
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         GenericContinuing/DeBuffToHitContinuing.fx
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kGrantPower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+	}
+}
+
+Power Defender_Buff.Arcane_Affinity.Evil_Eye
+{
+	Name                 "Evil_Eye"                  
+	DisplayName          "P3986195794"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kAOE_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                70
+	EnduranceCost        22.75
+	IdeaCost             0
+	TravelSuppression    3.5
+	InterruptTime        0
+	TimeToActivate       1.5
+	RechargeTime         200
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               20
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost, kDebuff_Defense_Boost, kFear_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_EvilEye.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_EvilEye.PFX
+	DisplayShortHelp     "P1681727221"
+	DisplayHelp          "P817072408"
+	DisplayAttackerHit   "P3563532035"
+	DisplayVictimHit     "P958349083"
+	IconName             "ArcaneAffinity_EvilEye.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        10
+	DisplayTargetShortHelp "P2606627715"
+	DisplayTargetHelp    "P1597174206"
+
+	AttribMod
+	{
+		Name                 "Debuff_Def"                  
+		Table                "Ranged_Debuff_Def"           
+		Aspect               kCur
+		Attrib               kDefense
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kLethal
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kFire
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kCold
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kToxic
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Res_Dmg"                     
+		Table                "Ranged_Res_Dmg"              
+		Aspect               kRes
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                -1.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             40
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+	}
+
+	AttribMod
+	{
+		Name                 "Debuff_ToHit"                
+		Table                "Ranged_Debuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.1
+		Type                 kExpression
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             20
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1458056037"
+		DisplayVictimHit     "P559189768"
+		StackType            kStack
+		Requires             Temporary_Powers.Temporary_Powers.Arcana source.ownPower?
+		MagnitudeExpr        Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum?
+	}
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Ranged_Fear"                 
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                15
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            8
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2570855788"
+		DisplayVictimHit     "P2445882492"
+		StackType            kStack
+		ConditionalFX        GenericContinuing/AfraidContinuing.fx
+		Requires             enttype target> critter eq Temporary_Powers.Temporary_Powers.Arcana source.ownPowerNum? 5 >= &&
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kAbs
+		Attrib               kRevokePower
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kIgnore
+		Reward               Temporary_Powers.Temporary_Powers.Arcana
+		// Additional Power Attribs
+		Params               All
+	}
+}

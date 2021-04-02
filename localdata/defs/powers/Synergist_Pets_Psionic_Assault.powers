@@ -1,0 +1,508 @@
+Power Synergist_Pets.Psionic_Assault.Psionic_Dart
+{
+	Name                 "Psionic_Dart"                
+	DisplayName          "P229302333"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                100
+	EnduranceCost        4.368
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       1.33
+	RechargeTime         3
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_PsionicDart.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_PsionicDart.PFX
+	DisplayShortHelp     "P2707916763"
+	DisplayHelp          "P915789469"
+	IconName             "PsionicAssault_MentalDart.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P3214140212"
+	DisplayTargetHelp    "P1599396566"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                0.84
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P2929122759"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kStr
+		Attrib               kRechargeTime
+		Target               kTarget
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             5
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                2.0314
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P2929122759"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+
+}
+
+Power Synergist_Pets.Psionic_Assault.Mind_Probe
+{
+	Name                 "Mind_Probe"                  
+	DisplayName          "P361216995"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kMelee_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                7
+	EnduranceCost        10.192
+	IdeaCost             0
+	TravelSuppression    1
+	InterruptTime        0
+	TimeToActivate       1.17
+	RechargeTime         6
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_MindProbe.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_MindProbe.PFX
+	DisplayShortHelp     "P825120974"
+	DisplayHelp          "P1243769348"
+	IconName             "PsionicAssault_MindProbe.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P3214140212"
+	DisplayTargetHelp    "P3434442888"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1.96
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P3089241911"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Melee_Slow"                  
+		Aspect               kStr
+		Attrib               kRechargeTime
+		Target               kTarget
+		Scale                0.4
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             6
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                2.2666
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P3089241911"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kAbs
+		Attrib               kDropToggles
+		Target               kTarget
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               0.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+}
+
+Power Synergist_Pets.Psionic_Assault.Telekinetic_Thrust
+{
+	Name                 "Telekinetic_Thrust"          
+	DisplayName          "P1526688896"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kMelee_Attack, kSmashing_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                7
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    1
+	InterruptTime        0
+	TimeToActivate       2.07
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kKnockback_Boost
+	// Additional Power Factors
+	StrengthsDisallowed  kRange
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_TelekineticThrust.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_TelekineticThrust.PFX
+	DisplayShortHelp     "P1059971367"
+	DisplayHelp          "P3865152836"
+	IconName             "PsionicAssault_TelekineticThrust.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                0.82
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2825342372"
+		DisplayVictimHit     "P1083611728"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                0.82
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1644495752"
+		DisplayVictimHit     "P3628859616"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                1.5183
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2825342372"
+		DisplayVictimHit     "P1083611728"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1.5183
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1644495752"
+		DisplayVictimHit     "P3628859616"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+
+	AttribMod
+	{
+		Name                 "Knockback"                   
+		Table                "Melee_Knockback"             
+		Aspect               kCur
+		Attrib               kKnockback
+		Target               kTarget
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3440711165"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Knockback"                   
+		Table                "Melee_Knockback"             
+		Aspect               kCur
+		Attrib               kKnockback
+		Target               kTarget
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3440711165"
+		DisplayVictimHit     "P3681708404"
+		StackType            kStack
+		Requires             enttype target> player eq
+		Suppress             Knocked 10 WhenInactive
+	}
+}
+
+Power Synergist_Pets.Psionic_Assault.Mental_Blast
+{
+	Name                 "Mental_Blast"                
+	DisplayName          "P2292978182"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kPsionic_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                100
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    4
+	InterruptTime        0
+	TimeToActivate       1.67
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_MentalBlast.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_PsionicAssault_MentalBlast.PFX
+	DisplayShortHelp     "P435468020"
+	DisplayHelp          "P86816926"
+	IconName             "PsionicAssault_MentalBlast.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P3214140212"
+	DisplayTargetHelp    "P3199664469"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                1.64
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P2929122759"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kStr
+		Attrib               kRechargeTime
+		Target               kTarget
+		Scale                0.3
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             6
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kPsionic
+		Target               kTarget
+		Scale                2.6446
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1500200816"
+		DisplayVictimHit     "P2929122759"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+}

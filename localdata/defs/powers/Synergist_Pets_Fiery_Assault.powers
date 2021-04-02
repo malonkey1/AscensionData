@@ -1,0 +1,446 @@
+Power Synergist_Pets.Fiery_Assault.Flares
+{
+	Name                 "Flares"                      
+	DisplayName          "P828916130"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kFire_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                80
+	EnduranceCost        4.368
+	IdeaCost             0
+	TravelSuppression    3
+	InterruptTime        0
+	TimeToActivate       1
+	RechargeTime         3
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kRange_Boost, kRecharge_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_Flares.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_Flares.PFX
+	DisplayShortHelp     "P282569673"
+	DisplayHelp          "P77087846"
+	IconName             "FireAssault_Flare.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P3423146141"
+	DisplayTargetHelp    "P1437075981"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.588
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P2113838434"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.2898
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0.5
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P4004540261"
+		DisplayVictimHit     "P2027331186"
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                1.708
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P2113838434"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kRage
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             enttype target> player eq
+	}
+}
+
+Power Synergist_Pets.Fiery_Assault.Fire_Breath
+{
+	Name                 "Fire_Breath"                 
+	DisplayName          "P2101271196"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1.2
+	AttackTypes          kAOE_Attack, kFire_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                40
+	EnduranceCost        15.184
+	IdeaCost             0
+	TravelSuppression    2
+	InterruptTime        0
+	TimeToActivate       2.67
+	RechargeTime         8
+	ActivatePeriod       0
+	EffectArea           kCone
+	Radius               40
+	Arc                  30
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_FireBreath.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_FireBreath.PFX
+	DisplayShortHelp     "P1663310391"
+	DisplayHelp          "P3542949567"
+	IconName             "FireAssault_BreathOfFire.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        10
+	DisplayTargetShortHelp "P3423146141"
+	DisplayTargetHelp    "P1437075981"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.585
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                1
+		Duration             2.1
+		Magnitude            1
+		Period               1
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P2263168214"
+		StackType            kStack
+		ContinuingFX         PFX
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
+		Aspect               kAbs
+		Attrib               kRage
+		Target               kSelf
+		Scale                8
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		Requires             enttype target> player eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.942731481481481
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                1
+		Duration             2.1
+		Magnitude            1
+		Period               1
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P2263168214"
+		StackType            kStack
+		ContinuingFX         PFX
+		Requires             enttype target> player eq
+	}
+}
+
+Power Synergist_Pets.Fiery_Assault.Fire_Blast
+{
+	Name                 "Fire_Blast"                  
+	DisplayName          "P4178945378"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kFire_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                80
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    3
+	InterruptTime        0
+	TimeToActivate       1.2
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_FireBlast.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_FireBlast.PFX
+	DisplayShortHelp     "P4028248081"
+	DisplayHelp          "P2463263417"
+	IconName             "FireAssault_FireBlast.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P3423146141"
+	DisplayTargetHelp    "P1437075981"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                1.64
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P3200596956"
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.15
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0.5
+		Duration             3.1
+		Magnitude            1
+		Period               1
+		Chance               0.80
+		NearGround           kFalse
+		CancelOnMiss         kTrue
+		DisplayAttackerHit   "P4004540261"
+		DisplayVictimHit     "P2027331186"
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                2.184
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1140402444"
+		DisplayVictimHit     "P3200596956"
+		StackType            kStack
+		Requires             enttype target> player eq
+	}
+}
+
+Power Synergist_Pets.Fiery_Assault.Combustion
+{
+	Name                 "Combustion"                  
+	DisplayName          "P1286834232"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kAOE_Attack, kFire_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kCaster
+	Range                0
+	EnduranceCost        15.964
+	IdeaCost             0
+	TravelSuppression    1
+	InterruptTime        0
+	TimeToActivate       3
+	RechargeTime         8
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               15
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kEnduranceDiscount_Boost, kRecharge_Boost
+	// Additional Power Factors
+	StrengthsDisallowed  kRange
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_Combustion.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_FieryAssault_Combustion.PFX
+	DisplayShortHelp     "P3088194875"
+	DisplayHelp          "P3876623488"
+	IconName             "FireAssault_Combustion.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        10
+	DisplayTargetShortHelp "P3423146141"
+	DisplayTargetHelp    "P3168769471"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2119308348"
+		DisplayVictimHit     "P2263168214"
+		StackType            kStack
+		ContinuingFX         PFX
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                0.1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             7.1
+		Magnitude            1
+		Period               1
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1497148225"
+		DisplayVictimHit     "P358447693"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kFire
+		Target               kTarget
+		Scale                1.344
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.000
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2119308348"
+		DisplayVictimHit     "P2263168214"
+		StackType            kStack
+		ContinuingFX         PFX
+		Requires             enttype target> player eq
+	}
+}

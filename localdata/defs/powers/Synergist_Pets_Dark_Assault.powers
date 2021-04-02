@@ -1,0 +1,360 @@
+Power Synergist_Pets.Dark_Assault.Smite
+{
+	Name                 "Smite"                       
+	DisplayName          "P1095808082"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kMelee_Attack, kSmashing_Attack, kNegative_Energy_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                7
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    1
+	InterruptTime        0
+	TimeToActivate       0.97
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kDebuff_ToHit_Boost
+	// Additional Power Factors
+	StrengthsDisallowed  kRange
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_Smite.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_Smite.PFX
+	DisplayShortHelp     "P949203607"
+	DisplayHelp          "P1114939586"
+	IconName             "DarknessAssault_Smite.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P2190949330"
+	DisplayTargetHelp    "P1859014659"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                0.4
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1375087093"
+		DisplayVictimHit     "P1908249470"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                1.24
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.0
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P439041429"
+		DisplayVictimHit     "P2158939069"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Melee_DeBuff_ToHit"          
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+}
+
+Power Synergist_Pets.Dark_Assault.Gloom
+{
+	Name                 "Gloom"                       
+	DisplayName          "P3488406895"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kNegative_Energy_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                80
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    3
+	InterruptTime        0
+	TimeToActivate       1.1
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kDebuff_ToHit_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_Gloom.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_Gloom.PFX
+	DisplayShortHelp     "P2098711268"
+	DisplayHelp          "P905511279"
+	IconName             "DarknessAssault_Gloom.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P533426840"
+	DisplayTargetHelp    "P4275364033"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                0.22
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             3.6
+		Magnitude            1
+		Period               0.5
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P4165490657"
+		DisplayVictimHit     "P3094782639"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Ranged_DeBuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+}
+
+Power Synergist_Pets.Dark_Assault.Night_Fall
+{
+	Name                 "Night_Fall"                  
+	DisplayName          "P3659140167"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kAOE_Attack, kNegative_Energy_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                60
+	EnduranceCost        13.104
+	IdeaCost             0
+	TravelSuppression    3
+	InterruptTime        0
+	TimeToActivate       2
+	RechargeTime         6
+	ActivatePeriod       0
+	EffectArea           kCone
+	Radius               60
+	Arc                  20
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kDebuff_ToHit_Boost, kRange_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_NightFall.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_NightFall.PFX
+	DisplayShortHelp     "P3882765386"
+	DisplayHelp          "P1634505806"
+	IconName             "DarknessAssault_Nightfall.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        10
+	DisplayTargetShortHelp "P2190949330"
+	DisplayTargetHelp    "P1717254720"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                0.11
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             2.8
+		Magnitude            1
+		Period               0.3
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3443264550"
+		DisplayVictimHit     "P4203961982"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Ranged_DeBuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+}
+
+Power Synergist_Pets.Dark_Assault.Life_Drain
+{
+	Name                 "Life_Drain"                  
+	DisplayName          "P1678761175"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kRanged_Attack, kNegative_Energy_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                60
+	EnduranceCost        8.528
+	IdeaCost             0
+	TravelSuppression    3
+	InterruptTime        0
+	TimeToActivate       1.93
+	RechargeTime         5
+	ActivatePeriod       0
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kDebuff_ToHit_Boost, kHeal_Boost
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_LifeDrain.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\DominatorAssault_DarknessAssault_LifeDrain.PFX
+	DisplayShortHelp     "P3887098239"
+	DisplayHelp          "P2353967879"
+	IconName             "DarknessAssault_LifeDrain.tga"
+	TimeToConfirm        0
+	DisplayTargetShortHelp "P2190949330"
+	DisplayTargetHelp    "P2299365496"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                1.64
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2235750538"
+		DisplayVictimHit     "P3094782639"
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "HealSelf"                    
+		Table                "Ranged_HealSelf"             
+		Aspect               kAbs
+		Attrib               kHeal
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0.5
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayVictimHit     "P3467427143"
+		StackType            kStack
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "DeBuff_ToHit"                
+		Table                "Ranged_DeBuff_ToHit"         
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kTarget
+		Scale                0.75
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		ContinuingFX         PFX
+	}
+}
