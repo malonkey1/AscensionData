@@ -364,3 +364,15 @@ Powers Brute_Melee.Kinetic_Attack.Burst
 Powers Brute_Melee.Kinetic_Attack.Focused_Burst
 Powers Brute_Melee.Kinetic_Attack.Total_Focus
 Powers Scrapper_Melee.Kinetic_Attack.Confront
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Neutron_Punch
+Powers Tanker_Melee.Absolute_Strength.Roomsweeper
+Powers Tanker_Melee.Absolute_Strength.Super_Breath
+Powers Tanker_Melee.Absolute_Strength.Taunt
+Powers Tanker_Melee.Absolute_Strength.Shattering_Uppercut
+Powers Tanker_Melee.Absolute_Strength.Solar_Vision_Blast
+Powers Tanker_Melee.Absolute_Strength.Enrage
+Powers Tanker_Melee.Absolute_Strength.Heat_Vision
+Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Maniacal_Laugh

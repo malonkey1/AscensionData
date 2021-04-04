@@ -2,7 +2,7 @@ Power Epic.Synergist_Leviathan_Mastery.School_of_Sharks
 {
 	Name                 "School_of_Sharks"            
 	DisplayName          "P1701467337"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -237,7 +237,7 @@ Power Epic.Synergist_Leviathan_Mastery.Shark_Skin
 {
 	Name                 "Shark_Skin"                  
 	DisplayName          "P291102471"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kToggle
 	Accuracy             1
@@ -520,7 +520,7 @@ Power Epic.Synergist_Leviathan_Mastery.Hibernate
 {
 	Name                 "Hibernate"                   
 	DisplayName          "P1870821033"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Leviathan_Mastery.School_of_Sharks Epic.Synergist_Leviathan_Mastery.Shark_Skin || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic, kDisable_Toggle
 	Type                 kToggle
 	Accuracy             1
@@ -764,7 +764,7 @@ Power Epic.Synergist_Leviathan_Mastery.Spirit_Shark_Jaws
 {
 	Name                 "Spirit_Shark_Jaws"           
 	DisplayName          "P2112707731"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Leviathan_Mastery.School_of_Sharks Epic.Synergist_Leviathan_Mastery.Shark_Skin || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -1020,7 +1020,7 @@ Power Epic.Synergist_Leviathan_Mastery.Arctic_Breath
 {
 	Name                 "Arctic_Breath"               
 	DisplayName          "P2093385297"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Leviathan_Mastery.School_of_Sharks Epic.Synergist_Leviathan_Mastery.Shark_Skin && Epic.Synergist_Leviathan_Mastery.School_of_Sharks Epic.Synergist_Leviathan_Mastery.Hibernate && || Epic.Synergist_Leviathan_Mastery.School_of_Sharks Epic.Synergist_Leviathan_Mastery.Spirit_Shark_Jaws && || Epic.Synergist_Leviathan_Mastery.Shark_Skin Epic.Synergist_Leviathan_Mastery.Hibernate && || Epic.Synergist_Leviathan_Mastery.Shark_Skin Epic.Synergist_Leviathan_Mastery.Spirit_Shark_Jaws && || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

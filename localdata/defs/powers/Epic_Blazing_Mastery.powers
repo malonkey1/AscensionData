@@ -562,7 +562,7 @@ Power Epic.Blazing_Mastery.Consume
 {
 	Name                 "Consume"                     
 	DisplayName          "P4044677581"
-	BuyRequires          Epic.Blazing_Mastery.Ring_of_Fire Epic.Blazing_Mastery.Char ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -682,7 +682,7 @@ Power Epic.Blazing_Mastery.Bonfire
 {
 	Name                 "Bonfire"                     
 	DisplayName          "P3905034590"
-	BuyRequires          Epic.Blazing_Mastery.Ring_of_Fire Epic.Blazing_Mastery.Char ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             2
@@ -737,7 +737,7 @@ Power Epic.Blazing_Mastery.Melt_Armor
 {
 	Name                 "Melt_Armor"                  
 	DisplayName          "P3190899346"
-	BuyRequires          Epic.Blazing_Mastery.Ring_of_Fire Epic.Blazing_Mastery.Char && Epic.Blazing_Mastery.Ring_of_Fire Epic.Blazing_Mastery.Consume && || Epic.Blazing_Mastery.Ring_of_Fire Epic.Blazing_Mastery.Bonfire && || Epic.Blazing_Mastery.Char Epic.Blazing_Mastery.Consume && || Epic.Blazing_Mastery.Char Epic.Blazing_Mastery.Bonfire && ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

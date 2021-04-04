@@ -503,6 +503,7 @@ Powers Stalker_Melee.Kinetic_Attack.Quick_Strike
 Powers Stalker_Melee.Kinetic_Attack.Focused_Burst
 Powers Controller_Control.Electric_Control.Jolting_Chain
 Powers Dominator_Control.Electric_Control.Jolting_Chain
+//Synergist
 Powers Synergist_Assault.Earth_Assault.Stone_Spears
 Powers Synergist_Assault.Earth_Assault.Stone_Mallet
 Powers Synergist_Assault.Earth_Assault.Tremor
@@ -536,3 +537,12 @@ Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Normal
 Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Quick
 Powers Synergist_Support.Streetwise.Call_Everybody
 Powers Synergist_Support.Mental_Projection.Doppleganger
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Neutron_Punch
+Powers Tanker_Melee.Absolute_Strength.Roomsweeper
+Powers Tanker_Melee.Absolute_Strength.Heat_Vision
+Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Sledgehammer
+//Clockwork Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Psionic_Tornado

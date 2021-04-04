@@ -64,9 +64,14 @@ Powers Epic.VEAT_Mu_Mastery.Summon_Striker
 Powers Epic.VEAT_Soul_Mastery.Summon_Widow
 Powers Controller_Control.Electric_Control.Gremlins
 Powers Dominator_Control.Electric_Control.Gremlins
+//Synergist
 Powers Synergist_Assault.Electricity_Assault.Voltaic_Sentinel
 Powers Synergist_Support.Hellfire_Aura.Hell_On_Earth
 Powers Synergist_Support.Streetwise.Gang_War
 Powers Synergist_Support.Mental_Projection.Doppleganger
 Powers Synergist_Support.Mental_Projection.Decoy
 Powers Epic.Shadow_Mastery.Haunt
+//Clockwork Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Dukes
+Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Princes
+Powers Mastermind_Summon.Clockwork_Assembly.Clockwork_Lord

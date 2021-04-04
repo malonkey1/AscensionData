@@ -353,6 +353,7 @@ Powers Brute_Melee.Kinetic_Attack.Repulsing_Torrent
 Powers Scrapper_Melee.Kinetic_Attack.Repulsing_Torrent
 Powers Controller_Control.Electric_Control.Chain_Fences
 Powers Dominator_Control.Electric_Control.Chain_Fences
+//Synergist
 Powers Synergist_Assault.Dark_Assault.Night_Fall
 Powers Synergist_Assault.Earth_Assault.Fissure
 Powers Synergist_Assault.Electricity_Assault.Static_Discharge
@@ -368,3 +369,11 @@ Powers Epic.Arsenal_Mastery.Sleep_Grenade
 Powers Epic.Arsenal_Mastery.LRM_Rocket
 Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Normal
 Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Quick
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Super_Breath
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Tear_Gas
+Powers Scrapper_Melee.Anarchist.Rocket_Launcher
+Powers Scrapper_Melee.Anarchist.Molotov_Cocktail
+//Clockwork Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Psionic_Tornado

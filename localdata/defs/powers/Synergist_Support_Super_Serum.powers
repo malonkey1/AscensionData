@@ -3810,7 +3810,7 @@ Power Synergist_Support.Super_Serum.Transmute
 	// Additional Power Factors
 	VisualFX             "menu\Powers\AnimFX\PlayerPowers\SynergistSupport_SuperSerum_Transmute.PFX"
 	include              menu\Powers\AnimFX\PlayerPowers\SynergistSupport_SuperSerum_Transmute.PFX
-	DisplayShortHelp     "Super Serum"
+	DisplayShortHelp     "P1802669341"
 	DisplayHelp          "P1379947600"
 	DisplayAttackerHit   "P392358043"
 	IconName             "SuperSerum_Transmute.tga"

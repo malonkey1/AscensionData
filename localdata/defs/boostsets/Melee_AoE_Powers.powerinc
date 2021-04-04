@@ -337,6 +337,7 @@ Powers Tanker_Melee.Kinetic_Attack.Burst
 Powers Brute_Melee.Kinetic_Attack.Burst
 Powers Scrapper_Melee.Kinetic_Attack.Burst
 Powers Stalker_Melee.Kinetic_Attack.Burst
+//Synergist
 Powers Synergist_Assault.Earth_Assault.Tremor
 Powers Synergist_Assault.Fiery_Assault.Combustion
 Powers Synergist_Assault.Icy_Assault.Ice_Sword_Circle
@@ -351,3 +352,7 @@ Powers Epic.Blazing_Mastery.Consume
 Powers Epic.Shadow_Mastery.Dark_Consumption
 Powers Epic.Shadow_Mastery.Soul_Drain
 Powers Synergist_Support.Robotics.Poison_Trap
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Roomsweeper
+Powers Tanker_Melee.Absolute_Strength.Solar_Vision_Blast
+Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch

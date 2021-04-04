@@ -3620,6 +3620,23 @@ PowerSet Villain_Pets.Stalker_EpicMuMastery_Snipe
 }
 // END
 // INSERT AFTER
+PowerSet Villain_Pets.Arcane_Affinity_Defender
+{
+	Name             "Arcane_Affinity_Defender"
+	DisplayName      "P2003020607"
+	DisplayShortHelp "P3082151310"
+	DisplayHelp      "P2553951961"
+	IconName         "DarkMiasma_TwilightGrasp.ico"
+
+	Powers Villain_Pets.Arcane_Affinity_Defender.Crowleys_Hex_AoE
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
 
 PowerSet Villain_Pets.Synergist_WeaponMastery_Snipe
 {

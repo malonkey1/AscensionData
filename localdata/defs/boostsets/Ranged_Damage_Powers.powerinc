@@ -9,7 +9,6 @@ Powers Pets.Blaster_Archery_Snipe.Ranged_Shot_Quick
 Powers Pets.Blaster_Archery_Snipe.Ranged_Shot_Normal
 Powers Blaster_Ranged.Archery.Snap_Shot
 Powers Blaster_Ranged.Archery.Stunning_Shot
-Powers Blaster_Ranged.Assault_Rifle.Beanbag
 Powers Blaster_Ranged.Assault_Rifle.Burst
 Powers Blaster_Ranged.Assault_Rifle.Sniper_Rifle
 Powers Blaster_Ranged.Assault_Rifle.Tranquilizer_Dart
@@ -498,6 +497,7 @@ Powers Controller_Control.Electric_Control.Jolting_Chain
 Powers Dominator_Control.Electric_Control.Electric_Fence
 Powers Dominator_Control.Electric_Control.Tesla_Cage
 Powers Dominator_Control.Electric_Control.Jolting_Chain
+//Synergist
 Powers Synergist_Assault.Dark_Assault.Dark_Blast
 Powers Synergist_Assault.Dark_Assault.Gloom
 Powers Synergist_Assault.Dark_Assault.Life_Drain
@@ -537,3 +537,11 @@ Powers Epic.Arsenal_Mastery.Cryo_Freeze_Ray
 Powers Epic.Arsenal_Mastery.LRM_Rocket
 Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Normal
 Powers Villain_Pets.Synergist_WeaponMastery_Snipe.LRM_Rocket_Quick
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Super_Breath
+Powers Tanker_Melee.Absolute_Strength.Heat_Vision
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Bang!
+//Clockwork Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Lightning_Bolt
+Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage

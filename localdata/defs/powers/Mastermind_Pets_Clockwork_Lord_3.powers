@@ -1,0 +1,527 @@
+Power Mastermind_Pets.Clockwork_Lord_3.Upgrade
+{
+	Name                 "Upgrade"                     
+	DisplayName          "P2027638150"
+	Type                 kAuto
+	Accuracy             1
+	EntsAffected         kCaster
+	EntsAutoHit          kCaster
+	Target               kCaster
+	Range                0
+	EnduranceCost        0
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       0
+	RechargeTime         0
+	ActivatePeriod       10
+	EffectArea           kCharacter
+	Radius               0
+	Arc                  0
+	DisplayShortHelp     "P2027638150"
+	DisplayHelp          "P2802981497"
+	IconName             "Robotics_UpgradeRobot.tga"
+	TimeToConfirm        0
+	ShowInManage         kFalse
+	ShowInInventory      kFalse
+	ShowInInfo           kFalse
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kNullBool
+		Target               kSelf
+		Scale                10.25
+		Type                 kDuration
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            10
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kReplace
+		ContinuingFX         V_COV\Powers\Robotics\Robot_Army_MechTwoUpgrade2_Weapon.fx
+	}
+}
+
+Power Mastermind_Pets.Clockwork_Lord_3.Thunder_Strike
+{
+	Name                 "Thunder_Strike"              
+	DisplayName          "P1363030893"
+	ModesDisallowed      kDisable_All
+	Type                 kClick
+	Accuracy             1
+	AttackTypes          kMelee_Attack, kSmashing_Attack, kEnergy_Attack
+	EntsAffected         kFoe
+	EntsAutoHit          kNone
+	Target               kFoe
+	Range                7
+	EnduranceCost        18.512
+	IdeaCost             0
+	TravelSuppression    1
+	InterruptTime        0
+	TimeToActivate       3.3
+	RechargeTime         20
+	ActivatePeriod       0
+	EffectArea           kSphere
+	Radius               12
+	Arc                  0
+	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kStunned_Boost, kKnockback_Boost
+	// Additional Power Factors
+	StrengthsDisallowed  kRange
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\BlasterSupport_ElectricityManipulation_ThunderStrike.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\BlasterSupport_ElectricityManipulation_ThunderStrike.PFX
+	DisplayShortHelp     "P2791213138"
+	DisplayHelp          "P4018294709"
+	IconName             "ElectricityManipulation_ThunderStrike.tga"
+	TimeToConfirm        0
+	MaxTargetsHit        16
+	DisplayTargetShortHelp "P2848422893"
+	DisplayTargetHelp    "P2366756416"
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                2.56
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1393763693"
+		DisplayVictimHit     "P3130787388"
+		StackType            kStack
+		Requires             enttype target> critter eq
+		RadiusOuter          0
+	}
+
+	AttribMod
+	{
+		Name                 "Stun"                        
+		Table                "Melee_Stun"                  
+		Aspect               kCur
+		Attrib               kStun
+		Target               kTarget
+		Scale                5
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               0.5
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2160290682"
+		DisplayVictimHit     "P4062395835"
+		StackType            kStack
+		ConditionalFX        GenericContinuing/StunContinuing.fx
+		Requires             enttype target> critter eq
+		RadiusOuter          0
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kStun
+		Target               kTarget
+		Scale                2
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               0.5
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P2160290682"
+		DisplayVictimHit     "P4062395835"
+		StackType            kStack
+		ConditionalFX        GenericContinuing/StunContinuing.fx
+		Requires             enttype target> player eq
+		RadiusOuter          0
+		Suppress             Held 15 WhenInactive
+		Suppress             Sleep 15 WhenInactive
+		Suppress             Stunned 15 WhenInactive
+		Suppress             Immobilized 15 WhenInactive
+		Suppress             Terrorized 15 WhenInactive
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kSmashing
+		Target               kTarget
+		Scale                1.46736198525445
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1393763693"
+		DisplayVictimHit     "P3130787388"
+		StackType            kStack
+		Requires             enttype target> player eq
+		RadiusOuter          0
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                0.258946232691962
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1393763693"
+		DisplayVictimHit     "P3130787388"
+		StackType            kStack
+		Requires             enttype target> player eq
+		RadiusOuter          10
+	}
+
+	AttribMod
+	{
+		Name                 "Knockback"                   
+		Table                "Melee_Knockback"             
+		Aspect               kCur
+		Attrib               kKnockback
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P4243055354"
+		DisplayVictimHit     "P2549913424"
+		StackType            kStack
+		Requires             enttype target> critter eq
+		RadiusOuter          0
+	}
+
+	AttribMod
+	{
+		Name                 "Knockback"                   
+		Table                "Melee_Knockback"             
+		Aspect               kCur
+		Attrib               kKnockback
+		Target               kTarget
+		Scale                3
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               0.3
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P4243055354"
+		DisplayVictimHit     "P2549913424"
+		StackType            kStack
+		Requires             enttype target> player eq
+		Suppress             Knocked 10 WhenInactive
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kCur
+		Attrib               kRecovery
+		Target               kTarget
+		Scale                -1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             4
+		Magnitude            1
+		Period               0
+		Chance               0.4
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusOuter          0
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Melee_Damage"                
+		Aspect               kAbs
+		Attrib               kEnergy
+		Target               kTarget
+		Scale                0.42
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P1354998770"
+		DisplayVictimHit     "P2482875288"
+		StackType            kStack
+		RadiusOuter          10
+	}
+
+	AttribMod
+	{
+		Name                 "Knockback"                   
+		Table                "Melee_Knockback"             
+		Aspect               kCur
+		Attrib               kKnockback
+		Target               kTarget
+		Scale                2
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               0.8
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusOuter          10
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kSmashing
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kLethal
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kFire
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kCold
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kEnergy
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               knegative_Energy
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kToxic
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+
+	AttribMod
+	{
+		Name                 "Ones"                        
+		Table                "Melee_Ones"                  
+		Aspect               kStr
+		Attrib               kPsionic
+		Target               kSelf
+		Scale                0.078
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10.80
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          0
+		AllowCombatMods      kFalse
+	}
+}

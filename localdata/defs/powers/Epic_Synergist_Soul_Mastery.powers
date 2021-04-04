@@ -4,7 +4,7 @@ Power Epic.Synergist_Soul_Mastery.Soul_Drain
 {
 	Name                 "Soul_Drain"                  
 	DisplayName          "P2786855971"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.2
@@ -507,7 +507,7 @@ Power Epic.Synergist_Soul_Mastery.Dark_Embrace
 {
 	Name                 "Dark_Embrace"                
 	DisplayName          "P3063295318"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kToggle
 	Accuracy             1
@@ -815,7 +815,7 @@ Power Epic.Synergist_Soul_Mastery.Power_Boost
 {
 	Name                 "Power_Boost"                 
 	DisplayName          "P314575027"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Soul_Mastery.Soul_Drain Epic.Synergist_Soul_Mastery.Dark_Embrace || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -1331,7 +1331,7 @@ Power Epic.Synergist_Soul_Mastery.Soul_Storm
 {
 	Name                 "Soul_Storm"                  
 	DisplayName          "P1796648775"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Soul_Mastery.Soul_Drain Epic.Synergist_Soul_Mastery.Dark_Embrace || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -1517,7 +1517,7 @@ Power Epic.Synergist_Soul_Mastery.Shadow_Meld
 {
 	Name                 "Shadow_Meld"                 
 	DisplayName          "P1505710939"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Soul_Mastery.Soul_Drain Epic.Synergist_Soul_Mastery.Dark_Embrace && Epic.Synergist_Soul_Mastery.Soul_Drain Epic.Synergist_Soul_Mastery.Power_Boost && || Epic.Synergist_Soul_Mastery.Soul_Drain Epic.Synergist_Soul_Mastery.Soul_Storm && || Epic.Synergist_Soul_Mastery.Dark_Embrace Epic.Synergist_Soul_Mastery.Power_Boost && || Epic.Synergist_Soul_Mastery.Dark_Embrace Epic.Synergist_Soul_Mastery.Soul_Storm && || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

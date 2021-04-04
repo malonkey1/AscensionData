@@ -471,7 +471,7 @@ Power Epic.Arsenal_Mastery.Sleep_Grenade
 {
 	Name                 "Sleep_Grenade"               
 	DisplayName          "P2982505770"
-	BuyRequires          Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Cryo_Freeze_Ray ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.05
@@ -582,7 +582,7 @@ Power Epic.Arsenal_Mastery.Surveillance
 {
 	Name                 "Surveillance"                
 	DisplayName          "P3645535907"
-	BuyRequires          Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Cryo_Freeze_Ray ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -829,7 +829,7 @@ Power Epic.Arsenal_Mastery.LRM_Rocket
 {
 	Name                 "LRM_Rocket"                  
 	DisplayName          "P1046091651"
-	BuyRequires          Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Cryo_Freeze_Ray && Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Sleep_Grenade && || Epic.Arsenal_Mastery.Cryo_Freeze_Ray Epic.Arsenal_Mastery.Sleep_Grenade && || Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Cryo_Freeze_Ray && || Epic.Arsenal_Mastery.Web_Grenade Epic.Arsenal_Mastery.Surveillance && || Epic.Arsenal_Mastery.Cryo_Freeze_Ray Epic.Arsenal_Mastery.Surveillance && ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.05

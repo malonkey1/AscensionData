@@ -430,6 +430,7 @@ Powers Stalker_Melee.Kinetic_Attack.Assassins_Strike
 Powers Villain_Pets.Kinetic_Melee_Assassins_Strike.Assassins_Strike_Quick
 Powers Villain_Pets.Kinetic_Melee_Assassins_Strike.Assassins_Strike_Stealth
 Powers Stalker_Melee.Kinetic_Attack.Total_Focus
+//Synergist
 Powers Synergist_Assault.Dark_Assault.Smite
 Powers Synergist_Assault.Dark_Assault.Midnight_Grasp
 Powers Synergist_Assault.Earth_Assault.Stone_Mallet
@@ -446,3 +447,11 @@ Powers Synergist_Assault.Martial_Assault.Thunder_Kick
 Powers Synergist_Assault.Psionic_Assault.Mind_Probe
 Powers Synergist_Assault.Psionic_Assault.Telekinetic_Thrust
 Powers Epic.Energetic_Mastery.Energy_Transfer
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Neutron_Punch
+Powers Tanker_Melee.Absolute_Strength.Roomsweeper
+Powers Tanker_Melee.Absolute_Strength.Shattering_Uppercut
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Knife_Slash
+Powers Scrapper_Melee.Anarchist.Sledgehammer
+Powers Scrapper_Melee.Anarchist.Lead_Pipe

@@ -522,6 +522,7 @@ Power Defender_Buff.Arcane_Affinity.Glimpse_of_Doom
 		DisplayAttackerHit   "P721381768"
 		DisplayVictimHit     "P1208204422"
 		StackType            kReplace
+		ContinuingFX         PFX
 	}
 
 	AttribMod
@@ -573,12 +574,12 @@ Power Defender_Buff.Arcane_Affinity.Glimpse_of_Doom
 
 	AttribMod
 	{
-		Name                 "Fear"                        
-		Table                "Ranged_Fear"                 
+		Name                 "Ones"                        
+		Table                "Ranged_Ones"                 
 		Aspect               kCur
 		Attrib               kTerrorized
 		Target               kTarget
-		Scale                15
+		Scale                3
 		Type                 kDuration
 		AllowStrength        kTrue
 		AllowResistance      kTrue
@@ -792,7 +793,7 @@ Power Defender_Buff.Arcane_Affinity.False_Obolus
 	EffectArea           kCharacter
 	Radius               0
 	Arc                  0
-	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost
+	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kRecovery_Boost, kHeal_Boost
 	VisualFX             "menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_FalseObolus.PFX"
 	include              menu\Powers\AnimFX\PlayerPowers\DefenderBuff_ArcaneAffinity_FalseObolus.PFX
 	DisplayShortHelp     "P547824692"

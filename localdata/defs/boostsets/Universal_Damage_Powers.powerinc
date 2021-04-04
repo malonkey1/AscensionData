@@ -12,7 +12,6 @@ Powers Pets.Blaster_Archery_Snipe.Ranged_Shot_Quick
 Powers Pets.Blaster_Archery_Snipe.Ranged_Shot_Normal
 Powers Blaster_Ranged.Archery.Snap_Shot
 Powers Blaster_Ranged.Archery.Stunning_Shot
-Powers Blaster_Ranged.Assault_Rifle.Beanbag
 Powers Blaster_Ranged.Assault_Rifle.Buckshot
 Powers Blaster_Ranged.Assault_Rifle.Burst
 Powers Blaster_Ranged.Assault_Rifle.Flamethrower
@@ -1683,6 +1682,7 @@ Powers Dominator_Control.Electric_Control.Tesla_Cage
 Powers Dominator_Control.Electric_Control.Chain_Fences
 Powers Dominator_Control.Electric_Control.Jolting_Chain
 Powers Dominator_Control.Electric_Control.Gremlins
+//Synergist
 Powers Epic.Arsenal_Mastery.Cryo_Freeze_Ray
 Powers Epic.Arsenal_Mastery.Sleep_Grenade
 Powers Epic.Blazing_Mastery.Bonfire
@@ -1772,3 +1772,22 @@ Powers Synergist_Support.Streetwise.Gang_War
 Powers Synergist_Support.Super_Serum.Commando
 Powers Synergist_Support.Mental_Projection.Doppleganger
 Powers Synergist_Support.Mental_Projection.Decoy
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Roomsweeper
+Powers Tanker_Melee.Absolute_Strength.Solar_Vision_Blast
+Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Knife_Slash
+Powers Scrapper_Melee.Anarchist.Sledgehammer
+Powers Scrapper_Melee.Anarchist.Bang!
+Powers Scrapper_Melee.Anarchist.Lead_Pipe
+Powers Scrapper_Melee.Anarchist.Rocket_Launcher
+Powers Scrapper_Melee.Anarchist.Molotov_Cocktail
+//Clockwork_Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Dukes
+Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Princes
+Powers Mastermind_Summon.Clockwork_Assembly.Clockwork_Lord
+Powers Mastermind_Summon.Clockwork_Assembly.Repairing_Facility
+Powers Mastermind_Summon.Clockwork_Assembly.Psionic_Tornado
+Powers Mastermind_Summon.Clockwork_Assembly.Lightning_Bolt
+Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage

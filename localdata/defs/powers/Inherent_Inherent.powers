@@ -1108,7 +1108,6 @@ Power Inherent.Inherent.prestige_Mission_Teleport
 {
 	Name                 "prestige_Mission_Teleport"   
 	DisplayName          "P829378419"
-	BuyRequires          MacPack auth> cucpvmtp productOwned? || Inherent.Inherent.prestige_Mission_Teleport ||
 	ModesDisallowed      kDisable_Temp, kDisable_Travel, kDisable_All, kCoOpTeam
 	Type                 kClick
 	Accuracy             1
@@ -4013,7 +4012,6 @@ Power Inherent.Inherent.Team_Transporter
 {
 	Name                 "Team_Transporter"            
 	DisplayName          "P2356930486"
-	BuyRequires          ctpsgrmt productOwned? accesslevel char> 0 >= &&
 	ActivateRequires     isPVPMap? ! isMissionMap? ! &&
 	ModesDisallowed      kDisable_Temp, kDisable_Travel, kDisable_All, kCoOpTeam
 	Type                 kClick
@@ -5684,7 +5682,6 @@ Power Inherent.Inherent.prestige_reveal
 {
 	Name                 "prestige_reveal"             
 	DisplayName          "P2583458172"
-	BuyRequires          TokenVReveal TokenOwned?
 	ModesDisallowed      kDisable_Temp, kDisable_All
 	Type                 kClick
 	Accuracy             1

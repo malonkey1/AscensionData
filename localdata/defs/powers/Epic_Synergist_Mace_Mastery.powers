@@ -4,7 +4,7 @@ Power Epic.Synergist_Mace_Mastery.Web_Envelope
 {
 	Name                 "Web_Envelope"                
 	DisplayName          "P1402461231"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.05
@@ -195,7 +195,7 @@ Power Epic.Synergist_Mace_Mastery.Scorpion_Shield
 {
 	Name                 "Scorpion_Shield"             
 	DisplayName          "P2874341642"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kToggle
 	Accuracy             1
@@ -655,7 +655,7 @@ Power Epic.Synergist_Mace_Mastery.Focused_Accuracy
 {
 	Name                 "Focused_Accuracy"            
 	DisplayName          "P4148086331"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mace_Mastery.Web_Envelope Epic.Synergist_Mace_Mastery.Scorpion_Shield || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kToggle
 	Accuracy             1
@@ -801,7 +801,7 @@ Power Epic.Synergist_Mace_Mastery.Web_Cocoon
 {
 	Name                 "Web_Cocoon"                  
 	DisplayName          "P1125963887"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mace_Mastery.Web_Envelope Epic.Synergist_Mace_Mastery.Scorpion_Shield || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.05
@@ -993,7 +993,7 @@ Power Epic.Synergist_Mace_Mastery.Power_Boost
 {
 	Name                 "Power_Boost"                 
 	DisplayName          "P314575027"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mace_Mastery.Web_Envelope Epic.Synergist_Mace_Mastery.Scorpion_Shield && Epic.Synergist_Mace_Mastery.Web_Envelope Epic.Synergist_Mace_Mastery.Focused_Accuracy && || Epic.Synergist_Mace_Mastery.Web_Envelope Epic.Synergist_Mace_Mastery.Web_Cocoon && || Epic.Synergist_Mace_Mastery.Scorpion_Shield Epic.Synergist_Mace_Mastery.Focused_Accuracy && || Epic.Synergist_Mace_Mastery.Scorpion_Shield Epic.Synergist_Mace_Mastery.Web_Cocoon && || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

@@ -355,7 +355,7 @@ Power Epic.Shadow_Mastery.Dark_Consumption
 {
 	Name                 "Dark_Consumption"            
 	DisplayName          "P3604985100"
-	BuyRequires          Epic.Shadow_Mastery.Living_Shadows Epic.Shadow_Mastery.Petrifying_Gaze ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -431,7 +431,7 @@ Power Epic.Shadow_Mastery.Haunt
 {
 	Name                 "Haunt"                       
 	DisplayName          "P3541511492"
-	BuyRequires          Epic.Shadow_Mastery.Living_Shadows Epic.Shadow_Mastery.Petrifying_Gaze ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All
 	Type                 kClick
 	Accuracy             1
@@ -531,7 +531,7 @@ Power Epic.Shadow_Mastery.Soul_Drain
 {
 	Name                 "Soul_Drain"                  
 	DisplayName          "P2786855971"
-	BuyRequires          Epic.Shadow_Mastery.Living_Shadows Epic.Shadow_Mastery.Petrifying_Gaze && Epic.Shadow_Mastery.Living_Shadows Epic.Shadow_Mastery.Dark_Consumption && || Epic.Shadow_Mastery.Living_Shadows Epic.Shadow_Mastery.Haunt && || Epic.Shadow_Mastery.Petrifying_Gaze Epic.Shadow_Mastery.Haunt && || Epic.Shadow_Mastery.Petrifying_Gaze Epic.Shadow_Mastery.Dark_Consumption && ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1.2

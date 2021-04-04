@@ -13,7 +13,7 @@ Power Synergist_Support.Mental_Projection.Doppleganger
 	IdeaCost             0
 	TravelSuppression    4
 	InterruptTime        0
-	TimeToActivate       4
+	TimeToActivate       2.03
 	RechargeTime         90
 	ActivatePeriod       0
 	EffectArea           kLocation

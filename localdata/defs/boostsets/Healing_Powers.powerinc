@@ -360,3 +360,7 @@ Powers Synergist_Support.Robotics.Merge_Bot
 // Arcane Affinity
 Powers Defender_Buff.Arcane_Affinity.Eleusinian_Charm
 Powers Defender_Buff.Arcane_Affinity.False_Obolus
+//Absolute Strength
+Powers Tanker_Melee.Absolute_Strength.Super_Breath
+//Clockwork Assembly
+Mastermind_Summon.Clockwork_Assembly.Repairing_Facility

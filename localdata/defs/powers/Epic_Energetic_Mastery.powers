@@ -357,7 +357,7 @@ Power Epic.Energetic_Mastery.Physical_Perfection
 {
 	Name                 "Physical_Perfection"         
 	DisplayName          "P4283015705"
-	BuyRequires          Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Focused_Accuracy ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kAuto
 	Accuracy             1
@@ -427,7 +427,7 @@ Power Epic.Energetic_Mastery.Conserve_Power
 {
 	Name                 "Conserve_Power"              
 	DisplayName          "P2460757215"
-	BuyRequires          Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Focused_Accuracy ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -481,7 +481,7 @@ Power Epic.Energetic_Mastery.Power_Boost
 {
 	Name                 "Power_Boost"                 
 	DisplayName          "P314575027"
-	BuyRequires          Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Focused_Accuracy &&  Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Physical_Perfection && || Epic.Energetic_Mastery.Focused_Accuracy Epic.Energetic_Mastery.Physical_Perfection && || Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Focused_Accuracy && || Epic.Energetic_Mastery.Energy_Transfer Epic.Energetic_Mastery.Conserve_Power && || Epic.Energetic_Mastery.Focused_Accuracy Epic.Energetic_Mastery.Conserve_Power && ||
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

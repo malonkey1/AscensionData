@@ -1779,7 +1779,7 @@ Power Synergist_Support.Natural_Instinct.Merge_Wolf
 	// Additional Power Factors
 	VisualFX             "menu\Powers\AnimFX\PlayerPowers\TankerMelee_SuperStrength_Rage.PFX"
 	include              menu\Powers\AnimFX\PlayerPowers\TankerMelee_SuperStrength_Rage.PFX
-	DisplayShortHelp     "Natural Instinct"
+	DisplayShortHelp     "P442733025"
 	DisplayHelp          "P1087378198"
 	DisplayAttackerHit   "P3015029121"
 	IconName             "NaturalInstinct_Merge.tga"

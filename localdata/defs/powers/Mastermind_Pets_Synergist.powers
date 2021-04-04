@@ -3,7 +3,7 @@
 Power Mastermind_Pets.Synergist.Partnership
 {
 	Name                 "Partnership"                   
-	DisplayName          "Partnership"
+	DisplayName          "P8739193"
 	Type                 kAuto
 	Accuracy             1
 	EntsAffected         kMyCreator
@@ -20,8 +20,8 @@ Power Mastermind_Pets.Synergist.Partnership
 	Radius               60
 	Arc                  0
 	IgnoreStrength       True
-	DisplayShortHelp     "Partner: +ToHit, +DMG"
-	DisplayHelp          "When you and your partner are within 60 feet of each other, both of you receive a small boost to Damage and ToHit."
+	DisplayShortHelp     "P1086690977"
+	DisplayHelp          "P1458385358"
 	IconName             "InherentPeacebringer_InterSpacialLink.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        16

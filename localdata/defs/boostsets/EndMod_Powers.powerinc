@@ -334,4 +334,7 @@ Powers Epic.Energetic_Mastery.Physical_Perfection
 Powers Synergist_Support.Natural_Instinct.Boundless_Energy
 Powers Synergist_Support.Ninjitsu.Merge_Ninja
 // Arcane Affinity
-Power Defender_Buff.Arcane_Affinity.False_Obolus
+Powers Defender_Buff.Arcane_Affinity.False_Obolus
+//Clockwork Assembly
+Powers Mastermind_Summon.Clockwork_Assembly.Lightning_Bolt
+Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage

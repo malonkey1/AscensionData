@@ -4,7 +4,7 @@ Power Epic.Synergist_Mu_Mastery.Power_Sink
 {
 	Name                 "Power_Sink"                  
 	DisplayName          "P2664724052"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -128,7 +128,7 @@ Power Epic.Synergist_Mu_Mastery.Charged_Armor
 {
 	Name                 "Charged_Armor"               
 	DisplayName          "P571716827"
-	BuyRequires          $archetype @Class_Synergist == $archetype @Class_Defender == || SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kToggle
 	Accuracy             1
@@ -413,7 +413,7 @@ Power Epic.Synergist_Mu_Mastery.Electric_Shackles
 {
 	Name                 "Electric_Shackles"           
 	DisplayName          "P1547907555"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mu_Mastery.Power_Sink Epic.Synergist_Mu_Mastery.Charged_Armor || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -685,7 +685,7 @@ Power Epic.Synergist_Mu_Mastery.Conserve_Power
 {
 	Name                 "Conserve_Power"              
 	DisplayName          "P2460757215"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mu_Mastery.Power_Sink Epic.Synergist_Mu_Mastery.Charged_Armor || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1
@@ -760,7 +760,7 @@ Power Epic.Synergist_Mu_Mastery.Electrifying_Fences
 {
 	Name                 "Electrifying_Fences"         
 	DisplayName          "P3988822156"
-	BuyRequires          SpidersKissPatron Owned? TheStingerPatron Owned? || BloodInTheWaterPatron Owned? || MiragePatron Owned? || Epic.Synergist_Mu_Mastery.Power_Sink Epic.Synergist_Mu_Mastery.Charged_Armor && Epic.Synergist_Mu_Mastery.Power_Sink Epic.Synergist_Mu_Mastery.Electric_Shackles && || Epic.Synergist_Mu_Mastery.Power_Sink Epic.Synergist_Mu_Mastery.Conserve_Power && || Epic.Synergist_Mu_Mastery.Charged_Armor Epic.Synergist_Mu_Mastery.Electric_Shackles && || Epic.Synergist_Mu_Mastery.Charged_Armor Epic.Synergist_Mu_Mastery.Conserve_Power && || Epic.Synergist_Mu_Mastery.Electric_Shackles Epic.Synergist_Mu_Mastery.Conserve_Power && || &&
+	BuyRequires          $archetype @Class_Synergist ==
 	ModesDisallowed      kDisable_All, kDisable_Pool, kDisable_Epic
 	Type                 kClick
 	Accuracy             1

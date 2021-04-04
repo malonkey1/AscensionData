@@ -97,6 +97,16 @@ PowerCategory Mastermind_Pets
 	PowerSets Mastermind_Pets.Dire_Wolf
 	PowerSets Mastermind_Pets.Dire_Wolf_2
 	PowerSets Mastermind_Pets.Dire_Wolf_3
+	PowerSets Mastermind_Pets.Clockwork_Duke_1
+	PowerSets Mastermind_Pets.Clockwork_Duke_2
+	PowerSets Mastermind_Pets.Clockwork_Duke_3
+	PowerSets Mastermind_Pets.Clockwork_Lord_1
+	PowerSets Mastermind_Pets.Clockwork_Lord_2
+	PowerSets Mastermind_Pets.Clockwork_Lord_3
+	PowerSets Mastermind_Pets.Clockwork_Prince_1
+	PowerSets Mastermind_Pets.Clockwork_Prince_2
+	PowerSets Mastermind_Pets.Clockwork_Prince_3
+	PowerSets Mastermind_Pets.Clockwork_Build
 	PowerSets Mastermind_Pets.Synergist
 }
 
