@@ -338,3 +338,17 @@ Powers Defender_Buff.Arcane_Affinity.False_Obolus
 //Clockwork Assembly
 Powers Mastermind_Summon.Clockwork_Assembly.Lightning_Bolt
 Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage
+//Empyrean Armor
+Powers Tanker_Defense.Empyrean_Armor.Bio-Electric_Aura
+Powers Tanker_Defense.Empyrean_Armor.Superior_Biology
+Powers Tanker_Defense.Empyrean_Armor.Well_Of_The_Furies
+//Mastermind Secondary expansion
+Powers Mastermind_Buff.Radiation_Emission.Accelerate_Metabolism
+Powers Mastermind_Buff.Radiation_Emission.Mutation
+Powers Mastermind_Buff.Radiation_Emission.EMP_Pulse
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Blast
+Powers Defender_Ranged.Sorcerous_Blast.Pyromancers_Blades
+//Tanker Energy Aura
+Powers Tanker_Defense.Energy_Aura.Energy_Drain
+Powers Tanker_Defense.Energy_Aura.Overload

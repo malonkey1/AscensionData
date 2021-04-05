@@ -171,3 +171,8 @@ Powers Epic.Arsenal_Mastery.Cryo_Freeze_Ray
 Powers Defender_Buff.Arcane_Affinity.Binding
 //Clockwork Assembly
 Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage
+//Mastermind Secondary Expansion
+Powers Mastermind_Buff.Radiation_Emission.Choking_Cloud
+Powers Mastermind_Buff.Radiation_Emission.EMP_Pulse
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Knockout_Blow

@@ -376,3 +376,8 @@ Powers Tanker_Melee.Absolute_Strength.Heat_Vision
 Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
 //Anarchist
 Powers Scrapper_Melee.Anarchist.Maniacal_Laugh
+//Empyrean Armor
+Powers Tanker_Defense.Empyrean_Armor.Bio-Electric_Aura
+//Tanker Energy Aura
+Powers Tanker_Defense.Energy_Aura.Entropy_Shield
+Powers Tanker_Defense.Energy_Aura.Energy_Drain

@@ -545,3 +545,11 @@ Powers Scrapper_Melee.Anarchist.Bang!
 //Clockwork Assembly
 Powers Mastermind_Summon.Clockwork_Assembly.Lightning_Bolt
 Powers Mastermind_Summon.Clockwork_Assembly.Tesla_Cage
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Laser_Beam_Eyes
+Powers Dominator_Assault.Might_Assault.Hurl_Rock
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Bolt
+Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Blast
+Powers Defender_Ranged.Sorcerous_Blast.Archaic_Force
+Powers Defender_Ranged.Sorcerous_Blast.Invocation_Blast

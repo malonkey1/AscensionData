@@ -455,3 +455,15 @@ Powers Tanker_Melee.Absolute_Strength.Shattering_Uppercut
 Powers Scrapper_Melee.Anarchist.Knife_Slash
 Powers Scrapper_Melee.Anarchist.Sledgehammer
 Powers Scrapper_Melee.Anarchist.Lead_Pipe
+//Scrapper Energy Melee
+Powers Scrapper_Melee.Energy_Melee.Barrage
+Powers Scrapper_Melee.Energy_Melee.Energy_Punch
+Powers Scrapper_Melee.Energy_Melee.Bone_Smasher
+Powers Scrapper_Melee.Energy_Melee.Total_Focus
+Powers Scrapper_Melee.Energy_Melee.Stun
+Powers Scrapper_Melee.Energy_Melee.Energy_Transfer
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Punch
+Powers Dominator_Assault.Might_Assault.Haymaker
+Powers Dominator_Assault.Might_Assault.Knockout_Blow
+Powers Dominator_Assault.Might_Assault.Foot_Stomp

@@ -1048,6 +1048,10 @@
 "Hero_PlayGameString",		"Enter Paragon City"
 "Praetorian_PlayGameString",	"Enter Praetoria"
 
+"TutorialHero",    "Outbreak Tutorial"
+"TutorialVillain",    "Breakout Tutorial"
+"TutorialNeutral",    "Destroyed Galaxy City Tutorial"
+"TutorialSelect",    "Select Tutorial Zone"
 "AccountInfoRequired",		"You must fill out the account and password fields to log in to your account!"
 "NotPaidBrowserPrompt",		"Payment for this account has expired. Would you like to view its account status web page?"
 "DeleteCharacter?",		"Deleting {characterName}. Please type {characterName} below to confirm."
@@ -2134,6 +2138,8 @@
 "AutoFlipSuperPackCards",	"Automatically flip all cards."
 "AutoFlipSuperPackCardsHelp",	"Automatically flip all cards immediately after salvage has been opened."
 "ClickToFlipString",		"Click on the cards to flip them over."
+"ShowTimer",		"Recast timer for powers"
+"ShowTimerHelp",		"Displays the recast timer overtop of the power in the powertray"
 
 # Team messages
 #-------------------------------------------------------------------------
@@ -4088,6 +4094,23 @@
 "maps/city_zones/city_05_01/city_05_01.txt_40",		"Peregrine Island 40"
 "maps/city_zones/city_05_01/city_05_01.txt_41",		"Peregrine Island 41"
 
+"maps/city_zones/city_05_03/city_05_03.txt",		"Kallisti Wharf"
+"maps/city_zones/city_05_03/city_05_03.txt_1",		"Kallisti Wharf 1"
+"maps/city_zones/city_05_03/city_05_03.txt_2",		"Kallisti Wharf 2"
+"maps/city_zones/city_05_03/city_05_03.txt_3",		"Kallisti Wharf 3"
+"maps/city_zones/city_05_03/city_05_03.txt_4",		"Kallisti Wharf 4"
+"maps/city_zones/city_05_03/city_05_03.txt_5",		"Kallisti Wharf 5"
+"maps/city_zones/city_05_03/city_05_03.txt_6",		"Kallisti Wharf 6"
+"maps/city_zones/city_05_03/city_05_03.txt_7",		"Kallisti Wharf 7"
+"maps/city_zones/city_05_03/city_05_03.txt_8",		"Kallisti Wharf 8"
+"maps/city_zones/city_05_03/city_05_03.txt_9",		"Kallisti Wharf 9"
+"maps/city_zones/city_05_03/city_05_03.txt_10",		"Kallisti Wharf 10"
+"maps/city_zones/city_05_03/city_05_03.txt_11",		"Kallisti Wharf 11"
+"maps/city_zones/city_05_03/city_05_03.txt_12",		"Kallisti Wharf 12"
+"maps/city_zones/city_05_03/city_05_03.txt_13",		"Kallisti Wharf 13"
+"maps/city_zones/city_05_03/city_05_03.txt_14",		"Kallisti Wharf 14"
+"maps/city_zones/city_05_03/city_05_03.txt_15",		"Kallisti Wharf 15"
+
 "maps/city_zones/city_06_01/city_06_01.txt",		"Ouroboros"
 "maps/city_zones/city_06_01/city_06_01.txt_1",		"Ouroboros 1"
 "maps/city_zones/city_06_01/city_06_01.txt_2",		"Ouroboros 2"
@@ -4161,6 +4184,10 @@
 "maps/city_zones/Coop_06_01/Coop_06_01.txt_13",		"Dark Astoria 13"
 "maps/city_zones/Coop_06_01/Coop_06_01.txt_14",		"Dark Astoria 14"
 "maps/city_zones/Coop_06_01/Coop_06_01.txt_15",		"Dark Astoria 15"
+
+"maps/city_zones/Coop_07_01/Coop_07_01.txt",			"Subterranian Hive"
+"maps/city_zones/Coop_07_01/Coop_07_01_1.txt",			"Subterranian Hive 1"
+"maps/city_zones/Coop_07_01/Coop_07_01_2.txt",			"Subterranian Hive 2"
 
 "maps/city_zones/hazard_01_01/hazard_01_01.txt",		"Perez Park"
 "maps/city_zones/hazard_01_01/hazard_01_01.txt_1",		"Perez Park 1"
@@ -8085,6 +8112,23 @@
 "city_05_01_40.txt_40",		"Peregrine Island 40"
 "city_05_01_41.txt_41",		"Peregrine Island 41"
 
+"city_05_03.txt",		"Kallisti Wharf"
+"city_05_03_1.txt_1",		"Kallisti Wharf 1"
+"city_05_03_1.txt_2",		"Kallisti Wharf 2"
+"city_05_03_1.txt_3",		"Kallisti Wharf 3"
+"city_05_03_1.txt_4",		"Kallisti Wharf 4"
+"city_05_03_1.txt_5",		"Kallisti Wharf 5"
+"city_05_03_1.txt_6",		"Kallisti Wharf 6"
+"city_05_03_1.txt_7",		"Kallisti Wharf 7"
+"city_05_03_1.txt_8",		"Kallisti Wharf 8"
+"city_05_03_1.txt_9",		"Kallisti Wharf 9"
+"city_05_03_1.txt_10",		"Kallisti Wharf 10"
+"city_05_03_1.txt_11",		"Kallisti Wharf 11"
+"city_05_03_1.txt_12",		"Kallisti Wharf 12"
+"city_05_03_1.txt_13",		"Kallisti Wharf 13"
+"city_05_03_1.txt_14",		"Kallisti Wharf 14"
+"city_05_03_1.txt_15",		"Kallisti Wharf 15"
+
 "city_06_01.txt",		"Ouroboros"
 "city_06_01_1.txt_1",		"Ouroboros 1"
 "city_06_01_2.txt_2",		"Ouroboros 2"
@@ -9769,6 +9813,23 @@
 "maps/city_zones/V_city_05_01/V_city_05_01.txt_50",	"Grandville 50"
 "maps/city_zones/V_city_05_01/V_city_05_01.txt_51",	"Grandville 51"
 
+"maps/city_zones/V_city_05_03/V_city_05_03.txt",	"Kallisti Wharf"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_1",	"Kallisti Wharf 1"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_2",	"Kallisti Wharf 2"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_3",	"Kallisti Wharf 3"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_4",	"Kallisti Wharf 4"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_5",	"Kallisti Wharf 5"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_6",	"Kallisti Wharf 6"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_7",	"Kallisti Wharf 7"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_8",	"Kallisti Wharf 8"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_9",	"Kallisti Wharf 9"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_10",	"Kallisti Wharf 10"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_11",	"Kallisti Wharf 11"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_12",	"Kallisti Wharf 12"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_13",	"Kallisti Wharf 13"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_14",	"Kallisti Wharf 14"
+"maps/city_zones/V_city_05_03/V_city_05_03.txt_15",	"Kallisti Wharf 15"
+
 "maps/city_zones/V_city_06_01/V_city_06_01.txt",	"Ouroboros"
 "maps/city_zones/V_city_06_01/V_city_06_01.txt_1",	"Ouroboros 1"
 "maps/city_zones/V_city_06_01/V_city_06_01.txt_2",	"Ouroboros 2"
@@ -11142,6 +11203,23 @@
 "V_city_05_01_50.txt_50",	"Grandville 50"
 "V_city_05_01_51.txt_51",	"Grandville 51"
 
+"V_city_05_03.txt",	"Kallisti Wharf"
+"V_city_05_03.txt_1",	"Kallisti Wharf 1"
+"V_city_05_03.txt_2",	"Kallisti Wharf 2"
+"V_city_05_03.txt_3",	"Kallisti Wharf 3"
+"V_city_05_03.txt_4",	"Kallisti Wharf 4"
+"V_city_05_03.txt_5",	"Kallisti Wharf 5"
+"V_city_05_03.txt_6",	"Kallisti Wharf 6"
+"V_city_05_03.txt_7",	"Kallisti Wharf 7"
+"V_city_05_03.txt_8",	"Kallisti Wharf 8"
+"V_city_05_03.txt_9",	"Kallisti Wharf 9"
+"V_city_05_03.txt_10",	"Kallisti Wharf 10"
+"V_city_05_03.txt_11",	"Kallisti Wharf 11"
+"V_city_05_03.txt_12",	"Kallisti Wharf 12"
+"V_city_05_03.txt_13",	"Kallisti Wharf 13"
+"V_city_05_03.txt_14",	"Kallisti Wharf 14"
+"V_city_05_03.txt_15",	"Kallisti Wharf 15"
+
 "V_city_06_01.txt",	"Ouroboros"
 "V_city_06_01_1.txt_1",	"Ouroboros 1"
 "V_city_06_01_2.txt_2",	"Ouroboros 2"
@@ -11469,6 +11547,7 @@
 "Coop_02_01",			"Midnighter Club"
 
 "Coop_06_01",			"Dark Astoria"
+"Coop_07_07",			"Subterranian Hive"
 
 "p_city_00_01",			"Nova Praetoria"
 "p_city_00_02",			"Imperial City"
@@ -11873,6 +11952,14 @@
 "Bastion of Sorrow", "Bastion of Sorrow"
 "Bastion of Shame", "Bastion of Shame"
 "Path of Rage", "Path of Rage"
+
+//Kallisti Wharf - Hero Side
+"Christie Square", "Christie Square"
+"One Statesman Place", "One Statesman Place"
+
+//Kallisti Wharf - Villain Side
+"Old Slough", "Old Slough"
+"One Statesman Place", "One Statesman Place"
 
 //Sewers
 "Steel Canyon Sector", "Steel Canyon Sector"
@@ -12592,7 +12679,11 @@
 "DesperationTip",			"Defiance: {current}/{total}"
 "RageTip",			"Fury: {current}/{total}"
 "DominationTip",		"Domination: {current}/{total}"
+"OpportunityTip",		"Opportunity: {current}/{total}"
+"PrimalEnergyTip",		"Primal Energy: {current}/{total}"
 "SkillExperienceTip",		"Wisdom: {current}/{total}"
+"EnforcerTip",			"Fervor: {current}/{total}"
+"PaladinTip",			"Retribution: {current}/{total}"
 
 "CMShowCombatXp",		"Combat &XP"
 "CMShowSkillXp",		"Skill &XP"
@@ -14300,7 +14391,12 @@ Error message: {name}>>
 "Class_Arachnos_Widow",		"Arachnos Widow"
 "Class_Arachnos_Soldier",	"Arachnos Soldier"
 "Class_Primalist",		"Primalist"
+"Class_Enforcer",		"The Enforcer"
+"Class_Paladin",		"The Paladin"
+"Class_PatronMaster",	"Patron Master"
 "Class_Synergist",		"Synergist"
+"Class_Sentinel",		"Sentinel"
+"Class_Werewolf",		"Werewolf"
 "TooManyPlayersForEvent",	"Too many players for {event} event."
 "PlayersDoNotMeetArchetypeReq",	"Current players do not meet Pentad archetype requirements."
 "SanctionedString",		"Rated"
@@ -17606,6 +17702,7 @@ Error message: {name}>>
 "CVGBossString",			"Boss"
 "CVGEliteString",			"Elite Boss"
 "CVGArchVillainString",			"Arch Villain"
+"CVGUniqueString",			"Unique"
 "CVGPetString",				"Pet"
 "CVGNoNameString",			"Custom Group has no name."
 "CVGInvalidNameString",			"Custom Group has an invalid name."
@@ -17797,6 +17894,10 @@ Error message: {name}>>
 "DeletePowerCustConfirmString",		"Are you sure you want to permanently delete the currently selected power customization?"
 "PowerCustSavePrimary",			"Save Primary"
 "PowercustSaveSecondary",		"Save Secondary"
+"PrimSecString",			"Primary/Secondary"	
+"PowerPoolsString",			"Pool/Epic"
+"IncarnateString",			"Incarnate"
+
 
 # Power Customization Themes
 #---------------------------
@@ -18016,6 +18117,9 @@ Error message: {name}>>
 "LFG_Mission_LVL3_TASKFORCE_SYNAPSE",				"The Fall of the Clockwork King [Synapse]"
 "LFG_Mission_Help_LVL3_TASKFORCE_SYNAPSE",			"<color goldenrod>Task Force</color>: <color deepskyblue>The Fall of the Clockwork King [Synapse]</color><br><color goldenrod>Required Number of Players</color>: 4 to 8<br><color goldenrod>Levels</color>: 15 to 20<br><color goldenrod>Length</color>: Long<br><color goldenrod>Rewards</color>: 58 Merits (requires VIP or Paragon Reward Lvl 4)<br><color goldenrod>Objectives</color>: Hunt down the source of the Clockwork disrupting Paragon City!"
 
+"LFG_Mission_SL4-5_Issue22_Penelope_Yin_TaskForce",			"A Clamor for the People [Penelope Yin]"
+"LFG_Mission_Help_SL4-5_Issue22_Penelope_Yin_TaskForce",			"<color goldenrod>Task Force</color>: <color deepskyblue>A Clamor for the People [Penelope Yin]</color><br><color goldenrod>Required Number of Players</color>: 5 to 8<br><color goldenrod>Levels</color>: 20 to 25<br><color goldenrod>Length</color>: Short<br><color goldenrod>Rewards</color>: 20 Merits (requires VIP or Paragon Reward Lvl 4)<br><color goldenrod>Objectives</color>: Save the City Council and stop a plot that could destroy all of Paragon City!"
+
 "LFG_Mission_LVL4_TASKFORCE_SISTERPSYCHE",			"Clamor & Destruction [Sister Psyche]"
 "LFG_Mission_Help_LVL4_TASKFORCE_SISTERPSYCHE",			"<color goldenrod>Task Force</color>: <color deepskyblue>Clamor & Destruction [Sister Psyche]</color><br><color goldenrod>Required Number of Players</color>: 5 to 8<br><color goldenrod>Levels</color>: 20 to 25<br><color goldenrod>Length</color>: Long<br><color goldenrod>Rewards</color>: 50 Merits (requires VIP or Paragon Reward Lvl 4)<br><color goldenrod>Objectives</color>: Prevent the Freakshow from getting their claws on weapons of mass destruction!"
 
@@ -18117,9 +18221,6 @@ Error message: {name}>>
 
 "LFG_Mission_SL9_ThusSpokeTheReichsman_StrikeForce",		"Thus Spoke the Reichsman [Barracuda]"
 "LFG_Mission_Help_SL9_ThusSpokeTheReichsman_StrikeForce",	"<color goldenrod>Strike Force</color>: <color red>Thus Spoke the Reichsman [Barracuda]</color><br><color goldenrod>Required Number of Players</color>: 4 to 8<br><color goldenrod>Levels</color>: 45 to 50<br><color goldenrod>Length</color>: Moderate<br><color goldenrod>Rewards</color>: 30 Merits (requires VIP or Paragon Reward Lvl 4) or Dimensional Keystone (requires Alpha Slot & VIP)<br><color goldenrod>Objectives</color>: When a simple job goes awry, seize the opportunity to demonstrate your ambition and power!"
-
-"LFG_Mission_SL4-5_Issue22_Penelope_Yin_TaskForce", "A Clamor for the People [Penelope Yin]"
-"LFG_Mission_Help_SL4-5_Issue22_Penelope_Yin_TaskForce", "<color goldenrod>Task Force</color>: <color deepskyblue>A Clamor for the People [Penelope Yin]</color><br><color goldenrod>Required Number of Players</color>: 5 to 8<br><color goldenrod>Levels</color>: 20 to 25<br><color goldenrod>Length</color>: Short<br><color goldenrod>Rewards</color>: 20 Merits (requires VIP or Paragon Reward Lvl 4)<br><color goldenrod>Objectives</color>: Save the City Council and stop a plot that could destroy all of Paragon City!"
 
 "LFG_WeeklyTF_Text",		"<color orange>Weekly Strike Target</color>: Completing the WST will reward double Merits (requires VIP or Paragon Reward Level 4) and a Notice of the Well (requires Alpha Slot & VIP). You can only receive this bonus once per week.<br>"
 

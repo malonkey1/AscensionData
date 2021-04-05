@@ -364,3 +364,12 @@ Powers Defender_Buff.Arcane_Affinity.False_Obolus
 Powers Tanker_Melee.Absolute_Strength.Super_Breath
 //Clockwork Assembly
 Mastermind_Summon.Clockwork_Assembly.Repairing_Facility
+//Empyrean Armor
+Powers Tanker_Defense.Empyrean_Armor.Solar_Regeneration
+Powers Tanker_Defense.Empyrean_Armor.Superior_Biology
+Powers Tanker_Defense.Empyrean_Armor.Well_Of_The_Furies
+//Mastermind Secondary Expansion
+Powers Mastermind_Buff.Radiation_Emission.Radiation_Emission
+//Tanker Energy Aura
+Powers Tanker_Defense.Energy_Aura.Energize
+Powers Tanker_Defense.Energy_Aura.Overload

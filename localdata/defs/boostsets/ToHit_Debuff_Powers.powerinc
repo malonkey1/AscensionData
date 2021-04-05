@@ -234,3 +234,7 @@ Powers Synergist_Support.Nether_Force.Cloak_of_Fear
 Powers Defender_Buff.Arcane_Affinity.Crowleys_Hex
 Powers Defender_Buff.Arcane_Affinity.Glimpse_of_Doom
 Powers Defender_Buff.Arcane_Affinity.Phantom_Storm
+//Mastermind Secondary expansion
+Powers Blaster_Support.Trick_Arrow.Flash_Arrow
+Powers Mastermind_Buff.Radiation_Emission.Radiation_Infection
+Powers Mastermind_Buff.Radiation_Emission.Fallout

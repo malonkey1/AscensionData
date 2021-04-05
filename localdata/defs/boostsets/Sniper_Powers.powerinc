@@ -125,3 +125,5 @@ Powers Synergist_Assault.Energy_Assault.Sniper_Blast
 Powers Synergist_Assault.Fiery_Assault.Blazing_Bolt
 Powers Synergist_Assault.Martial_Assault.Masterful_Throw
 Powers Synergist_Assault.Psionic_Assault.Psionic_Lance
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Invocation_Blast

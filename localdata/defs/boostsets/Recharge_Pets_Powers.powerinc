@@ -13,7 +13,7 @@ Powers Controller_Control.Gravity_Control.Fold_Space
 Powers Controller_Control.Ice_Control.Jack_Frost
 Powers Controller_Control.Illusion_Control.Decoy
 Powers Controller_Control.Illusion_Control.Phantasm
-
+Powers Controller_Control.Mind_Control.Psionic_Nexus
 Powers Controller_Control.Wind_Control.Vortex
 Powers Defender_Buff.Storm_Summoning.Tornado
 Powers Defender_Ranged.Electrical_Blast.Voltaic_Sentinel
@@ -75,3 +75,5 @@ Powers Epic.Shadow_Mastery.Haunt
 Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Dukes
 Powers Mastermind_Summon.Clockwork_Assembly.Assemble_Princes
 Powers Mastermind_Summon.Clockwork_Assembly.Clockwork_Lord
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Pyromancers_Blades

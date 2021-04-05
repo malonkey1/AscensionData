@@ -10,6 +10,7 @@ PowerCategory Scrapper_Melee
 	PowerSets Scrapper_Melee.Dual_Blades
 	PowerSets Scrapper_Melee.Dark_Melee
 	PowerSets Scrapper_Melee.Electrical_Melee
+	PowerSets Scrapper_Melee.Energy_Melee
 	PowerSets Scrapper_Melee.Fiery_Melee
 	PowerSets Scrapper_Melee.Katana
 	PowerSets Scrapper_Melee.Kinetic_Attack

@@ -13,342 +13,6 @@
 // ---------------------------------------------------------------------------------------------------
 
 // ----------------------------------------------------------------------------------------------
-// Source File : C:/game/data/Defs/powers/src/Epic_Powers.xls 	Sheet: Arachnos_Soldier 
-//
-// Script      : Xlstopowdefdef.bat 
-// Version     : 53 
-// ----------------------------------------------------------------------------------------------
-
-
-
-
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// Power Catagory : Arachnos_Soldier 
-// 			Worksheet : Arachnos_Soldier 
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P2146571422" "Soldier"
-
-// ******************************************************************************** 
-// -------------------------------------------------------------------------------- 
-// Power Set : Arachnos Soldier 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P0" ""
-// DisplayShortHelp :
-"P3764701535" "Arachnos Soldiers"
-// DisplayHelp :
-"P3347473874" "Character with Arachnos Soldier training begin their carreers as Wolf Spiders. Wolf Spider characters have a strong mix of Melee and Ranged attacks and strong protective powers available via their power armor.  Beginning at level 24, the player has to choose whether he will progress down the "Crab Spider" or "Bane Spider" path.  Crab Spiders gain access to the "backpack" and the powerful claw/cone attacks it provides, while the Bane Spider track provides stealth and a stronger focus on melee."
-
-// -------------------------------------------------------------------------------- 
-// Power : Single Shot 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P372881666" "Single Shot"
-// Power Mouse-Over Text :
-"P1884795216" "Ranged, Minor DMG(Lethal)"
-// Power Help Text :
-"P1031088287" "A quick single shot from the Arachnos Submachinegun. Damage: Minor, Recharge: Very Fast"
-// Effect VictimHit Message :
-"P840479810" "{PlayerSource} shoots you for {Damage} points of Lethal damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Pummel 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1504904151" "Pummel"
-// Power Mouse-Over Text :
-"P180844716" "Melee, Minor DMG(Smash)"
-// Power Help Text :
-"P2819639159" "You can smash your opponents with your fists. Damage: Minor, Recharge: Fast"
-// Effect VictimHit Message :
-"P3097100607" "{PlayerSource} hits you for {Damage} points of Smashing damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Burst 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3170865076" "Burst"
-// Power Mouse-Over Text :
-"P3100956268" "-Def"
-// Power Help Text :
-"P3267924344" "Your Defense has been reduced by the Submachine Gun."
-// Effect VictimHit Message :
-"P3046191709" "{PlayerSource} rattles you with his {PowerName} for {Damage} points of Lethal damage and slightly lowers your defense!"
-
-// -------------------------------------------------------------------------------- 
-// Power : WS Wide Area Web Grenade 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3612864817" "Wide Area Web Grenade"
-// Power Mouse-Over Text :
-"P3505771407" "Immobilize, -Fly, -Recharge"
-// Power Help Text :
-"P1730420478" "You have been caught in a web.  You cannot move or fly and your attack speed is reduced."
-
-// -------------------------------------------------------------------------------- 
-// Power : Heavy Burst 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P358900709" "Heavy Burst"
-
-// -------------------------------------------------------------------------------- 
-// Power : Front Kick 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3001597593" "Front Kick"
-// Power Mouse-Over Text :
-"P2848422893" "Disorient"
-// Power Help Text :
-"P2366756416" "You have been Disoriented."
-// Effect VictimHit Message :
-"P3202932502" "{PlayerSource} Pulverizes you for {Damage} points of Smashing damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Venom Grenade 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1489982979" "Venom Grenade"
-// Power Mouse-Over Text :
-"P3742789999" "-DMG, -Recharge"
-// Power Help Text :
-"P1991111218" "The poisonous gas has severely weakened your attacks and Slowed your attack speed."
-// Effect VictimHit Message :
-"P465036283" "{PlayerSource} poisons you for {Damage} points of Toxic damage with his {PowerName}."
-
-// -------------------------------------------------------------------------------- 
-// Power : Frag Grenade 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3315981163" "Frag Grenade"
-// Power Mouse-Over Text :
-"P230043080" "Targeted AoE Lethal/Smash, Knockback"
-// Power Help Text :
-"P4013947962" "Launches an M30 Grenade at long range from under the barrel of your Assault rifle. The explosion from this grenade affects all within the blast and can knock them back."
-// Effect VictimHit Message :
-"P497052048" "{PlayerSource} hits you with his Grenade for {Damage} points of Smashing damage!"
-// Effect VictimHit Message :
-"P1556949256" "{PlayerSource} hits you with his Grenade for {Damage} points of Lethal damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Channelgun 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P292725265" "Channelgun"
-// Power Mouse-Over Text :
-"P1519530153" "Ranged, High DMG(Energy), Foe -End"
-// Power Help Text :
-"P3647330900" "Your backpack has a built in energy Channelgun which fires bolts of energy."
-// Effect VictimHit Message :
-"P1966809518" "{PlayerSource} shocks you with his {PowerName} for {Damage} points of Energy damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Slice 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P4235155361" "Slice"
-// Power Mouse-Over Text :
-"P890868756" "Melee, Heavy DMG(Lethal), Foe -DEF"
-// Power Help Text :
-"P4272330919" "Your Defense has been reduced by the Claws."
-// Effect VictimHit Message :
-"P2479955248" "{PlayerSource} Slashes you with his Claws for {Damage} points of Lethal damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Longfang 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P15878826" "Longfang"
-
-// -------------------------------------------------------------------------------- 
-// Power : CS Wide Area Web Grenade 
-// -------------------------------------------------------------------------------- 
-
-// -------------------------------------------------------------------------------- 
-// Power : Suppression 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P756488014" "Suppression"
-// Power Mouse-Over Text :
-"P1831456333" "DoT(Energy)"
-// Power Help Text :
-"P2344054371" "The Suppressive Fire from the Crab Spider is all around you."
-// Effect VictimHit Message :
-"P1102991720" "{PlayerSource} hits you for {Damage} points of Energy damage with his {PowerName}."
-
-// -------------------------------------------------------------------------------- 
-// Power : Arm Lash 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1373989461" "Arm Lash"
-// Power Mouse-Over Text :
-"P2196338174" "Toxic DoT, Slow"
-// Power Help Text :
-"P153273809" "The poison on the blade is slowly damaging you and slowing your attacks and movement speed."
-// Effect VictimHit Message :
-"P4221236925" "{PlayerSource} hits you for {Damage} points of lethal damage with his {PowerName}."
-
-// -------------------------------------------------------------------------------- 
-// Power : CS Venom Grenade 
-// -------------------------------------------------------------------------------- 
-
-// -------------------------------------------------------------------------------- 
-// Power : CS Frag Grenade 
-// -------------------------------------------------------------------------------- 
-
-// -------------------------------------------------------------------------------- 
-// Power : Frenzy 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1500070530" "Frenzy"
-
-// -------------------------------------------------------------------------------- 
-// Power : Omega Maneuver 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2901031018" "Omega Maneuver"
-// Power Mouse-Over Text :
-"P1753546549" "Summon Omega Bomb: Ranged Disorient, Superior DMG (Smashing/Energy)"
-// Power Help Text :
-"P174470245" "You creates two Seeker Drones. These Seeker Drones will follow you until they detect an enemy and then they will zero in on their targets and detonate on impact. The small explosive flash of energy does only minor damage, but the concussion can weaken foes.  Affected targets will have reduced Damage, Accuracy and Perception and may even be Disoriented for a short while.  You can only ever have Two Seeker Drones out at one time and they can be destroyed by your foes. Recharge: Long"
-
-// -------------------------------------------------------------------------------- 
-// Power : BS Bash 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P506932706" "Bash"
-// Power Mouse-Over Text :
-"P2471375611" "Melee, Moderate DMG(Smash), Minor DoT(Toxic), Minor Disorient"
-// Power Help Text :
-"P3615245225" "You Bash with your mace dealing moderate Smashing damage and minor Toxic damage over time."
-// DisplayTargetShortHelp :
-"P3522923894" "Disorient, DoT(Poison)"
-// DisplayTargetHelp :
-"P2183680756" "You have been disoriented and poisoned."
-// Effect VictimHit Message :
-"P2354758305" "{PlayerSource} bashes you for {Damage} points of smashing damage!"
-// Effect VictimHit Message :
-"P2211560513" "{PlayerSource} lands a critical hit for an extra {Damage} points of smashing damage!"
-// DisplayFloat :
-"P786733788" "STEALTH STRIKE"
-
-// -------------------------------------------------------------------------------- 
-// Power : Mace Beam 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3336005936" "Mace Beam"
-// Power Mouse-Over Text :
-"P1631766390" "Ranged, Moderate DMG(Energy/Smash), Foe Knockback"
-// Power Help Text :
-"P4047418072" "The Nullifier Mace is capable of firing a tremendous bolt of force from the end of it.  Arachnos Troopers call this the Power Blast, the Arbiters who invented it scoff at this simple term."
-// Effect VictimHit Message :
-"P1687926124" "{PlayerSource} blasts you with his {PowerName} for {Damage} points of smashing damage!"
-// Effect VictimHit Message :
-"P4186582336" "{PlayerSource} blasts you with his {PowerName} for {Damage} points of energy damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Mace Beam Blast 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1094426691" "Mace Beam Blast"
-// Power Mouse-Over Text :
-"P1837179250" "AoE Ranged, High DMG(Energy/Smash), Foe Knockback"
-
-// -------------------------------------------------------------------------------- 
-// Power : BS Wide Area Web Grenade 
-// -------------------------------------------------------------------------------- 
-// Power Mouse-Over Text :
-"P1642214998" "Ranged, Target Immobilize, -Recharge, -Fly"
-// Power Help Text :
-"P3887374336" "Upon impact, the Web Grenade expels a strong, tenuous, and very sticky substance that can Immobilize most targets. This non-lethal device deals no damage and does not prevent targets from attacking, although their attack rate is Slowed. The Web can bring down flying entities and halts jumping."
-
-// -------------------------------------------------------------------------------- 
-// Power : Mace Beam Volley 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2103519298" "Mace Beam Volley"
-// Power Mouse-Over Text :
-"P3890975956" "Cone Ranged, Moderate DMG(Energy/Smash), Foe Knockback"
-
-// -------------------------------------------------------------------------------- 
-// Power : Pulverize 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3731646031" "Pulverize"
-// Power Mouse-Over Text :
-"P4265999569" "Melee, High DMG(Smash), Minor DoT(Toxic), Minor Disorient"
-// Power Help Text :
-"P1779738090" "You Pulverize with your mace dealing high Smashing damage and minor Toxic damage over time."
-// Effect VictimHit Message :
-"P2640482987" "{PlayerSource} pulverizes you for {Damage} points of smashing damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Poisonous Ray 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P775034031" "Poisonous Ray"
-// Power Mouse-Over Text :
-"P75079782" "Ranged,  Moderate DoT(Toxic), -Def"
-// Power Help Text :
-"P3511304521" "You fire a Poisonous Ray from your mace."
-// DisplayTargetShortHelp :
-"P4225273632" "DoT(Poison), -Def"
-// DisplayTargetHelp :
-"P2732474384" "You have been poisoned and your defense has been reduced."
-
-// -------------------------------------------------------------------------------- 
-// Power : Shatter 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3732965163" "Shatter"
-// Power Mouse-Over Text :
-"P3489585837" "Melee, Extreme DMG(Smash), Minor DoT(Toxic), High Knockback"
-// Power Help Text :
-"P322043998" "You attempt to Shatter the bones of your opponent by striking them with all your might. This attack will deal great damage and can knock foes back a great ways. The power of this attack can actually extend a short distance through multiple foes. Damage: Extreme, Recharge: Slow"
-// DisplayTargetShortHelp :
-"P3847221707" "DoT(Poison)"
-// DisplayTargetHelp :
-"P338932406" "You have been poisoned."
-// Effect VictimHit Message :
-"P1903793060" "{PlayerSource} shatters you for {Damage} points of smashing damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Placate 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1943041994" "Placate"
-// Power Mouse-Over Text :
-"P1923307270" "Melee, Foe Placate, Self Stealth/Hide"
-// Power Help Text :
-"P1540039140" "Allow you to trick a foe to no longer attack you.  A Successful Placate will also Hide you.  This Hide is very brief, and offers no Defense bonus, but it will allow you to deliver a Critical Hit or an Assassins Strike. However, if you attack a Placated Foe, he will be able to attack you back. Recharge: Long"
-// DisplayTargetHelp :
-"P2833281680" "You have been Placated."
-// Effect VictimHit Message :
-"P89862521" "{PlayerSource} has Placated you."
-
-// -------------------------------------------------------------------------------- 
-// Power : Crowd Control 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1460150468" "Crowd Control"
-// Power Mouse-Over Text :
-"P2710577995" "Melee (Cone), Moderate DMG(Smash), Minor DoT(Toxic), Knockback"
-// Power Help Text :
-"P866055523" "You swing your mace in a wide arc in front of you. This attack strikes all foes within melee range, deals them serious damage and minor Toxic damage over time, and knocks them down."
-// DisplayFloat :
-"P2831495896" "EXECUTIONER'S STRIKE"
-
-// ************************************************************************
-// ************************************************************************
-// ************************************************************************
-
-// ---------------------------------------------------------------------------------------------------
-// Generated by transModule
-// ---------------------------------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------------------------
 // Source File : data/Defs/powers/src/Epic_Powers.xls 	Sheet: Arachnos_Soldiers 
 //
 // Script      : Xlstopowdefdef.bat 
@@ -374,6 +38,7 @@
 // DisplayName :
 "P3192533343" "Arachnos Soldier"
 // DisplayShortHelp :
+"P3764701535" "Arachnos Soldiers"
 // DisplayHelp :
 "P2636015590" "Character with Arachnos Soldier training begin their careers as Wolf Spiders. Wolf Spider characters have a strong mix of Melee and Ranged attacks and strong protective powers available via their power armor.  Beginning at level 24, the player has to choose whether he will progress down the "Crab Spider" or "Bane Spider" path.  Crab Spiders gain access to the "backpack" and the powerful claw/cone attacks it provides, while the Bane Spider track provides stealth and a stronger focus on melee."
 
@@ -381,6 +46,7 @@
 // Power : Single Shot 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P372881666" "Single Shot"
 // Power Mouse-Over Text :
 "P1561606776" "Ranged, Minor DMG(Lethal), Foe -DEF"
 // Power Help Text :
@@ -402,7 +68,9 @@
 // Power : Pummel 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1504904151" "Pummel"
 // Power Mouse-Over Text :
+"P180844716" "Melee, Minor DMG(Smash)"
 // Power Help Text :
 "P3009672358" "You can smash your opponents in close combat with the butt of your sub-machine gun to deal minor smashing damage.  Pummel has a high chance to disorient your foe for a brief time.  NOTE: This power will deal critical damage if used after a successful Placate or while the user is hidden with the Bane Spider Cloaking Device. Damage: Minor, Recharge: Fast"
 // Effect AttackerHit Message :
@@ -418,6 +86,7 @@
 // Power : Burst 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3170865076" "Burst"
 // Power Mouse-Over Text :
 "P2845745130" "Ranged, Moderate DMG(Lethal), Foe -DEF"
 // Power Help Text :
@@ -429,6 +98,7 @@
 // Power : WS Wide Area Web Grenade 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3612864817" "Wide Area Web Grenade"
 // Power Mouse-Over Text :
 "P1032508166" "Ranged (Targeted AoE), Immobilize, -Fly, -Recharge"
 // Power Help Text :
@@ -438,7 +108,9 @@
 // Power VictimHit Message :
 "P135233688" "{PlayerSource} attempts to immobilize you with their {PowerName}!"
 // DisplayTargetShortHelp :
+"P3505771407" "Immobilize, -Fly, -Recharge"
 // DisplayTargetHelp :
+"P1730420478" "You have been caught in a web.  You cannot move or fly and your attack speed is reduced."
 // Effect AttackerHit Message :
 "P3842581131" "Your {PowerName} hits {PlayerDest} immobilizing them and reducing their attack rate and movement speed."
 // Effect VictimHit Message :
@@ -448,6 +120,7 @@
 // Power : Heavy Burst 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P358900709" "Heavy Burst"
 // Power Mouse-Over Text :
 "P2597828755" "Ranged Cone, Moderate DMG(Lethal), Foe -DEF"
 // Power Help Text :
@@ -479,6 +152,7 @@
 // Power : Venom Grenade 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1489982979" "Venom Grenade"
 // Power Mouse-Over Text :
 "P234226024" "Ranged(Targeted AoE), DoT(Toxic), -Res(All)"
 // Power Help Text :
@@ -496,6 +170,7 @@
 // Power : Frag Grenade 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3315981163" "Frag Grenade"
 // Power Mouse-Over Text :
 "P2468650756" "Ranged(Targeted AoE), Moderate DMG (Lethal/Smash), Foe Knockback"
 // Power Help Text :
@@ -526,6 +201,7 @@
 // Power : Channelgun 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P292725265" "Channelgun"
 // Power Mouse-Over Text :
 "P4021409771" "Ranged, Moderate DMG(Energy), Foe -DEF"
 // Power Help Text :
@@ -543,11 +219,13 @@
 // Power : Slice 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P4235155361" "Slice"
 // Power Mouse-Over Text :
 "P3465884966" "Melee, Moderate DMG(Lethal), Foe -DEF"
 // Power Help Text :
 "P3811772598" "The arms of your backpack may be used to slice at opponents for moderate lethal damage, as well as reducing their defense.  Damage: Moderate Recharge: Medium"
 // DisplayTargetHelp :
+"P4272330919" "Your Defense has been reduced by the Claws."
 // Effect AttackerHit Message :
 "P1096584021" "Your {PowerName} hits {PlayerDest} for {Damage} points of lethal damage and reduces their defense!"
 // Effect VictimHit Message :
@@ -557,6 +235,7 @@
 // Power : Longfang 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P15878826" "Longfang"
 // Power Mouse-Over Text :
 "P3194990098" "Ranged, High DMG(Lethal), Foe -DEF"
 // Power Help Text :
@@ -580,6 +259,7 @@
 // Power : Suppression 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P756488014" "Suppression"
 // Power Mouse-Over Text :
 "P826780265" "Ranged Cone, Moderate DoT (Energy), Foe -DEF"
 // Power Help Text :
@@ -593,6 +273,7 @@
 // Power : Arm Lash 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1373989461" "Arm Lash"
 // Power Mouse-Over Text :
 "P687742668" "Melee Cone, Heavy DMG(Lethal), Foe -DEF"
 // Power Help Text :
@@ -618,6 +299,7 @@
 // Power : Frenzy 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1500070530" "Frenzy"
 // Power Mouse-Over Text :
 "P2977471411" "Melee PBAoE, Heavy DMG (Lethal/Energy), Foe -DEF"
 // Power Help Text :
@@ -637,6 +319,7 @@
 // Power : Omega Maneuver 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P2901031018" "Omega Maneuver"
 // Power Mouse-Over Text :
 "P126616730" "Summon Omega Bomb: Ranged (Location Targeted AoE), Superior DMG (Smashing/Energy), Foe Disorient"
 // Power Help Text :
@@ -655,12 +338,15 @@
 // Power : BS Bash 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P506932706" "Bash"
 // Power Mouse-Over Text :
 "P2866366518" "Melee, Moderate DMG(Smash), Minor DoT(Toxic), Foe Disorient"
 // Power Help Text :
 "P3567788892" "You Bash with your mace dealing moderate Smashing damage and minor Toxic damage over time. NOTE: This power will deal critical damage if used after a successful Placate or while the user is hidden with the Bane Spider Cloaking Device.  Damage: Moderate Recharge: Fast"
 // DisplayTargetShortHelp :
+"P3522923894" "Disorient, DoT(Poison)"
 // DisplayTargetHelp :
+"P2183680756" "You have been disoriented and poisoned."
 // Effect AttackerHit Message :
 "P3116935656" "You Bash {PlayerDest} with your Mace for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
@@ -670,29 +356,37 @@
 // Effect VictimHit Message :
 "P3202947871" "{PlayerSource} disorients you with their {PowerName}!"
 // Effect VictimHit Message :
+"P2211560513" "{PlayerSource} lands a critical hit for an extra {Damage} points of smashing damage!"
 // DisplayFloat :
+"P786733788" "STEALTH STRIKE"
 // Effect AttackerHit Message :
 "P2157929835" "The poison from your {PowerName} deals {Damage} points of toxic damage to {PlayerDest}"
 // Effect VictimHit Message :
+"P465036283" "{PlayerSource} poisons you for {Damage} points of Toxic damage with his {PowerName}."
 
 // -------------------------------------------------------------------------------- 
 // Power : Mace Beam 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3336005936" "Mace Beam"
 // Power Mouse-Over Text :
+"P1631766390" "Ranged, Moderate DMG(Energy/Smash), Foe Knockback"
 // Power Help Text :
 "P3195164503" "The Nullifier Mace has several different ranged attack modes. The Mace Beam is a moderate damage single target attack with a chance to knock a foe off their feet.  Damage: Moderate Recharge: Fast"
 // Effect AttackerHit Message :
 "P90837049" "You blast {PlayerDest} with your {PowerName} for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
+"P1687926124" "{PlayerSource} blasts you with his {PowerName} for {Damage} points of smashing damage!"
 // Effect AttackerHit Message :
 "P482297281" "You blast {PlayerDest} with your {PowerName} for {Damage} points of energy damage!"
 // Effect VictimHit Message :
+"P4186582336" "{PlayerSource} blasts you with his {PowerName} for {Damage} points of energy damage!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Mace Beam Blast 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1094426691" "Mace Beam Blast"
 // Power Mouse-Over Text :
 "P1967168011" "Ranged (Targeted AoE), Light DMG(Energy/Smash), Foe Knockback"
 // Power Help Text :
@@ -714,6 +408,7 @@
 // Power : Mace Beam Volley 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P2103519298" "Mace Beam Volley"
 // Power Mouse-Over Text :
 "P819941995" "Ranged Cone, Moderate DMG(Energy/Smash), Foe Knockback"
 // Power Help Text :
@@ -723,6 +418,7 @@
 // Power : Pulverize 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3731646031" "Pulverize"
 // Power Mouse-Over Text :
 "P1455142294" "Melee, High DMG(Smash), Minor DoT(Toxic), Foe Disorient"
 // Power Help Text :
@@ -736,6 +432,7 @@
 // Power : Poisonous Ray 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P775034031" "Poisonous Ray"
 // Power Mouse-Over Text :
 "P2861802508" "Ranged,  Moderate DoT(Toxic), -DEF"
 // Power Help Text :
@@ -743,6 +440,7 @@
 // DisplayTargetShortHelp :
 "P4254075121" "DoT(Poison), '-DEF"
 // DisplayTargetHelp :
+"P2732474384" "You have been poisoned and your defense has been reduced."
 // Effect AttackerHit Message :
 "P2284825767" "You blast {PlayerDest} with your {PowerName} dealing {Damage} points of Toxic damage and reduce their defense!"
 // Effect VictimHit Message :
@@ -752,16 +450,21 @@
 // Power : Shatter 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P3732965163" "Shatter"
 // Power Mouse-Over Text :
+"P3489585837" "Melee, Extreme DMG(Smash), Minor DoT(Toxic), High Knockback"
 // Power Help Text :
 "P638579522" "You attempt to Shatter the bones of your opponent by striking them with all your might. This attack will deal great damage and can knock foes back a great ways. NOTE: This power will deal critical damage if used after a successful Placate or while the user is hidden with the Bane Spider Cloaking Device.  Damage: Extreme, Recharge: Slow"
 // DisplayTargetShortHelp :
+"P3847221707" "DoT(Poison)"
 // DisplayTargetHelp :
+"P338932406" "You have been poisoned."
 // Effect AttackerHit Message :
 "P2627062989" "You Shatter {PlayerDest} with your Mace for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
 "P2022066486" "{PlayerSource} Shatters you with their Mace for {Damage} points of smashing damage!"
 // DisplayFloat :
+"P2831495896" "EXECUTIONER'S STRIKE"
 // Effect VictimHit Message :
 "P922508177" "{PlayerSource} poisons you for {Damage} points of Toxic damage with their {PowerName}."
 
@@ -769,16 +472,21 @@
 // Power : Placate 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1943041994" "Placate"
 // Power Mouse-Over Text :
+"P1923307270" "Melee, Foe Placate, Self Stealth/Hide"
 // Power Help Text :
 "P1932806103" "Allow you to trick a foe to no longer attack you.  A successful Placate will also Hide you.  This Hide is very brief, and offers no Defense bonus, but it will allow you to deliver a Critical Hit. However, if you attack a Placated Foe, they will be able to attack you back. Recharge: Long"
 // DisplayTargetHelp :
+"P2833281680" "You have been Placated."
 // Effect VictimHit Message :
+"P89862521" "{PlayerSource} has Placated you."
 
 // -------------------------------------------------------------------------------- 
 // Power : Crowd Control 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1460150468" "Crowd Control"
 // Power Mouse-Over Text :
 "P2502981882" "Melee (Cone), High DMG(Smash), Minor DoT(Toxic), Foe Knockback"
 // Power Help Text :
@@ -787,372 +495,6 @@
 "P948189635" "You smash {PlayerDest} with your mighty Mace for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
 "P2075237685" "{PlayerSource} Bashes you with their Mighty Mace for {Damage} points of smashing damage!"
-
-// ************************************************************************
-// ************************************************************************
-// ************************************************************************
-
-// ---------------------------------------------------------------------------------------------------
-// Generated by transModule
-// ---------------------------------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------------------------
-// Source File : C:/game/data/Defs/powers/src/Epic_Powers.xls 	Sheet: Devoured_Defensive 
-//
-// Script      : Xlstopowdefdef.bat 
-// Version     : 56 
-// ----------------------------------------------------------------------------------------------
-
-
-
-
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// Power Catagory : Devoured_Defensive 
-// 			Worksheet : Devoured_Defensive 
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-
-// ******************************************************************************** 
-// -------------------------------------------------------------------------------- 
-// Power Set : Viral Aura 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P2351777606" "Viral Aura"
-// DisplayHelp :
-"P4292841046" "Rescued Devoured have a constant storm of chemicals in and around them.  They can harness these effects to aid others or harm their enemies."
-
-// -------------------------------------------------------------------------------- 
-// Power : Regrowth 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P126683333" "Regrowth"
-// Power Mouse-Over Text :
-"P1906443399" "PBAoE, Team +Heal"
-// Power Help Text :
-"P2465524458" "Regrowth drains the Devoured's Battle Euphoria level to minimum values, and releases a burst of replenishing energy, healing the Devoured and nearby allies."
-// Effect AttackerHit Message :
-"P222304424" "You heal {PlayerDest} for {Damage} points."
-// Effect VictimHit Message :
-"P3640235457" "{PlayerSource} heals you for {Damage} points."
-// Effect AttackerHit Message :
-"P4242864777" "Your {PowerName} consumes your Battle Euphoria."
-
-// -------------------------------------------------------------------------------- 
-// Power : Devoured Flesh 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P325478364" "Devoured Flesh"
-// Power Mouse-Over Text :
-"P1871919246" "Auto: Self +Res(All but Fire)"
-// Power Help Text :
-"P4286218978" "The Telurian Plague has left deep scars on the Devoured, and transformed them into something more than human. Your twisted frame and diseased flesh is more resilient to all types of damage, except fire."
-
-// -------------------------------------------------------------------------------- 
-// Power : Corrupting Spores 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P580373916" "Corrupting Spores"
-// Power Mouse-Over Text :
-"P241093257" "Toggle: Foe -DMG"
-// Power Help Text :
-"P3694930752" "Corrupting Spores surrounds you with a cloud of enzymes which will weaken foes who enter it.  All of their attacks will do less damage on impact."
-// Power AttackerHit Message :
-"P1442255323" "You activate your {Powername}."
-// DisplayTargetShortHelp :
-"P2850056344" "-DMG"
-// DisplayTargetHelp :
-"P1769358845" "The Corrupting Spores are weakening your attacks."
-// Effect VictimHit Message :
-"P4216157190" "{PlayerSource} reduces your damage with their {PowerName}!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Leeching Cloud 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1535108373" "Leeching Cloud"
-// Power Mouse-Over Text :
-"P961101779" "Toggle: Self +Regen, Foe: Minor DMG (Toxic)"
-// Power Help Text :
-"P1741770419" "Leeching cloud surrounds you with a cloud of enzymes which slowly consume your enemy, adding to your strength and damaging them. Damage: Minor"
-// Effect AttackerHit Message :
-"P1568691862" "{PowerName} deals {Damage} points of toxic damage to {PlayerDest}."
-// Effect VictimHit Message :
-"P714118086" "{PlayerSource} burns you with their {PowerName} for {Damage} points of toxic damage!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Invigorate 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2444144720" "Invigorate"
-// Power Mouse-Over Text :
-"P1297294036" "PBAoE, Team +Endurance"
-// Power Help Text :
-"P17668734" "Invigorate restores some of your teams Endurance, and temporarily increases their maximum Endurance reserves. Recharge: Long"
-
-// -------------------------------------------------------------------------------- 
-// Power : Barkskin 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2825781308" "Barkskin"
-// Power Mouse-Over Text :
-"P563318792" "Toggle: Res DMG"
-// Power Help Text :
-"P224459728" "Activating Barkskin makes your skin grow hard, thick bark like calluses.  This provides damage resistance to Smashing, Lethal, Energy, Negative Energy, Cold and Toxic damage types.  Recharge: Fast"
-
-// -------------------------------------------------------------------------------- 
-// Power : Miasmic Aura 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1170504039" "Miasmic Aura"
-// Power Mouse-Over Text :
-"P364953813" "Toggle: -ToHit, Slow"
-// Power Help Text :
-"P2341250999" "Activating Miasmic Aura surrounds you in a soporific cloud, which slow your enemies and reduce their chance to hit you."
-
-// -------------------------------------------------------------------------------- 
-// Power : Scarred Mind 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3824172663" "Scarred Mind"
-// Power Mouse-Over Text :
-"P542802638" "Toggle: Self +Res(All but Fire)"
-// Power Help Text :
-"P4002351686" "Through perfect control of your body and energy, you can concentrate for a few moments and heal yourself. Recharge: Long"
-// Effect AttackerHit Message :
-"P454249131" "Your {PowerName} heals you for {Damage} hit points!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Telurian Resistance 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2445880386" "Telurian Resistance"
-// Power Help Text :
-"P1311142699" "The Telurian Plague has left deep scars on the Devoured, and transformed them into something more than human. Your twisted frame and diseased flesh is more resilient to all types of damage, except fire, even the protoplasmic energy of Hamidon itself."
-
-// -------------------------------------------------------------------------------- 
-// Power : Euphoric Cloud 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3296152568" "Euphoric Cloud"
-
-// -------------------------------------------------------------------------------- 
-// Power : Strength of Will 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1043791663" "Strength of Will"
-// Power Mouse-Over Text :
-"P2655318871" "Self, +Res(Disorient, Sleep, Hold, Immobilize, Repel, Knockback, All DMG), +Recovery"
-// Power Help Text :
-"P1777452850" "When you activate this power, you not only become extremely resistant to most damage, but also to Disorient, Immobilization, Hold, Knockback, Repel and Sleep effects. Strength of Will costs little Endurance to activate and increases your recovery for its duration, but when it wears off you are left exhausted, and substantially drained of Endurance. Note that Strength of Will is unaffected by Attack Rate changes. Recharge: Very Long"
-// Power AttackerHit Message :
-"P92195323" "You summon your {PowerName}!"
-
-// ************************************************************************
-// ************************************************************************
-// ************************************************************************
-
-// ---------------------------------------------------------------------------------------------------
-// Generated by transModule
-// ---------------------------------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------------------------
-// Source File : C:/game/data/Defs/powers/src/Epic_Powers.xls 	Sheet: Devoured_Offensive 
-//
-// Script      : Xlstopowdefdef.bat 
-// Version     : 56 
-// ----------------------------------------------------------------------------------------------
-
-
-
-
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// Power Catagory : Devoured_Offensive 
-// 			Worksheet : Devoured_Offensive 
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-
-// ******************************************************************************** 
-// -------------------------------------------------------------------------------- 
-// Power Set : Unnatural Force 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P769075507" "Unnatural Force"
-// DisplayHelp :
-"P3867099449" "Masters of light, energy and matter, Peacebringers can manipulate Kheldian Light Energy to devastate their opponents. Their Luminous Blasts bombard their foes with awesome power that often knock down foes and can easily reduce a target's defenses."
-
-// -------------------------------------------------------------------------------- 
-// Power : Punch 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3978321756" "Punch"
-// Power Mouse-Over Text :
-"P1573403174" "Melee, Minor DMG (Smash/Negative), Foe -To Hit, -Res (all)"
-// Power Help Text :
-"P290133427" "You wrap your fists with Negative Energy channeled from the Netherworlds, then perform a quick punch that deals minor damage. Shadow Punches cloud the target's vision, lowering his chance to hit for a short time.  This power can bruise an enemy, making them more vulnerable to damage. Damage: Minor, Recharge: Fast"
-// DisplayTargetShortHelp :
-"P2190949330" "-To Hit"
-// DisplayTargetHelp :
-"P3306638901" "The Shadow Punch has reduced your To Hit."
-// Effect AttackerHit Message :
-"P1799681063" "Your {PowerName} deals {Damage} points of Smashing damage to {PlayerDest}."
-// Effect VictimHit Message :
-"P1719855107" "{PlayerSource} hits you with their {PowerName} for {Damage} points of Smashing damage."
-
-// -------------------------------------------------------------------------------- 
-// Power : Slam 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P4141091351" "Slam"
-// Power Mouse-Over Text :
-"P2906690495" "Melee, Moderate DMG (Smash/Negative), Foe -To Hit"
-// Power Help Text :
-"P2944253286" "You wrap your fists with Negative Energy channeled from the Netherworlds, then perform a Smite that deals more damage than Shadow Punch, but has a longer recharge time. Smite clouds the target's vision, lowering his chance to hit for a short time. Damage: Moderate, Recharge: Moderate"
-// DisplayTargetShortHelp :
-// DisplayTargetHelp :
-"P2469523492" "Your Defenses have been reduced by the Glinting Eye attack."
-// Effect AttackerHit Message :
-"P1375087093" "Your {PowerName} deals {Damage} points of smashing damage to {PlayerDest}."
-// Effect VictimHit Message :
-"P1908249470" "{PlayerSource} hits you with their {PowerName} for {Damage} points of smashing damage."
-
-// -------------------------------------------------------------------------------- 
-// Power : Crush 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P218551415" "Crush"
-// Power Mouse-Over Text :
-"P1130698362" "Melee, High DMG(Smash), Knockback"
-// Power Help Text :
-"P3497977439" "A slow but devastating attack, the Haymaker has a great chance of knocking your opponent down. Damage: High, Recharge: Moderate"
-// Effect AttackerHit Message :
-"P135824926" "You pulverize {PlayerDest} with your {PowerName} for {Damage} points of smashing damage!"
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Taunt 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1980192711" "Taunt"
-// Power Mouse-Over Text :
-"P45218014" "Ranged (Targeted AoE), Foe Taunt"
-// Power Help Text :
-"P3327310968" "Taunts a foe, and some nearby foes, to attack you. Useful for pulling villains off an ally who find themselves in over their head. Taunted foes tend to ignore other Heroes and focus on your for quite a while, so use this power cautiously.  An Accuracy check required to Taunt enemy players, but is not needed against critter targets.  Recharge: Slow"
-// Power VictimHit Message :
-"P1469662144" "{PlayerSource} Taunts you!"
-// DisplayTargetHelp :
-"P4173113734" "You have been Taunted."
-// Effect AttackerHit Message :
-"P3752458412" "You Taunt {PlayerDest} to attack you."
-// Effect AttackerHit Message :
-"P583975673" "Your {PowerName} hit, and you Taunt {PlayerDest} to attack you."
-// Effect VictimHit Message :
-"P3669502634" "{Playersource} hit you with their {Powername}. You have been Taunted!"
-// Effect AttackerHit Message :
-"P3564954679" "Your {PowerName} partially hit!  {PlayerDest} is not taunted but their range is reduced!"
-// Effect VictimHit Message :
-"P4215765545" "{Playersource} partially hits you with their Taunt! Your range is reduced but the Taunt is not successful!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Roar 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3240550110" "Roar"
-// Power Mouse-Over Text :
-"P2884241469" "Melee, Medium DMG(Toxic), Foe Fear"
-// Power Help Text :
-"P623697848" "You Roar at your enemies, spraying toxins over them in the process.  They are left burning and may be afraid of you. Damage: Medium Recharge: Medium"
-// DisplayTargetShortHelp :
-"P584333189" "Toxic DOT"
-// DisplayTargetHelp :
-"P3200513129" "Acidic spittle is burning you!"
-// Effect AttackerHit Message :
-"P3240306625" "You burn {PlayerDest} for {Damage} points of toxic damage!"
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Enrage 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1460818663" "Enrage"
-// Power Mouse-Over Text :
-// Power Help Text :
-"P1452773158" "Greatly increases the amount of damage you deal for a few seconds, as well as slightly increasing your chance to hit.  Recharge: Slow"
-// Effect AttackerHit Message :
-"P2681829321" "You tap into your inner light with your {PowerName} and are more accurate and more deadly for a short while."
-
-// -------------------------------------------------------------------------------- 
-// Power : Stomp 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2651954438" "Stomp"
-// Power Mouse-Over Text :
-"P947437715" "PBAoE Melee, Moderate DMG(Smash), Knockback"
-// Power Help Text :
-"P2060142457" "Using your superior leg strength, you can Stomp your foot to the ground, quaking the earth itself. This is a localized attack against everything in melee range. Damage: Moderate, Recharge: Slow"
-// Effect AttackerHit Message :
-"P1494397633" "You shake the very earth with your {PowerName}, dealing {Damage} points of smashing Damage to {PlayerDest}."
-// Effect VictimHit Message :
-"P3326045218" "{PlayerSource} shakes the very Earth with their {PowerName}, dealing {Damage} points of smashing damage to you."
-// Effect AttackerHit Message :
-"P3816816025" "You knocked {PlayerDest} from their feet!"
-// Effect VictimHit Message :
-"P4218578531" "{PlayerSource} knocks you from your feet!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Vile Breath 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3083503540" "Vile Breath"
-// Power Mouse-Over Text :
-"P1838301266" "Close (Cone), Moderate DMG(Toxic), Foe -ToHit"
-// Power Help Text :
-"P2175416079" "Unleashes a cone of toxic breath that can distracts your opponents reducing their chance to hit. Very accurate and very deadly at medium range. Damage: Moderate, Recharge: Slow"
-// DisplayTargetShortHelp :
-"P972587174" "-ToHit"
-// DisplayTargetHelp :
-"P3410364390" "The stench is overwhelming, reducing your chances of hitting."
-// Effect AttackerHit Message :
-"P3706497408" "Your {PowerName} burns {PlayerDest} for {Damage} points of toxic damage."
-
-// -------------------------------------------------------------------------------- 
-// Power : Sap 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3176686113" "Sap"
-// Power Mouse-Over Text :
-"P3697396555" "Ranged (Location AoE), Minor DoT(Lethal), Foe -Speed"
-// Power Help Text :
-"P2658067938" "You throw a puddle of Sap at a targeted location. Any enemies that pass over the sap will be forced to move at a slower rate. They will also take some trivial toxic damage over time. Damage: Minor(DoT), Recharge: Slow"
-// DisplayTargetShortHelp :
-"P2094093535" "DoT(Toxic), -SPD"
-// DisplayTargetHelp :
-"P391539678" "The sap is causing minor damage to you and slowing your running speed."
-// Effect AttackerHit Message :
-"P1814112202" "You drop {PowerName} on the ground!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Knockout Blow 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P161745189" "Knockout Blow"
-// Power Mouse-Over Text :
-"P2442703215" "Melee, Extreme DMG(Smash), Foe Hold"
-// Power Help Text :
-"P3314722325" "You can perform a Knockout Blow on your opponent. This punch does extreme damage, and has a great chance of Holding your target. Damage: Extreme, Recharge: Slow"
-// DisplayTargetShortHelp :
-"P3220742713" "Hold"
-// DisplayTargetHelp :
-"P3701546223" "You have been knocked out!"
-// Effect AttackerHit Message :
-"P4170975393" "{PlayerDest} is hit for {Damage} points of smashing damage by your {PowerName}, knocking them into the air!"
-// Effect VictimHit Message :
-"P348656496" "{PlayerSource} hits you with a mighty {PowerName} for {Damage} points of smashing damage, and knocks you into the air."
-// Effect AttackerHit Message :
-"P1138237399" "{PlayerDest} is knocked unconscious and held by your {PowerName}!"
-// Effect VictimHit Message :
-"P3398549126" "You have been knocked unconscious and held by {PlayerSource}'s {PowerName}!"
 
 // ************************************************************************
 // ************************************************************************
@@ -1408,7 +750,9 @@
 // Power Help Text :
 "P948949216" "A powerful Repulsion Bomb is hurled at your foes dealing a moderate amount of damage and knocking them off of their feet. Foes struck by Repulsion Bomb have a good chance to become disoriented.  You must be level 41 and have either Personal Force Field or Repulsion Field to select this power.  Damage: Moderate, Recharge: Slow"
 // DisplayTargetShortHelp :
+"P2848422893" "Disorient"
 // DisplayTargetHelp :
+"P2366756416" "You have been Disoriented."
 // Effect AttackerHit Message :
 "P1956747474" "Your {PowerName} pounds {PlayerDest} for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
@@ -1550,6 +894,7 @@
 // Power Help Text :
 "P374316427" "Although this weapon deals very little damage, the Cryo Freeze Ray encases your foe in a block of ice, holding him helpless in place for a while. Damage: Minor, Recharge: Moderate"
 // DisplayTargetShortHelp :
+"P3220742713" "Hold"
 // DisplayTargetHelp :
 "P3614395532" "You are frozen in place!"
 // Effect AttackerHit Message :
@@ -1655,6 +1000,7 @@
 // Display Name :
 "P1523181219" "Seismic Smash"
 // Power Mouse-Over Text :
+"P2442703215" "Melee, Extreme DMG(Smash), Foe Hold"
 // Power Help Text :
 "P1972381863" "This massive attack hits with all the force of the Earth itself. It deals tremendous amounts of damage, and may Hold the target if they are not defeated outright. You must be level 41 and have Hurl Boulder or Fissure before selecting this power. Damage: Extreme, Recharge: Slow"
 // DisplayTargetHelp :
@@ -1664,7 +1010,9 @@
 // Effect VictimHit Message :
 "P1815039595" "{PlayerSource} pummels you with {PowerName} for {Damage} points of smashing damage."
 // Effect AttackerHit Message :
+"P1138237399" "{PlayerDest} is knocked unconscious and held by your {PowerName}!"
 // Effect VictimHit Message :
+"P3398549126" "You have been knocked unconscious and held by {PlayerSource}'s {PowerName}!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Earth's Embrace 
@@ -1995,6 +1343,7 @@
 // Power Help Text :
 "P1926201792" "Mastery of Energy Melee begins with the ability to transfer your own Hit Points into a punch that deals extreme damage. Energy Transfer has a good chance of Disorienting the target. Damage: Extreme, Recharge: Slow"
 // Effect AttackerHit Message :
+"P1375087093" "Your {PowerName} deals {Damage} points of smashing damage to {PlayerDest}."
 // Effect VictimHit Message :
 "P135684187" "{PlayerSource} smashes you for {Damage} points of smashing damage!"
 // Effect AttackerHit Message :
@@ -2625,6 +1974,7 @@
 // Power Help Text :
 "P53853243" "You summon a wave of mire that sweeps away foes within its arc. The attack deals minimal Negative Energy damage, but sends foes flying and reduces their chance to hit.  Damage: Minor, Recharge: Slow"
 // DisplayTargetShortHelp :
+"P2190949330" "-To Hit"
 // DisplayTargetHelp :
 "P1120184773" "Your chance to hit has been reduced by the Torrent."
 // Effect AttackerHit Message :
@@ -2725,6 +2075,7 @@
 // Display Name :
 "P3189667928" "Web Grenade"
 // Power Mouse-Over Text :
+"P1642214998" "Ranged, Target Immobilize, -Recharge, -Fly"
 // Power Help Text :
 "P153366950" "Upon impact, the Web Grenade expels a strong, tenuous, and very sticky substance that can Immobilize most targets. This non-lethal device deals no damage and does not prevent targets from attacking, although their attack rate is Slowed. The Web can bring down flying entities and halts jumping. Recharge: Fast"
 // DisplayTargetShortHelp :
@@ -2738,6 +2089,7 @@
 // Display Name :
 "P4162546018" "Caltrops"
 // Power Mouse-Over Text :
+"P3697396555" "Ranged (Location AoE), Minor DoT(Lethal), Foe -Speed"
 // Power Help Text :
 "P1505439020" "You toss a handful of Caltrops at a targeted location and spread the tiny metal spikes over a large area. Any villains that pass over the Caltrops will be forced to move at a slower rate. They will also take some trivial Lethal damage over time. Damage: Minor(DoT), Recharge: Slow"
 // DisplayTargetShortHelp :
@@ -2751,6 +2103,7 @@
 // Display Name :
 "P1845709286" "Shuriken"
 // Power Mouse-Over Text :
+"P1884795216" "Ranged, Minor DMG(Lethal)"
 // Power Help Text :
 "P1521102321" "A classic small throwing weapon, you can throw Shurikens at a pretty fast rate of fire. You must be level 41 and have Web Grenade or Caltrops before selecting this power. Damage: Minor, Recharge: Fast"
 // Effect AttackerHit Message :
@@ -3989,12 +3342,15 @@
 // Power : Knockout Blow 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P161745189" "Knockout Blow"
 // Power Help Text :
 "P1352084104" "You can channel the massive strength of the Leviathan into a Knockout Blow. This punch does Superior damage, and has a great chance of Holding your target. You must be level 41 and have School of Sharks or Bile Spray before selecting this power. Damage: Extreme, Recharge: Slow"
 // DisplayTargetHelp :
+"P3701546223" "You have been knocked out!"
 // Effect AttackerHit Message :
 "P3995409354" "{PlayerDest} is hit for {Damage} points of smashing damage by your {PowerName}."
 // Effect VictimHit Message :
+"P2640482987" "{PlayerSource} pulverizes you for {Damage} points of smashing damage!"
 // Effect AttackerHit Message :
 "P1416744077" "You hold {PlayerDest} with your {PowerName}!"
 // Effect VictimHit Message :
@@ -4035,6 +3391,7 @@
 // Display Name :
 "P4034968973" "Mu Lightning"
 // Power Mouse-Over Text :
+"P1519530153" "Ranged, High DMG(Energy), Foe -End"
 // Power Help Text :
 "P412115573" "You can send a large blast of Mu electrical energy at a foe, dealing heavy damage and draining some Endurance. Some of this Endurance may transfer back to you. Damage: High, Recharge: Fast"
 // Effect AttackerHit Message :
@@ -4070,6 +3427,7 @@
 // Power Help Text :
 "P288287190" "Hurls a highly charged ball of Mu lightning that explodes on contact. Ball Lightning deals good damage in an area of effect, and drains some Endurance from each target it hits. You must be level 41 and have Mu Lightning or Electrifying Fences before selecting this power. Damage: Moderate(DoT), Recharge: Long"
 // DisplayTargetShortHelp :
+"P1831456333" "DoT(Energy)"
 // DisplayTargetHelp :
 "P2467806480" "The Ball Lightning is continuing to electrocute you."
 // Effect AttackerHit Message :
@@ -4457,6 +3815,274 @@
 // Power Help Text :
 "P3104642029" "When you activate this power, you become highly resistant to all damage types except psionics. Your endurance recovery is also increased. Force of Nature costs little endurance to activate, but when it wears off you are left exhausted, and drained of almost all endurance, and unable to recover endurance for a short while. Unrelenting from the Presence pool can be used to prevent this crash from occurring. You must be level 44 and have two other Field Mastery Powers before selecting this power. Recharge: Very Long"
 
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Energy Mastery Enforcer 
+// -------------------------------------------------------------------------------- 
+
+// -------------------------------------------------------------------------------- 
+// Power : Power Burst 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P966430571" "Power Burst"
+// Power Mouse-Over Text :
+"P3652878171" "High DMG(Energy/Smash), Foe Knockback"
+// Power Help Text :
+"P4026760093" "A devastating attack, Power Burst unleashes a massive amount of energy dealing very high damage at short distances.  The impact from this burst often knocks back most foes. Damage: High, Recharge: Slow"
+// Effect AttackerHit Message :
+"P580006646" "Your {PowerName} hits {PlayerDest} for {Damage} points of smashing damage!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Explosive Blast 
+// -------------------------------------------------------------------------------- 
+// Power Help Text :
+"P4131221748" "You hurl a blast of charged energy that violently explodes on impact, damaging all foes near the target. Explosive Blast may knock targets backwards. Damage: Moderate, Recharge: Slow"
+
+// -------------------------------------------------------------------------------- 
+// Power : Crushing Field 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P265849818" "Crushing Field"
+// Power Mouse-Over Text :
+"P1348701880" "Ranged (Targeted AoE), Minor DoT(Smash), Foe Immobilize, -Fly"
+// Power Help Text :
+"P1432813375" "Creates a large gravitational field strong enough to Immobilize multiple foes. Crushing Field can also bring down flying entities. Slower and less damaging than Crush, but can capture multiple targets. Crushing Field deals Smashing damage over time and can Slow the movement of targets that escape its grasp. Damage: Minor(DoT), Recharge: Moderate"
+// DisplayTargetShortHelp :
+"P2614568357" "DoT(Smash), Immobilize, -Fly"
+// DisplayTargetHelp :
+"P2051563830" "You are being Crushed.  You cannot move or fly."
+// Effect AttackerHit Message :
+"P108278574" "You increase the gravity around {PlayerDest} and Crush them for {Damage} points of smashing damage."
+// Effect VictimHit Message :
+"P3604253506" "{PlayerSource} increases the gravity around you and Crushes you for {Damage} points of smashing damage."
+// Effect AttackerHit Message :
+"P4041620612" "Your {PowerName} crushes {PlayerDest} for {Damage} points of smashing damage and reduce their Defense!"
+// Effect VictimHit Message :
+"P2803527962" "{PlayerSource} crushes you with their {PowerName} for {Damage} points of smashing damage and reduces your defense!"
+// Effect AttackerHit Message :
+"P362106426" "You Immobilized {PlayerDest} with your {PowerName}!"
+// Effect VictimHit Message :
+"P422814428" "{PlayerSource} immobilized you with their {PowerName}!"
+// Effect AttackerHit Message :
+"P3786851416" "Your Immobilization of {PlayerDest} with your {PowerName} was even more powerful!"
+// Effect VictimHit Message :
+"P1816503069" "{PlayerSource} lands an extra strong immobilization on you with their {PowerName}!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Unyielding 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1513544269" "Unyielding"
+// Power Mouse-Over Text :
+"P4266165712" "Toggle: Self +Res(All DMG but Psionics; Knockback, Sleep, Disorient, Hold, Immobilize)"
+// Power Help Text :
+"P2097273274" "When you toggle on this power, you become Unyielding. You are resistant to all damage but Psionics, as well as Knockback, Sleep, Hold, Immobilize, Disorient effects. Recharge: Slow"
+// Power AttackerHit Message :
+"P1454403211" "You now resist all damage but Psionics and are protected from Knockback, Sleep, Hold, Immobilize and Disorient effects."
+
+// -------------------------------------------------------------------------------- 
+// Power : Reconstruction 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2739289019" "Reconstruction"
+// Power Mouse-Over Text :
+"P3810685749" "Self Heal, Res(Toxic)"
+// Power Help Text :
+"P4226034962" "Through perfect control of your body, you can concentrate for a few moments and heal yourself. The effects of Reconstruction also leaves you resistant to Toxic damage for a while. Recharge: Long"
+// Effect AttackerHit Message :
+"P454249131" "Your {PowerName} heals you for {Damage} hit points!"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Warshade Mastery Enforcer 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1627155937" "Warshade Mastery"
+// DisplayHelp :
+"P2026711275" "You have Mastery over Negative Energy to protect yourself and defeat your foes."
+
+// -------------------------------------------------------------------------------- 
+// Power : Shadow Blast 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2341052953" "Shadow Blast"
+// Power Mouse-Over Text :
+"P3730608247" "Ranged, Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD"
+// Power Help Text :
+"P1748312304" "A much more powerful, yet slower version of Shadow Bolt. Shadow Blast sends focused negative Nictus energy at a foe.  This attack can knock down foes and will leave the target's attack rate and movement speed slowed. Damage: Moderate, Recharge: Moderate"
+// DisplayTargetHelp :
+"P3432723974" "Your attack rate and Running speed have been reduced by the Shadow Blast."
+// Effect AttackerHit Message :
+"P2767213108" "Your {PowerName} deals {Damage} points of negative energy damage to {PlayerDest} and slows them!"
+// Effect VictimHit Message :
+"P2182527782" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of negative energy damage and slows you!"
+// Effect AttackerHit Message :
+"P2640558248" "Your {PowerName} knocks {PlayerDest} off their feet."
+
+// -------------------------------------------------------------------------------- 
+// Power : Dark Matter Detonation 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P148820551" "Dark Matter Detonation"
+// Power Mouse-Over Text :
+"P1441718266" "Ranged (Targeted AoE), Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD"
+// Power Help Text :
+"P3928439858" "You hurl a blast of Dark Matter that violently explodes on impact, damaging all foes near the target. All affected targets' have their attack rate and movement speed slowed.  Some foes may be knocked down. Damage: Moderate, Recharge: Slow"
+// DisplayTargetHelp :
+"P793775765" "Your attack rate and Running speed have been reduced by the Dark Matter Detonation."
+
+// -------------------------------------------------------------------------------- 
+// Power : Gravitic Emanation 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3680191049" "Gravitic Emanation"
+// Power Mouse-Over Text :
+"P2715767264" "Ranged (Cone), Minor DMG(Negative), Foe Disorient, Knockback, -Recharge, -SPD"
+// Power Help Text :
+"P219349092" "Gravitic Emanation sends bolts of dark Nictus energy to multiple targets within a cone area in front of the caster.  Gravitic Emanation deals only minor Negative Energy damage to each affected foe, but knocks them back, leaving them Disoriented and with reduced attack rate and movement speed. Damage: Minor. Recharge: Slow"
+// DisplayTargetShortHelp :
+"P1967383444" "Disorient, -Recharge, -SPD"
+// DisplayTargetHelp :
+"P1436146315" "You have been Disoriented by the Gravitic Emanation.  Your Attack rate and Running speed are reduced as well."
+// Effect AttackerHit Message :
+"P3172775158" "You hit {PlayerDest} with {Damage} points of negative energy damage from your {PowerName} and slow them!"
+// Effect VictimHit Message :
+"P4080910310" "{PlayerSource} hits you with their {PowerName} for {Damage} points of negative energy damage and slows you!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Ebon Shield 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P946955025" "Ebon Shield"
+// Power AttackerHit Message :
+"P1795074363" "Your {PowerName} has made you highly resistant to energy and negative energy damage."
+
+// -------------------------------------------------------------------------------- 
+// Power : Stygian Circle 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1048529385" "Stygian Circle"
+// Power Mouse-Over Text :
+"P2939871007" "PBAoE Self +HP (Special), +End"
+// Power Help Text :
+"P3552754242" "You can tap into your Nictus power to drain the remaining essence of all nearby defeated foes to heal yourself, and recover Endurance.  The more defeated foes affected, the more you will be healed. Additionally, the more powerful the defeated foes you drain, the more health you will recover. Recharge: Slow"
+// Effect AttackerHit Message :
+"P3996167036" "Your {PowerName} heals you for {Damage} points of damage!"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Psionic Mastery Enforcer 
+// -------------------------------------------------------------------------------- 
+// DisplayHelp :
+"P673774616" "You have Mastery over Psionic Forces to protect yourself and defeat your foes."
+
+// -------------------------------------------------------------------------------- 
+// Power : Telekinetic Blast 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1128608213" "Telekinetic Blast"
+// Power Mouse-Over Text :
+"P2663199646" "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback"
+// Power Help Text :
+"P634414874" "You can use Telekinesis to Blast a targeted foe with the power of your mind. This attack deals Smashing and Psionic damage, and can knock your opponent back. Damage: Moderate, Recharge: Moderate"
+// Effect AttackerHit Message :
+"P3733287903" "You blast {PlayerDest} to the floor and deal {Damage} points of smashing damage with your {PowerName}."
+// Effect VictimHit Message :
+"P3624484165" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of damage!"
+// Effect AttackerHit Message :
+"P3879679247" "You blast {PlayerDest} to the floor and deal {Damage} points of psionic damage with your {PowerName}."
+
+// -------------------------------------------------------------------------------- 
+// Power : Psionic Tornado 
+// -------------------------------------------------------------------------------- 
+// Power Help Text :
+"P35020894" "Unleashes a whirlwind of Psionic energy on a target, tossing nearby foes into the air. The Psionic Tornado damages foes and Slows their attack speed. Damage: Moderate(DoT), Recharge: Slow"
+// DisplayTargetHelp :
+"P980783330" "You are taking psionic damage over time."
+// Effect AttackerHit Message :
+"P2577029189" "You blast {PlayerDest} with your {PowerName} for {Damage} points of damage and Slow them!"
+// Effect VictimHit Message :
+"P4275716365" "{PlayerSource} blasts you with a {PowerName} for {Damage} points of psionic damage, slowing your attack rate!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Total Domination 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1372864868" "Total Domination"
+// Power Mouse-Over Text :
+"P3095732666" "Ranged (Targeted AoE), Foe Hold"
+// Power Help Text :
+"P2396344488" "Tears at the mind of a target foe and those near them. Dominate renders all affected foes helpless, lost in their own minds and unable to defend themselves. Recharge: Very Long"
+// DisplayTargetHelp :
+"P2697171271" "You have been Dominated."
+// Effect AttackerHit Message :
+"P3720756566" "Your {PowerName} holds {PlayerDest}, paralyzing them!"
+// Effect VictimHit Message :
+"P4054835770" "{PlayerSource} holds you in place with their {PowerName} attack!"
+// Effect AttackerHit Message :
+"P4034150122" "Your hold on {PlayerDest} with your {PowerName} was even more powerful!"
+// Effect VictimHit Message :
+"P287351733" "{PlayerSource} lands an extra strong hold on you with their {PowerName}!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Indomitable Will 
+// -------------------------------------------------------------------------------- 
+
+// -------------------------------------------------------------------------------- 
+// Power : World of Confusion 
+// -------------------------------------------------------------------------------- 
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Fire Mastery Enforcer 
+// -------------------------------------------------------------------------------- 
+// DisplayHelp :
+"P1284858527" "You have Mastery over Fire to protect yourself and defeat your foes."
+
+// -------------------------------------------------------------------------------- 
+// Power : Fire Blast 
+// -------------------------------------------------------------------------------- 
+// Effect VictimHit Message :
+"P3200596956" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of fire damage!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Fire Ball 
+// -------------------------------------------------------------------------------- 
+
+// -------------------------------------------------------------------------------- 
+// Power : Fire Cages 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2960001225" "Fire Cages"
+// Power Mouse-Over Text :
+"P1407073287" "Ranged (Targeted AoE), Minor DoT(Fire), Foe Immobilize"
+// Power Help Text :
+"P3718752007" "Immobilizes a group of foes in Fire Cages, dealing Fire damage over time. More resilient foes may require multiple Fire Cages to Immobilize. Fire Cages is slower and less damaging than Ring of Fire, but can capture multiple targets. Damage: Minor(DoT), Recharge: Moderate"
+// DisplayTargetShortHelp :
+"P1688818094" "Immobilize, DoT(Fire)"
+// DisplayTargetHelp :
+"P3011391955" "The Fire Cage is burning you and preventing you from moving."
+// Effect VictimHit Message :
+"P2263168214" "{PlayerSource} burns you with their {PowerName} for {Damage} points of fire damage!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Hearth Aegis 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1114012381" "Hearth Aegis"
+
+// -------------------------------------------------------------------------------- 
+// Power : Healing Flames 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1655585835" "Healing Flames"
+// Power Mouse-Over Text :
+"P1713874157" "Self Heal, +Res(Toxic)"
+// Power Help Text :
+"P4164071998" "You can concentrate for a few moments to heal yourself. The power of the flames can also protect you from Toxic Damage for a while. Recharge: Long"
+// Effect AttackerHit Message :
+"P2489522615" "Your {PowerName} heals you for {Damage} hit points and protects you from Toxic damage!"
+
 // ************************************************************************
 // ************************************************************************
 // ************************************************************************
@@ -4529,7 +4155,6 @@
 // Power Help Text :
 "P3114522882" "You lash out at nearby foes in a single broad strike hitting up to 5 enemies in a cone in front of you. In primal (human) form you will deal smashing damage and will heal yourself and up to 3 nearby allies for a fair amount of health. In Hunter form you'll deal lethal damage and reduce the targets' defense. In Prowler form you'll deal lethal damage, cause minor lethal damage over time and have a good chance to stun. Brutal Swipe builds 1 Primal Energy. Damage: High, Recharge: Moderate"
 // Effect AttackerHit Message :
-"P580006646" "Your {PowerName} hits {PlayerDest} for {Damage} points of smashing damage!"
 // Effect VictimHit Message :
 "P3886663292" "{PlayerSource} hits you with an {PowerName} for {Damage} points of smashing damage!"
 
@@ -4696,395 +4321,6 @@
 // ---------------------------------------------------------------------------------------------------
 
 // ----------------------------------------------------------------------------------------------
-// Source File : C:/game/data/Defs/powers/src/Epic_Powers.xls 	Sheet: HAC_Defense 
-//
-// Script      : Xlstopowdefdef.bat 
-// Version     : 56 
-// ----------------------------------------------------------------------------------------------
-
-
-
-
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// Power Catagory : HAC_Defense 
-// 			Worksheet : HAC_Defense 
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-
-// ******************************************************************************** 
-// -------------------------------------------------------------------------------- 
-// Power Set : HAC Defensive 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P3033720145" "HAC Defensive"
-// DisplayHelp :
-"P1061500721" "Hyper-Advanced Clockwork have three modes of Operation: Standard, Offensive Mode or Defensive Mode.  These are controlled by a pair of Toggle powers.  When neither is engaged, the HAC uses standard modifiers, which favor Buff, Debuff and Movement powers.  If the Offense Mode toggle is engaged, then the focus shifts, becoming weaker to Buff, Debuff and Movement values, but Recharge, To Hit and Damage are increased.    In Defensive Mode, the ATmods shift, becoming weaker to Buff, Debuff and Movement values, but stronger to Damage Resistances, Status changes and Regeneration."
-
-// -------------------------------------------------------------------------------- 
-// Power : Andriod Form 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3890784046" "Andriod Form"
-// Power Mouse-Over Text :
-"P715395658" "Auto: Self +Res(All)"
-// Power Help Text :
-
-// -------------------------------------------------------------------------------- 
-// Power : HAC_Offensive 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1194647527" "Offensive Mode"
-// Power Mouse-Over Text :
-"P677038171" "Self +DMG, Special"
-
-// -------------------------------------------------------------------------------- 
-// Power : HAC_Defense 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3049687236" "Defensive Mode"
-// Power Mouse-Over Text :
-"P2094497594" "Self +Health, Special"
-
-// -------------------------------------------------------------------------------- 
-// Power : Lightning Field 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2253856063" "Lightning Field"
-// Power Mouse-Over Text :
-"P2938625842" "Toggle: PBAoE, Minor DoT(Energy), Foe -End"
-// Power Help Text :
-"P3624158687" "While active, you emit a storm of electricity that constantly damages all nearby foes. Damage: Minor(DoT), Recharge: Slow"
-// DisplayTargetShortHelp :
-// DisplayTargetHelp :
-"P2516347203" "You are taking damage from the Lightning Field."
-// Effect AttackerHit Message :
-"P410385832" "{PowerName} shocks {PlayerDest} for {Damage} points of energy damage."
-// Effect VictimHit Message :
-// Effect AttackerHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Field Projector 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3018633760" "Field Projector"
-// Power Mouse-Over Text :
-"P2876428248" "Toggle: PBAoE, Team +Res(Hold, Immobilize, Disorient) +DEF(All)"
-// Power Help Text :
-"P1398218065" "Creates a large bubble which protects all allies inside. While active, the Dispersion Bubble gives all allies within increased Defense against all attack types. The Dispersion Bubble also protects allies from Immobilization, Disorient, and Hold effects. Recharge: Slow"
-// Power AttackerHit Message :
-"P1309444121" "You protect {PlayerDest} from all damage types with your {PowerName}."
-// Power VictimHit Message :
-"P2704196223" "{PlayerSource} protects you from all damage types with a {PowerName}."
-// DisplayTargetShortHelp :
-"P3780623979" "+Res(Hold, Immobilize, Disorient) +DEF(All)"
-// DisplayTargetHelp :
-"P1240327833" "The Dispersion Bubble is increasing your Defenses to all attacks and providing protection from Hold, Immobilize and Disorienting attacks."
-
-// -------------------------------------------------------------------------------- 
-// Power : Backup Power 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1898747298" "Backup Power"
-
-// -------------------------------------------------------------------------------- 
-// Power : Reinforced Shell 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P895160724" "Reinforced Shell"
-// Power Mouse-Over Text :
-// Power Help Text :
-"P4242840154" "When you toggle on your Reinforced Shell, you create an energy barrier that grants you high resistance to Smashing and Lethal damage. Recharge: Fast"
-// Power AttackerHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Build Up 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-// Power Mouse-Over Text :
-// Power Help Text :
-"P3947772857" "Greatly increases the amount of damage you deal for a few seconds, as well as slightly increasing your chance to hit. Recharge: Long"
-// Effect AttackerHit Message :
-"P881226045" "You tap into your inner fire with your {PowerName} and are more accurate and more deadly for a short while."
-
-// -------------------------------------------------------------------------------- 
-// Power : Energized Shielding 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1706126235" "Energized Shielding"
-// Power Mouse-Over Text :
-"P1095927242" "Toggle: Self +Res(Energy, Neg Energy, Toxic)"
-// Power Help Text :
-"P3382077898" "When you toggle on your Energized Shielding, you create an energy barrier that grants you high resistance to Energy, Negative Energy and Toxic damage. Recharge: Fast"
-
-// -------------------------------------------------------------------------------- 
-// Power : Thermal Shell 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2206261721" "Thermal Shell"
-// Power Mouse-Over Text :
-"P4187472149" "Toggle: Self +Res(Fire, Cold)"
-// Power Help Text :
-"P249700247" "When you toggle on your Thermal Shell, you create an energy barrier that grants you high resistance to Fire and Cold damage. Recharge: Fast"
-
-// -------------------------------------------------------------------------------- 
-// Power : System Redundancy 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2891061188" "System Redundancy"
-// Power Mouse-Over Text :
-"P3920299262" "Auto: Res(Slow, EndDrain, Stun, Sleep, Confuse)"
-// Power Help Text :
-"P3024861938" "You have installed redundant systems to provide some resistance to various debilitating effects."
-
-// -------------------------------------------------------------------------------- 
-// Power : Build Assistant 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1986914730" "Build Assistant"
-// Power Mouse-Over Text :
-"P4216435197" "Summon Assistant"
-// Power Help Text :
-"P3819335205" "Using parts of your own structure, you create a temporary Mark VI Clockwork.  The "Victoria" will last for up to 60 seconds.  Note that your own health will be reduced for this same 60 second period, making your more vulnerable to defeat. Recharge: Very Long"
-
-// -------------------------------------------------------------------------------- 
-// Power : Juggernaut 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P150902459" "Juggernaut"
-// Power Mouse-Over Text :
-"P401005112" "Toggle: Special"
-// Power Help Text :
-"P3088946327" "Juggernaut is the ultimate expression of the versatility of the Hyper-Advanced Clockwork.  Depending on your current stance, activating this power will either grant a large Damage bonus (offensive), area of effect Heal plus heal over time effect (Normal) or massive increase to resists and status protection (defensive).  Note that changing mode while Juggernaut is active forces it to end pre-maturely.  60 seconds after activating Juggernaut, your endurance will be reduced by 90%. Recharge: Very Long"
-// Power AttackerHit Message :
-"P153444178" "You become a Juggernaut!"
-
-// ************************************************************************
-// ************************************************************************
-// ************************************************************************
-
-// ---------------------------------------------------------------------------------------------------
-// Generated by transModule
-// ---------------------------------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------------------------
-// Source File : C:/game/data/Defs/powers/src/Epic_Powers.xls 	Sheet: HAC_Offense 
-//
-// Script      : Xlstopowdefdef.bat 
-// Version     : 56 
-// ----------------------------------------------------------------------------------------------
-
-
-
-
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-// Power Catagory : HAC_Offense 
-// 			Worksheet : HAC_Offense 
-// -------------------------------------------------------------------------------- 
-// -------------------------------------------------------------------------------- 
-
-// ******************************************************************************** 
-// -------------------------------------------------------------------------------- 
-// Power Set : HAC Energy Projection 
-// -------------------------------------------------------------------------------- 
-// DisplayName :
-"P3643800845" "HAC Energy Projection"
-// DisplayHelp :
-
-// -------------------------------------------------------------------------------- 
-// Power : Plasma Blast 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3259269722" "Plasma Blast"
-// Power Mouse-Over Text :
-"P544842344" "Ranged, Moderate DMG(Energy), Foe -Regen"
-// Power Help Text :
-"P276029861" "Plasma blasts are capable of tearing through the toughest of materials, foes struck by this attack will also have their regeneration rate decreased.  Damage: Moderate, Recharge: Fast"
-// DisplayTargetShortHelp :
-"P3150127817" "-Regen"
-// DisplayTargetHelp :
-"P3704160047" "Your regeneration rate has been reduced by the Plasma Blast."
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-"P2794417926" "{PlayerSource} shoots you with their {PowerName} for {Damage} points of Energy damage and reduces your regeneration rate!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Charged Blast 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3548114859" "Charged Blast"
-// Power Mouse-Over Text :
-"P4092687029" "Ranged, Moderate DMG(Energy), Foe -Regen, Knockdown"
-// Power Help Text :
-"P2213384391" "Plasma blasts are capable of tearing through the toughest of materials, foes struck by this attack will also have their regeneration rate decreased and may be knocked down.  Damage: High, Recharge: Fast"
-// DisplayTargetShortHelp :
-"P2326264984" "-Regen, Knockdown"
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Particle Blast 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P4220105557" "Particle Blast"
-// Power Mouse-Over Text :
-"P1787819167" "Ranged, Moderate DMG(Energy) Foe -Regen"
-// Power Help Text :
-"P3388814699" "Android Menders are capable of firing a blast from their shoulder mounted particle weapon.  Enemies struck by this attack will suffer energy damage and additional energy damage over time."
-// DisplayTargetShortHelp :
-"P3542007773" "Minor DoT(Energy)"
-// DisplayTargetHelp :
-"P2582929511" "You are suffering damage over time from the Particle Blast."
-// Effect VictimHit Message :
-"P3401290651" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of Energy damage."
-// Effect AttackerHit Message :
-"P3462473403" "Your {PowerName} continues to burn {PlayerDest} for {Damage} points of energy damage!"
-// Effect VictimHit Message :
-"P1081131390" "The {PowerName} continues to deal {Damage} points of Energy damage to you!"
-
-// -------------------------------------------------------------------------------- 
-// Power : Plasma Spray 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2637088008" "Plasma Spray"
-// Power Mouse-Over Text :
-"P1422276298" "Ranged (Cone), Minor DMG(Energy), Foe -Regen"
-// Power Help Text :
-"P3540514673" "The clockwork android fires a barrage of plasma beams from its wrist at its targets dealing minor energy damage and reducing targets' regeneration rate.  Damage: Minor, Recharge: Moderate"
-// Effect VictimHit Message :
-"P2689073187" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of energy damage and reduces your regeneration rate."
-
-// -------------------------------------------------------------------------------- 
-// Power : Nano Repair 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3150032194" "Nano Repair"
-// Power Mouse-Over Text :
-"P553708814" "Ally Heal"
-// Power Help Text :
-"P4271622518" "Heals a single targeted ally at moderate range. You cannot use this power to heal yourself. Recharge: Fast"
-// Effect AttackerHit Message :
-"P1645239844" "You heal {PlayerDest} {Damage} points of damage."
-// Effect VictimHit Message :
-"P4291132995" "{PlayerSource} heals you for {Damage} points of damage."
-
-// -------------------------------------------------------------------------------- 
-// Power : Pummel 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-// Power Mouse-Over Text :
-"P1894294121" "Melee Moderate DMG(Smash), Foe Minor Disorient, -Res (all)"
-// Power Help Text :
-"P4160218007" "Your stone covered fists attack swiftly for moderate damage, and may Disorient your opponent.  This power can bruise an enemy, making them more vulnerable to damage. Damage: Moderate, Recharge: Fast"
-// DisplayTargetShortHelp :
-// DisplayTargetHelp :
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-"P3492382657" "{PlayerSource} smashes you with their {PowerName} for {Damage} points of smashing damage."
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Particle Burst 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P3371742825" "Particle Burst"
-// Power Mouse-Over Text :
-"P4171069351" "Ranged (Targeted AoE), Moderate DMG(Energy), Foe Minor DoT(Energy)"
-// Power Help Text :
-"P3591789373" "You are capable of firing a blast from your shoulder mounted particle weapon.  Enemies struck by this attack will suffer energy damage and additional energy damage over time."
-// Effect VictimHit Message :
-"P2593744925" "You're struck by a {PowerName} for {Damage} points of Energy damage."
-
-// -------------------------------------------------------------------------------- 
-// Power : Nano Cloud 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2725089276" "Nano Cloud"
-// Power Mouse-Over Text :
-// Power Help Text :
-"P2701598680" "You release a cloud of nanobots, healing yourself and nearby allies."
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Haymaker 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P2660079040" "Haymaker"
-// Power Mouse-Over Text :
-// Power Help Text :
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-
-// -------------------------------------------------------------------------------- 
-// Power : Quick Repair 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P1641327011" "Quick Repair"
-// Power Mouse-Over Text :
-"P547824692" "Ally Rez"
-// Power Help Text :
-"P175199817" "Resurrects a fallen ally with full Hit Points and Endurance.  The Resurrected target is left protected from XP Debt for 90 seconds.  Recharge: Very Long"
-// DisplayConfirm :
-"P2466737886" "{PlayerSource} would like to Resurrect you.  You will have full Health and Endurance. Do you Accept?"
-// DisplayTargetShortHelp :
-"P345555159" "+XP Debt Protection"
-// DisplayTargetHelp :
-"P478643514" "You have been Resurrected. You are protected from XP Debt for 90 seconds."
-// Effect AttackerHit Message :
-"P2981368860" "You {PowerName} {PlayerDest} and heal them for {Damage} points."
-// Effect VictimHit Message :
-"P3162516584" "{PlayerSource} returns you from the brink of death and heals you for {Damage} points."
-
-// -------------------------------------------------------------------------------- 
-// Power : Anti-Matter Beam 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-"P4147531697" "Anti-Matter Beam"
-// Power Mouse-Over Text :
-"P4138452936" "Ranged (Cone), Superior DMG(Energy), Foe -Def, Knockback"
-// Power Help Text :
-"P1937286100" "You are capable of releasing a blast of Anti-Matter from their core in a devastating arc.  This attack will deal superior Energy damage and reduce the targets' defense, target stuck may also be knocked off of their feet.  Damage: Superior, Recharge: Long"
-// DisplayTargetShortHelp :
-// DisplayTargetHelp :
-"P2678115368" "Your defense has been reduced by the Anti-Matter Beam."
-// Effect VictimHit Message :
-"P1441389677" "{PlayerSource} devastates you with their {PowerName} for {Damage} points of energy damage and reduces your defense."
-
-// -------------------------------------------------------------------------------- 
-// Power : EM Pulse 
-// -------------------------------------------------------------------------------- 
-// Display Name :
-// Power Mouse-Over Text :
-"P3111590990" "PBAoE, Foe Hold, -END, -Regen, Special vs. Robots; Self -Recovery"
-// Power Help Text :
-"P3436877588" "You can unleash a massive pulse of electromagnetic energy. This EMP can affect machines, and is even powerful enough to affect synaptic brain patterns.  It will drain the Endurance and HP Regeneration of all affected targets and leave them incapacitated and Held for a long while. Additionally, most machines and robots will take moderate high damage. However, this power uses a lot of Endurance and leaves you unable to recover Endurance for a while. Recharge: Very Long"
-// DisplayTargetShortHelp :
-"P799513638" "Hold, -Regen"
-// DisplayTargetHelp :
-"P3632529316" "You are Held by the EMP Pulse and your Regeneration Rate is reduced."
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-// Effect AttackerHit Message :
-// Effect VictimHit Message :
-// Effect AttackerHit Message :
-"P3216666060" "Your {PowerName} reduces the regeneration rate of {PlayerDest}!"
-// Effect VictimHit Message :
-"P1491019888" "{PlayerSource} reduces your regeneration rate with an {PowerName}"
-// Effect AttackerHit Message :
-
-// ************************************************************************
-// ************************************************************************
-// ************************************************************************
-
-// ---------------------------------------------------------------------------------------------------
-// Generated by transModule
-// ---------------------------------------------------------------------------------------------------
-
-// ----------------------------------------------------------------------------------------------
 // Source File : data/Defs/powers/src/Epic_Powers.xls 	Sheet: Kheldian_Pets 
 //
 // Script      : Xlstopowdefdef.bat 
@@ -5208,25 +4444,20 @@
 // Effect AttackerHit Message :
 "P3009976856" "{PlayerSource} hits {PlayerDest} for {Damage} points of negative energy and slows them!"
 // Effect VictimHit Message :
-"P4080910310" "{PlayerSource} hits you with their {PowerName} for {Damage} points of negative energy damage and slows you!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Shadow Blast 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P2341052953" "Shadow Blast"
 // Power Mouse-Over Text :
-"P3730608247" "Ranged, Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD"
 // Power Help Text :
 "P2793562518" "A much more powerful, yet slower version of Shadow Bolt. Shadow Blast sends focused negative Nictus energy at a foe.  This attack can knock down foes and will leave the target's attack and movement speed slowed. Damage: Moderate, Recharge: Moderate"
 // DisplayTargetHelp :
-"P3432723974" "Your attack rate and Running speed have been reduced by the Shadow Blast."
 
 // -------------------------------------------------------------------------------- 
 // Power : Gravitic Emanation 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P3680191049" "Gravitic Emanation"
 // Power Mouse-Over Text :
 "P3494415075" "Ranged (Cone), Moderate DMG(Negative), Foe -Recharge, -SPD"
 // Power Help Text :
@@ -5255,6 +4486,7 @@
 // Power Set : Omega_Bomb 
 // -------------------------------------------------------------------------------- 
 // DisplayName :
+"P0" ""
 // DisplayShortHelp :
 "P1902797650" "Arachnos"
 
@@ -5278,6 +4510,7 @@
 // Power : Taunt 
 // -------------------------------------------------------------------------------- 
 // Display Name :
+"P1980192711" "Taunt"
 // Power Help Text :
 "P2440418881" "You have been taunted!"
 
@@ -5359,6 +4592,7 @@
 // Display Name :
 "P576070762" "Thermal Shield"
 // Power Mouse-Over Text :
+"P4187472149" "Toggle: Self +Res(Fire, Cold)"
 // Power Help Text :
 "P4046197397" "When you toggle on Thermal Shield, you emit tendrils of Kheldian energy that give you resistance to Fire and Cold damage. Recharge: Fast"
 // Power AttackerHit Message :
@@ -5413,6 +4647,7 @@
 // Power Mouse-Over Text :
 "P1324952732" "Self Heal"
 // Power Help Text :
+"P4002351686" "Through perfect control of your body and energy, you can concentrate for a few moments and heal yourself. Recharge: Long"
 // Effect AttackerHit Message :
 
 // -------------------------------------------------------------------------------- 
@@ -5458,6 +4693,7 @@
 // Power AttackerHit Message :
 "P1697561617" "You {PowerName} yourself from the brink of death.  You feel weak and cannot do anything for a while."
 // DisplayTargetShortHelp :
+"P345555159" "+XP Debt Protection"
 // DisplayTargetHelp :
 "P609977609" "You have Restored your Essence. You are protected from XP Debt for 20 seconds."
 // DisplayFloat :
@@ -5510,6 +4746,7 @@
 // DisplayName :
 "P3146531456" "Luminous Blast"
 // DisplayHelp :
+"P3867099449" "Masters of light, energy and matter, Peacebringers can manipulate Kheldian Light Energy to devastate their opponents. Their Luminous Blasts bombard their foes with awesome power that often knock down foes and can easily reduce a target's defenses."
 
 // -------------------------------------------------------------------------------- 
 // Power : Gleaming Bolt 
@@ -5537,6 +4774,7 @@
 // Power Help Text :
 "P422891647" "You can emit a beam of Kheldian energy from your eyes, dealing moderate Energy damage and reducing a target's Defense. Damage: Moderate, Recharge: Fast"
 // DisplayTargetHelp :
+"P2469523492" "Your Defenses have been reduced by the Glinting Eye attack."
 // Effect AttackerHit Message :
 "P4239404412" "Your {PowerName} blasts {PlayerDest} for {Damage} points of energy damage and reduces their defense!"
 // Effect VictimHit Message :
@@ -5556,7 +4794,6 @@
 // Effect AttackerHit Message :
 "P3200161086" "Your {PowerName} deals {Damage} points of energy damage to {PlayerDest} and reduces their defense!"
 // Effect AttackerHit Message :
-"P2640558248" "Your {PowerName} knocks {PlayerDest} off their feet."
 // Effect VictimHit Message :
 
 // -------------------------------------------------------------------------------- 
@@ -5614,6 +4851,7 @@
 // Power Help Text :
 "P1481444107" "Greatly increases the amount of damage you deal for a few seconds, as well as increasing your chance to hit.  Light continues to burn from within you for 30 seconds, giving you a lingering damage and ToHit buff after the initial burst fades. Recharge: Slow"
 // Effect AttackerHit Message :
+"P2681829321" "You tap into your inner light with your {PowerName} and are more accurate and more deadly for a short while."
 
 // -------------------------------------------------------------------------------- 
 // Power : Luminous Detonation 
@@ -5673,9 +4911,13 @@
 // Display Name :
 "P3089238823" "Glowing Touch"
 // Power Mouse-Over Text :
+"P553708814" "Ally Heal"
 // Power Help Text :
+"P4271622518" "Heals a single targeted ally at moderate range. You cannot use this power to heal yourself. Recharge: Fast"
 // Effect AttackerHit Message :
+"P1645239844" "You heal {PlayerDest} {Damage} points of damage."
 // Effect VictimHit Message :
+"P4291132995" "{PlayerSource} heals you for {Damage} points of damage."
 
 // -------------------------------------------------------------------------------- 
 // Power : Solar Flare 
@@ -6136,6 +5378,7 @@
 // Power : Feral Blow Hunter 
 // -------------------------------------------------------------------------------- 
 // DisplayTargetShortHelp :
+"P3100956268" "-Def"
 // DisplayTargetHelp :
 "P320040536" "Your defense has been reduced by the Hunter's Feral Blow."
 // Effect AttackerHit Message :
@@ -6326,6 +5569,571 @@
 // ---------------------------------------------------------------------------------------------------
 
 // ----------------------------------------------------------------------------------------------
+// Source File : data/Defs/powers/src/Epic_Powers.xls 	Sheet: Rocketman_Blastshield 
+//
+// Script      : Xlstopowdefdef.bat 
+// Version     : 57 
+// ----------------------------------------------------------------------------------------------
+
+
+
+
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// Power Catagory : Rocketman_Blastshield 
+// 			Worksheet : Rocketman_Blastshield 
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4039733723" "Blastshield"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman_Blastshield 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2580705908" "Rocketman_Blastshield"
+// DisplayHelp :
+"P3131078170" "Those who enter the Soldier training program are given crash courses in Teamwork, Tactical Analysis and Coordination of Assets."
+
+// -------------------------------------------------------------------------------- 
+// Power : Wolf Spider Armor 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P289771964" "Wolf Spider Armor"
+// Power Mouse-Over Text :
+"P2063510575" "Auto: Self +RES(Smash, Lethal, Psionic, Status Effects)"
+// Power Help Text :
+"P3085307131" "Your Wolf Spider Armor provides good protection to Smashing, Lethal and Psionic damage types, as well as offering basic levels of protection to most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
+
+// -------------------------------------------------------------------------------- 
+// Power : Combat Training: Defensive 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P837435999" "Combat Training: Defensive"
+// Power Mouse-Over Text :
+"P2686949422" "Auto: Self +DEF(Ranged)"
+// Power Help Text :
+"P3653514426" "You are more evasive to ranged attacks."
+// DisplayPowerDefenseFloat :
+
+// -------------------------------------------------------------------------------- 
+// Power : Combat Training: Offensive 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1026612065" "Combat Training: Offensive"
+// Power Mouse-Over Text :
+"P3712515811" "Auto: Self +ACC"
+// Power Help Text :
+"P3859422746" "Your accuracy is improved."
+
+// -------------------------------------------------------------------------------- 
+// Power : Tactical Training: Maneuvers 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3997891554" "Tactical Training: Maneuvers"
+// Power Mouse-Over Text :
+"P732377228" "PBAoE, Team +DEF(All)"
+// Power Help Text :
+"P1197840263" "A good leader knows how to protect his team. While active, this power increases the Defense of yourself and all nearby teammates to all attacks. Recharge: Slow"
+// Power AttackerHit Message :
+"P1722481992" "Your {PowerName} increases your team's Defense."
+// Power VictimHit Message :
+"P2482711612" "{PlayerSource} increases your team's Defense with {PowerName}."
+// DisplayTargetShortHelp :
+"P2623971958" "+DEF(All)"
+// DisplayTargetHelp :
+"P3370322156" "Your Defense to all attacks is improved due to good teamwork and leadership."
+
+// -------------------------------------------------------------------------------- 
+// Power : Tactical Training: Assault 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3207706584" "Tactical Training: Assault"
+// Power Mouse-Over Text :
+"P253176242" "Toggle: PBAoE, Team +DMG, Res(Taunt, Placate)"
+// Power Help Text :
+"P1704720316" "While this power is active, you and your nearby teammates deal more damage and are more resistant to Taunt and Placate."
+// Power AttackerHit Message :
+"P2420471347" "Your {PowerName} increases your team's damage potential and resistance to Taunt and Placate."
+// Power VictimHit Message :
+"P1338507259" "{PlayerSource} increases your team's damage potential and resistance to Taunt and Placate."
+// DisplayTargetShortHelp :
+"P2588995686" "+DMG, Res(Taunt, Placate)"
+// DisplayTargetHelp :
+"P2452646208" "Your attack damage is improved due to good leadership and teamwork. You are resistant to Taunt and Placate."
+
+// -------------------------------------------------------------------------------- 
+// Power : Tactical Training: Leadership 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P590087249" "Tactical Training: Leadership"
+// Power Mouse-Over Text :
+"P3192701214" "Toggle: PBAoE, Team +To Hit, Res(Confuse, Fear), +Perception"
+// Power Help Text :
+"P3748478324" "While this power is active, your chance to hit and that of all your nearby teammates' is increased. Your advanced Tactics also protect you and your team from Confuse and Fear effects.  Additionally, your Perception is improved, allowing you to better detect Stealthy foes."
+// Power AttackerHit Message :
+"P3187125397" "Your Tactical Training increases your team's chance to hit and Perception."
+// Power VictimHit Message :
+"P2256447366" "{PlayerSource} increases your team's chance to hit and Perception with their Tactical Training."
+// DisplayTargetShortHelp :
+"P3397519668" "+To Hit, Res(Confuse, Fear), +Perception"
+// DisplayTargetHelp :
+"P116743153" "Your chance to hit and Perception is improved due to good teamwork and Leadership.  You have moderate protection against Fear and Confuse effects, as well."
+
+// -------------------------------------------------------------------------------- 
+// Power : Mental Training 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2872549282" "Mental Training"
+// Power Mouse-Over Text :
+"P938074036" "Auto: Self +Recharge, +SPD, Res (Slow)"
+// Power Help Text :
+"P1645597092" "Your mental training allows you to focus your will, allowing you to move faster than normal, as well as resist slow effects. This power is always on and permanently increases your attack rate and movement speed."
+// Power AttackerHit Message :
+"P3207966633" "Your {PowerName} has increased your rate of attack."
+
+// -------------------------------------------------------------------------------- 
+// Power : Call Reinforcements 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1342809510" "Call Reinforcements"
+// Power Mouse-Over Text :
+"P1447403391" "Call Reinforcements: Ranged Moderate DMG(Lethal)"
+// Power Help Text :
+"P3406607199" "As an Arachnos Soldier you have access to a small squadron of Arachnobot Disruptors. Two Disruptors that are one level less than you will show up when summoned. Recharge: Extremely Long"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman Super Blastshield 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1917524141" "Rocketman Super Blastshield"
+// DisplayHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : Crab Spider Armor 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2462644805" "Crab Spider Armor Upgrade"
+// Power Help Text :
+"P3200570513" "Your Crab Spider Armor Upgrade improves your protection to Smashing, Lethal and Psionic damage types, as well as increasing your protection against most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
+
+// -------------------------------------------------------------------------------- 
+// Power : Fortification 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P677019122" "Fortification"
+// Power Mouse-Over Text :
+"P4196317637" "Toggle: Self +Res(Disorient, Hold, Immobilize, Sleep, All DMG but Psionics)"
+// Power Help Text :
+"P1412227304" "Crab Spiders armor may be reinforced to become far more resistant to all types of damage except Psionics, as well as increasing protection to Sleep, Hold, Immobilization and Disorient effects. Recharge: Fast"
+
+// -------------------------------------------------------------------------------- 
+// Power : Serum 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2203543903" "Serum"
+// Power Mouse-Over Text :
+"P576038185" "Self Heal, +Max HP"
+// Power Help Text :
+"P2108311222" "You can activate this power to increase your maximum Hit Points for a short time. Recharge: Very Long"
+// Power AttackerHit Message :
+"P202041346" "Your {PowerName} increases your maximum Hit Points."
+
+// -------------------------------------------------------------------------------- 
+// Power : Summon Spiderlings 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+"P859065264" "As a Crab Spider you have access to a small squadron of Arachnobot Spiderlings. Three Spiderlings that are two levels less than you will show up when summoned. Recharge: Extremely Long"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman_Blastshield 
+// -------------------------------------------------------------------------------- 
+// DisplayHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : Bane Spider Armor 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P66017686" "Bane Spider Armor Upgrade"
+// Power Mouse-Over Text :
+"P702929636" "Auto: Self +Res(All DMG, Status Effects), +HP"
+// Power Help Text :
+"P1233169843" "Your Bane Spider Armor Upgrade improves your overall health, protection to all damage types, as well as increasing your protection against most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
+
+// -------------------------------------------------------------------------------- 
+// Power : Hide 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1350419774" "Cloaking Device"
+// Power Mouse-Over Text :
+"P3567599116" "Toggle: Self Stealth, +DEF(Melee, Ranged, AoE)"
+// Power Help Text :
+"P4051170883" "Cloaking Device makes you almost impossible to detect. When you attack or are damaged while using this power, you will be discovered. Even if discovered, you are hard to see and retain some bonus to Defense. Like most stealth powers, Cloaking Device cannot be used at the same time as other Concealment powers."
+// Power AttackerHit Message :
+"P4234907424" "You are concealed by your {PowerName}."
+// DisplayPowerDefenseFloat :
+"P3802943013" "Avoided"
+
+// -------------------------------------------------------------------------------- 
+// Power : Surveillance 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+"P911203408" "When this power is activated, you focus your senses to analyze your targets defensive capabilities and discover their weaknesses.  By sharing your knowledge of the targets weaknesses with your team mates, you effectively reduce their defense and resistance to damage. Recharge: Slow"
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : Web Cocoon 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+"P875072192" "The Bane Mace can fire a more powerful version the common web grenade.  The sinewy fibers of this grenade are strong enough to completely Hold one target. Targets able to resist the Hold are still likely to have their attack and movement speed dramatically slowed.  Web Cocoon can also bring down flying targets and prevent foes from jumping. Recharge: Long"
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+
+// ************************************************************************
+// ************************************************************************
+// ************************************************************************
+
+// ---------------------------------------------------------------------------------------------------
+// Generated by transModule
+// ---------------------------------------------------------------------------------------------------
+
+// ----------------------------------------------------------------------------------------------
+// Source File : data/Defs/powers/src/Epic_Powers.xls 	Sheet: Rocketman_Rockets 
+//
+// Script      : Xlstopowdefdef.bat 
+// Version     : 57 
+// ----------------------------------------------------------------------------------------------
+
+
+
+
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// Power Catagory : Rocketman_Rockets 
+// 			Worksheet : Rocketman_Rockets 
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P779252303" "Rockets"
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1214769044" "Rocketman"
+// DisplayShortHelp :
+// DisplayHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : Single Shot 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Pummel 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// DisplayFloat :
+
+// -------------------------------------------------------------------------------- 
+// Power : Burst 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : WS Wide Area Web Grenade 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Power AttackerHit Message :
+// Power VictimHit Message :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Heavy Burst 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+
+// -------------------------------------------------------------------------------- 
+// Power : Bayonet 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Venom Grenade 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Frag Grenade 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman_blaster 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2988817639" "Rocketman_blaster"
+// DisplayHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : Channelgun 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Slice 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Longfang 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Aim 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Suppression 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Arm Lash 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : CS Venom Grenade 
+// -------------------------------------------------------------------------------- 
+// Power Help Text :
+
+// -------------------------------------------------------------------------------- 
+// Power : CS Frag Grenade 
+// -------------------------------------------------------------------------------- 
+// Power Help Text :
+
+// -------------------------------------------------------------------------------- 
+// Power : Frenzy 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Omega Maneuver 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Rocketman Soldier 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1853192231" "Rocketman Soldier"
+// DisplayHelp :
+
+// -------------------------------------------------------------------------------- 
+// Power : BS Bash 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect VictimHit Message :
+// DisplayFloat :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Mace Beam 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Mace Beam Blast 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+
+// -------------------------------------------------------------------------------- 
+// Power : Build Up 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Mace Beam Volley 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+
+// -------------------------------------------------------------------------------- 
+// Power : Pulverize 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Poisonous Ray 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Shatter 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetShortHelp :
+// DisplayTargetHelp :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+// DisplayFloat :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Placate 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// DisplayTargetHelp :
+// Effect VictimHit Message :
+
+// -------------------------------------------------------------------------------- 
+// Power : Crowd Control 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+// Power Mouse-Over Text :
+// Power Help Text :
+// Effect AttackerHit Message :
+// Effect VictimHit Message :
+
+// ************************************************************************
+// ************************************************************************
+// ************************************************************************
+
+// ---------------------------------------------------------------------------------------------------
+// Generated by transModule
+// ---------------------------------------------------------------------------------------------------
+
+// ----------------------------------------------------------------------------------------------
 // Source File : data/Defs/powers/src/Epic_Powers.xls 	Sheet: Teamwork 
 //
 // Script      : Xlstopowdefdef.bat 
@@ -6355,7 +6163,6 @@
 // Power : Combat Training: Defensive 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P837435999" "Combat Training: Defensive"
 // Power Mouse-Over Text :
 "P2230325673" "Auto: Self +DEF(Melee)"
 // Power Help Text :
@@ -6366,29 +6173,20 @@
 // Power : Combat Training: Offensive 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1026612065" "Combat Training: Offensive"
 // Power Mouse-Over Text :
-"P3712515811" "Auto: Self +ACC"
 // Power Help Text :
-"P3859422746" "Your accuracy is improved."
 
 // -------------------------------------------------------------------------------- 
 // Power : Tactical Training: Maneuvers 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P3997891554" "Tactical Training: Maneuvers"
 // Power Mouse-Over Text :
-"P732377228" "PBAoE, Team +DEF(All)"
 // Power Help Text :
 "P1448946145" "A good leader knows how to protect his team. While active, this power increases the Defense of yourself and all nearby teammates to all attacks."
 // Power AttackerHit Message :
-"P1722481992" "Your {PowerName} increases your team's Defense."
 // Power VictimHit Message :
-"P2482711612" "{PlayerSource} increases your team's Defense with {PowerName}."
 // DisplayTargetShortHelp :
-"P2623971958" "+DEF(All)"
 // DisplayTargetHelp :
-"P3370322156" "Your Defense to all attacks is improved due to good teamwork and leadership."
 
 // -------------------------------------------------------------------------------- 
 // Power : Indomitable Will 
@@ -6405,35 +6203,23 @@
 // Power : Tactical Training: Assault 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P3207706584" "Tactical Training: Assault"
 // Power Mouse-Over Text :
-"P253176242" "Toggle: PBAoE, Team +DMG, Res(Taunt, Placate)"
 // Power Help Text :
-"P1704720316" "While this power is active, you and your nearby teammates deal more damage and are more resistant to Taunt and Placate."
 // Power AttackerHit Message :
-"P2420471347" "Your {PowerName} increases your team's damage potential and resistance to Taunt and Placate."
 // Power VictimHit Message :
-"P1338507259" "{PlayerSource} increases your team's damage potential and resistance to Taunt and Placate."
 // DisplayTargetShortHelp :
-"P2588995686" "+DMG, Res(Taunt, Placate)"
 // DisplayTargetHelp :
-"P2452646208" "Your attack damage is improved due to good leadership and teamwork. You are resistant to Taunt and Placate."
 
 // -------------------------------------------------------------------------------- 
 // Power : Tactical Training: Leadership 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P590087249" "Tactical Training: Leadership"
 // Power Mouse-Over Text :
-"P3192701214" "Toggle: PBAoE, Team +To Hit, Res(Confuse, Fear), +Perception"
 // Power Help Text :
 "P2929044550" "While this power is active, your chance to hit and that of all your nearby teammates' is increased. Your advanced Tactics also protect you and your team from Confuse and Fear effects, as well as your Perception so you can detect Stealthy foes."
 // Power AttackerHit Message :
-"P3187125397" "Your Tactical Training increases your team's chance to hit and Perception."
 // Power VictimHit Message :
-"P2256447366" "{PlayerSource} increases your team's chance to hit and Perception with their Tactical Training."
 // DisplayTargetShortHelp :
-"P3397519668" "+To Hit, Res(Confuse, Fear), +Perception"
 // DisplayTargetHelp :
 "P1894767178" "Your chance to hit and Perception is improved due to good teamwork and Leadership."
 
@@ -6462,25 +6248,18 @@
 // Display Name :
 "P2134353020" "Mask Presence"
 // Power Mouse-Over Text :
-"P3567599116" "Toggle: Self Stealth, +DEF(Melee, Ranged, AoE)"
 // Power Help Text :
 "P3131157764" "Mask Presence makes you almost impossible to detect. When you attack or are damaged while using this power, you will be discovered. Even if discovered, you are hard to see and retain some bonus to Defense. Like most stealth powers, Mask Presence cannot be used at the same time as other Concealment powers."
 // Power AttackerHit Message :
-"P4234907424" "You are concealed by your {PowerName}."
 // DisplayPowerDefenseFloat :
-"P3802943013" "Avoided"
 
 // -------------------------------------------------------------------------------- 
 // Power : Mental Training 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P2872549282" "Mental Training"
 // Power Mouse-Over Text :
-"P938074036" "Auto: Self +Recharge, +SPD, Res (Slow)"
 // Power Help Text :
-"P1645597092" "Your mental training allows you to focus your will, allowing you to move faster than normal, as well as resist slow effects. This power is always on and permanently increases your attack rate and movement speed."
 // Power AttackerHit Message :
-"P3207966633" "Your {PowerName} has increased your rate of attack."
 
 // -------------------------------------------------------------------------------- 
 // Power : NW Mind Link 
@@ -6624,26 +6403,20 @@
 // DisplayName :
 "P1632065264" "Training and Gadgets"
 // DisplayHelp :
-"P3131078170" "Those who enter the Soldier training program are given crash courses in Teamwork, Tactical Analysis and Coordination of Assets."
 
 // -------------------------------------------------------------------------------- 
 // Power : Wolf Spider Armor 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P289771964" "Wolf Spider Armor"
 // Power Mouse-Over Text :
-"P2063510575" "Auto: Self +RES(Smash, Lethal, Psionic, Status Effects)"
 // Power Help Text :
-"P3085307131" "Your Wolf Spider Armor provides good protection to Smashing, Lethal and Psionic damage types, as well as offering basic levels of protection to most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
 
 // -------------------------------------------------------------------------------- 
 // Power : Combat Training: Defensive 
 // -------------------------------------------------------------------------------- 
 // Display Name :
 // Power Mouse-Over Text :
-"P2686949422" "Auto: Self +DEF(Ranged)"
 // Power Help Text :
-"P3653514426" "You are more evasive to ranged attacks."
 // DisplayPowerDefenseFloat :
 
 // -------------------------------------------------------------------------------- 
@@ -6659,7 +6432,6 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P1197840263" "A good leader knows how to protect his team. While active, this power increases the Defense of yourself and all nearby teammates to all attacks. Recharge: Slow"
 // Power AttackerHit Message :
 // Power VictimHit Message :
 // DisplayTargetShortHelp :
@@ -6682,12 +6454,10 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P3748478324" "While this power is active, your chance to hit and that of all your nearby teammates' is increased. Your advanced Tactics also protect you and your team from Confuse and Fear effects.  Additionally, your Perception is improved, allowing you to better detect Stealthy foes."
 // Power AttackerHit Message :
 // Power VictimHit Message :
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
-"P116743153" "Your chance to hit and Perception is improved due to good teamwork and Leadership.  You have moderate protection against Fear and Confuse effects, as well."
 
 // -------------------------------------------------------------------------------- 
 // Power : Mental Training 
@@ -6701,11 +6471,8 @@
 // Power : Call Reinforcements 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1342809510" "Call Reinforcements"
 // Power Mouse-Over Text :
-"P1447403391" "Call Reinforcements: Ranged Moderate DMG(Lethal)"
 // Power Help Text :
-"P3406607199" "As an Arachnos Soldier you have access to a small squadron of Arachnobot Disruptors. Two Disruptors that are one level less than you will show up when summoned. Recharge: Extremely Long"
 
 // ******************************************************************************** 
 // -------------------------------------------------------------------------------- 
@@ -6719,31 +6486,22 @@
 // Power : Crab Spider Armor 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P2462644805" "Crab Spider Armor Upgrade"
 // Power Help Text :
-"P3200570513" "Your Crab Spider Armor Upgrade improves your protection to Smashing, Lethal and Psionic damage types, as well as increasing your protection against most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
 
 // -------------------------------------------------------------------------------- 
 // Power : Fortification 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P677019122" "Fortification"
 // Power Mouse-Over Text :
-"P4196317637" "Toggle: Self +Res(Disorient, Hold, Immobilize, Sleep, All DMG but Psionics)"
 // Power Help Text :
-"P1412227304" "Crab Spiders armor may be reinforced to become far more resistant to all types of damage except Psionics, as well as increasing protection to Sleep, Hold, Immobilization and Disorient effects. Recharge: Fast"
 
 // -------------------------------------------------------------------------------- 
 // Power : Serum 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P2203543903" "Serum"
 // Power Mouse-Over Text :
-"P576038185" "Self Heal, +Max HP"
 // Power Help Text :
-"P2108311222" "You can activate this power to increase your maximum Hit Points for a short time. Recharge: Very Long"
 // Power AttackerHit Message :
-"P202041346" "Your {PowerName} increases your maximum Hit Points."
 
 // -------------------------------------------------------------------------------- 
 // Power : Summon Spiderlings 
@@ -6751,7 +6509,6 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P859065264" "As a Crab Spider you have access to a small squadron of Arachnobot Spiderlings. Three Spiderlings that are two levels less than you will show up when summoned. Recharge: Extremely Long"
 
 // ******************************************************************************** 
 // -------------------------------------------------------------------------------- 
@@ -6765,20 +6522,15 @@
 // Power : Bane Spider Armor 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P66017686" "Bane Spider Armor Upgrade"
 // Power Mouse-Over Text :
-"P702929636" "Auto: Self +Res(All DMG, Status Effects), +HP"
 // Power Help Text :
-"P1233169843" "Your Bane Spider Armor Upgrade improves your overall health, protection to all damage types, as well as increasing your protection against most status effects, including Confuse, Fear, Disorient, Hold, Sleep and Immobilize effects."
 
 // -------------------------------------------------------------------------------- 
 // Power : Hide 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1350419774" "Cloaking Device"
 // Power Mouse-Over Text :
 // Power Help Text :
-"P4051170883" "Cloaking Device makes you almost impossible to detect. When you attack or are damaged while using this power, you will be discovered. Even if discovered, you are hard to see and retain some bonus to Defense. Like most stealth powers, Cloaking Device cannot be used at the same time as other Concealment powers."
 // Power AttackerHit Message :
 // DisplayPowerDefenseFloat :
 
@@ -6788,7 +6540,6 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P911203408" "When this power is activated, you focus your senses to analyze your targets defensive capabilities and discover their weaknesses.  By sharing your knowledge of the targets weaknesses with your team mates, you effectively reduce their defense and resistance to damage. Recharge: Slow"
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
 
@@ -6798,7 +6549,6 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P875072192" "The Bane Mace can fire a more powerful version the common web grenade.  The sinewy fibers of this grenade are strong enough to completely Hold one target. Targets able to resist the Hold are still likely to have their attack and movement speed dramatically slowed.  Web Cocoon can also bring down flying targets and prevent foes from jumping. Recharge: Long"
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
 
@@ -6903,7 +6653,6 @@
 // Power Help Text :
 "P3276607601" "When you toggle on Twilight Shield, you become highly resistant to Energy and Negative Energy damage. Recharge: Fast"
 // Power AttackerHit Message :
-"P1795074363" "Your {PowerName} has made you highly resistant to energy and negative energy damage."
 
 // -------------------------------------------------------------------------------- 
 // Power : Black Dwarf 
@@ -6919,13 +6668,9 @@
 // Power : Stygian Circle 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1048529385" "Stygian Circle"
 // Power Mouse-Over Text :
-"P2939871007" "PBAoE Self +HP (Special), +End"
 // Power Help Text :
-"P3552754242" "You can tap into your Nictus power to drain the remaining essence of all nearby defeated foes to heal yourself, and recover Endurance.  The more defeated foes affected, the more you will be healed. Additionally, the more powerful the defeated foes you drain, the more health you will recover. Recharge: Slow"
 // Effect AttackerHit Message :
-"P3996167036" "Your {PowerName} heals you for {Damage} points of damage!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Nebulous Form 
@@ -7060,7 +6805,6 @@
 // Effect AttackerHit Message :
 "P3205119847" "Your {PowerName} blasts {PlayerDest} for {Damage} points of negative energy damage and slows them!"
 // Effect VictimHit Message :
-"P2182527782" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of negative energy damage and slows you!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Gravimetric Snare 
@@ -7098,10 +6842,8 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P1748312304" "A much more powerful, yet slower version of Shadow Bolt. Shadow Blast sends focused negative Nictus energy at a foe.  This attack can knock down foes and will leave the target's attack rate and movement speed slowed. Damage: Moderate, Recharge: Moderate"
 // DisplayTargetHelp :
 // Effect AttackerHit Message :
-"P2767213108" "Your {PowerName} deals {Damage} points of negative energy damage to {PlayerDest} and slows them!"
 // Effect AttackerHit Message :
 // Effect VictimHit Message :
 
@@ -7137,11 +6879,8 @@
 // Display Name :
 "P715911531" "Dark Detonation"
 // Power Mouse-Over Text :
-"P1441718266" "Ranged (Targeted AoE), Moderate DMG(Negative), Foe Knockback, -Recharge, -SPD"
 // Power Help Text :
-"P3928439858" "You hurl a blast of Dark Matter that violently explodes on impact, damaging all foes near the target. All affected targets' have their attack rate and movement speed slowed.  Some foes may be knocked down. Damage: Moderate, Recharge: Slow"
 // DisplayTargetHelp :
-"P793775765" "Your attack rate and Running speed have been reduced by the Dark Matter Detonation."
 
 // -------------------------------------------------------------------------------- 
 // Power : Gravity Well 
@@ -7188,15 +6927,10 @@
 // -------------------------------------------------------------------------------- 
 // Display Name :
 // Power Mouse-Over Text :
-"P2715767264" "Ranged (Cone), Minor DMG(Negative), Foe Disorient, Knockback, -Recharge, -SPD"
 // Power Help Text :
-"P219349092" "Gravitic Emanation sends bolts of dark Nictus energy to multiple targets within a cone area in front of the caster.  Gravitic Emanation deals only minor Negative Energy damage to each affected foe, but knocks them back, leaving them Disoriented and with reduced attack rate and movement speed. Damage: Minor. Recharge: Slow"
 // DisplayTargetShortHelp :
-"P1967383444" "Disorient, -Recharge, -SPD"
 // DisplayTargetHelp :
-"P1436146315" "You have been Disoriented by the Gravitic Emanation.  Your Attack rate and Running speed are reduced as well."
 // Effect AttackerHit Message :
-"P3172775158" "You hit {PlayerDest} with {Damage} points of negative energy damage from your {PowerName} and slow them!"
 
 // -------------------------------------------------------------------------------- 
 // Power : Unchain Essence 
@@ -7394,7 +7128,9 @@
 "P2722757176" "Challenges a foe to attack you. Useful to pull a villain off an ally who finds himself in over his head. A To Hit check required to Taunt enemy players, but is not needed against critter targets. Recharge: Fast"
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
+"P4173113734" "You have been Taunted."
 // Effect AttackerHit Message :
+"P3752458412" "You Taunt {PlayerDest} to attack you."
 
 // ******************************************************************************** 
 // -------------------------------------------------------------------------------- 
@@ -7498,11 +7234,8 @@
 // Power : FRT Telekinetic Blast 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1128608213" "Telekinetic Blast"
 // Power Mouse-Over Text :
-"P2663199646" "Ranged, Moderate DMG(Smash/Psionic), Foe Knockback"
 // Power Help Text :
-"P634414874" "You can use Telekinesis to Blast a targeted foe with the power of your mind. This attack deals Smashing and Psionic damage, and can knock your opponent back. Damage: Moderate, Recharge: Moderate"
 // Effect AttackerHit Message :
 // Effect VictimHit Message :
 "P1940180497" "{PlayerSource} blasts you with his {PowerName} for {Damage} points of Smashing damage!"
@@ -7553,7 +7286,6 @@
 // Power VictimHit Message :
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
-"P2697171271" "You have been Dominated."
 // Effect AttackerHit Message :
 // Effect VictimHit Message :
 
@@ -7563,12 +7295,9 @@
 // Display Name :
 // Power Mouse-Over Text :
 // Power Help Text :
-"P35020894" "Unleashes a whirlwind of Psionic energy on a target, tossing nearby foes into the air. The Psionic Tornado damages foes and Slows their attack speed. Damage: Moderate(DoT), Recharge: Slow"
 // DisplayTargetShortHelp :
 // DisplayTargetHelp :
-"P980783330" "You are taking psionic damage over time."
 // Effect AttackerHit Message :
-"P2577029189" "You blast {PlayerDest} with your {PowerName} for {Damage} points of damage and Slow them!"
 // Effect VictimHit Message :
 "P3352743299" "{PlayerSource} blasts you with their {PowerName} for {Damage} points of psionic damage and slows you!"
 
@@ -7590,9 +7319,7 @@
 // Power : FRT Total Domination 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P1372864868" "Total Domination"
 // Power Mouse-Over Text :
-"P3095732666" "Ranged (Targeted AoE), Foe Hold"
 // Power Help Text :
 "P3555659293" "Tears at the mind of a target foe and those near him. Total Domination renders all affected foes helpless, lost in their own minds and unable to defend themselves. Recharge: Very Long"
 
@@ -7611,25 +7338,3 @@
 "P2889410934" "You devastate {PlayerDest} with your {PowerName} for {Damage} points of psionic damage and slow their attack speed."
 // Effect VictimHit Message :
 "P1614937227" "{PlayerSource} devastates you with their {PowerName} for {Damage} points of psionic damage and slow their attack speed!"
-
-//Synergist epic pools
-//================================================
-// Blazing Mastery
-// DisplayName/DisplayShortHelp:
-"P3989442993" "Blazing Mastery"
-//================================================
-// Shadow Mastery
-// DisplayName/DisplayShortHelp:
-"P102004333" "Shadow Mastery"
-// DisplayHelp
-"P1900555067" "You have Mastery over Shadows to weaken and control your foes."
-//================================================
-// Energetic Mastery
-// DisplayName/DisplayShortHelp:
-"P4178257726" "Energetic Mastery"
-//================================================
-// Arsenal Mastery
-// DisplayName/DisplayShortHelp:
-"P2704057323" "Arsenal Mastery"
-// DisplayHelp
-"P1794049240" "You have Mastery an Arsenal of unusual weapons that can give you control of the battlefield."

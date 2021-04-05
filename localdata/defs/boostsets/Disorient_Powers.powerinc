@@ -288,3 +288,12 @@ Powers Synergist_Assault.Psionic_Assault.Psychic_Shockwave
 Powers Synergist_Support.Nether_Force.Soul_Transfer
 Powers Synergist_Support.Mental_Projection.Daze
 Powers Epic.Field_Mastery.Repulsion_Bomb
+//Scrapper Energy Melee
+Powers Scrapper_Melee.Energy_Melee.Barrage
+Powers Scrapper_Melee.Energy_Melee.Energy_Punch
+Powers Scrapper_Melee.Energy_Melee.Bone_Smasher
+Powers Scrapper_Melee.Energy_Melee.Total_Focus
+Powers Scrapper_Melee.Energy_Melee.Stun
+Powers Scrapper_Melee.Energy_Melee.Energy_Transfer
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Ground_Pound

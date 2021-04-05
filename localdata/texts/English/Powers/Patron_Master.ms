@@ -1,0 +1,15 @@
+//Patron Master Powerset names
+
+"Z00001" "Arctic Mastery"
+"Z00002" "Blaze Mastery"
+"Z00003" "Dark Mastery"
+"Z00004" "Electrical Mastery"
+"Z00005" "Force Mastery"
+"Z00006" "Primal Mastery"
+"Z00007" "Psionic Mastery"
+"Z00008" "Stone Mastery"
+"Z00009" "Weapon Mastery"
+"Z00010" "Leviathan Mastery"
+"Z00011" "Mace Mastery"
+"Z00012" "Mu Mastery"
+"Z00013" "Soul Mastery"

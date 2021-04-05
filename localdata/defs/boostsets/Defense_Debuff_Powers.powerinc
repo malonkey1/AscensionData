@@ -316,3 +316,10 @@ Powers Defender_Buff.Arcane_Affinity.Evil_Eye
 //Anarchist
 Powers Scrapper_Melee.Anarchist.Sledgehammer
 Powers Scrapper_Melee.Anarchist.Tear_Gas
+//Mastermind Secondary Expansion
+Powers Mastermind_Buff.Radiation_Emission.Radiation_Infection
+Powers Mastermind_Buff.Radiation_Emission.Fallout
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Bolt
+Powers Defender_Ranged.Sorcerous_Blast.Reality_Fracture
+Powers Defender_Ranged.Sorcerous_Blast.Dimensional_Aegis

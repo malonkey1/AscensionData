@@ -174,4 +174,7 @@ Powers Synergist_Support.Mental_Projection.Mind_Link
 Powers Defender_Buff.Arcane_Affinity.Hequats_Blessing
 //Absolute Strength
 Powers Tanker_Melee.Absolute_Strength.Enrage
-//Anarchist
+//Scrapper Energy Melee
+Powers Scrapper_Melee.Energy_Melee.Build_Up
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Arcane_Power

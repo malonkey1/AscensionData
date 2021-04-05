@@ -546,3 +546,12 @@ Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
 Powers Scrapper_Melee.Anarchist.Sledgehammer
 //Clockwork Assembly
 Powers Mastermind_Summon.Clockwork_Assembly.Psionic_Tornado
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Laser_Beam_Eyes
+Powers Dominator_Assault.Might_Assault.Punch
+Powers Dominator_Assault.Might_Assault.Ground_Pound
+Powers Dominator_Assault.Might_Assault.Hurl_Rock
+Powers Dominator_Assault.Might_Assault.Haymaker
+Powers Dominator_Assault.Might_Assault.Foot_Stomp
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Archaic_Force

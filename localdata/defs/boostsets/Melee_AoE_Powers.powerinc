@@ -356,3 +356,12 @@ Powers Synergist_Support.Robotics.Poison_Trap
 Powers Tanker_Melee.Absolute_Strength.Roomsweeper
 Powers Tanker_Melee.Absolute_Strength.Solar_Vision_Blast
 Powers Tanker_Melee.Absolute_Strength.Infinite_Mass_Punch
+//Scrapper Energy Melee
+Powers Scrapper_Melee.Energy_Melee.Whirling_Hands
+//Empyrean Armor
+Powers Tanker_Defense.Empyrean_Armor.Bio-Electric_Aura
+//Might Assault
+Powers Dominator_Assault.Might_Assault.Foot_Stomp
+//Sorcerous Blast
+Powers Defender_Ranged.Sorcerous_Blast.Reality_Fracture
+Powers Defender_Ranged.Sorcerous_Blast.Dimensional_Aegis
