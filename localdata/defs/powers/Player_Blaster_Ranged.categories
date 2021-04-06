@@ -16,5 +16,10 @@ PowerCategory Blaster_Ranged
 	PowerSets Blaster_Ranged.Radiation_Blast
 	PowerSets Blaster_Ranged.Sonic_Attack
 	PowerSets Blaster_Ranged.Water_Blast
+	PowerSets Blaster_Ranged.Wind_Blast
+	PowerSets Blaster_Ranged.Poison_Blast
+	PowerSets Blaster_Ranged.Vision_Blast
+	PowerSets Blaster_Ranged.Earth_Blast
+	PowerSets Blaster_Ranged.Heretical_Occultism
 }
 

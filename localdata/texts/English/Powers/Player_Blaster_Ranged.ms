@@ -2603,10 +2603,10 @@
 "P2610687982" "DOMINATION"
 
 // -------------------------------------------------------------------------------- 
-// Power : Volcano Tectonic Earthquake 
+// Power : Magnitude 9 
 // -------------------------------------------------------------------------------- 
 // Display Name :
-"P895172343" "Magnitude 9"
+"P980105413" "Magnitude 9"
 // Power Mouse-Over Text :
 "P2720457197" "PBAoE,  Moderate DMG(Smash), Knockback"
 // Power Help Text :
@@ -2615,3 +2615,92 @@
 "P2750454519" "You shake the very Earth with your {PowerName}, dealing {Damage} points of smashing damage to {PlayerDest}."
 // Effect VictimHit Message :
 "P954473206" "{PlayerSource} shakes the very Earth with {PowerName}, dealing {Damage} points of smashing damage to you."
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Heretical Occultism 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2743077458" "Heretical Occultism"
+
+// -------------------------------------------------------------------------------- 
+// Power : Ancient Bolt 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3873930451" "Ancient Bolt"
+
+// -------------------------------------------------------------------------------- 
+// Power : Ancient Blast 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3480917184" "Ancient Blast"
+
+// -------------------------------------------------------------------------------- 
+// Power : Elders Roar 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1227165283" "Elders Roar"
+// Effect AttackerHit Message :
+"P1500040290" "Madness consumes you!"
+// DisplayFloat :
+"P1562910775" "Madness!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Midnight Focus 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3946766261" "Midnight Focus"
+
+// -------------------------------------------------------------------------------- 
+// Power : Gaze Of The Deep 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P249330987" "Gaze Of The Deep"
+// Power Mouse-Over Text :
+"P2936611653" "Ranged (Cone), Minor DMG(Psionic), Foe Fear(Special)"
+// Power Help Text :
+"P831219536" "This power Terrifies foes within a cone area in front of you, causing them to tremble in Fear uncontrollably. The affect is so frightening and overwhelming, that the target takes real damage from the physiological response to this Psionic attack. Damage: Minor, Recharge: Slow"
+// DisplayTargetShortHelp :
+"P332045248" "Fear"
+// DisplayTargetHelp :
+"P2416579000" "You have been terrified."
+// Effect AttackerHit Message :
+"P948391865" "{PlayerDest} is Terrified and takes {Damage} points of Psionic damage."
+// Effect VictimHit Message :
+"P35236857" "{PlayerSource} Terrifies you.  Your fear consumes you for {Damage} points of Psionic damage."
+// Effect AttackerHit Message :
+"P3544593565" "Your {PowerName} burns {PlayerDest} for {Damage} points of fire damage."
+// Effect AttackerHit Message :
+"P482192733" "You {PowerName} {PlayerDest} even more!"
+// Effect VictimHit Message :
+"P4199523266" "{PlayerSource} terrifies you even more!"
+// DisplayFloat :
+"P2144434522" "Overpower"
+// Effect AttackerHit Message :
+"P3833391267" "You {PowerName} {PlayerDest}!"
+// Effect VictimHit Message :
+"P2493465362" "{PlayerSource} terrifies you!"
+
+// -------------------------------------------------------------------------------- 
+// Power : Twilight Hail 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1386016521" "Twilight Hail"
+
+// -------------------------------------------------------------------------------- 
+// Power : Lords Decree 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P225323683" "Lords Decree"
+
+// -------------------------------------------------------------------------------- 
+// Power : Elders Severance 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3968470348" "Elders Severance"
+
+// -------------------------------------------------------------------------------- 
+// Power : Cthulu's Rage 
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P4126641273" "Cthulu's Rage"
