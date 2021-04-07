@@ -26,9 +26,6 @@ Powers Pets.Blaster_Fire_Snipe.Blazing_Bolt_Normal
 Powers Blaster_Ranged.Radiation_Blast.Proton_Volley
 Powers Pets.Blaster_Radiation_Snipe.Proton_Volley_Quick
 Powers Pets.Blaster_Radiation_Snipe.Proton_Volley_Normal
-
-
-
 Powers Corruptor_Ranged.Archery.Ranged_Shot
 Powers Villain_Pets.Corruptor_Archery_Snipe.Ranged_Shot_Quick
 Powers Villain_Pets.Corruptor_Archery_Snipe.Ranged_Shot_Normal
@@ -127,3 +124,7 @@ Powers Synergist_Assault.Martial_Assault.Masterful_Throw
 Powers Synergist_Assault.Psionic_Assault.Psionic_Lance
 //Sorcerous Blast
 Powers Defender_Ranged.Sorcerous_Blast.Invocation_Blast
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Severance
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal

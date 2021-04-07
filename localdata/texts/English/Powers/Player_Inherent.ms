@@ -1787,3 +1787,16 @@
 // -------------------------------------------------------------------------------- 
 // Power Help Text :
 "P718953928" "You tap into the Speed Force itself, glowing with the force around you and can break the sound barrier again."
+
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Madness 
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp :
+"P1330726397" "Madness"
+
+// -------------------------------------------------------------------------------- 
+// Power : Madness 
+// -------------------------------------------------------------------------------- 
+// Power Help Text :
+"P2730523255" "You cause madness upon your friends and foes, they will either tremble in fear or take damage as well as yourself, you may also heal, or you may get a small damage buff, you get whatever HE declares you are worthy of!"

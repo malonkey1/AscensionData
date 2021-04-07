@@ -12,7 +12,6 @@ Powers Blaster_Ranged.Ice_Blast.Aim
 Powers Blaster_Ranged.Radiation_Blast.Aim
 Powers Blaster_Ranged.Sonic_Attack.Amplify
 Powers Blaster_Ranged.Water_Blast.Tidal_Forces
-
 Powers Blaster_Support.Darkness_Manipulation.Soul_Drain
 Powers Blaster_Support.Electricity_Manipulation.Build_Up
 Powers Blaster_Support.Energy_Manipulation.Build_Up
@@ -178,3 +177,5 @@ Powers Tanker_Melee.Absolute_Strength.Enrage
 Powers Scrapper_Melee.Energy_Melee.Build_Up
 //Sorcerous Blast
 Powers Defender_Ranged.Sorcerous_Blast.Arcane_Power
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Midnight_Focus

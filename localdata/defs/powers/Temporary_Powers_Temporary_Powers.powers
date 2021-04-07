@@ -88444,3 +88444,287 @@ Power Temporary_Powers.Temporary_Powers.Arcana
 	ShowInInventory      kFalse
 	NumAllowed           5
 }
+
+Power Temporary_Powers.Temporary_Powers.Madness
+{
+	Name                 "Madness"                     
+	DisplayName          "P1330726397"
+	Type                 kAuto
+	Accuracy             1
+	EntsAffected         kCaster, kFriend, kFoe
+	EntsAutoHit          kCaster, kFriend, kFoe
+	Target               kCaster
+	Range                0
+	EnduranceCost        0
+	IdeaCost             0
+	InterruptTime        0
+	TimeToActivate       0
+	RechargeTime         0
+	ActivatePeriod       10
+	EffectArea           kSphere
+	Radius               15
+	Arc                  0
+	LifeTime             5
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\BruteDefense_DarkArmor_DarkRegeneration.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\BruteDefense_DarkArmor_DarkRegeneration.PFX
+	DisplayShortHelp     "P2211841663"
+	DisplayHelp          "P2730523255"
+	IconName             "MysticFortune.tga"
+	TimeToConfirm        0
+
+	AttribMod
+	{
+		Name                 "Fear"                        
+		Table                "Ranged_Fear"                 
+		Aspect               kCur
+		Attrib               kTerrorized
+		Target               kTarget
+		Scale                20
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            3
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_ToHit"                  
+		Table                "Ranged_Buff_ToHit"           
+		Aspect               kCur
+		Attrib               kToHit
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kSmashing
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kLethal
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kFire
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kCold
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kEnergy
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               knegative_Energy
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kToxic
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Buff_Dmg"                    
+		Table                "Ranged_Buff_Dmg"             
+		Aspect               kStr
+		Attrib               kPsionic
+		Target               kSelf
+		Scale                1.000
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kFalse
+		Delay                0
+		Duration             10
+		Magnitude            1
+		Period               0
+		Chance               0.50
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Damage"                      
+		Table                "Ranged_Damage"               
+		Aspect               kAbs
+		Attrib               knegative_Energy
+		Target               kTarget
+		Scale                0.2
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               0.25
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "HealSelf"                    
+		Table                "Ranged_HealSelf"             
+		Aspect               kAbs
+		Attrib               kHeal
+		Target               kSelf
+		Scale                1
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kFalse
+		Delay                0
+		Duration             0
+		Magnitude            1
+		Period               0
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		Requires             enttype target> critter eq
+		AllowCombatMods      kFalse
+	}
+}

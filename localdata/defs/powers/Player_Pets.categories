@@ -257,5 +257,6 @@ PowerCategory Pets
 	PowerSets Pets.Brute_Savage_Melee
 	PowerSets Pets.Tanker_Savage_Melee
 	PowerSets Pets.Sorcerous_Blast
+	PowerSets Pets.Blaster_Eldritch_Snipe
 }
 

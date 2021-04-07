@@ -365,3 +365,6 @@ Powers Dominator_Assault.Might_Assault.Foot_Stomp
 //Sorcerous Blast
 Powers Defender_Ranged.Sorcerous_Blast.Reality_Fracture
 Powers Defender_Ranged.Sorcerous_Blast.Dimensional_Aegis
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Twilight_Hail
+Powers Blaster_Ranged.Heretical_Occultism.Cthulus_Rage

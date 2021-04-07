@@ -5557,6 +5557,31 @@ PowerSet Pets.Blaster_Radiation_Snipe
 	MaxDifficulty 9999
 
 }
+PowerSet Pets.Blaster_Eldritch_Snipe
+{
+	Name             "Blaster_Eldritch_Snipe"
+	DisplayName      "P1664484399"
+	DisplayShortHelp "P1664484399"
+	DisplayHelp      "P1664484399"
+	IconName         "Blaster_Eldritch_Snipe_set.ico"
+
+	Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
 PowerSet Pets.Defender_Archery_Snipe
 {
 	Name             "Defender_Archery_Snipe"

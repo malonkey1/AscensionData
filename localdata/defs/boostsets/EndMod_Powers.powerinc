@@ -352,3 +352,6 @@ Powers Defender_Ranged.Sorcerous_Blast.Pyromancers_Blades
 //Tanker Energy Aura
 Powers Tanker_Defense.Energy_Aura.Energy_Drain
 Powers Tanker_Defense.Energy_Aura.Overload
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Bolt
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Blast

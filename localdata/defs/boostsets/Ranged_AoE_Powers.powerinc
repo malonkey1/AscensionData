@@ -382,3 +382,6 @@ Powers Dominator_Assault.Might_Assault.Ground_Pound
 //Sorcerous Blast
 Powers Defender_Ranged.Sorcerous_Blast.Rimefire_Burst
 Powers Defender_Ranged.Sorcerous_Blast.Archaic_Force
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Roar
+Powers Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep

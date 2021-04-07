@@ -14,8 +14,6 @@ Powers Pets.Blaster_Dark_Snipe.Moonbeam_Normal
 Powers Pets.Blaster_Dark_Snipe.Moonbeam_Quick
 Powers Blaster_Ranged.Ice_Blast.Bitter_Ice_Blast
 Powers Blaster_Ranged.Ice_Blast.Blizzard
-
-
 Powers Blaster_Support.Darkness_Manipulation.Penumbral_Grasp
 Powers Blaster_Support.Darkness_Manipulation.Smite
 Powers Blaster_Support.Darkness_Manipulation.Shadow_Maul
@@ -87,8 +85,6 @@ Powers Corruptor_Ranged.Dark_Blast.Tenebrous_Tentacles
 Powers Corruptor_Ranged.Dark_Blast.Torrent
 Powers Corruptor_Ranged.Ice_Blast.Bitter_Ice_Blast
 Powers Corruptor_Ranged.Ice_Blast.Blizzard
-
-
 Powers Defender_Buff.Dark_Miasma.Chill_of_the_Night
 Powers Defender_Buff.Dark_Miasma.Darkest_Night
 Powers Defender_Buff.Dark_Miasma.Fearsome_Stare
@@ -111,8 +107,6 @@ Powers Defender_Ranged.Dark_Blast.Tenebrous_Tentacles
 Powers Defender_Ranged.Dark_Blast.Torrent
 Powers Pets.Defender_Dark_Snipe.Moonbeam_Quick
 Powers Pets.Defender_Dark_Snipe.Moonbeam_Normal
-
-
 Powers Dominator_Assault.Dark_Assault.Dark_Blast
 Powers Dominator_Assault.Dark_Assault.Death_Shroud
 Powers Villain_Pets.Dominator_DarkAssault_Snipe.Death_Shroud_Quick
@@ -237,3 +231,8 @@ Powers Defender_Buff.Arcane_Affinity.Phantom_Storm
 //Mastermind Secondary expansion
 Powers Mastermind_Buff.Radiation_Emission.Radiation_Infection
 Powers Mastermind_Buff.Radiation_Emission.Fallout
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Severance
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal
+Powers Blaster_Ranged.Heretical_Occultism.Cthulus_Rage

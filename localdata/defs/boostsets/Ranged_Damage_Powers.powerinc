@@ -553,3 +553,12 @@ Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Bolt
 Powers Defender_Ranged.Sorcerous_Blast.Eldritch_Blast
 Powers Defender_Ranged.Sorcerous_Blast.Archaic_Force
 Powers Defender_Ranged.Sorcerous_Blast.Invocation_Blast
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Bolt
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Blast
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Roar
+Powers Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep
+Powers Blaster_Ranged.Heretical_Occultism.Lords_Decree
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Severance
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal

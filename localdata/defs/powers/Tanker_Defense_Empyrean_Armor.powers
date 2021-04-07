@@ -24,7 +24,7 @@ Power Tanker_Defense.Empyrean_Armor.Dense_Body
 	IgnoreStrength       True
 	DisplayShortHelp     "P997279981"
 	DisplayHelp          "P3280927231"
-	IconName             "Invulnerability_ResToPhysicalDmg.tga"
+	IconName             "Empyrean_T1.tga"
 	TimeToConfirm        0
 
 	AttribMod
@@ -121,7 +121,7 @@ Power Tanker_Defense.Empyrean_Armor.Bio-Electric_Aura
 	DisplayShortHelp     "P797520758"
 	DisplayHelp          "P3507254423"
 	DisplayAttackerHit   "P782710974"
-	IconName             "ElectricArmor_SelfBuffDefensePhysical.tga"
+	IconName             "Empyrean_T2.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        10
 	DisplayTargetShortHelp "P1831456333"
@@ -434,7 +434,7 @@ Power Tanker_Defense.Empyrean_Armor.Theta_State
 	DisplayShortHelp     "P2065852760"
 	DisplayHelp          "P1848551042"
 	DisplayAttackerHit   "P4005305938"
-	IconName             "Willpower_IndomitableWill.tga"
+	IconName             "Empyrean_T3.tga"
 	TimeToConfirm        0
 
 	AttribMod
@@ -1204,7 +1204,7 @@ Power Tanker_Defense.Empyrean_Armor.Solar_Regeneration
 	DisplayShortHelp     "P181672001"
 	DisplayHelp          "P2069823295"
 	DisplayAttackerHit   "P2198838236"
-	IconName             "Regeneration_InstantHealing.tga"
+	IconName             "Empyrean_T4.tga"
 	TimeToConfirm        0
 	Cancelable           kTrue
 
@@ -1450,7 +1450,7 @@ Power Tanker_Defense.Empyrean_Armor.Solar_Absorption
 	include              menu\Powers\AnimFX\PlayerPowers\BruteDefense_FieryAura_Consume.PFX
 	DisplayShortHelp     "P2075769125"
 	DisplayHelp          "P1884671039"
-	IconName             "FlamingShield_Consume.tga"
+	IconName             "Empyrean_T5.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        5
 
@@ -1893,7 +1893,7 @@ Power Tanker_Defense.Empyrean_Armor.Psychic_Barrier
 	DisplayShortHelp     "P2207717524"
 	DisplayHelp          "P1383007207"
 	DisplayAttackerHit   "P1338028274"
-	IconName             "Willpower_MindOverBody.tga"
+	IconName             "Empyrean_T6.tga"
 	TimeToConfirm        0
 
 	AttribMod
@@ -2059,7 +2059,7 @@ Power Tanker_Defense.Empyrean_Armor.Superior_Biology
 	BoostsAllowed        kHeal_Boost
 	DisplayShortHelp     "P3346607435"
 	DisplayHelp          "P3610289536"
-	IconName             "Regeneration_FastHealing.tga"
+	IconName             "Empyrean_T7.tga"
 	TimeToConfirm        0
 
 	AttribMod
@@ -2150,7 +2150,7 @@ Power Tanker_Defense.Empyrean_Armor.Enhanced_Durability
 	IgnoreStrength       True
 	DisplayShortHelp     "P459051723"
 	DisplayHelp          "P983740938"
-	IconName             "Invulnerability_ResToCosmicDmag.tga"
+	IconName             "Empyrean_T8.tga"
 	TimeToConfirm        0
 
 	AttribMod
@@ -2432,7 +2432,7 @@ Power Tanker_Defense.Empyrean_Armor.Well_Of_The_Furies
 	DisplayShortHelp     "P3304154323"
 	DisplayHelp          "P1053787739"
 	DisplayAttackerHit   "P3767545984"
-	IconName             "RadiationArmor_ParticleShielding.tga"
+	IconName             "Empyrean_T9.tga"
 	TimeToConfirm        0
 	Cancelable           kTrue
 

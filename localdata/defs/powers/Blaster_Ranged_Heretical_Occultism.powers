@@ -27,7 +27,7 @@ Power Blaster_Ranged.Heretical_Occultism.Ancient_Bolt
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_AncientBolt.pfx
 	DisplayShortHelp     "P1298334033"
 	DisplayHelp          "P3154574924"
-	IconName             "ElectricalBolt_ChargedBolts.tga"
+	IconName             "Heretical_Occultism_Ancient_Bolt.tga"
 	TimeToConfirm        0
 	CastThroughHold      kTrue
 	CastThroughSleep     kTrue
@@ -377,7 +377,7 @@ Power Blaster_Ranged.Heretical_Occultism.Ancient_Blast
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_AncientBlast.pfx
 	DisplayShortHelp     "P1519530153"
 	DisplayHelp          "P2907957244"
-	IconName             "ElectricalBolt_LightningBolt.tga"
+	IconName             "Heretical_Occultism_Ancient_Blast.tga"
 	TimeToConfirm        0
 	CastThroughHold      kTrue
 	CastThroughSleep     kTrue
@@ -727,7 +727,7 @@ Power Blaster_Ranged.Heretical_Occultism.Elders_Roar
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_EldersRoar.pfx
 	DisplayShortHelp     "P1775382294"
 	DisplayHelp          "P4131221748"
-	IconName             "PowerBlast_Explosion.tga"
+	IconName             "Heretical_Occultism_Elders_Roar.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        16
 
@@ -1078,7 +1078,7 @@ Power Blaster_Ranged.Heretical_Occultism.Midnight_Focus
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_MidnightFocus.PFX
 	DisplayShortHelp     "P3827903230"
 	DisplayHelp          "P1876677102"
-	IconName             "PsychicBlast_Aim.tga"
+	IconName             "Heretical_Occultism_Midnight_Focus.tga"
 	TimeToConfirm        0
 	Cancelable           kTrue
 
@@ -1301,7 +1301,7 @@ Power Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_GazeOfTheDeep.PFX
 	DisplayShortHelp     "P2936611653"
 	DisplayHelp          "P831219536"
-	IconName             "MentalControl_Terrify.tga"
+	IconName             "Heretical_Occultism_Gaze_of_the_Deep.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        16
 	MaxBoosts            25
@@ -1560,7 +1560,7 @@ Power Blaster_Ranged.Heretical_Occultism.Twilight_Hail
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_TwilightHail.pfx
 	DisplayShortHelp     "P3271876145"
 	DisplayHelp          "P1657781287"
-	IconName             "FireBlast_RainOfFire.tga"
+	IconName             "Heretical_Occultism_Twilight_Hail.tga"
 	TimeToConfirm        0
 	DisplayTargetShortHelp "P3546334860"
 	DisplayTargetHelp    "P1437075981"
@@ -1819,7 +1819,7 @@ Power Blaster_Ranged.Heretical_Occultism.Lords_Decree
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_LordsDecree.PFX
 	DisplayShortHelp     "P1719724541"
 	DisplayHelp          "P196683227"
-	IconName             "Heretical_Occultism_Lords_Decree_pow.tga"
+	IconName             "Heretical_Occultism_Lords_Decree.tga"
 	TimeToConfirm        0
 	DisplayTargetShortHelp "P1315223086"
 	DisplayTargetHelp    "P1285358859"
@@ -2273,7 +2273,7 @@ Power Blaster_Ranged.Heretical_Occultism.Elders_Severance
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_EldersSeverance.PFX
 	DisplayShortHelp     "P3128760442"
 	DisplayHelp          "P41436042"
-	IconName             "DarkCast_Moonbeam.tga"
+	IconName             "Heretical_Occultism_Elders_Severance.tga"
 	TimeToConfirm        0
 	DisplayTargetShortHelp "P2190949330"
 	DisplayTargetHelp    "P3433690975"
@@ -2345,7 +2345,7 @@ Power Blaster_Ranged.Heretical_Occultism.Elders_Severance
 		StackType            kStack
 		Requires             cur.kToHit source> .97 >=
 		// Additional Power Attribs
-		PrimaryStringList    Pets.Blaster_Dark_Snipe.Moonbeam_Quick
+		PrimaryStringList    Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
 		AllowCombatMods      kFalse
 	}
 
@@ -2370,7 +2370,7 @@ Power Blaster_Ranged.Heretical_Occultism.Elders_Severance
 		StackType            kStack
 		Requires             1
 		// Additional Power Attribs
-		PrimaryStringList    Pets.Blaster_Dark_Snipe.Moonbeam_Normal
+		PrimaryStringList    Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal
 		AllowCombatMods      kFalse
 	}
 
@@ -2602,7 +2602,7 @@ Power Blaster_Ranged.Heretical_Occultism.Cthulus_Rage
 	include              menu\Powers\AnimFX\PlayerPowers\BlasterRanged_HereticalOccultism_CthulusRage.PFX
 	DisplayShortHelp     "P466999421"
 	DisplayHelp          "P1997327489"
-	IconName             "DarkCast_Blackstar.tga"
+	IconName             "Heretical_Occultism_Cthulus_Rage.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        16
 	DisplayTargetShortHelp "P2190949330"

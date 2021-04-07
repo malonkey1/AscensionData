@@ -116,16 +116,6 @@ Powers Pets.Water_Blast_Blaster.Water_Jet_Normal
 Powers Pets.Water_Blast_Blaster.Water_Jet_Fast
 Powers Blaster_Ranged.Water_Blast.Steam_Spray
 Powers Blaster_Ranged.Water_Blast.Geyser
-
-
-
-
-
-
-
-
-
-
 Powers Blaster_Support.Darkness_Manipulation.Penumbral_Grasp
 Powers Blaster_Support.Darkness_Manipulation.Smite
 Powers Blaster_Support.Darkness_Manipulation.Death_Shroud
@@ -348,13 +338,6 @@ Powers Controller_Control.Mind_Control.Dominate
 Powers Controller_Control.Mind_Control.Levitate
 Powers Controller_Control.Mind_Control.Mesmerize
 Powers Controller_Control.Mind_Control.Terrify
-
-
-
-
-
-
-
 Powers Controller_Control.Wind_Control.Updraft
 Powers Controller_Control.Wind_Control.Downdraft
 Powers Controller_Control.Wind_Control.Breathless
@@ -491,16 +474,6 @@ Powers Pets.Water_Blast_Corruptor.Water_Jet_Normal
 Powers Pets.Water_Blast_Corruptor.Water_Jet_Fast
 Powers Corruptor_Ranged.Water_Blast.Steam_Spray
 Powers Corruptor_Ranged.Water_Blast.Geyser
-
-
-
-
-
-
-
-
-
-
 Powers Defender_Buff.Cold_Domination.Sleet
 Powers Defender_Buff.Dark_Miasma.Howling_Twilight
 Powers Defender_Buff.Force_Field.Force_Bolt
@@ -627,16 +600,6 @@ Powers Pets.Water_Blast_Defender.Water_Jet_Normal
 Powers Pets.Water_Blast_Defender.Water_Jet_Fast
 Powers Defender_Ranged.Water_Blast.Steam_Spray
 Powers Defender_Ranged.Water_Blast.Geyser
-
-
-
-
-
-
-
-
-
-
 Powers Dominator_Assault.Dark_Assault.Dark_Blast
 Powers Dominator_Assault.Dark_Assault.Death_Shroud
 Powers Villain_Pets.Dominator_DarkAssault_Snipe.Death_Shroud_Quick
@@ -743,13 +706,6 @@ Powers Dominator_Control.Plant_Control.Entangle
 Powers Dominator_Control.Plant_Control.Fly_Trap
 Powers Dominator_Control.Plant_Control.Roots
 Powers Dominator_Control.Plant_Control.Strangler
-
-
-
-
-
-
-
 Powers Dominator_Control.Wind_Control.Updraft
 Powers Dominator_Control.Wind_Control.Downdraft
 Powers Dominator_Control.Wind_Control.Breathless
@@ -1815,3 +1771,14 @@ Powers Defender_Ranged.Sorcerous_Blast.Pyromancers_Blades
 Powers Defender_Ranged.Sorcerous_Blast.Reality_Fracture
 Powers Defender_Ranged.Sorcerous_Blast.Invocation_Blast
 Powers Defender_Ranged.Sorcerous_Blast.Dimensional_Aegis
+//Heretical Occultism
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Bolt
+Powers Blaster_Ranged.Heretical_Occultism.Ancient_Blast
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Roar
+Powers Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep
+Powers Blaster_Ranged.Heretical_Occultism.Twilight_Hail
+Powers Blaster_Ranged.Heretical_Occultism.Lords_Decree
+Powers Blaster_Ranged.Heretical_Occultism.Elders_Severance
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Quick
+Powers Pets.Blaster_Eldritch_Snipe.Elders_Severance_Normal
+Powers Blaster_Ranged.Heretical_Occultism.Cthulus_Rage
