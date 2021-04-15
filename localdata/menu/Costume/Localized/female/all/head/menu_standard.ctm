@@ -1,0 +1,76 @@
+//These are all faces that use skin
+
+BoneSet
+	Name "Standard" // dont' change
+	DisplayName "P3094635179"
+
+	//Face Scale
+	Include menu/costume/localized/common/face_scale/female_faces_01.ctm
+
+	//Face
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P687117166"
+		BodyPart "Head"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/female/all/head/inc_heads_standard.ctm
+		Include menu/costume/localized/female/all/head/inc_heads_legacy.ctm
+		Include menu/costume/localized/female/all/head/inc_heads_standard_devonly.ctm
+
+		//Masks//------------------------------------------------------------
+
+		Include menu/costume/localized/female/all/head/inc_heads_standard_patterns.ctm
+		
+
+	End
+	//Hair
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2681220175"
+		BodyPart "Hair"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/female/all/head/inc_hair.ctm
+
+	End
+
+	//Ears
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P1848153390"
+		BodyPart "Cranium"
+		Type 1 //Geo Tex Adjustor
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/female/all/head/inc_ears_masked.ctm
+
+	End
+
+	//Detail 1
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2793026233"
+		BodyPart "EyeDetail"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+	
+		Include menu/costume/localized/female/all/head/inc_detail_1.ctm
+		
+	End
+	
+	//Detail 2
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2371314042"
+		BodyPart "Neck"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/female/all/head/inc_detail_2.ctm
+		
+	End
+End

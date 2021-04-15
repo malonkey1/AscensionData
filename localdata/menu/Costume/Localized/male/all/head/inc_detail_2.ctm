@@ -1,0 +1,716 @@
+		Info
+			DisplayName "P4035132623"
+			Geo  "None"
+			Tex1 "None"
+			Tex2 "None"
+		End
+
+		Info
+			COV 1
+			DisplayName "P1517831148"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Skull_Faceplate"
+			Tex1 "!Face_V_Skull_01"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P787282214"
+			Geo  "N_H2_male_01.GEO/GEO_Neck_H2_Skullmask_01"
+			Tex1 "!X_Eyesneck_H2_Skullmask_01"
+			Tex2 "none"
+			Key "Halloween_2012"
+			Product cucp12s2
+		End
+
+		Info
+			DisplayName "P96578277"
+			Geo  "N_H2_male_01.GEO/GEO_Neck_H2_Skullmask_02"
+			Tex1 "!X_Eyesneck_H2_Skullmask_01"
+			Tex2 "none"
+			Key "Halloween_2012"
+			Product cucp12s2
+		End
+
+		Info
+			DisplayName "P484088740"
+			Geo  "N_H2_male_01.GEO/GEO_Neck_H2_Skullmask_03"
+			Tex1 "!X_Eyesneck_H2_Skullmask_01"
+			Tex2 "none"
+			Key "Halloween_2012"
+			Product cucp12s2
+		End
+
+#####################################
+############Black Knights############
+
+		Info
+			DisplayName "P522500574"
+			Geo  "N_Male_BlackKnights_01.geo/GEO_Neck_BK_02"
+			Tex1 "!X_Hair_BlackKnights_01"
+			Tex2 "None"
+			Key "Black_Knights"
+			Product cucpbkd2
+		End
+
+		Info
+			DisplayName "P2103383020"
+			Geo  "N_Male_SuperPack2_01.GEO/GEO_Neck_SuperPack2_01"
+			Tex1 "!X_EyesNeck_SuperPack2_01"
+			Tex2 "none"
+			Key "SuperPack2"
+			Product cucps2ma
+		End
+
+		Info
+			DisplayName "P662998097"
+			Geo  "N_Male_SuperPack2_01.GEO/GEO_Neck_SuperPack2_01"
+			Tex1 "!X_EyesNeck_SuperPack2_01"
+			Tex2 "none"
+			FX "Costumes/SuperPack2/Male_Mask_01.fx"
+			Key "SuperPack2"
+			Product cucps2ma
+		End
+
+
+
+		Info
+			COV 1
+			DisplayName "P4146678294"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Mustache_Handlebar_01"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			COV 1
+			DisplayName "P2805698218"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Beard_Handlebar_01"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P3827104652"
+			Geo  "Beard_Clean"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P1035610260"
+			Geo  "Beard_Full"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P3345827767"
+			Geo  "Beard_Large"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P1301814169"
+			Geo  "Beard_Fumanchu"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P294621072"
+			Geo  "Beard_Fumanchu_02"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P2826033024"
+			Geo  "Beard_Goatee_01"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P1566246536"
+			Geo  "Beard_Goatee_02"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P3115095060"
+			Geo  "Beard_Goatee_03"
+			Tex1 "Beard_Pharoah_01a"
+			Tex2 "Beard_Pharoah_01b"
+		End
+
+		Info
+			DisplayName "P3017351219"
+			Geo  "Mustache_01"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P2760116376"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Wizard_Beard_01"
+			Tex1 "!Neck_V_Wizard_Beard_01"
+			Tex2 "!Neck_V_Wizard_Beard_01_Mask"
+			Key  "MagicPack"
+			Product cucpmpbe
+		End
+
+		Info
+			DisplayName "P680724432"
+			Geo  "Mustache_02"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P648274282"
+			Geo  "Mustache_03"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P3270957521"
+			Geo  "Beard_Soul_Patch"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P4099180265"
+			Geo  "Beard_Van_Dyke"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P3672812295"
+			Geo  "Spikey_02"
+			Tex1 "Beard_01a"
+			Tex2 "Beard_01b"
+		End
+
+		Info
+			DisplayName "P732601482"
+			Geo  "V_Neck_Res.geo/GEO_Neck_Resistance_01"
+			Tex1 "!Cranium_V_Resistance_Beard_01P"
+			Tex2 "!Cranium_V_Resistance_Beard_01_Mask"
+			Key "GoingRogue_Set"
+			Product cucpprbe
+		End
+
+#####################
+#####RETRO_SCIFI#####
+
+                Info
+                       	GeoName "P1919421366"
+                       	DisplayName "P1919421366"
+                       	Geo  "N_Male_Retro_SciFi_01.geo/GEO_Head_Retro_SciFi_01"
+                       	Tex1 "!X_Head_Retro_SciFi_01"
+                       	Tex2 "none"
+                       	Key  "Retro_SciFi"
+                       	Product cucprsh1
+                End
+
+                Info
+                      	Fx "Costumes/RetroSciFi/Male_BubbleHelm_01.fx"
+                      	DisplayName "P4022813118"
+                      	Geo  "N_Male_Retro_SciFi_01.geo/GEO_Head_Retro_SciFi_01"
+                     	Tex1 "!X_Head_Retro_SciFi_01"
+                        Tex2 "none"
+                        Key  "Retro_SciFi"
+                        Product cucprsh1
+              	End
+
+                Info
+                     	Fx "Costumes/RetroSciFi/Male_BubbleHelm_02.fx"
+                        DisplayName "P3275672875"
+                        Geo  "N_Male_Retro_SciFi_01.geo/GEO_Head_Retro_SciFi_01"
+                        Tex1 "!X_Head_Retro_SciFi_01"
+                        Tex2 "none"
+                        Key  "Retro_SciFi"
+                        Product cucprsh1
+         	End
+
+		Info
+			COV 1
+			DisplayName "P1251658993"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Whiskers_01"
+			Tex1 "Beard_Pharoah_01a"
+			Tex2 "Beard_Pharoah_01b"
+		End
+
+		Info
+			DisplayName "P1034584571"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Warrior_02"
+			Tex1 "!Neck_V_Warrior_01"
+			Tex2 "!Neck_V_Warrior_01_Mask"
+			Key "MartialArts_Set"
+			Product cucpmaf1
+		End
+
+		Info
+			DisplayName "P2802718680"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Warrior_01"
+			Tex1 "!Jaw_V_Warrior_01"
+			Tex2 "!Jaw_V_Warrior_01_Mask"
+			Key "MartialArts_Set"
+			Product cucpmah1
+		End
+
+		Info
+			COV 1
+			DisplayName "P4091301610"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Ninja_Mask_01"
+			Tex1 "!Hair_V_Ninja_Helmet"
+			Tex2 "!Hair_V_Ninja_Helmet_Mask"
+		End
+
+		Info
+			COV 1
+			DisplayName "P1392598063"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Ninja_Mask_02"
+			Tex1 "!Hair_V_Ninja_Helmet"
+			Tex2 "!Hair_V_Ninja_Helmet_Mask"
+		End
+
+		Info
+			COV 1
+			DisplayName "P1763263426"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Mastermind_Mask"
+			Tex1 "!Neck_Malta_Mask_01"
+			Tex2 "none"
+		End
+
+		Info
+			COV 1
+			DisplayName "P1045751723"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Longbow_Mask"
+			Tex1 "!Hair_V_Helmet_Longbow"
+			Tex2 "!Hair_V_Helmet_Longbow_Mask"
+		End
+
+		Info
+			DisplayName "P2235475500"
+			Geo  "Mask_01"
+			Tex1 "Reaver"
+			Tex2 "None"
+		End
+
+		Info
+			COV 1
+			DisplayName "P935453886"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Surgeon_Mask"
+			Tex1 "!Neck_V_Surgeon_Mask_01"
+			Tex2 "!Neck_V_Surgeon_Mask_01_Mask"
+		End
+
+		Info
+			DisplayName "P260093968"
+			Geo  "Mask_02"
+			Tex1 "Tech_01a"
+			Tex2 "Tech_01b"
+		End
+
+		Info
+			DisplayName "P3127504915"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Jester_01"
+			Tex1 "!Hair_V_Jester_Hat_01"
+			Tex2 "!Hair_V_Jester_Hat_01_Mask"
+		End
+
+		Info
+			DisplayName "P2065330447"
+			Geo  "Reaver"
+			Tex1 "Reaver"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P4070282223"
+			Geo  "Gas_Mask"
+			Tex1 "Tech_01a"
+			Tex2 "Tech_01b"
+		End
+
+		Info
+			DisplayName "P1789944339"
+			Geo  "Breather"
+			Tex1 "Tech_01a"
+			Tex2 "Tech_01b"
+		End
+
+		Info
+			DisplayName "P3202808798"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_01"
+			Tex1 "!X_Eyes_Gas_Mask_01B"
+			Tex2 "!Eyes_V_Science_Goggle_01_Mask"
+			Key "Science_Pack"
+			Product cucpssb1
+		End
+
+		Info
+			DisplayName "P2513152029"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_02"
+			Tex1 "!X_Eyes_Gas_Mask_01B"
+			Tex2 "!Eyes_V_Science_Goggle_01_Mask"
+			Key "Science_Pack"
+			Product cucpssb2
+		End
+
+		Info
+			DisplayName "P2362480988"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_03"
+			Tex1 "!X_Eyes_Gas_Mask_02B"
+			Tex2 "!Eyes_V_Science_Goggle_02_Mask"
+			Key "Science_Pack"
+			Product cucpssb3
+		End
+
+		Info
+			DisplayName "P3281063835"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_04"
+			Tex1 "!X_Eyes_Gas_Mask_02B"
+			Tex2 "!Eyes_V_Science_Goggle_02_Mask"
+			Key "Science_Pack"
+			Product cucpssb4
+		End
+
+		Info
+			DisplayName "P3666493146"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_05"
+			Tex1 "!X_Eyes_Gas_Mask_03B"
+			Tex2 "!Eyes_V_Science_Goggle_03_Mask"
+			Key "Science_Pack"
+			Product cucpssb5
+		End
+
+		Info
+			DisplayName "P4054281497"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_06"
+			Tex1 "!X_Eyes_Gas_Mask_03B"
+			Tex2 "!Eyes_V_Science_Goggle_03_Mask"
+			Key "Science_Pack"
+			Product cucpssb6
+		End
+
+		Info
+			DisplayName "P2987976632"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Gas_Mask_Breather_07"
+			Tex1 "!X_Eyes_Gas_Mask_04"
+			Tex2 "!Eyes_V_Science_Goggle_04_Mask"
+			Key "Science_Pack"
+			Product cucpssbd
+		End
+
+		Info
+			DisplayName "P3656750408"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Alpha_01"
+			Tex1 "!Hair_V_Alpha_01"
+			Tex2 "!Hair_V_Alpha_01_Mask"
+			Key  "Complete_Set"
+			Product cucpahd2
+		End
+
+		Info
+			DisplayName "P1249871800"
+			Geo "V_MALE_NECK.GEO/GEO_Neck_Vangaurd_01"
+			Tex1 "!X_Vanguard_Eyes"
+			Tex2 "NONE"
+			Key  "Vanguard_Detail_2"
+			Product cucpvhd2
+		End
+
+		Info
+			COV 1
+			DisplayName "P1989414427"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_GasMask_03"
+			Tex1 "!Neck_V_GasMask_03"
+			Tex2 "!Neck_V_GasMask_03_dual"
+		End
+
+		Info
+			DisplayName "P3676869372"
+			Geo  "Chin_01"
+			Tex1 "Tech_01a"
+			Tex2 "Tech_01b"
+		End
+
+		Info
+			DisplayName "P2986693267"
+			Geo  "Chin_02"
+			Tex1 "Tech_01a"
+			Tex2 "Tech_01b"
+		End
+
+		Info
+			DisplayName "P2405393461"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Enforcer_01"
+			Tex1 "!X_Enforcer_Hair"
+			Tex2 "NONE"
+		End
+
+		Info
+			DisplayName "P2758948854"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Enforcer_02"
+			Tex1 "!X_Enforcer_Hair"
+			Tex2 "NONE"
+		End
+
+		Info
+			DisplayName "P3177776823"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Enforcer_03"
+			Tex1 "!X_Enforcer_Hair"
+			Tex2 "NONE"
+		End
+
+###########################################
+###############CYBERTECH###################
+
+		Info
+			GeoName "P2017038103"
+			DisplayName "P2017038103"
+			Geo  "N_Male_Cyberpunk_01.geo/GEO_Neck_Cyberpunk_01"
+			Tex1 "!X_Jaw_Cyberpunk_01"
+			Tex2 "none"
+			Key "Cyberpunk_Parts_1"
+			Product cucpcyja
+		End
+
+		Info
+			GeoName "P1393876180"
+			DisplayName "P1393876180"
+			Geo  "N_Male_Cyberpunk_01.geo/GEO_Neck_Cyberpunk_02"
+			Tex1 "!X_Jaw_Cyberpunk_01"
+			Tex2 "none"
+			Key "Cyberpunk_Parts_1"
+			Product cucpcyja
+		End
+
+		Info
+			GeoName "P1242557845"
+			DisplayName "P1242557845"
+			Geo  "N_Male_Cyberpunk_01.geo/GEO_Neck_Cyberpunk_04"
+			Tex1 "!X_Jaw_Cyberpunk_01"
+			Tex2 "none"
+			Key "Cyberpunk_Parts_1"
+			Product cucpcyja
+		End
+
+		Info
+			DisplayName "P389714434"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Cyborg_01"
+			Tex1 "!X_Cyborg_Head_01"
+			Tex2 "None"
+			Key  "CyborgPack"
+			Product cucpcd2a
+		End
+
+		Info
+			DisplayName "P1008189889"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Cyborg_02"
+			Tex1 "!X_Cyborg_Head_01"
+			Tex2 "None"
+			Key  "CyborgPack"
+			Product cucpcd2b
+		End
+
+		Info
+			DisplayName "P2986622232"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Omega_01"
+			Tex1 "!Boot_V_Omega_01"
+			Tex2 "!Chest_White_01"
+			Key  "Complete_Set"
+			Product cucpomhd
+		End
+
+		Info
+			DisplayName "P4281183752"
+			Geo  "Cigar"
+			Tex1 "Cigar_01"
+			Tex2 "None"
+		End
+
+		Info
+			COV 1
+			DisplayName "P2290805660"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Spikes_01"
+			Tex1 "!Emblem_V_Spikes_01"
+			Tex2 "None"
+		End
+
+		Info
+			COV 1
+			DisplayName "P3802010722"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Spikes_01"
+			Tex1 "!X_V_Eyes_Spikes_01_Metal"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P2977296088"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Bolts_01"
+			Tex1 "!eyes_V_Reflector_01"
+			Tex2 "!eyes_V_Reflector_01_Mask"
+			Key "Science_Pack"
+			Product cucpssnb
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P332040832"
+			Geo  "Villain_Revolutionary"
+			Tex1 "!Belt_Villain_Pirate"
+			Tex2 "None"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P1644984902"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_01"
+			Tex1 "!Neck_V_Romulus_01"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P1226910085"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_02"
+			Tex1 "!Neck_V_Romulus_01"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P1345984708"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_03"
+			Tex1 "!Neck_V_Romulus_01"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P528190979"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_04"
+			Tex1 "!Neck_V_Romulus_01"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P4248972561"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_01"
+			Tex1 "!Neck_V_Romulus_02"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P4278489928"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_02"
+			Tex1 "!Neck_V_Romulus_02"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P4274452863"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_03"
+			Tex1 "!Neck_V_Romulus_02"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P4220121082"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_Romulus_04"
+			Tex1 "!Neck_V_Romulus_02"
+			Tex2 "!Neck_V_Romulus_01_Mask"
+		End
+
+		Info
+			DevOnly	1
+			DisplayName "P1197252391"
+			Geo  "V_Signature_Maelstrom_Neck.geo/GEO_Neck_Maelstrom_01"
+			Tex1 "!X_Neck_Maelstrom_01"
+			Tex2 "none"
+		End
+
+		Info
+			DevOnly 1
+			DisplayName "P837913090"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_ImperialDefense_01"
+			Tex1 "!X_ImperialDefense_Neck_01"
+			Tex2 "!eyes_V_ImperialDefense_01_Mask"
+		End
+
+		Info
+			DevOnly 1
+			DisplayName "P771495682"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_V_Ascension_01"
+			Tex1 "!X_Neck_Ascension_01"
+			Tex2 "!Neck_V_Ascension_01_Mask"
+		End
+
+#####################################
+#############STEAMPUNK###############
+
+		Info
+			DisplayName "P697610511"
+			Geo  "N_Male_Steampunk_01.geo/GEO_N_Neck_Moustache_Vic_Steampunk_01"
+			Tex1 "!X_N_Male_Neck_Vic_Steampunk_01"
+			Tex2 "none"
+			Key "Steam_Punk_Pack"
+			Product cucpsvmu
+		End
+
+		Info
+			DisplayName "P841027400"
+			Geo  "N_Male_Steampunk_01.geo/GEO_N_Neck_Beard_Clsc_Steampunk_01"
+			Tex1 "!X_N_Male_Neck_Clsc_Steampunk_01"
+			Tex2 "none"
+			Key "Steam_Punk_Pack"
+			Product cucpscbr
+		End
+
+		Info
+			DevOnly 1
+			DisplayName "P1017410477"
+			Geo  "V_MALE_NECK.GEO/GEO_Neck_CoThorns_01"
+			Tex1 "!X_SpadR_CoThorns_02B"
+			Tex2 "!Spadr_CoThorns_02B_Mask"
+		End
+
+#######################################
+##############GUNSLINGER################
+
+		Info
+			GeoName "P783853559"
+			DisplayName "P783853559"
+			Geo  "N_Male_Gunslinger_01.geo/GEO_N_Cigar_Gunslinger_01"
+			Tex1 "!N_Cigar_Gunslinger_01_B"
+			Tex2 "none"
+			Key "Gunslinger"
+			Product cucpgsci
+		End
+
+#############################################
+##############Elemental Order################
+
+		Info
+			DisplayName "P536898909"
+			Geo  "N_Male_Elemental_Order_01.geo/GEO_Neck_Elemental_Order_01"
+			Tex1 "!X_Neck_Elemental_Order_01"
+			Tex2 "none"
+			Key "Superpack1"
+			Product cucpeofm
+		End
+		
+		// MALE DETAIL 2
+		

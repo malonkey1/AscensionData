@@ -1,0 +1,565 @@
+BoneSet
+	COH 1
+	Name "PointyEars" // don't change
+	DisplayName "P1503291990"
+	Key "PointyEars"
+
+	//Face Scale
+	Include menu/costume/localized/common/face_scale/female_faces_01.ctm
+
+	//Face
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P687117166"
+		BodyPart "Head"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Info
+			CoHV 1
+			DisplayName "P3273141476"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_06"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3895820071"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_03"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P4046343782"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_10"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3195000993"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_05"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2809457120"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_02"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2354690595"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_07"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2504166242"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_08"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P316315565"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_09"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P197240556"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_04"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3627213047"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_11"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3240743350"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_12"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3926164085"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_13"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P4078940980"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_alien_01"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3160286707"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_15"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2734172105"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_glowing_eyes_01"
+			Tex2 "skin_glowing_eyes_01b"
+		End
+
+		Info
+			DevOnly 1
+			DisplayName "P582085478"
+			Geo  "Standard"
+			Tex1 "Skin_Female_Mannequin"
+			Tex2 "mask"
+		End
+
+
+		//Masks//------------------------------------------------------------
+
+			Mask
+				DisplayName "P4035132623"
+				Name "none"
+			End
+
+			Mask
+				DisplayName "P3395352911"
+				Name "Lips"
+			End
+			Mask
+				DisplayName "P994817677"
+				Name "Makeup_1"
+			End
+			Mask
+				DisplayName "P275178830"
+				Name "Makeup_2"
+			End
+			Mask
+				DisplayName "P159241231"
+				Name "Makeup_3"
+			End
+			Mask
+				DisplayName "P1178354376"
+				Name "Makeup_4"
+			End
+			Mask
+				DisplayName "P1596421001"
+				Name "Makeup_5"
+			End
+
+			Mask
+				DisplayName "P597958827"
+				Name "Cat"
+			End
+			Mask
+				DisplayName "P862539219"
+				Name "Circuitry"
+			End
+			Mask
+				DisplayName "P212175624"
+				Name "Clown"
+			End
+			Mask
+				DisplayName "P270296118"
+				Name "Dark_Eyes"
+			End
+			Mask
+				DisplayName "P1502348885"
+				Name "Goth"
+			End
+			Mask
+				DisplayName "P1184599060"
+				Name "Stars"
+			End
+			Mask
+				DisplayName "P3379159230"
+				Name "Streak"
+			End
+			Mask
+				DisplayName "P1464410453"
+				Name "Spots"
+			End
+			Mask
+				DisplayName "P3874960631"
+				Name "Tiger"
+			End
+			Mask
+				DisplayName "P3099263505"
+				Name "Triangle"
+			End
+			Mask
+				DisplayName "P3045926619"
+				Name "Under_Eyes"
+			End
+			Mask
+				DisplayName "P2046651622"
+				Name "Small_Mask_1"
+			End
+			Mask
+				DisplayName "P1389379365"
+				Name "Small_Mask_2"
+			End
+			Mask
+				DisplayName "P1271598692"
+				Name "Small_Mask_3"
+			End
+			Mask
+				DisplayName "P76191907"
+				Name "Small_Mask_4"
+			End
+			Mask
+				DisplayName "P496085474"
+				Name "Skull_Mask_2"
+			End
+	End
+
+	//Hair
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2681220175"
+		BodyPart "Hair"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Info
+			DisplayName "P3724650403"
+			Geo  "Medium_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P3770427505"
+			Geo  "Medium_02"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P3384947446"
+			Geo  "Medium_03"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P3427693306"
+			Geo  "Medium_04"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P1278801392"
+			Geo  "Med_Bangs"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P2971751502"
+			Geo  "A_line"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P878321171"
+			Geo  "Student_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P268115680"
+			Geo  "Long_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P618024227"
+			Geo  "Long_02"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P444009433"
+			Geo  "Long_04"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P748895333"
+			Geo  "Long_05"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P2577201591"
+			Geo  "Long_Straight"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P1688155157"
+			Geo  "Japan_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P807057081"
+			Geo  "Bun"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P1088389474"
+			Geo  "Ponytail"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P2907545578"
+			Geo  "Ponytail_02"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P3115696928"
+			Geo  "Pigtail"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P2514439703"
+			Geo  "Korea_01"
+			Tex1 "Korea_01"
+			Tex2 "Korea_01b"
+		End
+
+		Info
+			DisplayName "P924983260"
+			Geo  "Taiwan_01"
+			Tex1 "Taiwan_01"
+			Tex2 "Taiwan_01b"
+		End
+
+		Info
+			DisplayName "P2390003545"
+			Geo  "Crazy_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P3283021282"
+			Geo  "Style_02"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P1126181430"
+			Geo  "Style_03"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P2200398019"
+			Geo  "short_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P537215885"
+			Geo  "Spiky2"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P83860832"
+			Geo  "Spiky1"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P2726785999"
+			Geo  "Wild"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P65437594"
+			Geo  "Flat_Top"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P3062466744"
+			Geo  "Dreads"
+			Tex1 "Afro_01a"
+			Tex2 "Afro_01b"
+		End
+
+		Info
+			DisplayName "P3604146125"
+			Geo  "Afro_small"
+			Tex1 "Afro_01a"
+			Tex2 "Afro_01b"
+		End
+
+		Info
+			DisplayName "P2891911295"
+			Geo  "Afro"
+			Tex1 "Afro_01a"
+			Tex2 "Afro_01b"
+		End
+
+###################################################
+#############GUNSLINGER#############################
+
+		Info
+			GeoName "P3017351219"
+			DisplayName "P783853559"
+			Geo  "N_Female_Gunslinger_01.geo/GEO_N_Hair_Gunslinger_01"
+			Tex1 "!X_Fem_Hair_Gunslinger_01"
+			Tex2 "none"
+			Key "Gunslinger"
+			Product cucpgsri
+		End
+
+		Info
+			COH 1
+			DisplayName "P19544037"
+			Geo  "bald"
+			Tex1 "skin_bald_01a"
+			Tex2 "skin_bald_01b"
+		End
+
+		Info
+			COV 1
+			DisplayName "P4035132623"
+			Geo  "None"
+			Tex1 "None"
+			Tex2 "None"
+		End
+
+		Info
+			COH 1
+			DisplayName "P85837085"
+			Geo  "Top_knot"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			COV 1
+			DisplayName "P85837085"
+			Geo  "V_FEM_HAIR.GEO/GEO_Hair_V_Top_knot"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			COH 1
+			DisplayName "P3594589416"
+			Geo  "Mohawk_02"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			COH 1
+			DisplayName "P66754169"
+			Geo  "Mohawk_01"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+
+		Info
+			COV 1
+			DisplayName "P3594589416"
+			Geo  "V_FEM_HAIR.GEO/GEO_Hair_V_Mohawk_02"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			COV 1
+			DisplayName "P66754169"
+			Geo  "V_FEM_HAIR.GEO/GEO_Hair_V_Mohawk_01"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+
+	//EVENTS//------------------------------------------------
+
+		Info
+			DisplayName "P275567012"
+			Geo  "V_FEM_HAIR.GEO/GEO_Hair_V_Laurels_01"
+			Tex1 "!X_Hair_Fem_Laurels_Special"
+			Tex2 "None"
+			Key "Event_Valentine_Accessories"
+			Product cucpvevl
+		End
+
+	End
+
+	//Detail 1
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2793026233"
+		BodyPart "EyeDetail"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/female/all/head/inc_detail_1.ctm
+
+	End
+
+	//Detail 2
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2371314042"
+		BodyPart "Neck"
+		DefaultView 0.7015 2.6 13.5 // default is 0.7015 2.6 13.5
+		ZoomView 0.0 5.1 3.75 // default for female is 0.0 4.0 7.0
+
+		Include menu/costume/localized/female/all/head/inc_detail_2.ctm
+
+	End
+End

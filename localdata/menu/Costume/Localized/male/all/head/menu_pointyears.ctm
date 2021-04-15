@@ -1,0 +1,381 @@
+BoneSet
+	COH 1
+	Name "PointyEars" // don't change
+	DisplayName "P1503291990"
+	Key "PointyEars"
+
+	//Face Scale
+	Include menu/costume/localized/common/face_scale/male_faces_01.ctm
+
+	//Face
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P687117166"
+		BodyPart "Head"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Info
+			DisplayName "P3273141476"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_01"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3895820071"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_02"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P4046343782"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_07"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3195000993"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_04"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2809457120"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_03"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2354690595"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_06"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2504166242"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_05"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P316315565"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_10"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P197240556"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_08"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3627213047"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_young_01"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3240743350"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_12"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P3926164085"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_11"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P4078940980"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_alien_01"
+			Tex2 "mask"
+		End
+
+		Info
+			COH 1
+			DisplayName "P3160286707"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_head_13"
+			Tex2 "mask"
+		End
+
+		Info
+			DisplayName "P2734172105"
+			Geo  "Pointy_Ears"
+			Tex1 "skin_glowing_eyes_01a"
+			Tex2 "skin_glowing_eyes_01b"
+		End
+
+		Info
+			DevOnly 1
+			DisplayName "P582085478"
+			Geo  "Standard"
+			Tex1 "Skin_Male_Mannequin"
+			Tex2 "mask"
+		End
+
+		//Masks//------------------------------------------------------------
+
+			Mask
+				DisplayName "P4035132623"
+				Name "none"
+			End
+			Mask
+				DisplayName "P597958827"
+				Name "Cat"
+			End
+			Mask
+				DisplayName "P862539219"
+				Name "Circuitry"
+			End
+			Mask
+				DisplayName "P212175624"
+				Name "Clown"
+			End
+			Mask
+				DisplayName "P270296118"
+				Name "Dark_Eyes"
+			End
+			Mask
+				DisplayName "P1502348885"
+				Name "Goth"
+			End
+			Mask
+				DisplayName "P1184599060"
+				Name "Stars"
+			End
+			Mask
+				DisplayName "P3379159230"
+				Name "Streak"
+			End
+			Mask
+				DisplayName "P1464410453"
+				Name "Spots"
+			End
+			Mask
+				DisplayName "P3874960631"
+				Name "Tiger"
+			End
+			Mask
+				DisplayName "P3099263505"
+				Name "Triangle"
+			End
+			Mask
+				DisplayName "P3045926619"
+				Name "Under_Eyes"
+			End
+			Mask
+				DisplayName "P2046651622"
+				Name "Small_Mask_1"
+			End
+			Mask
+				DisplayName "P1389379365"
+				Name "Small_Mask_2"
+			End
+			Mask
+				DisplayName "P1271598692"
+				Name "Small_Mask_3"
+			End
+			Mask
+				DisplayName "P76191907"
+				Name "Small_Mask_4"
+			End
+			Mask
+				DisplayName "P496085474"
+				Name "Skull_Mask_2"
+			End
+
+	End
+
+	//Hair
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2681220175"
+		BodyPart "Hair"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Info
+			DisplayName "P3739713364"
+			Geo  "Style_01"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P4123667607"
+			Geo  "Style_02"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P3973127638"
+			Geo  "Style_03"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P2744158993"
+			Geo  "Martial_Arts_01"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P3129719376"
+			Geo  "Buzzed"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			DisplayName "P19544037"
+			Geo  "bald"
+			Tex1 "skin_bald_01a"
+			Tex2 "skin_bald_01b"
+		End
+
+		Info
+			DisplayName "P1596307082"
+			Geo  "Spiky1"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P1946740041"
+			Geo  "Spiky2"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P2726785999"
+			Geo  "Wild"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P65437594"
+			Geo  "Flat_Top"
+			Tex1 "Style_01a"
+			Tex2 "Style_01b"
+		End
+
+		Info
+			DisplayName "P488047456"
+			Geo  "Headband"
+			Tex1 "headband_01a"
+			Tex2 "headband_01b"
+		End
+
+		Info
+			DisplayName "P3062466744"
+			Geo  "Dreads"
+			Tex1 "Afro_01a"
+			Tex2 "Afro_01b"
+		End
+
+		Info
+			DisplayName "P639971337"
+			Geo  "Medium"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P268115680"
+			Geo  "Long_01"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P4042875074"
+			Geo  "Ponytail"
+			Tex1 "Long_01a"
+			Tex2 "Long_01b"
+		End
+
+		Info
+			DisplayName "P696745092"
+			Geo  "Afro_small"
+			Tex1 "Afro_01a"
+			Tex2 "Afro_01b"
+		End
+
+		Info
+			DisplayName "P85837085"
+			Geo  "Top_knot"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			DisplayName "P2036367306"
+			Geo  "Mohawk_01"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		Info
+			DisplayName "P1380789257"
+			Geo  "Mohawk_02"
+			Tex1 "skin_01a"
+			Tex2 "skin_01b"
+		End
+
+		//EVENTS//-------------------------------------------------------------------------------
+
+		Info
+			DisplayName "P275567012"
+			Geo  "V_MALE_HAIR.GEO/GEO_Hair_V_Laurels_01"
+			Tex1 "!X_Hair_Laurels_Special"
+			Tex2 "None"
+			Key "Event_Valentine_Accessories"
+			Product cucpvevl
+		End
+
+	End
+
+	//Detail 1
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2793026233"
+		BodyPart "EyeDetail"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/male/all/head/inc_detail_1.ctm
+	End
+
+	//Detail 2
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2371314042"
+		BodyPart "Neck"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/male/all/head/inc_detail_2.ctm
+
+	End
+End

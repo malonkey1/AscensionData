@@ -1,0 +1,118 @@
+BoneSet
+	Name "Hoods" // dont' change
+	DisplayName "P3234754606"
+
+	//Face Scale
+	Include menu/costume/localized/common/face_scale/huge_faces_01.ctm
+
+	//Face
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P687117166"
+		BodyPart "Head"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/huge/all/head/inc_heads_standard.ctm
+		Include menu/costume/localized/huge/all/head/inc_heads_legacy.ctm
+		Include menu/costume/localized/huge/all/head/inc_heads_standard_devonly.ctm
+
+
+
+	//Masks//------------------------------------------------------------
+
+		Include menu/costume/localized/huge/all/head/inc_heads_standard_patterns.ctm
+
+	End
+
+	//Hood
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P1729794585"
+		BodyPart "Hair"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Info
+			DisplayName "P1729794585"
+			Geo  "Hood_01"
+			Tex1 "Hood"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P2672755885"
+			Geo  "Hood_02"
+			Tex1 "Hood"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P2654280548"
+			Geo  "Hood_03"
+			Tex1 "Hood"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P669630847"
+			Geo  "V_HUGE_Hair.GEO/GEO_Hair_Magic_Hood_01"
+			Tex1 "!Hair_V_Magic_Hood_01"
+			Tex2 "!Hair_V_Magic_Hood_01_Mask"
+			Key  "MagicPack"
+			Product cucpmpah
+		End
+
+		Info
+			DisplayName "P4049079768"
+			Geo  "N_Huge_BlackKnights_Underarmor_01.geo/GEO_Hair_Coif_BKUA_01"
+			Tex1 "!X_Hair_BKUA_05"
+			Tex2 "None"
+			Key "BK_Underarmor "
+			Product cucpbkcc
+		End
+
+		Info
+			DisplayName "P997328400"
+			Geo  "N_Huge_BlackKnights_Underarmor_01.geo/GEO_Hair_Coif_BKUA_01"
+			Tex1 "!X_Hair_BKUA_06"
+			Tex2 "None"
+			Key "BK_Underarmor "
+			Product cucpbkcc
+		End
+
+		Info
+			DisplayName "P2778470164"
+			Geo  "V_HUGE_Hair.GEO/GEO_Hair_CoThorns_01B"
+			Tex1 "!X_Hair_CoThorns_02"
+			Tex2 "!Hair_V_CoThorns_02_Mask"
+			Key "CoThorns_Set"
+			Product cucpctho
+		End
+		
+		// HUGE HOOD
+	End
+
+	//Detail 1
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2793026233"
+		BodyPart "EyeDetail"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/male/all/head/inc_detail_1_hood.ctm		
+	End
+
+	//Detail 2
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2371314042"
+		BodyPart "Neck"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/male/all/head/inc_detail_2_hood.ctm		
+	End
+End
+

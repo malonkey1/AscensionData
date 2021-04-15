@@ -1,0 +1,185 @@
+BoneSet
+	Name "Helmets" // dont' change
+	DisplayName "P4179547168"
+
+	//Face Scale
+	Include menu/costume/localized/common/face_scale/huge_faces_01.ctm
+
+	//Face
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P687117166"
+		BodyPart "Head"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/huge/all/head/inc_heads_standard.ctm
+		Include menu/costume/localized/huge/all/head/inc_heads_legacy.ctm
+		Include menu/costume/localized/huge/all/head/inc_heads_standard_devonly.ctm
+
+	//Masks//------------------------------------------------------------
+
+		Include menu/costume/localized/huge/all/head/inc_heads_standard_patterns.ctm
+
+	End
+
+	//Helmet
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P3020775162"
+		BodyPart "Hair"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+#####################################
+############Black Knights############
+
+		Info
+			DisplayName "P4234574938"
+			Geo  "N_Huge_BlackKnights_01.geo/GEO_Hair_BK_01A"
+			Tex1 "!X_Hair_BlackKnights_01"
+			Tex2 "none"
+			Key "Black_Knights"
+			Product cucpbkh1
+		End
+
+		Info
+			DisplayName "P3612028825"
+			Geo  "N_Huge_BlackKnights_01.geo/GEO_Hair_BK_01B"
+			Tex1 "!X_Hair_BlackKnights_01"
+			Tex2 "none"
+			Key "Black_Knights"
+			Product cucpbkh2
+		End
+
+#######################################
+############Elemental Order############
+
+		Info
+			DisplayName "P1836490299"
+			Geo  "N_Huge_Elemental_Order_01.geo/GEO_Hair_Elemental_Order_01"
+			Tex1 "!X_Hair_Elemental_Order_01"
+			Tex2 "none"
+			Key "Superpack1"
+			Product cucpeohe
+		End
+
+		Info
+			DisplayName "P1180421624"
+			Geo  "N_Huge_Elemental_Order_01.geo/GEO_Hair_Elemental_Order_01"
+			Tex1 "!X_Hair_Elemental_Order_02"
+			Tex2 "none"
+			Key "Superpack1"
+			Product cucpeohe
+		End
+
+		Info
+			DisplayName "P1152921417"
+			Geo  "Hitech"
+			Tex1 "HiTech_Helmet_01a"
+			Tex2 "HiTech_Helmet_01b"
+		End
+
+###########################################
+###########Imperial_Dynasty################
+
+		Info
+			GeoName "P348262971"
+			DisplayName "P348262971"
+			Geo  "N_Huge_Imperial_Dynasty_01.geo/GEO_N_Helmet_Imperial_Dynasty_01"
+			Tex1 "!X_Helmet_Imperial_Dynasty_01"
+			Tex2 "none"
+			Key "Imperial_Dynasty"
+			Product cucpimhe
+		End
+
+		Info
+			GeoName "P1072644600"
+			DisplayName "P1072644600"
+			Geo  "N_Huge_Imperial_Dynasty_01.geo/GEO_N_Helmet_Imperial_Dynasty_02"
+			Tex1 "!X_Helmet_Imperial_Dynasty_01"
+			Tex2 "none"
+			Key "Imperial_Dynasty"
+			Product cucpimhe
+		End
+
+		Info
+			DisplayName "P1953716629"
+			Geo  "M1_Helmet"
+			Tex1 "helmet_camo_01a"
+			Tex2 "helmet_camo_01b"
+		End
+
+		Info
+			DisplayName "P2153382546"
+			Geo  "V_HUGE_HAIR.GEO/GEO_Hair_PratoriaTEST_P_01"
+			Tex1 "!Hair_V_PratoriaTEST_01"
+			Tex2 "!Hair_V_PratoriaTEST_01_Mask"
+			Key  "GoingRogue_Set"
+			Product cucpprph
+		End
+
+		Info
+			COV 1
+			DisplayName "P2577436409"
+			Geo  "V_HUGE_HAIR.GEO/GEO_Hair_V_Viking_Hat_02"
+			Tex1 "!X_Saxon_Helm"
+			Tex2 "None"
+		End
+
+		Info
+			DisplayName "P366514782"
+			Geo  "Skull_Cap"
+			Tex1 "Helmet_Viking_01a"
+			Tex2 "Helmet_Viking_01b"
+		End
+
+		Info
+			GeoName "P2528473745"
+			DisplayName "P2528473745"
+			Geo  "N_Huge_Helms_01.geo/GEO_N_Recluse_Helm_01"
+			Tex1 "!X_Recluse_Helmet_01"
+			Tex2 "none"
+			Key "LoyaltyReward2012"
+		End
+
+		Info
+			COV 1
+			DisplayName "P3074482830"
+			Geo  "V_HUGE_HAIR.GEO/GEO_Hair_V_Viking_Hat_01"
+			Tex1 "!X_Viking_Helm"
+			Tex2 "None"
+		End
+
+		Info
+			GeoName "P112530607"
+			DisplayName "P112530607"
+			Geo  "N_Huge_Helms_01.geo/GEO_N_Zeus_Helm_01"
+			Tex1 "!X_Zeus_Helmet_01"
+			Tex2 "none"
+			Key "LoyaltyReward2012"
+		End
+	End
+
+	//Detail 1
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2793026233"
+		BodyPart "EyeDetail"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/huge/all/head/inc_detail_1.ctm
+	End
+
+	//Detail 2
+	//------------------------------------------------------------
+
+	GeoSet
+		DisplayName "P2371314042"
+		BodyPart "Neck"
+		Include menu/costume/localized/male/all/head/inc_camera_zoom.ctm
+
+		Include menu/costume/localized/huge/all/head/inc_detail_2.ctm
+	End
+End
