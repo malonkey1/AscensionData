@@ -4,7 +4,7 @@ DetailRecipe Sanctuary_Frozen_Blast_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_A.Attuned_Frozen_Blast_A
 	Icon coesbfb1_med.tga
 	Level 50
@@ -23,7 +23,7 @@ DetailRecipe Sanctuary_Frozen_Blast_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_B.Attuned_Frozen_Blast_B
 	Icon coesbfb1_med.tga
 	Level 50
@@ -42,7 +42,7 @@ DetailRecipe Sanctuary_Frozen_Blast_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_C.Attuned_Frozen_Blast_C
 	Icon coesbfb1_med.tga
 	Level 50
@@ -61,7 +61,7 @@ DetailRecipe Sanctuary_Frozen_Blast_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_D.Attuned_Frozen_Blast_D
 	Icon coesbfb1_med.tga
 	Level 50
@@ -80,7 +80,7 @@ DetailRecipe Sanctuary_Frozen_Blast_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_E.Attuned_Frozen_Blast_E
 	Icon coesbfb1_med.tga
 	Level 50
@@ -99,7 +99,7 @@ DetailRecipe Sanctuary_Frozen_Blast_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Frozen_Blast_F.Attuned_Frozen_Blast_F
 	Icon coesbfb1_med.tga
 	Level 50
@@ -118,7 +118,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_A.Superior_Attuned_Frozen_Blast_A
 	Icon coessfb1_med.tga
 	Level 50
@@ -137,7 +137,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_B.Superior_Attuned_Frozen_Blast_B
 	Icon coessfb1_med.tga
 	Level 50
@@ -156,7 +156,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_C.Superior_Attuned_Frozen_Blast_C
 	Icon coessfb1_med.tga
 	Level 50
@@ -175,7 +175,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_D.Superior_Attuned_Frozen_Blast_D
 	Icon coessfb1_med.tga
 	Level 50
@@ -194,7 +194,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_E.Superior_Attuned_Frozen_Blast_E
 	Icon coessfb1_med.tga
 	Level 50
@@ -213,7 +213,7 @@ DetailRecipe Sanctuary_Superior_Frozen_Blast_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000051"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Frozen_Blast_F.Superior_Attuned_Frozen_Blast_F
 	Icon coessfb1_med.tga
 	Level 50
@@ -232,7 +232,7 @@ DetailRecipe Sanctuary_Winters_Bite_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_A.Attuned_Winters_Bite_A
 	Icon coesbwb1_med.tga
 	Level 50
@@ -251,7 +251,7 @@ DetailRecipe Sanctuary_Winters_Bite_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_B.Attuned_Winters_Bite_B
 	Icon coesbwb1_med.tga
 	Level 50
@@ -270,7 +270,7 @@ DetailRecipe Sanctuary_Winters_Bite_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_C.Attuned_Winters_Bite_C
 	Icon coesbwb1_med.tga
 	Level 50
@@ -289,7 +289,7 @@ DetailRecipe Sanctuary_Winters_Bite_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_D.Attuned_Winters_Bite_D
 	Icon coesbwb1_med.tga
 	Level 50
@@ -308,7 +308,7 @@ DetailRecipe Sanctuary_Winters_Bite_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_E.Attuned_Winters_Bite_E
 	Icon coesbwb1_med.tga
 	Level 50
@@ -327,7 +327,7 @@ DetailRecipe Sanctuary_Winters_Bite_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Winters_Bite_F.Attuned_Winters_Bite_F
 	Icon coesbwb1_med.tga
 	Level 50
@@ -346,7 +346,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_A.Superior_Attuned_Winters_Bite_A
 	Icon coesswb1_med.tga
 	Level 50
@@ -365,7 +365,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_B.Superior_Attuned_Winters_Bite_B
 	Icon coesswb1_med.tga
 	Level 50
@@ -384,7 +384,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_C.Superior_Attuned_Winters_Bite_C
 	Icon coesswb1_med.tga
 	Level 50
@@ -403,7 +403,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_D.Superior_Attuned_Winters_Bite_D
 	Icon coesswb1_med.tga
 	Level 50
@@ -422,7 +422,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_E.Superior_Attuned_Winters_Bite_E
 	Icon coesswb1_med.tga
 	Level 50
@@ -441,7 +441,7 @@ DetailRecipe Sanctuary_Superior_Winters_Bite_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000050"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Winters_Bite_F.Superior_Attuned_Winters_Bite_F
 	Icon coesswb1_med.tga
 	Level 50
@@ -460,7 +460,7 @@ DetailRecipe Sanctuary_Avalanche_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_A.Attuned_Avalanche_A
 	Icon coesbav1_med.tga
 	Level 50
@@ -479,7 +479,7 @@ DetailRecipe Sanctuary_Avalanche_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_B.Attuned_Avalanche_B
 	Icon coesbav1_med.tga
 	Level 50
@@ -498,7 +498,7 @@ DetailRecipe Sanctuary_Avalanche_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_C.Attuned_Avalanche_C
 	Icon coesbav1_med.tga
 	Level 50
@@ -517,7 +517,7 @@ DetailRecipe Sanctuary_Avalanche_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_D.Attuned_Avalanche_D
 	Icon coesbav1_med.tga
 	Level 50
@@ -536,7 +536,7 @@ DetailRecipe Sanctuary_Avalanche_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_E.Attuned_Avalanche_E
 	Icon coesbav1_med.tga
 	Level 50
@@ -555,7 +555,7 @@ DetailRecipe Sanctuary_Avalanche_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Avalanche_F.Attuned_Avalanche_F
 	Icon coesbav1_med.tga
 	Level 50
@@ -574,7 +574,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_A.Superior_Attuned_Avalanche_A
 	Icon coessav1_med.tga
 	Level 50
@@ -593,7 +593,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_B.Superior_Attuned_Avalanche_B
 	Icon coessav1_med.tga
 	Level 50
@@ -612,7 +612,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_C.Superior_Attuned_Avalanche_C
 	Icon coessav1_med.tga
 	Level 50
@@ -631,7 +631,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_D.Superior_Attuned_Avalanche_D
 	Icon coessav1_med.tga
 	Level 50
@@ -650,7 +650,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_E.Superior_Attuned_Avalanche_E
 	Icon coessav1_med.tga
 	Level 50
@@ -669,7 +669,7 @@ DetailRecipe Sanctuary_Superior_Avalanche_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000049"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Avalanche_F.Superior_Attuned_Avalanche_F
 	Icon coessav1_med.tga
 	Level 50
@@ -688,7 +688,7 @@ DetailRecipe Sanctuary_Blistering_Cold_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_A.Attuned_Blistering_Cold_A
 	Icon coesbcb1_med.tga
 	Level 50
@@ -707,7 +707,7 @@ DetailRecipe Sanctuary_Blistering_Cold_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_B.Attuned_Blistering_Cold_B
 	Icon coesbcb1_med.tga
 	Level 50
@@ -726,7 +726,7 @@ DetailRecipe Sanctuary_Blistering_Cold_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_C.Attuned_Blistering_Cold_C
 	Icon coesbcb1_med.tga
 	Level 50
@@ -745,7 +745,7 @@ DetailRecipe Sanctuary_Blistering_Cold_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_D.Attuned_Blistering_Cold_D
 	Icon coesbcb1_med.tga
 	Level 50
@@ -764,7 +764,7 @@ DetailRecipe Sanctuary_Blistering_Cold_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_E.Attuned_Blistering_Cold_E
 	Icon coesbcb1_med.tga
 	Level 50
@@ -783,7 +783,7 @@ DetailRecipe Sanctuary_Blistering_Cold_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Blistering_Cold_F.Attuned_Blistering_Cold_F
 	Icon coesbcb1_med.tga
 	Level 50
@@ -802,7 +802,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_A.Superior_Attuned_Blistering_Cold_A
 	Icon coesscb1_med.tga
 	Level 50
@@ -821,7 +821,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_B.Superior_Attuned_Blistering_Cold_B
 	Icon coesscb1_med.tga
 	Level 50
@@ -840,7 +840,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_C.Superior_Attuned_Blistering_Cold_C
 	Icon coesscb1_med.tga
 	Level 50
@@ -859,7 +859,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_D.Superior_Attuned_Blistering_Cold_D
 	Icon coesscb1_med.tga
 	Level 50
@@ -878,7 +878,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_E.Superior_Attuned_Blistering_Cold_E
 	Icon coesscb1_med.tga
 	Level 50
@@ -897,7 +897,7 @@ DetailRecipe Sanctuary_Superior_Blistering_Cold_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Blistering_Cold_F.Superior_Attuned_Blistering_Cold_F
 	Icon coesscb1_med.tga
 	Level 50

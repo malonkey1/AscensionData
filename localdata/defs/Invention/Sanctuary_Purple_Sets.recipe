@@ -4,7 +4,7 @@ DetailRecipe Sanctuary_Hecatomb_A_50
 	DisplayHelp "P2844567451"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_A.Crafted_Hecatomb_A
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -23,7 +23,7 @@ DetailRecipe Sanctuary_Hecatomb_B_50
 	DisplayHelp "P1955477260"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_B.Crafted_Hecatomb_B
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -42,7 +42,7 @@ DetailRecipe Sanctuary_Hecatomb_C_50
 	DisplayHelp "P2096336143"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_C.Crafted_Hecatomb_C
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -61,7 +61,7 @@ DetailRecipe Sanctuary_Hecatomb_D_50
 	DisplayHelp "P2700624511"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_D.Crafted_Hecatomb_D
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -80,7 +80,7 @@ DetailRecipe Sanctuary_Hecatomb_E_50
 	DisplayHelp "P3110238561"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_E.Crafted_Hecatomb_E
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -99,7 +99,7 @@ DetailRecipe Sanctuary_Hecatomb_F_50
 	DisplayHelp "P4050805780"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hecatomb_F.Crafted_Hecatomb_F
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -118,7 +118,7 @@ DetailRecipe Sanctuary_Armageddon_A_50
 	DisplayHelp "P2402530349"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_A.Crafted_Armageddon_A
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -137,7 +137,7 @@ DetailRecipe Sanctuary_Armageddon_B_50
 	DisplayHelp "P2759395520"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_B.Crafted_Armageddon_B
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -156,7 +156,7 @@ DetailRecipe Sanctuary_Armageddon_C_50
 	DisplayHelp "P2993806258"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_C.Crafted_Armageddon_C
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -175,7 +175,7 @@ DetailRecipe Sanctuary_Armageddon_D_50
 	DisplayHelp "P1880063411"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_D.Crafted_Armageddon_D
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -194,7 +194,7 @@ DetailRecipe Sanctuary_Armageddon_E_50
 	DisplayHelp "P1115690090"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_E.Crafted_Armageddon_E
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -213,7 +213,7 @@ DetailRecipe Sanctuary_Armageddon_F_50
 	DisplayHelp "P1339603645"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Armageddon_F.Crafted_Armageddon_F
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -232,7 +232,7 @@ DetailRecipe Sanctuary_Apocalypse_A_50
 	DisplayHelp "P1095027482"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_A.Crafted_Apocalypse_A
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -251,7 +251,7 @@ DetailRecipe Sanctuary_Apocalypse_B_50
 	DisplayHelp "P2162382985"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_B.Crafted_Apocalypse_B
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -270,7 +270,7 @@ DetailRecipe Sanctuary_Apocalypse_C_50
 	DisplayHelp "P2407294196"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_C.Crafted_Apocalypse_C
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -289,7 +289,7 @@ DetailRecipe Sanctuary_Apocalypse_D_50
 	DisplayHelp "P1419062778"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_D.Crafted_Apocalypse_D
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -308,7 +308,7 @@ DetailRecipe Sanctuary_Apocalypse_E_50
 	DisplayHelp "P90334743"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_E.Crafted_Apocalypse_E
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -327,7 +327,7 @@ DetailRecipe Sanctuary_Apocalypse_F_50
 	DisplayHelp "P19258999"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Apocalypse_F.Crafted_Apocalypse_F
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -346,7 +346,7 @@ DetailRecipe Sanctuary_Ragnarok_A_50
 	DisplayHelp "P2114350886"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_A.Crafted_Ragnarok_A
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -365,7 +365,7 @@ DetailRecipe Sanctuary_Ragnarok_B_50
 	DisplayHelp "P234614990"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_B.Crafted_Ragnarok_B
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -384,7 +384,7 @@ DetailRecipe Sanctuary_Ragnarok_C_50
 	DisplayHelp "P1338404716"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_C.Crafted_Ragnarok_C
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -403,7 +403,7 @@ DetailRecipe Sanctuary_Ragnarok_D_50
 	DisplayHelp "P3649930685"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_D.Crafted_Ragnarok_D
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -422,7 +422,7 @@ DetailRecipe Sanctuary_Ragnarok_E_50
 	DisplayHelp "P2057970573"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_E.Crafted_Ragnarok_E
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -441,7 +441,7 @@ DetailRecipe Sanctuary_Ragnarok_F_50
 	DisplayHelp "P857797959"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Ragnarok_F.Crafted_Ragnarok_F
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -460,7 +460,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_A_50
 	DisplayHelp "P2509124020"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_A.Crafted_Soulbound_Allegiance_A
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -479,7 +479,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_B_50
 	DisplayHelp "P3745750064"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_B.Crafted_Soulbound_Allegiance_B
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -498,7 +498,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_C_50
 	DisplayHelp "P745778164"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_C.Crafted_Soulbound_Allegiance_C
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -517,7 +517,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_D_50
 	DisplayHelp "P188082499"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_D.Crafted_Soulbound_Allegiance_D
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -536,7 +536,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_E_50
 	DisplayHelp "P1130771504"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_E.Crafted_Soulbound_Allegiance_E
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -555,7 +555,7 @@ DetailRecipe Sanctuary_Soulbound_Allegiance_F_50
 	DisplayHelp "P15732557"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Soulbound_Allegiance_F.Crafted_Soulbound_Allegiance_F
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -574,7 +574,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_A_50
 	DisplayHelp "P969342297"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_A.Crafted_Coercive_Persuasion_A
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -593,7 +593,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_B_50
 	DisplayHelp "P1336402301"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_B.Crafted_Coercive_Persuasion_B
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -612,7 +612,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_C_50
 	DisplayHelp "P3543758267"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_C.Crafted_Coercive_Persuasion_C
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -631,7 +631,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_D_50
 	DisplayHelp "P904178099"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_D.Crafted_Coercive_Persuasion_D
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -650,7 +650,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_E_50
 	DisplayHelp "P4245956239"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_E.Crafted_Coercive_Persuasion_E
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -669,7 +669,7 @@ DetailRecipe Sanctuary_Coercive_Persuasion_F_50
 	DisplayHelp "P1989105472"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Coercive_Persuasion_F.Crafted_Coercive_Persuasion_F
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -688,7 +688,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_A_50
 	DisplayHelp "P3627163514"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_A.Crafted_Fortunata_Hypnosis_A
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -707,7 +707,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_B_50
 	DisplayHelp "P1075324091"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_B.Crafted_Fortunata_Hypnosis_B
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -726,7 +726,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_C_50
 	DisplayHelp "P3835248428"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_C.Crafted_Fortunata_Hypnosis_C
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -745,7 +745,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_D_50
 	DisplayHelp "P1194786836"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_D.Crafted_Fortunata_Hypnosis_D
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -764,7 +764,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_E_50
 	DisplayHelp "P294091196"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_E.Crafted_Fortunata_Hypnosis_E
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -783,7 +783,7 @@ DetailRecipe Sanctuary_Fortunata_Hypnosis_F_50
 	DisplayHelp "P1727755796"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fortunata_Hypnosis_F.Crafted_Fortunata_Hypnosis_F
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -802,7 +802,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_A_50
 	DisplayHelp "P4291622694"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_A.Crafted_Gravitational_Anchor_A
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -821,7 +821,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_B_50
 	DisplayHelp "P3417277209"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_B.Crafted_Gravitational_Anchor_B
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -840,7 +840,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_C_50
 	DisplayHelp "P237160336"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_C.Crafted_Gravitational_Anchor_C
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -859,7 +859,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_D_50
 	DisplayHelp "P3157875105"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_D.Crafted_Gravitational_Anchor_D
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -878,7 +878,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_E_50
 	DisplayHelp "P3095595184"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_E.Crafted_Gravitational_Anchor_E
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -897,7 +897,7 @@ DetailRecipe Sanctuary_Gravitational_Anchor_F_50
 	DisplayHelp "P130911945"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Gravitational_Anchor_F.Crafted_Gravitational_Anchor_F
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -916,7 +916,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_A_50
 	DisplayHelp "P1983207259"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_A.Crafted_Unbreakable_Constraint_A
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -935,7 +935,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_B_50
 	DisplayHelp "P3620918591"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_B.Crafted_Unbreakable_Constraint_B
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -954,7 +954,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_C_50
 	DisplayHelp "P1843019396"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_C.Crafted_Unbreakable_Constraint_C
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -973,7 +973,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_D_50
 	DisplayHelp "P1546781537"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_D.Crafted_Unbreakable_Constraint_D
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -992,7 +992,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_E_50
 	DisplayHelp "P2395735403"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_E.Crafted_Unbreakable_Constraint_E
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -1011,7 +1011,7 @@ DetailRecipe Sanctuary_Unbreakable_Constraint_F_50
 	DisplayHelp "P1374837895"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Unbreakable_Constraint_F.Crafted_Unbreakable_Constraint_F
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -1030,7 +1030,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_A_50
 	DisplayHelp "P1409686661"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_A.Crafted_Absolute_Amazement_A
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1049,7 +1049,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_B_50
 	DisplayHelp "P748541650"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_B.Crafted_Absolute_Amazement_B
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1068,7 +1068,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_C_50
 	DisplayHelp "P369582438"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_C.Crafted_Absolute_Amazement_C
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1087,7 +1087,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_D_50
 	DisplayHelp "P2501379623"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_D.Crafted_Absolute_Amazement_D
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1106,7 +1106,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_E_50
 	DisplayHelp "P2777082539"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_E.Crafted_Absolute_Amazement_E
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1125,7 +1125,7 @@ DetailRecipe Sanctuary_Absolute_Amazement_F_50
 	DisplayHelp "P971529771"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Absolute_Amazement_F.Crafted_Absolute_Amazement_F
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -1144,7 +1144,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_A_50
 	DisplayHelp "P2844567451"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_A.Superior_Attuned_Hecatomb_A
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1163,7 +1163,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_B_50
 	DisplayHelp "P1955477260"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_B.Superior_Attuned_Hecatomb_B
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1182,7 +1182,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_C_50
 	DisplayHelp "P2096336143"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_C.Superior_Attuned_Hecatomb_C
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1201,7 +1201,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_D_50
 	DisplayHelp "P2700624511"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_D.Superior_Attuned_Hecatomb_D
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1220,7 +1220,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_E_50
 	DisplayHelp "P3110238561"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_E.Superior_Attuned_Hecatomb_E
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1239,7 +1239,7 @@ DetailRecipe Sanctuary_Superior_Hecatomb_F_50
 	DisplayHelp "P4050805780"
 	DisplayTabName "T0000000025"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Hecatomb_F.Superior_Attuned_Hecatomb_F
 	Icon E_ICON_Hecatomb.tga
 	Level 50
@@ -1258,7 +1258,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_A_50
 	DisplayHelp "P2402530349"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_A.Superior_Attuned_Armageddon_A
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1277,7 +1277,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_B_50
 	DisplayHelp "P2759395520"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_B.Superior_Attuned_Armageddon_B
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1296,7 +1296,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_C_50
 	DisplayHelp "P2993806258"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_C.Superior_Attuned_Armageddon_C
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1315,7 +1315,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_D_50
 	DisplayHelp "P1880063411"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_D.Superior_Attuned_Armageddon_D
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1334,7 +1334,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_E_50
 	DisplayHelp "P1115690090"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_E.Superior_Attuned_Armageddon_E
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1353,7 +1353,7 @@ DetailRecipe Sanctuary_Superior_Armageddon_F_50
 	DisplayHelp "P1339603645"
 	DisplayTabName "T0000000026"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Armageddon_F.Superior_Attuned_Armageddon_F
 	Icon E_ICON_Armageddon.tga
 	Level 50
@@ -1372,7 +1372,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_A_50
 	DisplayHelp "P1095027482"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_A.Superior_Attuned_Apocalypse_A
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1391,7 +1391,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_B_50
 	DisplayHelp "P2162382985"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_B.Superior_Attuned_Apocalypse_B
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1410,7 +1410,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_C_50
 	DisplayHelp "P2407294196"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_C.Superior_Attuned_Apocalypse_C
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1429,7 +1429,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_D_50
 	DisplayHelp "P1419062778"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_D.Superior_Attuned_Apocalypse_D
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1448,7 +1448,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_E_50
 	DisplayHelp "P90334743"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_E.Superior_Attuned_Apocalypse_E
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1467,7 +1467,7 @@ DetailRecipe Sanctuary_Superior_Apocalypse_F_50
 	DisplayHelp "P19258999"
 	DisplayTabName "T0000000028"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Apocalypse_F.Superior_Attuned_Apocalypse_F
 	Icon E_ICON_Apocolypse.tga
 	Level 50
@@ -1486,7 +1486,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_A_50
 	DisplayHelp "P2114350886"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_A.Superior_Attuned_Ragnarok_A
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1505,7 +1505,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_B_50
 	DisplayHelp "P234614990"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_B.Superior_Attuned_Ragnarok_B
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1524,7 +1524,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_C_50
 	DisplayHelp "P1338404716"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_C.Superior_Attuned_Ragnarok_C
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1543,7 +1543,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_D_50
 	DisplayHelp "P3649930685"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_D.Superior_Attuned_Ragnarok_D
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1562,7 +1562,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_E_50
 	DisplayHelp "P2057970573"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_E.Superior_Attuned_Ragnarok_E
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1581,7 +1581,7 @@ DetailRecipe Sanctuary_Superior_Ragnarok_F_50
 	DisplayHelp "P857797959"
 	DisplayTabName "T0000000001"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Ragnarok_F.Superior_Attuned_Ragnarok_F
 	Icon E_ICON_Ragnarok.tga
 	Level 50
@@ -1600,7 +1600,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_A_50
 	DisplayHelp "P2509124020"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_A.Superior_Attuned_Soulbound_Allegiance_A
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1619,7 +1619,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_B_50
 	DisplayHelp "P3745750064"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_B.Superior_Attuned_Soulbound_Allegiance_B
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1638,7 +1638,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_C_50
 	DisplayHelp "P745778164"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_C.Superior_Attuned_Soulbound_Allegiance_C
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1657,7 +1657,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_D_50
 	DisplayHelp "P188082499"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_D.Superior_Attuned_Soulbound_Allegiance_D
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1676,7 +1676,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_E_50
 	DisplayHelp "P1130771504"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_E.Superior_Attuned_Soulbound_Allegiance_E
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1695,7 +1695,7 @@ DetailRecipe Sanctuary_Superior_Soulbound_Allegiance_F_50
 	DisplayHelp "P15732557"
 	DisplayTabName "T0000000027"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Soulbound_Allegiance_F.Superior_Attuned_Soulbound_Allegiance_F
 	Icon E_ICON_SoulboundAllegiance.tga
 	Level 50
@@ -1714,7 +1714,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_A_50
 	DisplayHelp "P969342297"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_A.Superior_Attuned_Coercive_Persuasion_A
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1733,7 +1733,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_B_50
 	DisplayHelp "P1336402301"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_B.Superior_Attuned_Coercive_Persuasion_B
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1752,7 +1752,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_C_50
 	DisplayHelp "P3543758267"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_C.Superior_Attuned_Coercive_Persuasion_C
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1771,7 +1771,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_D_50
 	DisplayHelp "P904178099"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_D.Superior_Attuned_Coercive_Persuasion_D
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1790,7 +1790,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_E_50
 	DisplayHelp "P4245956239"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_E.Superior_Attuned_Coercive_Persuasion_E
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1809,7 +1809,7 @@ DetailRecipe Sanctuary_Superior_Coercive_Persuasion_F_50
 	DisplayHelp "P1989105472"
 	DisplayTabName "T0000000008"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Coercive_Persuasion_F.Superior_Attuned_Coercive_Persuasion_F
 	Icon E_ICON_CoersivePersuasion.tga
 	Level 50
@@ -1828,7 +1828,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_A_50
 	DisplayHelp "P3627163514"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_A.Superior_Attuned_Fortunata_Hypnosis_A
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1847,7 +1847,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_B_50
 	DisplayHelp "P1075324091"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_B.Superior_Attuned_Fortunata_Hypnosis_B
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1866,7 +1866,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_C_50
 	DisplayHelp "P3835248428"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_C.Superior_Attuned_Fortunata_Hypnosis_C
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1885,7 +1885,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_D_50
 	DisplayHelp "P1194786836"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_D.Superior_Attuned_Fortunata_Hypnosis_D
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1904,7 +1904,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_E_50
 	DisplayHelp "P294091196"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_E.Superior_Attuned_Fortunata_Hypnosis_E
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1923,7 +1923,7 @@ DetailRecipe Sanctuary_Superior_Fortunata_Hypnosis_F_50
 	DisplayHelp "P1727755796"
 	DisplayTabName "T0000000032"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Fortunata_Hypnosis_F.Superior_Attuned_Fortunata_Hypnosis_F
 	Icon E_ICON_FortunataHypnosis.tga
 	Level 50
@@ -1942,7 +1942,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_A_50
 	DisplayHelp "P4291622694"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_A.Superior_Attuned_Gravitational_Anchor_A
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -1961,7 +1961,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_B_50
 	DisplayHelp "P3417277209"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_B.Superior_Attuned_Gravitational_Anchor_B
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -1980,7 +1980,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_C_50
 	DisplayHelp "P237160336"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_C.Superior_Attuned_Gravitational_Anchor_C
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -1999,7 +1999,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_D_50
 	DisplayHelp "P3157875105"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_D.Superior_Attuned_Gravitational_Anchor_D
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -2018,7 +2018,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_E_50
 	DisplayHelp "P3095595184"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_E.Superior_Attuned_Gravitational_Anchor_E
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -2037,7 +2037,7 @@ DetailRecipe Sanctuary_Superior_Gravitational_Anchor_F_50
 	DisplayHelp "P130911945"
 	DisplayTabName "T0000000020"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Gravitational_Anchor_F.Superior_Attuned_Gravitational_Anchor_F
 	Icon E_ICON_GravitationalAnchor.tga
 	Level 50
@@ -2056,7 +2056,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_A_50
 	DisplayHelp "P1983207259"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_A.Superior_Attuned_Unbreakable_Constraint_A
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2075,7 +2075,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_B_50
 	DisplayHelp "P3620918591"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_B.Superior_Attuned_Unbreakable_Constraint_B
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2094,7 +2094,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_C_50
 	DisplayHelp "P1843019396"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_C.Superior_Attuned_Unbreakable_Constraint_C
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2113,7 +2113,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_D_50
 	DisplayHelp "P1546781537"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_D.Superior_Attuned_Unbreakable_Constraint_D
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2132,7 +2132,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_E_50
 	DisplayHelp "P2395735403"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_E.Superior_Attuned_Unbreakable_Constraint_E
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2151,7 +2151,7 @@ DetailRecipe Sanctuary_Superior_Unbreakable_Constraint_F_50
 	DisplayHelp "P1374837895"
 	DisplayTabName "T0000000019"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Unbreakable_Constraint_F.Superior_Attuned_Unbreakable_Constraint_F
 	Icon E_ICON_UnbreakableConstraint.tga
 	Level 50
@@ -2170,7 +2170,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_A_50
 	DisplayHelp "P1409686661"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_A.Superior_Attuned_Absolute_Amazement_A
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2189,7 +2189,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_B_50
 	DisplayHelp "P748541650"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_B.Superior_Attuned_Absolute_Amazement_B
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2208,7 +2208,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_C_50
 	DisplayHelp "P369582438"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_C.Superior_Attuned_Absolute_Amazement_C
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2227,7 +2227,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_D_50
 	DisplayHelp "P2501379623"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_D.Superior_Attuned_Absolute_Amazement_D
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2246,7 +2246,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_E_50
 	DisplayHelp "P2777082539"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_E.Superior_Attuned_Absolute_Amazement_E
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2265,7 +2265,7 @@ DetailRecipe Sanctuary_Superior_Absolute_Amazement_F_50
 	DisplayHelp "P971529771"
 	DisplayTabName "T0000000037"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Absolute_Amazement_F.Superior_Attuned_Absolute_Amazement_F
 	Icon E_ICON_AbsoluteAmazement.tga
 	Level 50
@@ -2284,7 +2284,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_A
 	DisplayHelp "P1603540397"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_A.Attuned_Sudden_Acceleration_A
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2305,7 +2305,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_B
 	DisplayHelp "P918386046"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_B.Attuned_Sudden_Acceleration_B
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2326,7 +2326,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_C
 	DisplayHelp "P2051407330"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_C.Attuned_Sudden_Acceleration_C
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2347,7 +2347,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_D
 	DisplayHelp "P1626580588"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_D.Attuned_Sudden_Acceleration_D
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2368,7 +2368,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_E
 	DisplayHelp "P1514569947"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_E.Attuned_Sudden_Acceleration_E
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2389,7 +2389,7 @@ DetailRecipe Sanctuary_Sudden_Acceleration_F
 	DisplayHelp "P3520427109"
 	DisplayTabName "T0000000022"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Sudden_Acceleration_F.Attuned_Sudden_Acceleration_F
 	Icon E_ICON_DominionofArachnos.tga
 	Level 1
@@ -2410,7 +2410,7 @@ DetailRecipe Sanctuary_Entomb_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_A.Attuned_Entomb_A
 	Icon coesben1_med.tga
 	Level 1
@@ -2430,7 +2430,7 @@ DetailRecipe Sanctuary_Entomb_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_B.Attuned_Entomb_B
 	Icon coesben1_med.tga
 	Level 1
@@ -2450,7 +2450,7 @@ DetailRecipe Sanctuary_Entomb_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_C.Attuned_Entomb_C
 	Icon coesben1_med.tga
 	Level 1
@@ -2470,7 +2470,7 @@ DetailRecipe Sanctuary_Entomb_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_D.Attuned_Entomb_D
 	Icon coesben1_med.tga
 	Level 1
@@ -2490,7 +2490,7 @@ DetailRecipe Sanctuary_Entomb_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_E.Attuned_Entomb_E
 	Icon coesben1_med.tga
 	Level 1
@@ -2510,7 +2510,7 @@ DetailRecipe Sanctuary_Entomb_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Attuned_Entomb_F.Attuned_Entomb_F
 	Icon coesben1_med.tga
 	Level 1
@@ -2530,7 +2530,7 @@ DetailRecipe Sanctuary_Superior_Entomb_A
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_A.Superior_Attuned_Entomb_A
 	Icon coessen1_med.tga
 	Level 1
@@ -2550,7 +2550,7 @@ DetailRecipe Sanctuary_Superior_Entomb_B
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_B.Superior_Attuned_Entomb_B
 	Icon coessen1_med.tga
 	Level 1
@@ -2570,7 +2570,7 @@ DetailRecipe Sanctuary_Superior_Entomb_C
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_C.Superior_Attuned_Entomb_C
 	Icon coessen1_med.tga
 	Level 1
@@ -2590,7 +2590,7 @@ DetailRecipe Sanctuary_Superior_Entomb_D
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_D.Superior_Attuned_Entomb_D
 	Icon coessen1_med.tga
 	Level 1
@@ -2610,7 +2610,7 @@ DetailRecipe Sanctuary_Superior_Entomb_E
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_E.Superior_Attuned_Entomb_E
 	Icon coessen1_med.tga
 	Level 1
@@ -2630,7 +2630,7 @@ DetailRecipe Sanctuary_Superior_Entomb_F
 	DisplayHelp "P1426840851"
 	DisplayTabName "T0000000048"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Superior_Attuned_Entomb_F.Superior_Attuned_Entomb_F
 	Icon coessen1_med.tga
 	Level 1

@@ -415,7 +415,7 @@ Detail Worktable_Enh_Sets
 	MaxAuxAllowed 1
 }
 
-Detail Worktable_Sanctuary
+Detail Worktable_Split_Sanctuary
 {
 	DisplayName "P2683562817"
 	DisplayHelp "P1615514932"

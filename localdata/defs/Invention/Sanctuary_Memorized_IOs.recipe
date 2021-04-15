@@ -4,7 +4,7 @@ DetailRecipe Sanctuary_Damage_10_Memorized
 	DisplayHelp "P3217311562"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 10
@@ -22,7 +22,7 @@ DetailRecipe Sanctuary_Damage_15_Memorized
 	DisplayHelp "P3104802209"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 15
@@ -40,7 +40,7 @@ DetailRecipe Sanctuary_Damage_20_Memorized
 	DisplayHelp "P2909923492"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 20
@@ -58,7 +58,7 @@ DetailRecipe Sanctuary_Damage_25_Memorized
 	DisplayHelp "P2881104463"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 25
@@ -76,7 +76,7 @@ DetailRecipe Sanctuary_Damage_30_Memorized
 	DisplayHelp "P365793217"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 30
@@ -94,7 +94,7 @@ DetailRecipe Sanctuary_Damage_35_Memorized
 	DisplayHelp "P1739078228"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 35
@@ -112,7 +112,7 @@ DetailRecipe Sanctuary_Damage_40_Memorized
 	DisplayHelp "P319180074"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 40
@@ -130,7 +130,7 @@ DetailRecipe Sanctuary_Damage_45_Memorized
 	DisplayHelp "P2940777764"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 45
@@ -148,7 +148,7 @@ DetailRecipe Sanctuary_Damage_50_Memorized
 	DisplayHelp "P2283452280"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
 	Icon E_ICON_GEN_DAMAGE_01.tga
 	Level 50
@@ -166,7 +166,7 @@ DetailRecipe Sanctuary_Recharge_10_Memorized
 	DisplayHelp "P3774222264"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 10
@@ -184,7 +184,7 @@ DetailRecipe Sanctuary_Recharge_15_Memorized
 	DisplayHelp "P3862809939"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 15
@@ -202,7 +202,7 @@ DetailRecipe Sanctuary_Recharge_20_Memorized
 	DisplayHelp "P4064518230"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 20
@@ -220,7 +220,7 @@ DetailRecipe Sanctuary_Recharge_25_Memorized
 	DisplayHelp "P4102578877"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 25
@@ -238,7 +238,7 @@ DetailRecipe Sanctuary_Recharge_30_Memorized
 	DisplayHelp "P1258276659"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 30
@@ -256,7 +256,7 @@ DetailRecipe Sanctuary_Recharge_35_Memorized
 	DisplayHelp "P958738427"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 35
@@ -274,7 +274,7 @@ DetailRecipe Sanctuary_Recharge_40_Memorized
 	DisplayHelp "P1278477784"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 40
@@ -292,7 +292,7 @@ DetailRecipe Sanctuary_Recharge_45_Memorized
 	DisplayHelp "P4056260747"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 45
@@ -310,7 +310,7 @@ DetailRecipe Sanctuary_Recharge_50_Memorized
 	DisplayHelp "P3609788298"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
 	Icon E_ICON_GEN_RECHARGE_01.tga
 	Level 50
@@ -328,7 +328,7 @@ DetailRecipe Sanctuary_Accuracy_10_Memorized
 	DisplayHelp "P2942156723"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 10
@@ -346,7 +346,7 @@ DetailRecipe Sanctuary_Accuracy_15_Memorized
 	DisplayHelp "P2845211992"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 15
@@ -364,7 +364,7 @@ DetailRecipe Sanctuary_Accuracy_20_Memorized
 	DisplayHelp "P3186102365"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 20
@@ -382,7 +382,7 @@ DetailRecipe Sanctuary_Accuracy_25_Memorized
 	DisplayHelp "P3139687094"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 25
@@ -400,7 +400,7 @@ DetailRecipe Sanctuary_Accuracy_30_Memorized
 	DisplayHelp "P89421624"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 30
@@ -418,7 +418,7 @@ DetailRecipe Sanctuary_Accuracy_35_Memorized
 	DisplayHelp "P296749591"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 35
@@ -436,7 +436,7 @@ DetailRecipe Sanctuary_Accuracy_40_Memorized
 	DisplayHelp "P60798419"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 40
@@ -454,7 +454,7 @@ DetailRecipe Sanctuary_Accuracy_45_Memorized
 	DisplayHelp "P3645932903"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 45
@@ -472,7 +472,7 @@ DetailRecipe Sanctuary_Accuracy_50_Memorized
 	DisplayHelp "P2558742401"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
 	Icon E_ICON_GEN_ACCURACY_01.tga
 	Level 50
@@ -490,7 +490,7 @@ DetailRecipe Sanctuary_Endurance_Discount_10_Memorized
 	DisplayHelp "P3481060140"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 10
@@ -508,7 +508,7 @@ DetailRecipe Sanctuary_Endurance_Discount_15_Memorized
 	DisplayHelp "P3384213959"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 15
@@ -526,7 +526,7 @@ DetailRecipe Sanctuary_Endurance_Discount_20_Memorized
 	DisplayHelp "P3720965314"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 20
@@ -544,7 +544,7 @@ DetailRecipe Sanctuary_Endurance_Discount_25_Memorized
 	DisplayHelp "P3674385961"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 25
@@ -562,7 +562,7 @@ DetailRecipe Sanctuary_Endurance_Discount_30_Memorized
 	DisplayHelp "P1702169511"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 30
@@ -580,7 +580,7 @@ DetailRecipe Sanctuary_Endurance_Discount_35_Memorized
 	DisplayHelp "P3202007540"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 35
@@ -598,7 +598,7 @@ DetailRecipe Sanctuary_Endurance_Discount_40_Memorized
 	DisplayHelp "P1673447756"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 40
@@ -616,7 +616,7 @@ DetailRecipe Sanctuary_Endurance_Discount_45_Memorized
 	DisplayHelp "P1983532676"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 45
@@ -634,7 +634,7 @@ DetailRecipe Sanctuary_Endurance_Discount_50_Memorized
 	DisplayHelp "P4171379486"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
 	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
 	Level 50
@@ -652,7 +652,7 @@ DetailRecipe Sanctuary_Heal_10_Memorized
 	DisplayHelp "P1109496520"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 10
@@ -670,7 +670,7 @@ DetailRecipe Sanctuary_Heal_15_Memorized
 	DisplayHelp "P1156206627"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 15
@@ -688,7 +688,7 @@ DetailRecipe Sanctuary_Heal_20_Memorized
 	DisplayHelp "P1351892262"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 20
@@ -706,7 +706,7 @@ DetailRecipe Sanctuary_Heal_25_Memorized
 	DisplayHelp "P1449131981"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 25
@@ -724,7 +724,7 @@ DetailRecipe Sanctuary_Heal_30_Memorized
 	DisplayHelp "P3894958659"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 30
@@ -742,7 +742,7 @@ DetailRecipe Sanctuary_Heal_35_Memorized
 	DisplayHelp "P2560891683"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 35
@@ -760,7 +760,7 @@ DetailRecipe Sanctuary_Heal_40_Memorized
 	DisplayHelp "P4007893160"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 40
@@ -778,7 +778,7 @@ DetailRecipe Sanctuary_Heal_45_Memorized
 	DisplayHelp "P1346671699"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 45
@@ -796,7 +796,7 @@ DetailRecipe Sanctuary_Heal_50_Memorized
 	DisplayHelp "P1979671290"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
 	Icon E_ICON_GEN_HEAL_01.tga
 	Level 50
@@ -814,7 +814,7 @@ DetailRecipe Sanctuary_Recovery_10_Memorized
 	DisplayHelp "P3985524212"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 10
@@ -832,7 +832,7 @@ DetailRecipe Sanctuary_Recovery_15_Memorized
 	DisplayHelp "P3947202335"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 15
@@ -850,7 +850,7 @@ DetailRecipe Sanctuary_Recovery_20_Memorized
 	DisplayHelp "P4282116634"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 20
@@ -868,7 +868,7 @@ DetailRecipe Sanctuary_Recovery_25_Memorized
 	DisplayHelp "P4193265905"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 25
@@ -886,7 +886,7 @@ DetailRecipe Sanctuary_Recovery_30_Memorized
 	DisplayHelp "P1200065919"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 30
@@ -904,7 +904,7 @@ DetailRecipe Sanctuary_Recovery_35_Memorized
 	DisplayHelp "P4091578884"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 35
@@ -922,7 +922,7 @@ DetailRecipe Sanctuary_Recovery_40_Memorized
 	DisplayHelp "P1095520148"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 40
@@ -940,7 +940,7 @@ DetailRecipe Sanctuary_Recovery_45_Memorized
 	DisplayHelp "P989857140"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 45
@@ -958,7 +958,7 @@ DetailRecipe Sanctuary_Recovery_50_Memorized
 	DisplayHelp "P3662722502"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
 	Icon E_ICON_GEN_RECOVERY_01.tga
 	Level 50
@@ -976,7 +976,7 @@ DetailRecipe Sanctuary_Res_Damage_10_Memorized
 	DisplayHelp "P1899223205"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 10
@@ -994,7 +994,7 @@ DetailRecipe Sanctuary_Res_Damage_15_Memorized
 	DisplayHelp "P1455872351"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 15
@@ -1012,7 +1012,7 @@ DetailRecipe Sanctuary_Res_Damage_20_Memorized
 	DisplayHelp "P2012198175"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 20
@@ -1030,7 +1030,7 @@ DetailRecipe Sanctuary_Res_Damage_25_Memorized
 	DisplayHelp "P1268764565"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 25
@@ -1048,7 +1048,7 @@ DetailRecipe Sanctuary_Res_Damage_30_Memorized
 	DisplayHelp "P1898215412"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 30
@@ -1066,7 +1066,7 @@ DetailRecipe Sanctuary_Res_Damage_35_Memorized
 	DisplayHelp "P2075810558"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 35
@@ -1084,7 +1084,7 @@ DetailRecipe Sanctuary_Res_Damage_40_Memorized
 	DisplayHelp "P1729930408"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 40
@@ -1102,7 +1102,7 @@ DetailRecipe Sanctuary_Res_Damage_45_Memorized
 	DisplayHelp "P1687711942"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 45
@@ -1120,7 +1120,7 @@ DetailRecipe Sanctuary_Res_Damage_50_Memorized
 	DisplayHelp "P1611992180"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
 	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
 	Level 50
@@ -1138,7 +1138,7 @@ DetailRecipe Sanctuary_Defense_Buff_10_Memorized
 	DisplayHelp "P457036682"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 10
@@ -1156,7 +1156,7 @@ DetailRecipe Sanctuary_Defense_Buff_15_Memorized
 	DisplayHelp "P3540538036"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 15
@@ -1174,7 +1174,7 @@ DetailRecipe Sanctuary_Defense_Buff_20_Memorized
 	DisplayHelp "P3696526925"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 20
@@ -1192,7 +1192,7 @@ DetailRecipe Sanctuary_Defense_Buff_25_Memorized
 	DisplayHelp "P2093103854"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 25
@@ -1210,7 +1210,7 @@ DetailRecipe Sanctuary_Defense_Buff_30_Memorized
 	DisplayHelp "P3667870886"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 30
@@ -1228,7 +1228,7 @@ DetailRecipe Sanctuary_Defense_Buff_35_Memorized
 	DisplayHelp "P3489753516"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 35
@@ -1246,7 +1246,7 @@ DetailRecipe Sanctuary_Defense_Buff_40_Memorized
 	DisplayHelp "P3433535482"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 40
@@ -1264,7 +1264,7 @@ DetailRecipe Sanctuary_Defense_Buff_45_Memorized
 	DisplayHelp "P3475194772"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 45
@@ -1282,7 +1282,7 @@ DetailRecipe Sanctuary_Defense_Buff_50_Memorized
 	DisplayHelp "P3417194278"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
 	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
 	Level 50
@@ -1300,7 +1300,7 @@ DetailRecipe Sanctuary_Run_10_Memorized
 	DisplayHelp "P1042989960"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 10
@@ -1318,7 +1318,7 @@ DetailRecipe Sanctuary_Run_15_Memorized
 	DisplayHelp "P954270051"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 15
@@ -1336,7 +1336,7 @@ DetailRecipe Sanctuary_Run_20_Memorized
 	DisplayHelp "P748645478"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 20
@@ -1354,7 +1354,7 @@ DetailRecipe Sanctuary_Run_25_Memorized
 	DisplayHelp "P710192781"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 25
@@ -1372,7 +1372,7 @@ DetailRecipe Sanctuary_Run_30_Memorized
 	DisplayHelp "P2485324547"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 30
@@ -1390,7 +1390,7 @@ DetailRecipe Sanctuary_Run_35_Memorized
 	DisplayHelp "P1957775695"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 35
@@ -1408,7 +1408,7 @@ DetailRecipe Sanctuary_Run_40_Memorized
 	DisplayHelp "P2464729576"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 40
@@ -1426,7 +1426,7 @@ DetailRecipe Sanctuary_Run_45_Memorized
 	DisplayHelp "P3159475775"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 45
@@ -1444,7 +1444,7 @@ DetailRecipe Sanctuary_Run_50_Memorized
 	DisplayHelp "P166998970"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Run.Crafted_Run
 	Icon E_ICON_GEN_RUN_01.tga
 	Level 50
@@ -1462,7 +1462,7 @@ DetailRecipe Sanctuary_Fly_10_Memorized
 	DisplayHelp "P969610199"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 10
@@ -1480,7 +1480,7 @@ DetailRecipe Sanctuary_Fly_15_Memorized
 	DisplayHelp "P1057018172"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 15
@@ -1498,7 +1498,7 @@ DetailRecipe Sanctuary_Fly_20_Memorized
 	DisplayHelp "P729726009"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 20
@@ -1516,7 +1516,7 @@ DetailRecipe Sanctuary_Fly_25_Memorized
 	DisplayHelp "P766869202"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 25
@@ -1534,7 +1534,7 @@ DetailRecipe Sanctuary_Fly_30_Memorized
 	DisplayHelp "P2479020892"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 30
@@ -1552,7 +1552,7 @@ DetailRecipe Sanctuary_Fly_35_Memorized
 	DisplayHelp "P3477200353"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 35
@@ -1570,7 +1570,7 @@ DetailRecipe Sanctuary_Fly_40_Memorized
 	DisplayHelp "P2500401591"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 40
@@ -1588,7 +1588,7 @@ DetailRecipe Sanctuary_Fly_45_Memorized
 	DisplayHelp "P128012945"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 45
@@ -1606,7 +1606,7 @@ DetailRecipe Sanctuary_Fly_50_Memorized
 	DisplayHelp "P236315621"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
 	Icon E_ICON_GEN_FLY_01.tga
 	Level 50
@@ -1624,7 +1624,7 @@ DetailRecipe Sanctuary_Jump_10_Memorized
 	DisplayHelp "P2385571679"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 10
@@ -1642,7 +1642,7 @@ DetailRecipe Sanctuary_Jump_15_Memorized
 	DisplayHelp "P2298162612"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 15
@@ -1660,7 +1660,7 @@ DetailRecipe Sanctuary_Jump_20_Memorized
 	DisplayHelp "P2625978545"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 20
@@ -1678,7 +1678,7 @@ DetailRecipe Sanctuary_Jump_25_Memorized
 	DisplayHelp "P2588836442"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 25
@@ -1696,7 +1696,7 @@ DetailRecipe Sanctuary_Jump_30_Memorized
 	DisplayHelp "P607725524"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 30
@@ -1714,7 +1714,7 @@ DetailRecipe Sanctuary_Jump_35_Memorized
 	DisplayHelp "P2282800750"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 35
@@ -1732,7 +1732,7 @@ DetailRecipe Sanctuary_Jump_40_Memorized
 	DisplayHelp "P586343743"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 40
@@ -1750,7 +1750,7 @@ DetailRecipe Sanctuary_Jump_45_Memorized
 	DisplayHelp "P1089489182"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 45
@@ -1768,7 +1768,7 @@ DetailRecipe Sanctuary_Jump_50_Memorized
 	DisplayHelp "P3119390573"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
 	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
 	Level 50
@@ -1786,7 +1786,7 @@ DetailRecipe Sanctuary_Range_10_Memorized
 	DisplayHelp "P852850336"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 10
@@ -1804,7 +1804,7 @@ DetailRecipe Sanctuary_Range_15_Memorized
 	DisplayHelp "P450879507"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 15
@@ -1822,7 +1822,7 @@ DetailRecipe Sanctuary_Range_20_Memorized
 	DisplayHelp "P130459454"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 20
@@ -1840,7 +1840,7 @@ DetailRecipe Sanctuary_Range_25_Memorized
 	DisplayHelp "P884595479"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 25
@@ -1858,7 +1858,7 @@ DetailRecipe Sanctuary_Range_30_Memorized
 	DisplayHelp "P17655253"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 30
@@ -1876,7 +1876,7 @@ DetailRecipe Sanctuary_Range_35_Memorized
 	DisplayHelp "P194201823"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 35
@@ -1894,7 +1894,7 @@ DetailRecipe Sanctuary_Range_40_Memorized
 	DisplayHelp "P389396105"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 40
@@ -1912,7 +1912,7 @@ DetailRecipe Sanctuary_Range_45_Memorized
 	DisplayHelp "P347169511"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 45
@@ -1930,7 +1930,7 @@ DetailRecipe Sanctuary_Range_50_Memorized
 	DisplayHelp "P272375381"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Range.Crafted_Range
 	Icon E_ICON_GEN_RANGE_01.tga
 	Level 50
@@ -1948,7 +1948,7 @@ DetailRecipe Sanctuary_ToHit_Buff_10_Memorized
 	DisplayHelp "P1128791808"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 10
@@ -1966,7 +1966,7 @@ DetailRecipe Sanctuary_ToHit_Buff_15_Memorized
 	DisplayHelp "P549197548"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 15
@@ -1984,7 +1984,7 @@ DetailRecipe Sanctuary_ToHit_Buff_20_Memorized
 	DisplayHelp "P3512833631"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 20
@@ -2002,7 +2002,7 @@ DetailRecipe Sanctuary_ToHit_Buff_25_Memorized
 	DisplayHelp "P427906924"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 25
@@ -2020,7 +2020,7 @@ DetailRecipe Sanctuary_ToHit_Buff_30_Memorized
 	DisplayHelp "P3618264244"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 30
@@ -2038,7 +2038,7 @@ DetailRecipe Sanctuary_ToHit_Buff_35_Memorized
 	DisplayHelp "P3711203774"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 35
@@ -2056,7 +2056,7 @@ DetailRecipe Sanctuary_ToHit_Buff_40_Memorized
 	DisplayHelp "P3247605736"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 40
@@ -2074,7 +2074,7 @@ DetailRecipe Sanctuary_ToHit_Buff_45_Memorized
 	DisplayHelp "P3256243078"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 45
@@ -2092,7 +2092,7 @@ DetailRecipe Sanctuary_ToHit_Buff_50_Memorized
 	DisplayHelp "P3332058932"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
 	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
 	Level 50
@@ -2110,7 +2110,7 @@ DetailRecipe Sanctuary_Hold_10_Memorized
 	DisplayHelp "P3086268835"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 10
@@ -2128,7 +2128,7 @@ DetailRecipe Sanctuary_Hold_15_Memorized
 	DisplayHelp "P2973727560"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 15
@@ -2146,7 +2146,7 @@ DetailRecipe Sanctuary_Hold_20_Memorized
 	DisplayHelp "P2772506189"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 20
@@ -2164,7 +2164,7 @@ DetailRecipe Sanctuary_Hold_25_Memorized
 	DisplayHelp "P2743784614"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 25
@@ -2182,7 +2182,7 @@ DetailRecipe Sanctuary_Hold_30_Memorized
 	DisplayHelp "P503148840"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 30
@@ -2200,7 +2200,7 @@ DetailRecipe Sanctuary_Hold_35_Memorized
 	DisplayHelp "P2987501018"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 35
@@ -2218,7 +2218,7 @@ DetailRecipe Sanctuary_Hold_40_Memorized
 	DisplayHelp "P456569795"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 40
@@ -2236,7 +2236,7 @@ DetailRecipe Sanctuary_Hold_45_Memorized
 	DisplayHelp "P2062625450"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 45
@@ -2254,7 +2254,7 @@ DetailRecipe Sanctuary_Hold_50_Memorized
 	DisplayHelp "P2150254993"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
 	Icon E_ICON_GEN_HOLD_01.tga
 	Level 50
@@ -2272,7 +2272,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_10_Memorized
 	DisplayHelp "P3405815734"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 10
@@ -2290,7 +2290,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_15_Memorized
 	DisplayHelp "P3750885069"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 15
@@ -2308,7 +2308,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_20_Memorized
 	DisplayHelp "P4092315526"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 20
@@ -2326,7 +2326,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_25_Memorized
 	DisplayHelp "P1427598034"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 25
@@ -2344,7 +2344,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_30_Memorized
 	DisplayHelp "P4112516461"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 30
@@ -2362,7 +2362,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_35_Memorized
 	DisplayHelp "P4290652263"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 35
@@ -2380,7 +2380,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_40_Memorized
 	DisplayHelp "P3810055729"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 40
@@ -2398,7 +2398,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_45_Memorized
 	DisplayHelp "P3768320607"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 45
@@ -2416,7 +2416,7 @@ DetailRecipe Sanctuary_ToHit_DeBuff_50_Memorized
 	DisplayHelp "P3826351853"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
 	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
 	Level 50
@@ -2434,7 +2434,7 @@ DetailRecipe Sanctuary_Snare_10_Memorized
 	DisplayHelp "P2743068654"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 10
@@ -2452,7 +2452,7 @@ DetailRecipe Sanctuary_Snare_15_Memorized
 	DisplayHelp "P2780046597"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 15
@@ -2470,7 +2470,7 @@ DetailRecipe Sanctuary_Snare_20_Memorized
 	DisplayHelp "P2982823936"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 20
@@ -2488,7 +2488,7 @@ DetailRecipe Sanctuary_Snare_25_Memorized
 	DisplayHelp "P3070331627"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 25
@@ -2506,7 +2506,7 @@ DetailRecipe Sanctuary_Snare_30_Memorized
 	DisplayHelp "P158740325"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 30
@@ -2524,7 +2524,7 @@ DetailRecipe Sanctuary_Snare_35_Memorized
 	DisplayHelp "P2065038570"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 35
@@ -2542,7 +2542,7 @@ DetailRecipe Sanctuary_Snare_40_Memorized
 	DisplayHelp "P264105358"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 40
@@ -2560,7 +2560,7 @@ DetailRecipe Sanctuary_Snare_45_Memorized
 	DisplayHelp "P3019207578"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 45
@@ -2578,7 +2578,7 @@ DetailRecipe Sanctuary_Snare_50_Memorized
 	DisplayHelp "P2493585372"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
 	Icon E_ICON_GEN_SNARE_01.tga
 	Level 50
@@ -2596,7 +2596,7 @@ DetailRecipe Sanctuary_Stun_10_Memorized
 	DisplayHelp "P780688203"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 10
@@ -2614,7 +2614,7 @@ DetailRecipe Sanctuary_Stun_15_Memorized
 	DisplayHelp "P675518880"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 15
@@ -2632,7 +2632,7 @@ DetailRecipe Sanctuary_Stun_20_Memorized
 	DisplayHelp "P1010693285"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 20
@@ -2650,7 +2650,7 @@ DetailRecipe Sanctuary_Stun_25_Memorized
 	DisplayHelp "P989214286"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 25
@@ -2668,7 +2668,7 @@ DetailRecipe Sanctuary_Stun_30_Memorized
 	DisplayHelp "P2223084480"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 30
@@ -2686,7 +2686,7 @@ DetailRecipe Sanctuary_Stun_35_Memorized
 	DisplayHelp "P1790101014"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 35
@@ -2704,7 +2704,7 @@ DetailRecipe Sanctuary_Stun_40_Memorized
 	DisplayHelp "P2185908523"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 40
@@ -2722,7 +2722,7 @@ DetailRecipe Sanctuary_Stun_45_Memorized
 	DisplayHelp "P2723301734"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 45
@@ -2740,7 +2740,7 @@ DetailRecipe Sanctuary_Stun_50_Memorized
 	DisplayHelp "P425110393"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
 	Icon E_ICON_GEN_STUN_01.tga
 	Level 50
@@ -2758,7 +2758,7 @@ DetailRecipe Sanctuary_Taunt_10_Memorized
 	DisplayHelp "P823593123"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 10
@@ -2776,7 +2776,7 @@ DetailRecipe Sanctuary_Taunt_15_Memorized
 	DisplayHelp "P937216584"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 15
@@ -2794,7 +2794,7 @@ DetailRecipe Sanctuary_Taunt_20_Memorized
 	DisplayHelp "P597862221"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 20
@@ -2812,7 +2812,7 @@ DetailRecipe Sanctuary_Taunt_25_Memorized
 	DisplayHelp "P627664294"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 25
@@ -2830,7 +2830,7 @@ DetailRecipe Sanctuary_Taunt_30_Memorized
 	DisplayHelp "P2602483752"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 30
@@ -2848,7 +2848,7 @@ DetailRecipe Sanctuary_Taunt_35_Memorized
 	DisplayHelp "P242720803"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 35
@@ -2866,7 +2866,7 @@ DetailRecipe Sanctuary_Taunt_40_Memorized
 	DisplayHelp "P2647982787"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 40
@@ -2884,7 +2884,7 @@ DetailRecipe Sanctuary_Taunt_45_Memorized
 	DisplayHelp "P3331796819"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 45
@@ -2902,7 +2902,7 @@ DetailRecipe Sanctuary_Taunt_50_Memorized
 	DisplayHelp "P113899665"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
 	Icon E_ICON_GEN_TAUNT_01.tga
 	Level 50
@@ -2920,7 +2920,7 @@ DetailRecipe Sanctuary_Immobilize_10_Memorized
 	DisplayHelp "P2408752308"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 10
@@ -2938,7 +2938,7 @@ DetailRecipe Sanctuary_Immobilize_15_Memorized
 	DisplayHelp "P2304337503"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 15
@@ -2956,7 +2956,7 @@ DetailRecipe Sanctuary_Immobilize_20_Memorized
 	DisplayHelp "P2636581722"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 20
@@ -2974,7 +2974,7 @@ DetailRecipe Sanctuary_Immobilize_25_Memorized
 	DisplayHelp "P2615986609"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 25
@@ -2992,7 +2992,7 @@ DetailRecipe Sanctuary_Immobilize_30_Memorized
 	DisplayHelp "P630942783"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 30
@@ -3010,7 +3010,7 @@ DetailRecipe Sanctuary_Immobilize_35_Memorized
 	DisplayHelp "P3566499315"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 35
@@ -3028,7 +3028,7 @@ DetailRecipe Sanctuary_Immobilize_40_Memorized
 	DisplayHelp "P592490196"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 40
@@ -3046,7 +3046,7 @@ DetailRecipe Sanctuary_Immobilize_45_Memorized
 	DisplayHelp "P477428355"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 45
@@ -3064,7 +3064,7 @@ DetailRecipe Sanctuary_Immobilize_50_Memorized
 	DisplayHelp "P3092010118"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
 	Icon E_ICON_GEN_IMMOBILIZE_01.tga
 	Level 50
@@ -3082,7 +3082,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_10_Memorized
 	DisplayHelp "P2502721130"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 10
@@ -3100,7 +3100,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_15_Memorized
 	DisplayHelp "P2481437825"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 15
@@ -3118,7 +3118,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_20_Memorized
 	DisplayHelp "P2275004804"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 20
@@ -3136,7 +3136,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_25_Memorized
 	DisplayHelp "P2169639791"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 25
@@ -3154,7 +3154,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_30_Memorized
 	DisplayHelp "P1059436257"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 30
@@ -3172,7 +3172,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_35_Memorized
 	DisplayHelp "P2905193494"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 35
@@ -3190,7 +3190,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_40_Memorized
 	DisplayHelp "P971928586"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 40
@@ -3208,7 +3208,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_45_Memorized
 	DisplayHelp "P1707684710"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 45
@@ -3226,7 +3226,7 @@ DetailRecipe Sanctuary_Defense_DeBuff_50_Memorized
 	DisplayHelp "P2733805144"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
 	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
 	Level 50
@@ -3244,7 +3244,7 @@ DetailRecipe Sanctuary_Knockback_10_Memorized
 	DisplayHelp "P1882864311"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 10
@@ -3262,7 +3262,7 @@ DetailRecipe Sanctuary_Knockback_15_Memorized
 	DisplayHelp "P1995569244"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 15
@@ -3280,7 +3280,7 @@ DetailRecipe Sanctuary_Knockback_20_Memorized
 	DisplayHelp "P1653577049"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 20
@@ -3298,7 +3298,7 @@ DetailRecipe Sanctuary_Knockback_25_Memorized
 	DisplayHelp "P1682200498"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 25
@@ -3316,7 +3316,7 @@ DetailRecipe Sanctuary_Knockback_30_Memorized
 	DisplayHelp "P3660837436"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 30
@@ -3334,7 +3334,7 @@ DetailRecipe Sanctuary_Knockback_35_Memorized
 	DisplayHelp "P3893258203"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 35
@@ -3352,7 +3352,7 @@ DetailRecipe Sanctuary_Knockback_40_Memorized
 	DisplayHelp "P3707252951"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 40
@@ -3370,7 +3370,7 @@ DetailRecipe Sanctuary_Knockback_45_Memorized
 	DisplayHelp "P552528043"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 45
@@ -3388,7 +3388,7 @@ DetailRecipe Sanctuary_Knockback_50_Memorized
 	DisplayHelp "P1206176389"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
 	Icon E_ICON_GEN_KNOCKBACK_01.tga
 	Level 50
@@ -3406,7 +3406,7 @@ DetailRecipe Sanctuary_Interrupt_10_Memorized
 	DisplayHelp "P630232796"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 10
@@ -3424,7 +3424,7 @@ DetailRecipe Sanctuary_Interrupt_15_Memorized
 	DisplayHelp "P593187895"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 15
@@ -3442,7 +3442,7 @@ DetailRecipe Sanctuary_Interrupt_20_Memorized
 	DisplayHelp "P925186354"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 20
@@ -3460,7 +3460,7 @@ DetailRecipe Sanctuary_Interrupt_25_Memorized
 	DisplayHelp "P837745625"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 25
@@ -3478,7 +3478,7 @@ DetailRecipe Sanctuary_Interrupt_30_Memorized
 	DisplayHelp "P2409193047"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 30
@@ -3496,7 +3496,7 @@ DetailRecipe Sanctuary_Interrupt_35_Memorized
 	DisplayHelp "P2976346078"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 35
@@ -3514,7 +3514,7 @@ DetailRecipe Sanctuary_Interrupt_40_Memorized
 	DisplayHelp "P2303892668"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 40
@@ -3532,7 +3532,7 @@ DetailRecipe Sanctuary_Interrupt_45_Memorized
 	DisplayHelp "P2038948014"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 45
@@ -3550,7 +3550,7 @@ DetailRecipe Sanctuary_Interrupt_50_Memorized
 	DisplayHelp "P307128046"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
 	Icon E_ICON_GEN_INTERUPT_01.tga
 	Level 50
@@ -3568,7 +3568,7 @@ DetailRecipe Sanctuary_Fear_10_Memorized
 	DisplayHelp "P4079451543"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 10
@@ -3586,7 +3586,7 @@ DetailRecipe Sanctuary_Fear_15_Memorized
 	DisplayHelp "P4125933436"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 15
@@ -3604,7 +3604,7 @@ DetailRecipe Sanctuary_Fear_20_Memorized
 	DisplayHelp "P3784495737"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 20
@@ -3622,7 +3622,7 @@ DetailRecipe Sanctuary_Fear_25_Memorized
 	DisplayHelp "P3881373842"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 25
@@ -3640,7 +3640,7 @@ DetailRecipe Sanctuary_Fear_30_Memorized
 	DisplayHelp "P1496233244"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 30
@@ -3658,7 +3658,7 @@ DetailRecipe Sanctuary_Fear_35_Memorized
 	DisplayHelp "P2503087191"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 35
@@ -3676,7 +3676,7 @@ DetailRecipe Sanctuary_Fear_40_Memorized
 	DisplayHelp "P1608873975"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 40
@@ -3694,7 +3694,7 @@ DetailRecipe Sanctuary_Fear_45_Memorized
 	DisplayHelp "P1574083367"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 45
@@ -3712,7 +3712,7 @@ DetailRecipe Sanctuary_Fear_50_Memorized
 	DisplayHelp "P3304689061"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
 	Icon E_ICON_GEN_FEAR_01.tga
 	Level 50
@@ -3730,7 +3730,7 @@ DetailRecipe Sanctuary_Sleep_10_Memorized
 	DisplayHelp "P3140087828"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 10
@@ -3748,7 +3748,7 @@ DetailRecipe Sanctuary_Sleep_15_Memorized
 	DisplayHelp "P3185718015"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 15
@@ -3766,7 +3766,7 @@ DetailRecipe Sanctuary_Sleep_20_Memorized
 	DisplayHelp "P2845597690"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 20
@@ -3784,7 +3784,7 @@ DetailRecipe Sanctuary_Sleep_25_Memorized
 	DisplayHelp "P2941754641"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 25
@@ -3802,7 +3802,7 @@ DetailRecipe Sanctuary_Sleep_30_Memorized
 	DisplayHelp "P287324319"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 30
@@ -3820,7 +3820,7 @@ DetailRecipe Sanctuary_Sleep_35_Memorized
 	DisplayHelp "P378890316"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 35
@@ -3838,7 +3838,7 @@ DetailRecipe Sanctuary_Sleep_40_Memorized
 	DisplayHelp "P401341044"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 40
@@ -3856,7 +3856,7 @@ DetailRecipe Sanctuary_Sleep_45_Memorized
 	DisplayHelp "P3732268860"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 45
@@ -3874,7 +3874,7 @@ DetailRecipe Sanctuary_Sleep_50_Memorized
 	DisplayHelp "P2364997670"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
 	Icon E_ICON_GEN_SLEEP_01.tga
 	Level 50
@@ -3892,7 +3892,7 @@ DetailRecipe Sanctuary_Confuse_10_Memorized
 	DisplayHelp "P3601967972"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 10
@@ -3910,7 +3910,7 @@ DetailRecipe Sanctuary_Confuse_15_Memorized
 	DisplayHelp "P3497683343"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 15
@@ -3928,7 +3928,7 @@ DetailRecipe Sanctuary_Confuse_20_Memorized
 	DisplayHelp "P3288597642"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 20
@@ -3946,7 +3946,7 @@ DetailRecipe Sanctuary_Confuse_25_Memorized
 	DisplayHelp "P3268396641"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 25
@@ -3964,7 +3964,7 @@ DetailRecipe Sanctuary_Confuse_30_Memorized
 	DisplayHelp "P2092458991"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 30
@@ -3982,7 +3982,7 @@ DetailRecipe Sanctuary_Confuse_35_Memorized
 	DisplayHelp "P3306419294"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 35
@@ -4000,7 +4000,7 @@ DetailRecipe Sanctuary_Confuse_40_Memorized
 	DisplayHelp "P2054398212"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 40
@@ -4018,7 +4018,7 @@ DetailRecipe Sanctuary_Confuse_45_Memorized
 	DisplayHelp "P234060590"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 45
@@ -4036,7 +4036,7 @@ DetailRecipe Sanctuary_Confuse_50_Memorized
 	DisplayHelp "P3782171478"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
 	Icon E_ICON_GEN_CONFUSE_01.tga
 	Level 50
@@ -4054,7 +4054,7 @@ DetailRecipe Sanctuary_Intangible_10_Memorized
 	DisplayHelp "P4115788908"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 10
@@ -4072,7 +4072,7 @@ DetailRecipe Sanctuary_Intangible_15_Memorized
 	DisplayHelp "P4086969991"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 15
@@ -4090,7 +4090,7 @@ DetailRecipe Sanctuary_Intangible_20_Memorized
 	DisplayHelp "P3890502530"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 20
@@ -4108,7 +4108,7 @@ DetailRecipe Sanctuary_Intangible_25_Memorized
 	DisplayHelp "P3777993065"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 25
@@ -4126,7 +4126,7 @@ DetailRecipe Sanctuary_Intangible_30_Memorized
 	DisplayHelp "P1599618279"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 30
@@ -4144,7 +4144,7 @@ DetailRecipe Sanctuary_Intangible_35_Memorized
 	DisplayHelp "P4129165779"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 35
@@ -4162,7 +4162,7 @@ DetailRecipe Sanctuary_Intangible_40_Memorized
 	DisplayHelp "P1502871052"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 40
@@ -4180,7 +4180,7 @@ DetailRecipe Sanctuary_Intangible_45_Memorized
 	DisplayHelp "P1056874147"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 45
@@ -4198,7 +4198,7 @@ DetailRecipe Sanctuary_Intangible_50_Memorized
 	DisplayHelp "P3264152670"
 	DisplayTabName "T0000000052"
 	Type Memorized
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
 	Icon E_ICON_GEN_INTANGIBLE_01.tga
 	Level 50

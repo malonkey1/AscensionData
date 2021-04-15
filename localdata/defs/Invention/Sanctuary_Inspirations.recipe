@@ -4,7 +4,7 @@ DetailRecipe Sanctuary_SuperInsp_Ultimate
 	DisplayHelp "P2150019073"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Ultimate
 	Icon Inspiration_LevelShift_Lvl_4.tga
 	LevelMin 1
@@ -24,7 +24,7 @@ DetailRecipe Sanctuary_SuperInsp_Sight_Beyond_Sight
 	DisplayHelp "P822658153"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Sight_Beyond_Sight
 	Icon Inspiration_Accuracy_Lvl_4.tga
 	LevelMin 1
@@ -44,7 +44,7 @@ DetailRecipe Sanctuary_SuperInsp_Resistant
 	DisplayHelp "P1392590280"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Resistant
 	Icon Inspiration_Damage_Resistance_Lvl_4.tga
 	LevelMin 1
@@ -64,7 +64,7 @@ DetailRecipe Sanctuary_SuperInsp_Liberate
 	DisplayHelp "P1080054331"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Liberate
 	Icon Inspiration_resist_sleep_hold_Lvl_4.tga
 	LevelMin 1
@@ -84,7 +84,7 @@ DetailRecipe Sanctuary_SuperInsp_Immortal_Recovery
 	DisplayHelp "P3820857669"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Immortal_Recovery
 	Icon Inspiration_Resurrection_Lvl_4.tga
 	LevelMin 1
@@ -104,7 +104,7 @@ DetailRecipe Sanctuary_SuperInsp_Furious_Rage
 	DisplayHelp "P3410358805"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Furious_Rage
 	Icon Inspiration_Damage_Lvl_4.tga
 	LevelMin 1
@@ -124,7 +124,7 @@ DetailRecipe Sanctuary_SuperInsp_Back_in_the_Fight
 	DisplayHelp "P2139009063"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Back_in_the_Fight
 	Icon Inspiration_Endurance_Lvl_4.tga
 	LevelMin 1
@@ -144,7 +144,7 @@ DetailRecipe Sanctuary_SuperInsp_Amazing_Luck
 	DisplayHelp "P2443243612"
 	DisplayTabName "P2973611538"
 	Type Workshop
-	Workshop Worktable_Sanctuary
+	Workshop Worktable_Split_Sanctuary
 	TableReward SuperInsp_Amazing_Luck
 	Icon Inspiration_Defense_Lvl_4.tga
 	LevelMin 1
