@@ -17,7 +17,7 @@ NPC "Model_Sanctuary"
 		JawScales -0.04515, 1, 1
 		NoseScales 0, 0.3011, 0.1578
 		SkinColor 57, 29, 18
-		NumParts 28
+		NumParts 33
 		CostumePart "Pants"
 		{
 			Geometry Armored
@@ -50,7 +50,7 @@ NPC "Model_Sanctuary"
 		{
 			Geometry V_fem_Head.GEO/GEO_Head_V_Asym_Standard
 			Texture1 !Face_Skin_V_Fem_Head_10
-			Texture2 none
+			Texture2 None
 			Fx none
 			DisplayName P687117166
 			RegionName Head
@@ -64,7 +64,7 @@ NPC "Model_Sanctuary"
 		{
 			Geometry V_FEM_BOOT.GEO/GEO_Lleg*_V_Ascension_02
 			Texture1 !X_Ascension_Boot
-			Texture2 none
+			Texture2 None
 			Fx Costumes/AscensionArmor/Female_Boots.fx
 			DisplayName P2104750136
 			RegionName "Lower Body"
@@ -78,7 +78,7 @@ NPC "Model_Sanctuary"
 		{
 			Geometry V_FEM_BELT.GEO/GEO_Belt_V_Ascension_01
 			Texture1 !X_Ascension_Belt
-			Texture2 none
+			Texture2 None
 			Fx Costumes/AscensionArmor/Female_Belt.fx
 			DisplayName P177456852
 			RegionName "Upper Body"
@@ -102,11 +102,22 @@ NPC "Model_Sanctuary"
 			Color3 255, 169, 0
 			Color4 255, 255, 255
 		}
+		CostumePart "Face"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
 		CostumePart "EyeDetail"
 		{
 			Geometry V_FEM_EYES.GEO/GEO_Eyes_Cyborg_01
 			Texture1 !X_Cyborg_Head_01
-			Texture2 none
+			Texture2 None
 			Fx none
 			DisplayName P2793026233
 			RegionName Head
@@ -120,7 +131,7 @@ NPC "Model_Sanctuary"
 		{
 			Geometry V_FEM_EMBLEM.GEO/GEO_Emblem_V_Ascension_02
 			Texture1 !X_Ascension_Emblem
-			Texture2 none
+			Texture2 None
 			Fx Costumes/AscensionArmor/Female_Chest.fx
 			DisplayName P2281134661
 			RegionName "Upper Body"
@@ -134,7 +145,7 @@ NPC "Model_Sanctuary"
 		{
 			Geometry V_FEM_SPADR.GEO/GEO_SpadR_V_Ascension_01
 			Texture1 !X_Ascension_Spadr
-			Texture2 none
+			Texture2 None
 			Fx Costumes/AscensionArmor/Female_Shoulders.fx
 			DisplayName P772741860
 			RegionName "Upper Body"
@@ -144,25 +155,33 @@ NPC "Model_Sanctuary"
 			Color3 255, 169, 0
 			Color4 255, 255, 255
 		}
+		CostumePart "Back"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
 		CostumePart "WepR"
 		{
-			Geometry none
-			Texture1 !X_Sword_Celestial_Armor
-			Texture2 none
-			Fx WEAPONS/Custom_Broadsword/Fem_Broadsword_Celestial_Sword_01.fx
-			DisplayName P3831956833
-			RegionName Weapons
-			BodySetName Weapons
-			Color1 255, 169, 0
-			Color2 173, 76, 255
-			Color3 255, 169, 0
-			Color4 255, 255, 255
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
 		}
 		CostumePart "Neck"
 		{
 			Geometry CoL_Mask_01_player.GEO/GEO_Neck_CoL_Mask_01
 			Texture1 !X_Eye_CoL_FaceMask_01
-			Texture2 none
+			Texture2 None
 			Fx none
 			DisplayName P2371314042
 			RegionName Head
@@ -172,11 +191,44 @@ NPC "Model_Sanctuary"
 			Color3 255, 169, 0
 			Color4 255, 255, 255
 		}
+		CostumePart "UarmR"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Collar"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Broach"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
 		CostumePart "Cape"
 		{
-			Geometry none
+			Geometry None
 			Texture1 !X_FX_Wings_Fire_02
-			Texture2 none
+			Texture2 None
 			Fx GENERIC/FX_Wings_Phoenix_Fem.fx
 			DisplayName P2318333026
 			RegionName Capes
@@ -185,6 +237,179 @@ NPC "Model_Sanctuary"
 			Color2 167, 0, 255
 			Color3 255, 169, 0
 			Color4 255, 255, 255
+		}
+		CostumePart "Aura"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Skirt"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Top"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Sleeves"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Cranium"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Jaw"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepL"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx WEAPONS/Custom_Bow/Fem_Bow_Base.fx
+			DisplayName P974978278
+			RegionName Weapons
+			BodySetName Weapons
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepL_2"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepR_2"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Tail"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx none
+			DisplayName P546439883
+			RegionName "Lower Body"
+			BodySetName Armored
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "RightGlove"
+		{
+			Geometry N_Fem_OlympianGuard_01.GEO/GEO_LArmR_OlympianGuard_01
+			Texture1 !X_Olympian_Glove_01
+			Texture2 !Glove_Olympian_01_Mask
+			Fx none
+			DisplayName "Right Glove"
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+		}
+		CostumePart "LeftGlove"
+		{
+			Geometry N_Fem_OlympianGuard_01.GEO/GEO_LArmL_OlympianGuard_01
+			Texture1 !X_Olympian_Glove_01
+			Texture2 !Glove_Olympian_01_Mask
+			Fx none
+			DisplayName "Left Glove"
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+		}
+		CostumePart "RightBoot"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "LeftBoot"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "UarmL"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
 		}
 	}
 }

@@ -1,0 +1,167 @@
+//	DisplayClaimConfirmation "P2985797328"
+//	Flags NoGenericBadgeCredit, ForceClaimDelay
+//}
+
+//DetailRecipe Sanctuary_cosphevi
+//{
+//	DisplayName "P518855353"
+//	DisplayHelp "P1426840851"
+//	DisplayTabName "T0000000045"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward Sanctuary_HVPack
+//	Icon salvage_HVSuperPack.tga
+//	CreationCost 1500000
+//	Rarity Common
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	Flags NoGenericBadgeCredit
+//}
+
+//DetailRecipe Sanctuary_cosphvul
+//{
+//	DisplayName "P1212378877"
+//	DisplayHelp "P1426840851"
+//	DisplayTabName "T0000000045"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward Sanctuary_UVPack
+//	Icon cosphvul_med.tga
+//	CreationCost 1500000
+//	Rarity Common
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	Flags NoGenericBadgeCredit
+//}
+
+//DetailRecipe Sanctuary_cosprovi
+//{
+//	DisplayName "P316716904"
+//	DisplayHelp "P1426840851"
+//	DisplayTabName "T0000000045"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward Sanctuary_RVPack
+//	Icon salvage_RVSuperPack.tga
+//	CreationCost 1500000
+//	Rarity Common
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	Flags NoGenericBadgeCredit
+//}
+
+//DetailRecipe Sanctuary_cowpwiwa
+//{
+//	DisplayName "P686427906"
+//	DisplayHelp "P1426840851"
+//	DisplayTabName "T0000000045"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward Sanctuary_WPack
+//	Icon salvage_RVSuperPack.tga
+//	CreationCost 1500000
+//	Rarity Common
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	Flags NoGenericBadgeCredit
+//}
+
+DetailRecipe Sanctuary_Enhancement_Converters
+{
+	DisplayName "P3382142548"
+	DisplayHelp "P4255082523"
+	DisplayTabName "T0000000046"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	TableReward salvage.S_EnhancementConverter.10
+	Icon salvage_EnhancementConverter.tga
+	LevelMin 1
+	LevelMax 50
+	Rarity Common
+	MaxInvAmount 9999
+	NumUses 1
+	CreationCost 10000000
+	SellToVendor 100
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Respec_Recipe
+{
+	DisplayName "P2886803783"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000046"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	TableReward Recipe_Respec
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	LevelMin 1
+	LevelMax 50
+	CreationCost 50000000
+	Rarity Rare
+	MaxInvAmount 100
+	NumUses 1
+	SellToVendor 100
+	CreatesRecipe 1
+}
+
+DetailRecipe Sanctuary_Vouc_IncarnateThread
+{
+	DisplayName "I0000000570"
+	DisplayHelp "I0000000571"
+	DisplayTabName "T0000000046"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	TableReward FavorThreadConversion
+	Icon salvage_incarnate_thread.tga
+	LevelMin 1
+	LevelMax 50
+	CreationCost 10000000
+	Rarity Common
+	MaxInvAmount 1
+	NumUses 1
+	SellToVendor 100
+	Flags NoGenericBadgeCredit, NoLevelDisplayed
+}
+
+//DetailRecipe Sanctuary_Inf
+//{
+//	DisplayName "I0000000962"
+//	DisplayHelp "I0000000963"
+//	DisplayTabName "T0000000046"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward Sanctuary_Influence
+//	Icon salvage_Random.tga
+//	LevelMin 1
+//	LevelMax 50
+//	Rarity VeryRare
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	CreatesRecipe 1
+//	Flags NoGenericBadgeCredit, NoLevelDisplayed
+//}
+
+//DetailRecipe Sanctuary_Unlock_Builds
+//{
+//	DisplayName "I0000000963"
+//	DisplayHelp "I0000000964"
+//	DisplayTabName "T0000000046"
+//	Type Workshop
+//	Workshop Worktable_Split_Sanctuary
+//	TableReward SanctuaryBuilds
+//	Icon salvage_SanctuaryToken.tga
+//	LevelMin 1
+//	LevelMax 50
+//	Rarity Common
+//	MaxInvAmount 1
+//	NumUses 1
+//	SellToVendor 100
+//	Flags NoGenericBadgeCredit, NoLevelDisplayed
+//	
+//	SalvageComponent 5 S_SanctuaryToken
+//}

@@ -1,0 +1,4211 @@
+DetailRecipe Sanctuary_Damage_10_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P3217311562"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_15_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P3104802209"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 3600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_20_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P2909923492"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_25_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P2881104463"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 17800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_30_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P365793217"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 20700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_35_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P1739078228"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 31400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_40_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P319180074"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 49700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_45_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P2940777764"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 88600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Damage_50_Memorized
+{
+	DisplayName "P2270075308"
+	DisplayHelp "P2283452280"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Damage.Crafted_Damage
+	Icon E_ICON_GEN_DAMAGE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 232200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_10_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P3774222264"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_15_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P3862809939"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 3300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_20_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P4064518230"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_25_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P4102578877"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_30_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P1258276659"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 19300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_35_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P958738427"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 29200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_40_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P1278477784"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 46200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_45_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P4056260747"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 82400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recharge_50_Memorized
+{
+	DisplayName "P462380718"
+	DisplayHelp "P3609788298"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recharge.Crafted_Recharge
+	Icon E_ICON_GEN_RECHARGE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 216000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_10_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P2942156723"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_15_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P2845211992"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 3800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_20_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P3186102365"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 17300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_25_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P3139687094"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 18700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_30_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P89421624"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 21900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_35_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P296749591"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 33100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_40_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P60798419"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 52400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_45_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P3645932903"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 93600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Accuracy_50_Memorized
+{
+	DisplayName "P3645997534"
+	DisplayHelp "P2558742401"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Accuracy.Crafted_Accuracy
+	Icon E_ICON_GEN_ACCURACY_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 245200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_10_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P3481060140"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_15_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P3384213959"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 3300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_20_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P3720965314"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_25_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P3674385961"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_30_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P1702169511"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 19300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_35_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P3202007540"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 29200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_40_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P1673447756"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 46200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_45_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P1983532676"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 82400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Endurance_Discount_50_Memorized
+{
+	DisplayName "P1588308253"
+	DisplayHelp "P4171379486"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Endurance_Discount.Crafted_Endurance_Discount
+	Icon E_ICON_GEN_ENDURANCE_DISC_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 216000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_10_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1109496520"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_15_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1156206627"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 3600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_20_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1351892262"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_25_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1449131981"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 17800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_30_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P3894958659"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 20700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_35_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P2560891683"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 31400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_40_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P4007893160"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 49700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_45_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1346671699"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 88600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Heal_50_Memorized
+{
+	DisplayName "P3455281741"
+	DisplayHelp "P1979671290"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Heal.Crafted_Heal
+	Icon E_ICON_GEN_HEAL_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 232200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_10_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P3985524212"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_15_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P3947202335"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_20_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P4282116634"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_25_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P4193265905"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 14200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_30_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P1200065919"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_35_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P4091578884"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 25100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_40_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P1095520148"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 39700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_45_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P989857140"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 70900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Recovery_50_Memorized
+{
+	DisplayName "P2913546219"
+	DisplayHelp "P3662722502"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Recovery.Crafted_Recovery
+	Icon E_ICON_GEN_RECOVERY_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 185800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_10_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1899223205"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_15_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1455872351"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_20_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P2012198175"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_25_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1268764565"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_30_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1898215412"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_35_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P2075810558"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 20700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_40_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1729930408"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 32800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_45_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1687711942"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 58500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Res_Damage_50_Memorized
+{
+	DisplayName "P3955434115"
+	DisplayHelp "P1611992180"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Res_Damage.Crafted_Res_Damage
+	Icon E_ICON_GEN_RESIST_DAMAGE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 153300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_10_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P457036682"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_15_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3540538036"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_20_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3696526925"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_25_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P2093103854"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_30_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3667870886"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 14500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_35_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3489753516"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_40_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3433535482"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 34800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_45_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3475194772"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 62100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_Buff_50_Memorized
+{
+	DisplayName "P3045478937"
+	DisplayHelp "P3417194278"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_Buff.Crafted_Defense_Buff
+	Icon E_ICON_GEN_DEFENSE_BUFF_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 162600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_10_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P1042989960"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_15_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P954270051"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_20_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P748645478"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_25_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P710192781"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_30_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P2485324547"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_35_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P1957775695"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 20700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_40_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P2464729576"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 32800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_45_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P3159475775"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 58500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Run_50_Memorized
+{
+	DisplayName "P14234073"
+	DisplayHelp "P166998970"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Run.Crafted_Run
+	Icon E_ICON_GEN_RUN_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 153300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_10_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P969610199"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_15_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P1057018172"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_20_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P729726009"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_25_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P766869202"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_30_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P2479020892"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_35_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P3477200353"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 19800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_40_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P2500401591"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 31300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_45_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P128012945"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 55900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fly_50_Memorized
+{
+	DisplayName "P521045893"
+	DisplayHelp "P236315621"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fly.Crafted_Fly
+	Icon E_ICON_GEN_FLY_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 146300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_10_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P2385571679"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_15_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P2298162612"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_20_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P2625978545"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 6600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_25_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P2588836442"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 7100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_30_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P607725524"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 8300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_35_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P2282800750"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_40_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P586343743"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 19900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_45_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P1089489182"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 35500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Jump_50_Memorized
+{
+	DisplayName "P3172493305"
+	DisplayHelp "P3119390573"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Jump.Crafted_Jump
+	Icon E_ICON_GEN_JUMP_DISTANCE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 92900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_10_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P852850336"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_15_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P450879507"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_20_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P130459454"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_25_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P884595479"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 14200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_30_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P17655253"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_35_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P194201823"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 25100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_40_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P389396105"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 39700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_45_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P347169511"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 70900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Range_50_Memorized
+{
+	DisplayName "P3786158803"
+	DisplayHelp "P272375381"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Range.Crafted_Range
+	Icon E_ICON_GEN_RANGE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 185800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_10_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P1128791808"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_15_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P549197548"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_20_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3512833631"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_25_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P427906924"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_30_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3618264244"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_35_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3711203774"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_40_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3247605736"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 36300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_45_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3256243078"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 64700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_Buff_50_Memorized
+{
+	DisplayName "P1124038293"
+	DisplayHelp "P3332058932"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_Buff.Crafted_ToHit_Buff
+	Icon E_ICON_GEN_TO_HIT_BUFF_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 169500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_10_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P3086268835"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_15_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2973727560"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_20_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2772506189"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_25_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2743784614"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_30_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P503148840"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_35_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2987501018"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 20700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_40_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P456569795"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 32800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_45_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2062625450"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 58500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Hold_50_Memorized
+{
+	DisplayName "P3554229952"
+	DisplayHelp "P2150254993"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Hold.Crafted_Hold
+	Icon E_ICON_GEN_HOLD_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 153300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_10_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P3405815734"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_15_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P3750885069"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_20_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P4092315526"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 8700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_25_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P1427598034"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 9400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_30_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P4112516461"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_35_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P4290652263"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_40_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P3810055729"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 26300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_45_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P3768320607"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 47000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_ToHit_DeBuff_50_Memorized
+{
+	DisplayName "P336199315"
+	DisplayHelp "P3826351853"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_ToHit_DeBuff.Crafted_ToHit_DeBuff
+	Icon E_ICON_GEN_TO_HIT_DEBUFF_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 123100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_10_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P2743068654"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_15_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P2780046597"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_20_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P2982823936"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_25_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P3070331627"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_30_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P158740325"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_35_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P2065038570"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_40_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P264105358"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 36300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_45_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P3019207578"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 64700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Snare_50_Memorized
+{
+	DisplayName "P2378805289"
+	DisplayHelp "P2493585372"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Snare.Crafted_Snare
+	Icon E_ICON_GEN_SNARE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 169500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_10_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P780688203"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_15_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P675518880"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_20_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P1010693285"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_25_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P989214286"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_30_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P2223084480"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_35_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P1790101014"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 23800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_40_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P2185908523"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 37700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_45_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P2723301734"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 67400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Stun_50_Memorized
+{
+	DisplayName "P2322742045"
+	DisplayHelp "P425110393"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Stun.Crafted_Stun
+	Icon E_ICON_GEN_STUN_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 176500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_10_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P823593123"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_15_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P937216584"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_20_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P597862221"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 8200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_25_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P627664294"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 8900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_30_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P2602483752"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_35_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P242720803"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_40_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P2647982787"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 24900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_45_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P3331796819"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 44300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Taunt_50_Memorized
+{
+	DisplayName "P2309425932"
+	DisplayHelp "P113899665"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Taunt.Crafted_Taunt
+	Icon E_ICON_GEN_TAUNT_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 116100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_10_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P2408752308"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_15_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P2304337503"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_20_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P2636581722"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_25_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P2615986609"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_30_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P630942783"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_35_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P3566499315"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_40_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P592490196"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 36300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_45_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P477428355"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 64700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Immobilize_50_Memorized
+{
+	DisplayName "P2566890529"
+	DisplayHelp "P3092010118"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Immobilize.Crafted_Immobilize
+	Icon E_ICON_GEN_IMMOBILIZE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 169500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_10_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2502721130"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_15_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2481437825"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_20_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2275004804"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_25_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2169639791"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_30_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P1059436257"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_35_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2905193494"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_40_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P971928586"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 36300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_45_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P1707684710"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 64700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Defense_DeBuff_50_Memorized
+{
+	DisplayName "P2198950576"
+	DisplayHelp "P2733805144"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Defense_DeBuff.Crafted_Defense_DeBuff
+	Icon E_ICON_GEN_DEFENSE_DEBUFF_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 169500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_10_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P1882864311"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_15_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P1995569244"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_20_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P1653577049"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 5400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_25_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P1682200498"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 5900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_30_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P3660837436"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 6900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_35_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P3893258203"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_40_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P3707252951"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 16400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_45_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P552528043"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 29300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Knockback_50_Memorized
+{
+	DisplayName "P2509169661"
+	DisplayHelp "P1206176389"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Knockback.Crafted_Knockback
+	Icon E_ICON_GEN_KNOCKBACK_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 76700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_10_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P630232796"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_15_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P593187895"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_20_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P925186354"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 9800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_25_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P837745625"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_30_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P2409193047"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_35_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P2976346078"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 18800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_40_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P2303892668"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 29800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_45_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P2038948014"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 53200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Interrupt_50_Memorized
+{
+	DisplayName "P3434790182"
+	DisplayHelp "P307128046"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Interrupt.Crafted_Interrupt
+	Icon E_ICON_GEN_INTERUPT_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 139300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_10_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P4079451543"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_15_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P4125933436"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_20_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P3784495737"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 7600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_25_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P3881373842"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 8200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_30_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P1496233244"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 9500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_35_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P2503087191"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 14400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_40_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P1608873975"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_45_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P1574083367"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 40800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Fear_50_Memorized
+{
+	DisplayName "P3784473855"
+	DisplayHelp "P3304689061"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Fear.Crafted_Fear
+	Icon E_ICON_GEN_FEAR_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 106800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_10_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P3140087828"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_15_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P3185718015"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_20_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P2845597690"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 12000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_25_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P2941754641"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 13000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_30_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P287324319"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 15100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_35_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P378890316"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 22900
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_40_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P401341044"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 36300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_45_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P3732268860"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 64700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Sleep_50_Memorized
+{
+	DisplayName "P2636826132"
+	DisplayHelp "P2364997670"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Sleep.Crafted_Sleep
+	Icon E_ICON_GEN_SLEEP_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 169500
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_10_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3601967972"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_15_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3497683343"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 2000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_20_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3288597642"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 9200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_25_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3268396641"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 10000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_30_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P2092458991"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_35_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3306419294"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 17600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_40_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P2054398212"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 27800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_45_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P234060590"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 49700
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Confuse_50_Memorized
+{
+	DisplayName "P699580628"
+	DisplayHelp "P3782171478"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Confuse.Crafted_Confuse
+	Icon E_ICON_GEN_CONFUSE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 130100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_10_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P4115788908"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 10
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 600
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_15_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P4086969991"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 15
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 1300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_20_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P3890502530"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 20
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 5800
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_25_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P3777993065"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 25
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 6200
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_30_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P1599618279"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 30
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 7300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_35_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P4129165779"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 35
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 11000
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_40_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P1502871052"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 40
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 17400
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_45_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P1056874147"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 45
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 31100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
+
+DetailRecipe Sanctuary_Intangible_50_Memorized
+{
+	DisplayName "P1394966456"
+	DisplayHelp "P3264152670"
+	DisplayTabName "T0000000052"
+	Type Memorized
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Crafted_Intangible.Crafted_Intangible
+	Icon E_ICON_GEN_INTANGIBLE_01.tga
+	Level 50
+	Rarity Common
+	MaxInvAmount 100
+	NumUses 1
+	CreationCost 81300
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit
+}
