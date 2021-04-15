@@ -1,0 +1,6053 @@
+DetailRecipe Sanctuary_coesblw6
+{
+	DisplayName "P1779251207"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_F.Attuned_Blasters_Wrath_F
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesblw5
+{
+	DisplayName "P2457451015"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_E.Attuned_Blasters_Wrath_E
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesblw4
+{
+	DisplayName "P1959279970"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_D.Attuned_Blasters_Wrath_D
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesblw3
+{
+	DisplayName "P3823402151"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_C.Attuned_Blasters_Wrath_C
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesblw2
+{
+	DisplayName "P430782228"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_B.Attuned_Blasters_Wrath_B
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesblw1
+{
+	DisplayName "P3610775224"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Blasters_Wrath_A.Attuned_Blasters_Wrath_A
+	Icon E_ICON_BlastersWrath.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow6
+{
+	DisplayName "P2894034153"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_F.Attuned_Will_of_the_Controller_F
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow5
+{
+	DisplayName "P1974496127"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_E.Attuned_Will_of_the_Controller_E
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow4
+{
+	DisplayName "P1020398290"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_D.Attuned_Will_of_the_Controller_D
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow3
+{
+	DisplayName "P62882211"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_C.Attuned_Will_of_the_Controller_C
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow2
+{
+	DisplayName "P2106195350"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_B.Attuned_Will_of_the_Controller_B
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescow1
+{
+	DisplayName "P4041683870"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Will_of_the_Controller_A.Attuned_Will_of_the_Controller_A
+	Icon E_ICON_WilloftheController.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba6
+{
+	DisplayName "P2961516982"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_F.Attuned_Defenders_Bastion_F
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba5
+{
+	DisplayName "P313149097"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_E.Attuned_Defenders_Bastion_E
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba4
+{
+	DisplayName "P610324940"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_D.Attuned_Defenders_Bastion_D
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba3
+{
+	DisplayName "P218842904"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_C.Attuned_Defenders_Bastion_C
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba2
+{
+	DisplayName "P2176609287"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_B.Attuned_Defenders_Bastion_B
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdba1
+{
+	DisplayName "P1328108971"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defenders_Bastion_A.Attuned_Defenders_Bastion_A
+	Icon E_ICON_DefendersBastion.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst6
+{
+	DisplayName "P2933567074"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_F.Attuned_Scrappers_Strike_F
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst5
+{
+	DisplayName "P1740972880"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_E.Attuned_Scrappers_Strike_E
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst4
+{
+	DisplayName "P539191285"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_D.Attuned_Scrappers_Strike_D
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst3
+{
+	DisplayName "P1689685544"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_C.Attuned_Scrappers_Strike_C
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst2
+{
+	DisplayName "P582880475"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_B.Attuned_Scrappers_Strike_B
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coessst1
+{
+	DisplayName "P3962254711"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scrappers_Strike_A.Attuned_Scrappers_Strike_A
+	Icon E_ICON_ScrappersStrike.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta6
+{
+	DisplayName "P742507734"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_F.Attuned_Might_of_the_Tanker_F
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta5
+{
+	DisplayName "P890217958"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_E.Attuned_Might_of_the_Tanker_E
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta4
+{
+	DisplayName "P3212561894"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_D.Attuned_Might_of_the_Tanker_D
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta3
+{
+	DisplayName "P2214082670"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_C.Attuned_Might_of_the_Tanker_C
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta2
+{
+	DisplayName "P629631297"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_B.Attuned_Might_of_the_Tanker_B
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmta1
+{
+	DisplayName "P3943846125"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Might_of_the_Tanker_A.Attuned_Might_of_the_Tanker_A
+	Icon E_ICON_MightoftheTanker.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg6
+{
+	DisplayName "P3905685722"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_F.Attuned_Kheldians_Grace_F
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg5
+{
+	DisplayName "P564941428"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_E.Attuned_Kheldians_Grace_E
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg4
+{
+	DisplayName "P535600541"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_D.Attuned_Kheldians_Grace_D
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg3
+{
+	DisplayName "P508181390"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_C.Attuned_Kheldians_Grace_C
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg2
+{
+	DisplayName "P595286796"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_B.Attuned_Kheldians_Grace_B
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coeskdg1
+{
+	DisplayName "P3991823008"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Kheldians_Grace_A.Attuned_Kheldians_Grace_A
+	Icon E_ICON_KheldianGrace.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu6
+{
+	DisplayName "P2938912894"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_F.Attuned_Brutes_Fury_F
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu5
+{
+	DisplayName "P2525958793"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_E.Attuned_Brutes_Fury_E
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu4
+{
+	DisplayName "P3770648864"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_D.Attuned_Brutes_Fury_D
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu3
+{
+	DisplayName "P1110767191"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_C.Attuned_Brutes_Fury_C
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu2
+{
+	DisplayName "P1269619434"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_B.Attuned_Brutes_Fury_B
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbfu1
+{
+	DisplayName "P2235163462"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Brutes_Fury_A.Attuned_Brutes_Fury_A
+	Icon E_ICON_BrutesFury.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco6
+{
+	DisplayName "P1358295126"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_F.Attuned_Malice_of_the_Corruptor_F
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco5
+{
+	DisplayName "P2230173476"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_E.Attuned_Malice_of_the_Corruptor_E
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco4
+{
+	DisplayName "P139404691"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_D.Attuned_Malice_of_the_Corruptor_D
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco3
+{
+	DisplayName "P172783120"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_C.Attuned_Malice_of_the_Corruptor_C
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco2
+{
+	DisplayName "P2417754054"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_B.Attuned_Malice_of_the_Corruptor_B
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesmco1
+{
+	DisplayName "P1586415210"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Malice_of_the_Corruptor_A.Attuned_Malice_of_the_Corruptor_A
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado6
+{
+	DisplayName "P1409367864"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_F.Attuned_Ascendency_of_the_Dominator_F
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado5
+{
+	DisplayName "P2990371287"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_E.Attuned_Ascendency_of_the_Dominator_E
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado4
+{
+	DisplayName "P1062524022"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_D.Attuned_Ascendency_of_the_Dominator_D
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado3
+{
+	DisplayName "P3288552019"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_C.Attuned_Ascendency_of_the_Dominator_C
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado2
+{
+	DisplayName "P3018889828"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_B.Attuned_Ascendency_of_the_Dominator_B
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesado1
+{
+	DisplayName "P1050563692"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Ascendency_of_the_Dominator_A.Attuned_Ascendency_of_the_Dominator_A
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg1
+{
+	DisplayName "P638837489"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_A.Attuned_Dominating_Grasp_A
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg2
+{
+	DisplayName "P2877107449"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_B.Attuned_Dominating_Grasp_B
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg3
+{
+	DisplayName "P3744855530"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_C.Attuned_Dominating_Grasp_C
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg4
+{
+	DisplayName "P2893032602"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_D.Attuned_Dominating_Grasp_D
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg5
+{
+	DisplayName "P3803280821"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_E.Attuned_Dominating_Grasp_E
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesbdg6
+{
+	DisplayName "P3879007083"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominating_Grasp_F.Attuned_Dominating_Grasp_F
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 1
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma6
+{
+	DisplayName "P136808860"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_F.Attuned_Command_of_the_Mastermind_F
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma5
+{
+	DisplayName "P391050275"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_E.Attuned_Command_of_the_Mastermind_E
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma4
+{
+	DisplayName "P1901558382"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_D.Attuned_Command_of_the_Mastermind_D
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma3
+{
+	DisplayName "P3467325209"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_C.Attuned_Command_of_the_Mastermind_C
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma2
+{
+	DisplayName "P189843481"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_B.Attuned_Command_of_the_Mastermind_B
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coescma1
+{
+	DisplayName "P3750331719"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Command_of_the_Mastermind_A.Attuned_Command_of_the_Mastermind_A
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg6
+{
+	DisplayName "P3404155697"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_F.Attuned_Stalkers_Guile_F
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg5
+{
+	DisplayName "P3807819503"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_E.Attuned_Stalkers_Guile_E
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg4
+{
+	DisplayName "P3142359439"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_D.Attuned_Stalkers_Guile_D
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg3
+{
+	DisplayName "P1871332584"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_C.Attuned_Stalkers_Guile_C
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg2
+{
+	DisplayName "P275246961"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_B.Attuned_Stalkers_Guile_B
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesstg1
+{
+	DisplayName "P3740456669"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Stalkers_Guile_A.Attuned_Stalkers_Guile_A
+	Icon E_ICON_StalkersGuile.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa6
+{
+	DisplayName "P2291166133"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_F.Attuned_Dominion_of_Arachnos_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa5
+{
+	DisplayName "P2628583493"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_E.Attuned_Dominion_of_Arachnos_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa4
+{
+	DisplayName "P3021914126"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_D.Attuned_Dominion_of_Arachnos_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa3
+{
+	DisplayName "P1026224545"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_C.Attuned_Dominion_of_Arachnos_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa2
+{
+	DisplayName "P368552431"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_B.Attuned_Dominion_of_Arachnos_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_coesdoa1
+{
+	DisplayName "P3680669763"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Dominion_of_Arachnos_A.Attuned_Dominion_of_Arachnos_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_A
+{
+	DisplayName "I0000000796"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_A.Attuned_Defiant_Barrage_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_B
+{
+	DisplayName "I0000000797"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_B.Attuned_Defiant_Barrage_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_C
+{
+	DisplayName "I0000000798"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_C.Attuned_Defiant_Barrage_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_D
+{
+	DisplayName "I0000000799"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_D.Attuned_Defiant_Barrage_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_E
+{
+	DisplayName "I0000000800"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_E.Attuned_Defiant_Barrage_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Defiant_Barrage_F
+{
+	DisplayName "I0000000801"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Defiant_Barrage_F.Attuned_Defiant_Barrage_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_A
+{
+	DisplayName "I0000000802"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_A.Attuned_Unrelenting_Fury_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_B
+{
+	DisplayName "I0000000803"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_B.Attuned_Unrelenting_Fury_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_C
+{
+	DisplayName "I0000000804"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_C.Attuned_Unrelenting_Fury_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_D
+{
+	DisplayName "I0000000805"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_D.Attuned_Unrelenting_Fury_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_E
+{
+	DisplayName "I0000000806"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_E.Attuned_Unrelenting_Fury_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Unrelenting_Fury_F
+{
+	DisplayName "I0000000807"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Unrelenting_Fury_F.Attuned_Unrelenting_Fury_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_A
+{
+	DisplayName "I0000000808"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_A.Attuned_Overpowering_Presence_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_B
+{
+	DisplayName "I0000000809"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_B.Attuned_Overpowering_Presence_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_C
+{
+	DisplayName "I0000000810"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_C.Attuned_Overpowering_Presence_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_D
+{
+	DisplayName "I0000000811"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_D.Attuned_Overpowering_Presence_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_E
+{
+	DisplayName "I0000000812"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_E.Attuned_Overpowering_Presence_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overpowering_Presence_F
+{
+	DisplayName "I0000000813"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overpowering_Presence_F.Attuned_Overpowering_Presence_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_A
+{
+	DisplayName "I0000000814"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_A.Attuned_Scourging_Blast_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_B
+{
+	DisplayName "I0000000815"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_B.Attuned_Scourging_Blast_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_C
+{
+	DisplayName "I0000000816"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_C.Attuned_Scourging_Blast_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_D
+{
+	DisplayName "I0000000817"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_D.Attuned_Scourging_Blast_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_E
+{
+	DisplayName "I0000000818"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_E.Attuned_Scourging_Blast_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Scourging_Blast_F
+{
+	DisplayName "I0000000819"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Scourging_Blast_F.Attuned_Scourging_Blast_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_A
+{
+	DisplayName "I0000000820"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_A.Attuned_Vigilant_Assault_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_B
+{
+	DisplayName "I0000000821"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_B.Attuned_Vigilant_Assault_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_C
+{
+	DisplayName "I0000000822"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_C.Attuned_Vigilant_Assault_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_D
+{
+	DisplayName "I0000000823"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_D.Attuned_Vigilant_Assault_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_E
+{
+	DisplayName "I0000000824"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_E.Attuned_Vigilant_Assault_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Vigilant_Assault_F
+{
+	DisplayName "I0000000825"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Vigilant_Assault_F.Attuned_Vigilant_Assault_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_A
+{
+	DisplayName "I0000000826"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_A.Attuned_Essence_Transfer_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_B
+{
+	DisplayName "I0000000827"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_B.Attuned_Essence_Transfer_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_C
+{
+	DisplayName "I0000000828"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_C.Attuned_Essence_Transfer_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_D
+{
+	DisplayName "I0000000829"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_D.Attuned_Essence_Transfer_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_E
+{
+	DisplayName "I0000000830"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_E.Attuned_Essence_Transfer_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Essence_Transfer_F
+{
+	DisplayName "I0000000831"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Essence_Transfer_F.Attuned_Essence_Transfer_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_A
+{
+	DisplayName "I0000000832"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_A.Attuned_Mark_of_Supremacy_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_B
+{
+	DisplayName "I0000000833"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_B.Attuned_Mark_of_Supremacy_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_C
+{
+	DisplayName "I0000000834"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_C.Attuned_Mark_of_Supremacy_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_D
+{
+	DisplayName "I0000000835"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_D.Attuned_Mark_of_Supremacy_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_E
+{
+	DisplayName "I0000000836"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_E.Attuned_Mark_of_Supremacy_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Mark_of_Supremacy_F
+{
+	DisplayName "I0000000837"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Mark_of_Supremacy_F.Attuned_Mark_of_Supremacy_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_A
+{
+	DisplayName "I0000000838"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_A.Attuned_Critical_Strikes_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_B
+{
+	DisplayName "I0000000839"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_B.Attuned_Critical_Strikes_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_C
+{
+	DisplayName "I0000000840"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_C.Attuned_Critical_Strikes_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_D
+{
+	DisplayName "I0000000841"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_D.Attuned_Critical_Strikes_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_E
+{
+	DisplayName "I0000000842"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_E.Attuned_Critical_Strikes_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Critical_Strikes_F
+{
+	DisplayName "I0000000843"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Critical_Strikes_F.Attuned_Critical_Strikes_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_A
+{
+	DisplayName "I0000000844"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_A.Attuned_Spiders_Bite_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_B
+{
+	DisplayName "I0000000845"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_B.Attuned_Spiders_Bite_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_C
+{
+	DisplayName "I0000000846"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_C.Attuned_Spiders_Bite_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_D
+{
+	DisplayName "I0000000847"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_D.Attuned_Spiders_Bite_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_E
+{
+	DisplayName "I0000000848"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_E.Attuned_Spiders_Bite_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Spiders_Bite_F
+{
+	DisplayName "I0000000849"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Spiders_Bite_F.Attuned_Spiders_Bite_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_A
+{
+	DisplayName "I0000000850"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_A.Attuned_Assassins_Mark_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_B
+{
+	DisplayName "I0000000851"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_B.Attuned_Assassins_Mark_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_C
+{
+	DisplayName "I0000000852"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_C.Attuned_Assassins_Mark_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_D
+{
+	DisplayName "I0000000853"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_D.Attuned_Assassins_Mark_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_E
+{
+	DisplayName "I0000000854"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_E.Attuned_Assassins_Mark_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Assassins_Mark_F
+{
+	DisplayName "I0000000855"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Assassins_Mark_F.Attuned_Assassins_Mark_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 75000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_coesblw6
+{
+	DisplayName "P1779251207"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_F.Superior_Attuned_Superior_Blasters_Wrath_F
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesblw5
+{
+	DisplayName "P2457451015"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_E.Superior_Attuned_Superior_Blasters_Wrath_E
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesblw4
+{
+	DisplayName "P1959279970"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_D.Superior_Attuned_Superior_Blasters_Wrath_D
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesblw3
+{
+	DisplayName "P3823402151"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_C.Superior_Attuned_Superior_Blasters_Wrath_C
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesblw2
+{
+	DisplayName "P430782228"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_B.Superior_Attuned_Superior_Blasters_Wrath_B
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesblw1
+{
+	DisplayName "P3610775224"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Blasters_Wrath_A.Superior_Attuned_Superior_Blasters_Wrath_A
+	Icon E_ICON_BlastersWrath.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow6
+{
+	DisplayName "P2894034153"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_F.Superior_Attuned_Superior_Will_of_the_Controller_F
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow5
+{
+	DisplayName "P1974496127"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_E.Superior_Attuned_Superior_Will_of_the_Controller_E
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow4
+{
+	DisplayName "P1020398290"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_D.Superior_Attuned_Superior_Will_of_the_Controller_D
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow3
+{
+	DisplayName "P62882211"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_C.Superior_Attuned_Superior_Will_of_the_Controller_C
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow2
+{
+	DisplayName "P2106195350"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_B.Superior_Attuned_Superior_Will_of_the_Controller_B
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescow1
+{
+	DisplayName "P4041683870"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Will_of_the_Controller_A.Superior_Attuned_Superior_Will_of_the_Controller_A
+	Icon E_ICON_WilloftheController.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba6
+{
+	DisplayName "P2961516982"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_F.Superior_Attuned_Superior_Defenders_Bastion_F
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba5
+{
+	DisplayName "P313149097"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_E.Superior_Attuned_Superior_Defenders_Bastion_E
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba4
+{
+	DisplayName "P610324940"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_D.Superior_Attuned_Superior_Defenders_Bastion_D
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba3
+{
+	DisplayName "P218842904"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_C.Superior_Attuned_Superior_Defenders_Bastion_C
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba2
+{
+	DisplayName "P2176609287"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_B.Superior_Attuned_Superior_Defenders_Bastion_B
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdba1
+{
+	DisplayName "P1328108971"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defenders_Bastion_A.Superior_Attuned_Superior_Defenders_Bastion_A
+	Icon E_ICON_DefendersBastion.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst6
+{
+	DisplayName "P2933567074"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_F.Superior_Attuned_Superior_Scrappers_Strike_F
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst5
+{
+	DisplayName "P1740972880"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_E.Superior_Attuned_Superior_Scrappers_Strike_E
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst4
+{
+	DisplayName "P539191285"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_D.Superior_Attuned_Superior_Scrappers_Strike_D
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst3
+{
+	DisplayName "P1689685544"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_C.Superior_Attuned_Superior_Scrappers_Strike_C
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst2
+{
+	DisplayName "P582880475"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_B.Superior_Attuned_Superior_Scrappers_Strike_B
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coessst1
+{
+	DisplayName "P3962254711"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scrappers_Strike_A.Superior_Attuned_Superior_Scrappers_Strike_A
+	Icon E_ICON_ScrappersStrike.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta6
+{
+	DisplayName "P742507734"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_F.Superior_Attuned_Superior_Might_of_the_Tanker_F
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta5
+{
+	DisplayName "P890217958"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_E.Superior_Attuned_Superior_Might_of_the_Tanker_E
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta4
+{
+	DisplayName "P3212561894"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_D.Superior_Attuned_Superior_Might_of_the_Tanker_D
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta3
+{
+	DisplayName "P2214082670"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_C.Superior_Attuned_Superior_Might_of_the_Tanker_C
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta2
+{
+	DisplayName "P629631297"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_B.Superior_Attuned_Superior_Might_of_the_Tanker_B
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmta1
+{
+	DisplayName "P3943846125"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000038"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Might_of_the_Tanker_A.Superior_Attuned_Superior_Might_of_the_Tanker_A
+	Icon E_ICON_MightoftheTanker.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg6
+{
+	DisplayName "P3905685722"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_F.Superior_Attuned_Superior_Kheldians_Grace_F
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg5
+{
+	DisplayName "P564941428"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_E.Superior_Attuned_Superior_Kheldians_Grace_E
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg4
+{
+	DisplayName "P535600541"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_D.Superior_Attuned_Superior_Kheldians_Grace_D
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg3
+{
+	DisplayName "P508181390"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_C.Superior_Attuned_Superior_Kheldians_Grace_C
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg2
+{
+	DisplayName "P595286796"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_B.Superior_Attuned_Superior_Kheldians_Grace_B
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coeskdg1
+{
+	DisplayName "P3991823008"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Kheldians_Grace_A.Superior_Attuned_Superior_Kheldians_Grace_A
+	Icon E_ICON_KheldianGrace.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu6
+{
+	DisplayName "P2938912894"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_F.Superior_Attuned_Superior_Brutes_Fury_F
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu5
+{
+	DisplayName "P2525958793"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_E.Superior_Attuned_Superior_Brutes_Fury_E
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu4
+{
+	DisplayName "P3770648864"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_D.Superior_Attuned_Superior_Brutes_Fury_D
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu3
+{
+	DisplayName "P1110767191"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_C.Superior_Attuned_Superior_Brutes_Fury_C
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu2
+{
+	DisplayName "P1269619434"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_B.Superior_Attuned_Superior_Brutes_Fury_B
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbfu1
+{
+	DisplayName "P2235163462"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Brutes_Fury_A.Superior_Attuned_Superior_Brutes_Fury_A
+	Icon E_ICON_BrutesFury.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco6
+{
+	DisplayName "P1358295126"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_F.Superior_Attuned_Superior_Malice_of_the_Corruptor_F
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco5
+{
+	DisplayName "P2230173476"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_E.Superior_Attuned_Superior_Malice_of_the_Corruptor_E
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco4
+{
+	DisplayName "P139404691"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_D.Superior_Attuned_Superior_Malice_of_the_Corruptor_D
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco3
+{
+	DisplayName "P172783120"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_C.Superior_Attuned_Superior_Malice_of_the_Corruptor_C
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco2
+{
+	DisplayName "P2417754054"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_B.Superior_Attuned_Superior_Malice_of_the_Corruptor_B
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesmco1
+{
+	DisplayName "P1586415210"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Malice_of_the_Corruptor_A.Superior_Attuned_Superior_Malice_of_the_Corruptor_A
+	Icon E_ICON_MaliceoftheCorruptor.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado6
+{
+	DisplayName "P1409367864"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_F.Superior_Attuned_Superior_Ascendency_of_the_Dominator_F
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado5
+{
+	DisplayName "P2990371287"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_E.Superior_Attuned_Superior_Ascendency_of_the_Dominator_E
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado4
+{
+	DisplayName "P1062524022"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_D.Superior_Attuned_Superior_Ascendency_of_the_Dominator_D
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado3
+{
+	DisplayName "P3288552019"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_C.Superior_Attuned_Superior_Ascendency_of_the_Dominator_C
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado2
+{
+	DisplayName "P3018889828"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_B.Superior_Attuned_Superior_Ascendency_of_the_Dominator_B
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesado1
+{
+	DisplayName "P1050563692"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Ascendency_of_the_Dominator_A.Superior_Attuned_Superior_Ascendency_of_the_Dominator_A
+	Icon E_ICON_AscendencyoftheDominator.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg1
+{
+	DisplayName "P638837489"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_A.Superior_Attuned_Superior_Dominating_Grasp_A
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg2
+{
+	DisplayName "P2877107449"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_B.Superior_Attuned_Superior_Dominating_Grasp_B
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg3
+{
+	DisplayName "P3744855530"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_C.Superior_Attuned_Superior_Dominating_Grasp_C
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg4
+{
+	DisplayName "P2893032602"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_D.Superior_Attuned_Superior_Dominating_Grasp_D
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg5
+{
+	DisplayName "P3803280821"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_E.Superior_Attuned_Superior_Dominating_Grasp_E
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesbdg6
+{
+	DisplayName "P3879007083"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000014"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominating_Grasp_F.Superior_Attuned_Superior_Dominating_Grasp_F
+	Icon E_ICON_Dominating_Grasp_ATO.tga
+	Level 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma6
+{
+	DisplayName "P136808860"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_F.Superior_Attuned_Superior_Command_of_the_Mastermind_F
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma5
+{
+	DisplayName "P391050275"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_E.Superior_Attuned_Superior_Command_of_the_Mastermind_E
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma4
+{
+	DisplayName "P1901558382"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_D.Superior_Attuned_Superior_Command_of_the_Mastermind_D
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma3
+{
+	DisplayName "P3467325209"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_C.Superior_Attuned_Superior_Command_of_the_Mastermind_C
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma2
+{
+	DisplayName "P189843481"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_B.Superior_Attuned_Superior_Command_of_the_Mastermind_B
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coescma1
+{
+	DisplayName "P3750331719"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Command_of_the_Mastermind_A.Superior_Attuned_Superior_Command_of_the_Mastermind_A
+	Icon E_ICON_CommandoftheMastermind.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg6
+{
+	DisplayName "P3404155697"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_F.Superior_Attuned_Superior_Stalkers_Guile_F
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg5
+{
+	DisplayName "P3807819503"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_E.Superior_Attuned_Superior_Stalkers_Guile_E
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg4
+{
+	DisplayName "P3142359439"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_D.Superior_Attuned_Superior_Stalkers_Guile_D
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg3
+{
+	DisplayName "P1871332584"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_C.Superior_Attuned_Superior_Stalkers_Guile_C
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg2
+{
+	DisplayName "P275246961"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_B.Superior_Attuned_Superior_Stalkers_Guile_B
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesstg1
+{
+	DisplayName "P3740456669"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Stalkers_Guile_A.Superior_Attuned_Superior_Stalkers_Guile_A
+	Icon E_ICON_StalkersGuile.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa6
+{
+	DisplayName "P2291166133"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_F.Superior_Attuned_Superior_Dominion_of_Arachnos_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa5
+{
+	DisplayName "P2628583493"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_E.Superior_Attuned_Superior_Dominion_of_Arachnos_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa4
+{
+	DisplayName "P3021914126"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_D.Superior_Attuned_Superior_Dominion_of_Arachnos_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa3
+{
+	DisplayName "P1026224545"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_C.Superior_Attuned_Superior_Dominion_of_Arachnos_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa2
+{
+	DisplayName "P368552431"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_B.Superior_Attuned_Superior_Dominion_of_Arachnos_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_coesdoa1
+{
+	DisplayName "P3680669763"
+	DisplayHelp "P1426840851"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Dominion_of_Arachnos_A.Superior_Attuned_Superior_Dominion_of_Arachnos_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_A
+{
+	DisplayName "I0000000796"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_A.Superior_Attuned_Superior_Defiant_Barrage_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_B
+{
+	DisplayName "I0000000797"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_B.Superior_Attuned_Superior_Defiant_Barrage_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_C
+{
+	DisplayName "I0000000798"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_C.Superior_Attuned_Superior_Defiant_Barrage_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_D
+{
+	DisplayName "I0000000799"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_D.Superior_Attuned_Superior_Defiant_Barrage_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_E
+{
+	DisplayName "I0000000800"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_E.Superior_Attuned_Superior_Defiant_Barrage_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Defiant_Barrage_F
+{
+	DisplayName "I0000000801"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000006"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Defiant_Barrage_F.Superior_Attuned_Superior_Defiant_Barrage_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_A
+{
+	DisplayName "I0000000802"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_A.Superior_Attuned_Superior_Unrelenting_Fury_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_B
+{
+	DisplayName "I0000000803"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_B.Superior_Attuned_Superior_Unrelenting_Fury_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_C
+{
+	DisplayName "I0000000804"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_C.Superior_Attuned_Superior_Unrelenting_Fury_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_D
+{
+	DisplayName "I0000000805"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_D.Superior_Attuned_Superior_Unrelenting_Fury_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_E
+{
+	DisplayName "I0000000806"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_E.Superior_Attuned_Superior_Unrelenting_Fury_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Unrelenting_Fury_F
+{
+	DisplayName "I0000000807"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000007"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Unrelenting_Fury_F.Superior_Attuned_Superior_Unrelenting_Fury_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_A
+{
+	DisplayName "I0000000808"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_A.Superior_Attuned_Superior_Overpowering_Presence_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_B
+{
+	DisplayName "I0000000809"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_B.Superior_Attuned_Superior_Overpowering_Presence_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_C
+{
+	DisplayName "I0000000810"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_C.Superior_Attuned_Superior_Overpowering_Presence_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_D
+{
+	DisplayName "I0000000811"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_D.Superior_Attuned_Superior_Overpowering_Presence_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_E
+{
+	DisplayName "I0000000812"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_E.Superior_Attuned_Superior_Overpowering_Presence_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Overpowering_Presence_F
+{
+	DisplayName "I0000000813"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000009"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Overpowering_Presence_F.Superior_Attuned_Superior_Overpowering_Presence_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_A
+{
+	DisplayName "I0000000814"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_A.Superior_Attuned_Superior_Scourging_Blast_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_B
+{
+	DisplayName "I0000000815"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_B.Superior_Attuned_Superior_Scourging_Blast_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_C
+{
+	DisplayName "I0000000816"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_C.Superior_Attuned_Superior_Scourging_Blast_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_D
+{
+	DisplayName "I0000000817"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_D.Superior_Attuned_Superior_Scourging_Blast_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_E
+{
+	DisplayName "I0000000818"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_E.Superior_Attuned_Superior_Scourging_Blast_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Scourging_Blast_F
+{
+	DisplayName "I0000000819"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000010"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Scourging_Blast_F.Superior_Attuned_Superior_Scourging_Blast_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_A
+{
+	DisplayName "I0000000820"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_A.Superior_Attuned_Superior_Vigilant_Assault_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_B
+{
+	DisplayName "I0000000821"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_B.Superior_Attuned_Superior_Vigilant_Assault_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_C
+{
+	DisplayName "I0000000822"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_C.Superior_Attuned_Superior_Vigilant_Assault_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_D
+{
+	DisplayName "I0000000823"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_D.Superior_Attuned_Superior_Vigilant_Assault_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_E
+{
+	DisplayName "I0000000824"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_E.Superior_Attuned_Superior_Vigilant_Assault_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Vigilant_Assault_F
+{
+	DisplayName "I0000000825"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000011"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Vigilant_Assault_F.Superior_Attuned_Superior_Vigilant_Assault_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_A
+{
+	DisplayName "I0000000826"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_A.Superior_Attuned_Superior_Essence_Transfer_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_B
+{
+	DisplayName "I0000000827"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_B.Superior_Attuned_Superior_Essence_Transfer_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_C
+{
+	DisplayName "I0000000828"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_C.Superior_Attuned_Superior_Essence_Transfer_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_D
+{
+	DisplayName "I0000000829"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_D.Superior_Attuned_Superior_Essence_Transfer_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_E
+{
+	DisplayName "I0000000830"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_E.Superior_Attuned_Superior_Essence_Transfer_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Essence_Transfer_F
+{
+	DisplayName "I0000000831"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000021"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Essence_Transfer_F.Superior_Attuned_Superior_Essence_Transfer_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_A
+{
+	DisplayName "I0000000832"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_A.Superior_Attuned_Superior_Mark_of_Supremacy_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_B
+{
+	DisplayName "I0000000833"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_B.Superior_Attuned_Superior_Mark_of_Supremacy_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_C
+{
+	DisplayName "I0000000834"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_C.Superior_Attuned_Superior_Mark_of_Supremacy_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_D
+{
+	DisplayName "I0000000835"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_D.Superior_Attuned_Superior_Mark_of_Supremacy_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_E
+{
+	DisplayName "I0000000836"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_E.Superior_Attuned_Superior_Mark_of_Supremacy_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Mark_of_Supremacy_F
+{
+	DisplayName "I0000000837"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000024"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Mark_of_Supremacy_F.Superior_Attuned_Superior_Mark_of_Supremacy_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_A
+{
+	DisplayName "I0000000838"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_A.Superior_Attuned_Superior_Critical_Strikes_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_B
+{
+	DisplayName "I0000000839"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_B.Superior_Attuned_Superior_Critical_Strikes_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_C
+{
+	DisplayName "I0000000840"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_C.Superior_Attuned_Superior_Critical_Strikes_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_D
+{
+	DisplayName "I0000000841"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_D.Superior_Attuned_Superior_Critical_Strikes_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_E
+{
+	DisplayName "I0000000842"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_E.Superior_Attuned_Superior_Critical_Strikes_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Critical_Strikes_F
+{
+	DisplayName "I0000000843"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000031"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Critical_Strikes_F.Superior_Attuned_Superior_Critical_Strikes_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_A
+{
+	DisplayName "I0000000844"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_A.Superior_Attuned_Superior_Spiders_Bite_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_B
+{
+	DisplayName "I0000000845"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_B.Superior_Attuned_Superior_Spiders_Bite_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_C
+{
+	DisplayName "I0000000846"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_C.Superior_Attuned_Superior_Spiders_Bite_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_D
+{
+	DisplayName "I0000000847"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_D.Superior_Attuned_Superior_Spiders_Bite_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_E
+{
+	DisplayName "I0000000848"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_E.Superior_Attuned_Superior_Spiders_Bite_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Spiders_Bite_F
+{
+	DisplayName "I0000000849"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000035"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Spiders_Bite_F.Superior_Attuned_Superior_Spiders_Bite_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_A
+{
+	DisplayName "I0000000850"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_A.Superior_Attuned_Superior_Assassins_Mark_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_B
+{
+	DisplayName "I0000000851"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_B.Superior_Attuned_Superior_Assassins_Mark_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_C
+{
+	DisplayName "I0000000852"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_C.Superior_Attuned_Superior_Assassins_Mark_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_D
+{
+	DisplayName "I0000000853"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_D.Superior_Attuned_Superior_Assassins_Mark_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_E
+{
+	DisplayName "I0000000854"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_E.Superior_Attuned_Superior_Assassins_Mark_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Superior_Assassins_Mark_F
+{
+	DisplayName "I0000000855"
+	DisplayHelp "UNDEFINED"
+	DisplayTabName "T0000000036"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Superior_Attuned_Superior_Assassins_Mark_F.Superior_Attuned_Superior_Assassins_Mark_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 50
+	LevelMin 50
+	LevelMax 50
+	Rarity VeryRare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_A
+{
+	DisplayName "I0000000564"
+	DisplayHelp "P1759000926"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_A.Attuned_Overwhelming_Force_A
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_B
+{
+	DisplayName "I0000000565"
+	DisplayHelp "P3418760113"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_B.Attuned_Overwhelming_Force_B
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_C
+{
+	DisplayName "I0000000566"
+	DisplayHelp "P2426187010"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_C.Attuned_Overwhelming_Force_C
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_D
+{
+	DisplayName "I0000000567"
+	DisplayHelp "P1123778812"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_D.Attuned_Overwhelming_Force_D
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_E
+{
+	DisplayName "I0000000568"
+	DisplayHelp "P1431274769"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_E.Attuned_Overwhelming_Force_E
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}
+
+DetailRecipe Sanctuary_Overwhelming_Force_F
+{
+	DisplayName "I0000000569"
+	DisplayHelp "P3927900729"
+	DisplayTabName "T0000000043"
+	Type Workshop
+	Workshop Worktable_Split_Sanctuary
+	EnhancementReward Boosts.Attuned_Overwhelming_Force_F.Attuned_Overwhelming_Force_F
+	Icon E_ICON_DominionofArachnos.tga
+	Level 1
+	LevelMin 10
+	LevelMax 50
+	Rarity Rare
+	MaxInvAmount 1
+	NumUses 1
+	CreationCost 125000000
+	SellToVendor 100
+	CreatesEnhancement 1
+	Flags NoGenericBadgeCredit, NoLevelDisplayed, FixedLevel
+}

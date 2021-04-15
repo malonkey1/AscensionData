@@ -1,0 +1,415 @@
+NPC "Model_Sanctuary"
+{
+	Costume
+	{
+		EntTypeFile fem
+		CostumeFilePrefix fem
+		BoneScale 1
+		ShoulderScale -0.1815
+		ChestScale -1
+		WaistScale 0.2482
+		HipScale 0.3587
+		LegScale 0.02
+		HeadScales 0.3086, 0.3962, 0.4085
+		BrowScales 0.1647, -0.5317, 0.6379
+		CheekScales 0.5021, 0.424, 0.427
+		ChinScales 0.7784, 0.3289, 0.3412
+		JawScales -0.04515, 1, 1
+		NoseScales 0, 0.3011, 0.1578
+		SkinColor 57, 29, 18
+		NumParts 33
+		CostumePart "Pants"
+		{
+			Geometry Armored
+			Texture1 !Hips_V_Overguard_01
+			Texture2 !Hips_V_Overguard_01_Mask
+			Fx none
+			DisplayName P3237373182
+			RegionName "Lower Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Chest"
+		{
+			Geometry Armored
+			Texture1 !X_Valkyrie_Chest
+			Texture2 !Chest_V_Valkyrie_01_mask
+			Fx none
+			DisplayName P566009771
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Head"
+		{
+			Geometry V_fem_Head.GEO/GEO_Head_V_Asym_Standard
+			Texture1 !Face_Skin_V_Fem_Head_10
+			Texture2 None
+			Fx none
+			DisplayName P687117166
+			RegionName Head
+			BodySetName Helmets
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Boots"
+		{
+			Geometry V_FEM_BOOT.GEO/GEO_Lleg*_V_Ascension_02
+			Texture1 !X_Ascension_Boot
+			Texture2 None
+			Fx Costumes/AscensionArmor/Female_Boots.fx
+			DisplayName P2104750136
+			RegionName "Lower Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 167, 0, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Belt"
+		{
+			Geometry V_FEM_BELT.GEO/GEO_Belt_V_Ascension_01
+			Texture1 !X_Ascension_Belt
+			Texture2 None
+			Fx Costumes/AscensionArmor/Female_Belt.fx
+			DisplayName P177456852
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 167, 0, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Hair"
+		{
+			Geometry N_Fem_Helms_01.geo/GEO_N_Zeus_Helm_01
+			Texture1 !X_Zeus_Helmet_01
+			Texture2 none
+			Fx none
+			DisplayName P3020775162
+			RegionName Head
+			BodySetName Helmets
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Face"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "EyeDetail"
+		{
+			Geometry V_FEM_EYES.GEO/GEO_Eyes_Cyborg_01
+			Texture1 !X_Cyborg_Head_01
+			Texture2 None
+			Fx none
+			DisplayName P2793026233
+			RegionName Head
+			BodySetName Helmets
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "ChestDetail"
+		{
+			Geometry V_FEM_EMBLEM.GEO/GEO_Emblem_V_Ascension_02
+			Texture1 !X_Ascension_Emblem
+			Texture2 None
+			Fx Costumes/AscensionArmor/Female_Chest.fx
+			DisplayName P2281134661
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 167, 0, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Shoulders"
+		{
+			Geometry V_FEM_SPADR.GEO/GEO_SpadR_V_Ascension_01
+			Texture1 !X_Ascension_Spadr
+			Texture2 None
+			Fx Costumes/AscensionArmor/Female_Shoulders.fx
+			DisplayName P772741860
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 167, 0, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Back"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepR"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Neck"
+		{
+			Geometry CoL_Mask_01_player.GEO/GEO_Neck_CoL_Mask_01
+			Texture1 !X_Eye_CoL_FaceMask_01
+			Texture2 None
+			Fx none
+			DisplayName P2371314042
+			RegionName Head
+			BodySetName Helmets
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "UarmR"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Collar"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Broach"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Cape"
+		{
+			Geometry None
+			Texture1 !X_FX_Wings_Fire_02
+			Texture2 None
+			Fx GENERIC/FX_Wings_Phoenix_Fem.fx
+			DisplayName P2318333026
+			RegionName Capes
+			BodySetName Wings
+			Color1 167, 0, 255
+			Color2 167, 0, 255
+			Color3 255, 169, 0
+			Color4 255, 255, 255
+		}
+		CostumePart "Aura"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Skirt"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Top"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Sleeves"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Cranium"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Jaw"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepL"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx WEAPONS/Custom_Bow/Fem_Bow_Base.fx
+			DisplayName P974978278
+			RegionName Weapons
+			BodySetName Weapons
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepL_2"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "WepR_2"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "Tail"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx none
+			DisplayName P546439883
+			RegionName "Lower Body"
+			BodySetName Armored
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "RightGlove"
+		{
+			Geometry N_Fem_OlympianGuard_01.GEO/GEO_LArmR_OlympianGuard_01
+			Texture1 !X_Olympian_Glove_01
+			Texture2 !Glove_Olympian_01_Mask
+			Fx none
+			DisplayName "Right Glove"
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+		}
+		CostumePart "LeftGlove"
+		{
+			Geometry N_Fem_OlympianGuard_01.GEO/GEO_LArmL_OlympianGuard_01
+			Texture1 !X_Olympian_Glove_01
+			Texture2 !Glove_Olympian_01_Mask
+			Fx none
+			DisplayName "Left Glove"
+			RegionName "Upper Body"
+			BodySetName Armored
+			Color1 255, 169, 0
+			Color2 255, 255, 255
+		}
+		CostumePart "RightBoot"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "LeftBoot"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+		CostumePart "UarmL"
+		{
+			Geometry None
+			Texture1 None
+			Texture2 None
+			Fx None
+			Color1 31, 31, 31
+			Color2 227, 227, 227
+			Color3 31, 31, 31
+			Color4 227, 227, 227
+		}
+	}
+}

@@ -1,0 +1,10 @@
+//
+// NPC: Sanctuary
+//
+NPCDef Sanctuary_NPC
+{
+	Model Model_Sanctuary
+	AI PL_StandStill
+	DisplayName "P1146456842"
+
+}
