@@ -1,0 +1,15 @@
+Type
+
+Sequencer	FX_WickerBasketB.txt
+SequencerType	FX_WickerBasketB
+Graphics	player_library/N_H2_WickerBasketB.geo
+
+
+FadeOutStart	500
+FadeOutFinish	550
+
+GeomScale	1.0 1.0 1.0
+
+End
+
+

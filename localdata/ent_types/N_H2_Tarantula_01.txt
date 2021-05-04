@@ -1,0 +1,27 @@
+Type
+
+Sequencer   Spider_seq.txt
+SequencerType   Spider_small_pet
+
+Placement   DeadOn
+Selection   Capsule
+CapsuleSize 1 2.0 1.6
+
+NoStrafe    1
+
+CollisionType   None
+NotSelectable   1
+
+GeomScale   0.2 0.2 0.2
+
+ReticleHeightBias   0.05
+
+FullBodyPortrait    0
+
+pushable    1
+
+VisSphereRadius 200
+
+CameraHeight    8.25
+
+End

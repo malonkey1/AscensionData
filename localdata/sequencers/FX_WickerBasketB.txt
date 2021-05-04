@@ -1,0 +1,73 @@
+#############################################################
+
+Sequencer
+
+TypeDef FX_WickerBasketB
+	BaseSkeleton	N_Backpack_WickerBasketB\skel_ready
+	ParentType	None
+TypeDefEnd
+
+Group	<ReactIRQ>
+Group	<DeathIRQ>
+Group	<BasicMove>
+Group	<PostMoveCycle>
+Group	<Ready>
+Group	<Block>
+Group	<Jumps>
+Group	<Flymove>
+Group	<CombatMove>
+Group	<CombatFlymove>
+Group	<TwoHandCombat>
+Group	<TwoHandMove>
+Group	<FlyTwoHandMove>
+Group	<WepCombat>
+Group	<WepMove>
+Group	<Launchmove>
+
+
+### Note: All sequencer stuff for wings must match exactly w\ player sequencer
+
+
+###########################
+###### Folded (no flight)  ######
+##########################
+
+Move Ready ##(closed)
+	Interrupts	Wing_Emote_Mutant_Growl_Pre <IRQEmotesCombat> <IRQEmotesRighthand> <IRQEmotesLefthand> <IRQEmotesDualhand> <IRQEmotesShield>
+	Member		<Ready> <ReactIRQ> <DeathIRQ> <AttackIRQ>
+	Flags		Cycle
+	CycleMove	Ready
+	CycleMove	Ready
+	CycleMove	Ready
+	CycleMove	Tease_Idle
+#	CycleMove	Peak_Idle
+
+	Type		FX_WickerBasketB
+	  Anim          N_Backpack_WickerBasketB\idle_cycle 1 80
+	TEnd
+
+MEnd
+
+Move Tease_Idle
+	Include sequencers\Members\Readies.inc
+	Flags		Cycle
+	CycleMove	Ready
+
+	Type		FX_WickerBasketB
+	  Anim          N_Backpack_WickerBasketB\idle_cycle 140 220
+	TEnd
+
+MEnd
+#
+#Move Peak_Idle
+#	Include sequencers\Members\Readies.inc
+#	Flags		Cycle
+#	CycleMove	Ready
+#
+#	Type		FX_WickerBasketA
+#	  Anim          N_Backpack_WickerBasketA\idle_cycle 141 220
+#	TEnd
+#
+#MEnd
+
+SeqEnd
