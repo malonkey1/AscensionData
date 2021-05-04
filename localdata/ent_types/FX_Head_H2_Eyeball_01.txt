@@ -1,0 +1,16 @@
+Type
+
+Sequencer 	FX_Sentinel_EYE.txt
+SequencerType 	FX_Sentinel_EYE
+
+Graphics	player_library/N_H2_Eyeball.geo
+
+
+FadeOutStart	500
+FadeOutFinish	550
+
+GeomScale	1.0 1.0 1.0
+
+End
+
+

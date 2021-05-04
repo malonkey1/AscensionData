@@ -1,0 +1,105 @@
+NPC "N_Pet_H2_Tarantula_01"
+{
+	DisplayName "Banespawn"
+	Class "Class_Minion_Grunt"
+	Level 1
+	Rank 1
+	XP 5
+
+	Costume
+	{
+		EntTypeFile "N_H2_Tarantula_01"
+		Scale 0
+		BoneScale 0
+		SkinColor 255, 184, 190
+		CostumePart Pants
+		{
+			Geometry N_H2_Tarantula_01.geo/GEO_Hips_H2_Tarantula_01
+			Texture1 !X_Pet_H2_Tarantula_01
+			Texture2 None
+			DisplayName P887196332
+			RegionName "Lower Body"
+			BodySetName TuckedIn
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart Gloves
+		{
+			Geometry N_H2_Tarantula_01.geo/GEO_Larm*_H2_Tarantula_01
+			Texture1 !X_Pet_H2_Tarantula_01
+			Texture2 None
+			DisplayName P3937616722
+			RegionName "Upper Body"
+			BodySetName Jackets
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart Boots
+		{
+			Geometry N_H2_Tarantula_01.geo/GEO_Lleg*_H2_Tarantula_01
+			Texture1 !X_Pet_H2_Tarantula_01
+			Texture2 none
+			DisplayName P2104750136
+			RegionName "Lower Body"
+			BodySetName TuckedIn
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart Hair
+		{
+			Geometry none
+			Texture1 !X_Ice_BaneSpawn_01
+			Texture2 none
+			DisplayName P2681220175
+			RegionName Head
+			BodySetName standard
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart ChestDetail
+		{
+			Geometry N_H2_Tarantula_01.geo/GEO_Emblem_H2_Tarantula_01
+			Texture1 !X_Pet_H2_Tarantula_01
+			Texture2 None
+			DisplayName P177456852
+			RegionName "Upper Body"
+			BodySetName Jackets
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart Shoulders
+		{
+			Geometry N_H2_Tarantula_01.geo/GEO_SpadR_H2_Tarantula_01
+			Texture1 !X_Pet_H2_Tarantula_01
+			Texture2 None
+			DisplayName P687117166
+			RegionName Head
+			BodySetName standard
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+		CostumePart UarmR
+		{
+			Fx None
+			Geometry none
+			Texture1 !X_Ice_BaneSpawn_01
+			Texture2 None
+			Color1  255,  255,  255
+			Color2  255,  255,  255
+			Color3  255,  255,  255
+			Color4  255,  255,  255
+		}
+	}
+}

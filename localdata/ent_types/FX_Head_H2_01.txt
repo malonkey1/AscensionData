@@ -1,0 +1,15 @@
+Type
+
+Sequencer	Fx_Head_Globe_01.txt
+SequencerType	FX_Head_Globe
+Graphics	player_library/N_H2_Head_Globe_01.geo
+
+
+FadeOutStart	500
+FadeOutFinish	550
+
+GeomScale	1.0 1.0 1.0
+
+End
+
+

@@ -1,0 +1,56 @@
+Def FX_Head_H2_SkullJaw_01_Male
+ Obj FX_Head_H2_SkullJaw_01_Male
+DefEnd
+
+Def FX_Back_H2_WickerBasket_01
+ Obj FX_Back_H2_WickerBasket_01
+DefEnd
+
+Def FX_Back_H2_TombStone_01
+ Obj FX_Back_H2_TombStone_01
+DefEnd
+
+Def FX_Head_H2_Skullhead_01_Male
+ Obj FX_Head_H2_Skullhead_01_Male
+DefEnd
+
+Def FX_Back_H2_TombChain_01
+ Obj FX_Back_H2_TombChain_01
+DefEnd
+
+Def FX_Head_H2_SkullEyeball_01
+ Obj FX_Head_H2_SkullEyeball_01
+DefEnd
+
+Def FX_Neck_H2_Base_01
+ Obj FX_Neck_H2_Base_01
+DefEnd
+
+Def FX_Neck_H2_Deco_02
+ Obj FX_Neck_H2_Deco_02
+DefEnd
+
+Def FX_Neck_H2_Deco_01
+ Obj FX_Neck_H2_Deco_01
+DefEnd
+
+Def FX_Neck_H2_Base_00
+ Obj FX_Neck_H2_Base_00
+DefEnd
+
+Def FX_Head_H2_Skullhead_01_Fem
+ Obj FX_Head_H2_Skullhead_01_Fem
+DefEnd
+
+Def FX_Head_H2_SkullJaw_01_Fem
+ Obj FX_Head_H2_SkullJaw_01_Fem
+DefEnd
+
+Def FX_Head_H2_Skullhead_01_Huge
+ Obj FX_Head_H2_Skullhead_01_Huge
+DefEnd
+
+Def FX_Head_H2_SkullJaw_01_Huge
+ Obj FX_Head_H2_SkullJaw_01_Huge
+DefEnd
+
