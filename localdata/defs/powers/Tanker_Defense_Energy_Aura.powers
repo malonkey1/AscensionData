@@ -1881,112 +1881,244 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 
 	AttribMod
 	{
-		Name                 "Ones"                        
-		Table                "Melee_Ones"                  
-		Aspect               kCur
-		Attrib               kForceMove
+		Name                 "Taunt"                       
+		Table                "Melee_Taunt"                 
+		Aspect               kAbs
+		Attrib               kTaunt
 		Target               kTarget
-		Scale                -2.1
-		Type                 kMagnitude
+		Scale                20
+		Type                 kDuration
 		AllowStrength        kTrue
 		AllowResistance      kTrue
 		Delay                0
-		Duration             0.75
-		Magnitude            1
+		Duration             0
+		Magnitude            4
+		Period               0.75
+		Chance               1
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P3752458412"
+		StackType            kReplace
+		Requires             enttype target> critter eq
+	}
+
+	AttribMod
+	{
+		Name                 "Taunt"                       
+		Table                "Melee_Taunt"                 
+		Aspect               kAbs
+		Attrib               kTaunt
+		Target               kTarget
+		Scale                5
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            4
 		Period               0
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P583975673"
+		DisplayVictimHit     "P3669502634"
 		StackType            kReplace
-		Requires             rank target> Class_Minion_Small eq rank target> Class_Minion_Small_Agressive eq || rank target> Class_Minion_Turret eq || rank target> Class_Minion_Fire eq || rank target> Class_Minion_Swarm eq || rank target> Class_Minion_Henchman eq || rank target> Class_Minion_OilSlickTarget eq || rank target> Class_Minion_Monument eq || rank target> Class_Minion_UnkillableNPC eq || rank target> Class_Minion_PraetorianSmall eq || rank target> Class_Minion_Practice eq || rank target> Class_Minion_PraetorianGrunt eq || rank target> Class_Minion_Grunt eq ||
+		Requires             enttype target> player eq @ToHitRoll @ToHit < @ForceHit || &&
 	}
 
 	AttribMod
 	{
 		Name                 "Ones"                        
 		Table                "Melee_Ones"                  
-		Aspect               kCur
-		Attrib               kForceMove
+		Aspect               kStr
+		Attrib               kRange
 		Target               kTarget
-		Scale                -2.1
+		Scale                -0.75
 		Type                 kMagnitude
-		AllowStrength        kTrue
+		AllowStrength        kFalse
 		AllowResistance      kTrue
 		Delay                0
-		Duration             0.75
+		Duration             12
 		Magnitude            1
 		Period               0
 		Chance               1
+		NearGround           kFALSE
+		CancelOnMiss         kFALSE
+		StackType            kStack
+	}
+
+	AttribMod
+	{
+		Name                 "Immobilize"                  
+		Table                "Ranged_Immobilize"           
+		Aspect               kCur
+		Attrib               kImmobilize
+		Target               kTarget
+		Scale                15
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            4
+		Period               0
+		Chance               1.00
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kReplace
-		Requires             rank target> Class_Lt_PraetorianGrunt eq rank target> Class_Lt_Grunt eq || rank target> Class_Lt_Sniper eq || rank target> Class_Lt_Henchman eq || rank target> Class_Lt_LongRangeDrone eq || rank target> Class_Lt_Turret eq ||
+		DisplayAttackerHit   "P362106426"
+		DisplayVictimHit     "P422814428"
+		StackType            kStack
+		ConditionalFX        PFX
+		Requires             enttype target> critter eq
+		RadiusInner          0
+		RadiusOuter          7
 	}
 
 	AttribMod
 	{
 		Name                 "Ones"                        
-		Table                "Melee_Ones"                  
+		Table                "Ranged_Ones"                 
 		Aspect               kCur
-		Attrib               kForceMove
+		Attrib               kImmobilize
 		Target               kTarget
-		Scale                -2.1
+		Scale                4
+		Type                 kDuration
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             0
+		Magnitude            5
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		DisplayAttackerHit   "P362106426"
+		DisplayVictimHit     "P422814428"
+		StackType            kStack
+		ConditionalFX        PFX
+		Requires             enttype target> player eq
+		Suppress             Held 15 WhenInactive
+		Suppress             Sleep 15 WhenInactive
+		Suppress             Stunned 15 WhenInactive
+		Suppress             Immobilized 15 WhenInactive
+		Suppress             Terrorized 15 WhenInactive
+		RadiusInner          0
+		RadiusOuter          7
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kStr
+		Attrib               kJumpHeight
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kFalse
+		AllowResistance      kTrue
+		Delay                0
+		Duration             15.0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          7
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kCur
+		Attrib               kSpeedJumping
+		Target               kTarget
+		Scale                0.5
 		Type                 kMagnitude
 		AllowStrength        kTrue
 		AllowResistance      kTrue
 		Delay                0
-		Duration             0.75
+		Duration             15.0
 		Magnitude            1
 		Period               0
-		Chance               1
+		Chance               1.00
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kReplace
-		Requires             enttype target> player eq rank target> Class_Boss_PraetorianGrunt eq || rank target> Class_Boss_Grunt eq || rank target> Class_Boss_HeavyPet eq || rank target> Class_Boss_Shield eq || rank target> Class_Boss_Grunt eq || rank target> Class_Boss_Mito eq || rank target> Class_Boss_Guard eq || rank target> Class_Boss_Henchman eq || rank target> Class_Boss_Signature_Pets eq || rank target> Class_Boss_HugeDevice eq || enttype target> player eq ||
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          7
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kCur
+		Attrib               kRunSpeed
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             15.0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          7
+	}
+
+	AttribMod
+	{
+		Name                 "Slow"                        
+		Table                "Ranged_Slow"                 
+		Aspect               kCur
+		Attrib               kFlySpeed
+		Target               kTarget
+		Scale                0.5
+		Type                 kMagnitude
+		AllowStrength        kTrue
+		AllowResistance      kTrue
+		Delay                0
+		Duration             15.0
+		Magnitude            1
+		Period               0
+		Chance               1.00
+		NearGround           kFalse
+		CancelOnMiss         kFalse
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          7
 	}
 
 	AttribMod
 	{
 		Name                 "Ones"                        
-		Table                "Melee_Ones"                  
+		Table                "Ranged_Ones"                 
 		Aspect               kCur
-		Attrib               kForceMove
+		Attrib               kFly
 		Target               kTarget
-		Scale                -2.1
+		Scale                -1.6
 		Type                 kMagnitude
 		AllowStrength        kTrue
-		AllowResistance      kTrue
+		AllowResistance      kFalse
 		Delay                0
-		Duration             0.75
+		Duration             10
 		Magnitude            1
 		Period               0
-		Chance               1
+		Chance               1.00
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kReplace
-		Requires             rank target> Class_Boss_PraetorianElite eq rank target> Class_Boss_Elite eq || rank target> Class_Boss_EliteTurret eq ||
-	}
-
-	AttribMod
-	{
-		Name                 "Ones"                        
-		Table                "Melee_Ones"                  
-		Aspect               kCur
-		Attrib               kForceMove
-		Target               kTarget
-		Scale                -2.1
-		Type                 kMagnitude
-		AllowStrength        kTrue
-		AllowResistance      kTrue
-		Delay                0
-		Duration             0.75
-		Magnitude            1
-		Period               0
-		Chance               1
-		NearGround           kFalse
-		CancelOnMiss         kFalse
-		StackType            kReplace
-		Requires             rank target> Class_Boss_PraetorianArchvillain eq rank target> Class_Boss_PraetorianAVLowPerception eq || rank target> Class_Boss_Archvillain eq || rank target> Class_Boss_Monster eq || rank target> Class_Boss_Rularuu eq || rank target> Class_Boss_RularuuCoP eq || rank target> Class_Boss_RularuuFM eq || rank target> Class_Boss_Hamidon eq || rank target> Class_Boss_Archvillain_Flying eq || rank target> Class_Boss_Monster_Flying eq || rank target> Class_Boss_Reichsman eq ||
+		StackType            kStack
+		RadiusInner          0
+		RadiusOuter          7
 	}
 
 	AttribMod
