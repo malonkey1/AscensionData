@@ -1854,6 +1854,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 	EntsAutoHit          kFoe
 	Target               kCaster
 	Range                0
+	TargetSecondary      kPosition
 	EnduranceCost        0.52
 	IdeaCost             0
 	InterruptTime        0
@@ -1861,10 +1862,12 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 	RechargeTime         20
 	ActivatePeriod       0.5
 	EffectArea           kSphere
-	Radius               8
+	Radius               20
 	Arc                  0
 	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kBuff_Defense_Boost
 	// Additional Power Factors
+	PositionCenter       kCaster
+	PositionDistance     5
 	ToggleIgnoreHold     kTrue
 	ToggleIgnoreSleep    kTrue
 	ToggleIgnoreStun     kTrue
@@ -1894,7 +1897,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kStack
+		StackType            kReplace
 		Requires             rank target> Class_Minion_Small eq rank target> Class_Minion_Small_Agressive eq || rank target> Class_Minion_Turret eq || rank target> Class_Minion_Fire eq || rank target> Class_Minion_Swarm eq || rank target> Class_Minion_Henchman eq || rank target> Class_Minion_OilSlickTarget eq || rank target> Class_Minion_Monument eq || rank target> Class_Minion_UnkillableNPC eq || rank target> Class_Minion_PraetorianSmall eq || rank target> Class_Minion_Practice eq || rank target> Class_Minion_PraetorianGrunt eq || rank target> Class_Minion_Grunt eq ||
 	}
 
@@ -1916,7 +1919,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kStack
+		StackType            kReplace
 		Requires             rank target> Class_Lt_PraetorianGrunt eq rank target> Class_Lt_Grunt eq || rank target> Class_Lt_Sniper eq || rank target> Class_Lt_Henchman eq || rank target> Class_Lt_LongRangeDrone eq || rank target> Class_Lt_Turret eq ||
 	}
 
@@ -1938,7 +1941,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kStack
+		StackType            kReplace
 		Requires             enttype target> player eq rank target> Class_Boss_PraetorianGrunt eq || rank target> Class_Boss_Grunt eq || rank target> Class_Boss_HeavyPet eq || rank target> Class_Boss_Shield eq || rank target> Class_Boss_Grunt eq || rank target> Class_Boss_Mito eq || rank target> Class_Boss_Guard eq || rank target> Class_Boss_Henchman eq || rank target> Class_Boss_Signature_Pets eq || rank target> Class_Boss_HugeDevice eq || enttype target> player eq ||
 	}
 
@@ -1960,7 +1963,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kStack
+		StackType            kReplace
 		Requires             rank target> Class_Boss_PraetorianElite eq rank target> Class_Boss_Elite eq || rank target> Class_Boss_EliteTurret eq ||
 	}
 
@@ -1982,7 +1985,7 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 		Chance               1
 		NearGround           kFalse
 		CancelOnMiss         kFalse
-		StackType            kStack
+		StackType            kReplace
 		Requires             rank target> Class_Boss_PraetorianArchvillain eq rank target> Class_Boss_PraetorianAVLowPerception eq || rank target> Class_Boss_Archvillain eq || rank target> Class_Boss_Monster eq || rank target> Class_Boss_Rularuu eq || rank target> Class_Boss_RularuuCoP eq || rank target> Class_Boss_RularuuFM eq || rank target> Class_Boss_Hamidon eq || rank target> Class_Boss_Archvillain_Flying eq || rank target> Class_Boss_Monster_Flying eq || rank target> Class_Boss_Reichsman eq ||
 	}
 

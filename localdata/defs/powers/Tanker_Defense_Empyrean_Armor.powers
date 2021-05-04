@@ -1194,13 +1194,13 @@ Power Tanker_Defense.Empyrean_Armor.Solar_Regeneration
 	InterruptTime        0
 	TimeToActivate       1.17
 	RechargeTime         10
-	ActivatePeriod       0
+	ActivatePeriod       0.5
 	EffectArea           kCharacter
 	Radius               0
 	Arc                  0
 	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kHeal_Boost
-	VisualFX             "menu\Powers\AnimFX\PlayerPowers\ScrapperDefense_Regeneration_InstantHealing.PFX"
-	include              menu\Powers\AnimFX\PlayerPowers\ScrapperDefense_Regeneration_InstantHealing.PFX
+	VisualFX             "menu\Powers\AnimFX\PlayerPowers\TankerDefense_EmpyreanArmor_SolarRegeneration.PFX"
+	include              menu\Powers\AnimFX\PlayerPowers\TankerDefense_EmpyreanArmor_SolarRegeneration.PFX
 	DisplayShortHelp     "P181672001"
 	DisplayHelp          "P2069823295"
 	DisplayAttackerHit   "P2198838236"

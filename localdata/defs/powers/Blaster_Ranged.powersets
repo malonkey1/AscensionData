@@ -1124,14 +1124,6 @@ PowerSet Blaster_Ranged.Heretical_Occultism
 	MaxDifficulty 9999
 
 	Powers Blaster_Ranged.Heretical_Occultism.Elders_Roar
-	Available 0
-	AIMaxLevel 0
-	AIMinRankCon -9999
-	AIMaxRankCon 9999
-	MinDifficulty 2
-	MaxDifficulty 9999
-
-	Powers Blaster_Ranged.Heretical_Occultism.Midnight_Focus
 	Available 1
 	AIMaxLevel 0
 	AIMinRankCon -9999
@@ -1139,7 +1131,7 @@ PowerSet Blaster_Ranged.Heretical_Occultism
 	MinDifficulty 2
 	MaxDifficulty 9999
 
-	Powers Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep
+	Powers Blaster_Ranged.Heretical_Occultism.Midnight_Focus
 	Available 5
 	AIMaxLevel 0
 	AIMinRankCon -9999
@@ -1147,7 +1139,7 @@ PowerSet Blaster_Ranged.Heretical_Occultism
 	MinDifficulty 2
 	MaxDifficulty 9999
 
-	Powers Blaster_Ranged.Heretical_Occultism.Twilight_Hail
+	Powers Blaster_Ranged.Heretical_Occultism.Gaze_Of_The_Deep
 	Available 7
 	AIMaxLevel 0
 	AIMinRankCon -9999
@@ -1155,8 +1147,16 @@ PowerSet Blaster_Ranged.Heretical_Occultism
 	MinDifficulty 2
 	MaxDifficulty 9999
 
-	Powers Blaster_Ranged.Heretical_Occultism.Lords_Decree
+	Powers Blaster_Ranged.Heretical_Occultism.Twilight_Hail
 	Available 11
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Blaster_Ranged.Heretical_Occultism.Lords_Decree
+	Available 17
 	AIMaxLevel 0
 	AIMinRankCon -9999
 	AIMaxRankCon 9999

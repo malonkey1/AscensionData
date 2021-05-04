@@ -18930,3 +18930,1931 @@ Error message: {name}>>
 "CTSSV2E4_Contact", "James Harvan (Signature Arc Contact)"
 "CTSSV2E5_Hero_Contact", "Heldenjaeger (Signature Arc Contact)"
 "CTSSV2E5_Villain_Contact", "Inconspicuous Female #39757 (Signature Arc Contact)"
+
+
+"NewFeaturesNotAvailable",		"New Features Announcement Currently Not Available"
+"NewFeaturesDefaultString",		"Click to see what's new!"
+"UNDEFINED",	"UNDEFINED DESCRIPTION"
+"SanctuaryToken",	"Sanctuary Token"
+"P3645578313",	"You have obtained a Sanctuary Token. These tokens are Very Rare and hard to obtain. You can use these tokens to purchase new items from Sanctor. Rewards for these include things such as quickly obtaining Accolade Powers, AutoLevel 50 tokens, and more to come!"
+
+//Tab Names
+"T0000000001" "Invention | Targeted AoE Damage"
+"T0000000002" "Invention | Resist Damage"
+"T0000000003" "Invention | Accurate Defense DeBuff"
+"T0000000004" "Invention | Accurate Healing"
+"T0000000005" "Invention | Accurate To-Hit DeBuff"
+"T0000000006" "Invention | Blaster Archetype Sets"
+"T0000000007" "Invention | Brute Archetype Sets"
+"T0000000008" "Invention | Confuse"
+"T0000000009" "Invention | Controller Archetype Sets"
+"T0000000010" "Invention | Corruptor Archetype Sets"
+"T0000000011" "Invention | Defender Archetype Sets"
+"T0000000012" "Invention | Defense DeBuff"
+"T0000000013" "Invention | Defense Sets"
+"T0000000014" "Invention | Dominator Archetype Sets"
+"T0000000015" "Invention | Endurance Modification"
+"T0000000016" "Invention | Fear"
+"T0000000017" "Invention | Flight"
+"T0000000018" "Invention | Healing"
+"T0000000019" "Invention | Holds"
+"T0000000020" "Invention | Immobilize"
+"T0000000021" "Invention | Kheldian Archetype Sets"
+"T0000000022" "Invention | Knockback"
+"T0000000023" "Invention | Leaping"
+"T0000000024" "Invention | Mastermind Archetype Sets"
+"T0000000025" "Invention | Melee Damage"
+"T0000000026" "Invention | PBAoE Damage"
+"T0000000027" "Invention | Pet Damage"
+"T0000000028" "Invention | Ranged Damage"
+"T0000000029" "Invention | Recharge Intensive Pets"
+"T0000000030" "Invention | Running"
+"T0000000031" "Invention | Scrapper Archetype Sets"
+"T0000000032" "Invention | Sleep"
+"T0000000033" "Invention | Slow Movement"
+"T0000000034" "Invention | Sniper Attacks"
+"T0000000035" "Invention | Soldiers of Arachnos Archetype Sets"
+"T0000000036" "Invention | Stalker Archetype Sets"
+"T0000000037" "Invention | Stuns"
+"T0000000038" "Invention | Tanker Archetype Sets"
+"T0000000039" "Invention | Taunt"
+"T0000000040" "Invention | Teleport"
+"T0000000041" "Invention | To Hit Buff"
+"T0000000042" "Invention | To Hit DeBuff"
+"T0000000043" "Invention | Universal Damage Sets"
+"T0000000044" "Invention | Universal Travel"
+"T0000000045" "SuperPacks"
+"T0000000046" "Special Items"
+"T0000000047" "Invention | Sentinel Archetype Sets"
+"T0000000048" "Invention | Winter Sets"
+"T0000000049" "Invention | Winter Sets"
+"T0000000050" "Invention | Winter Sets"
+"T0000000051" "Invention | Winter Sets"
+"T0000000052" "Standard Invention | Available at 10,15,20,25,30,35,40,45,50"
+
+//Invention Enhancement
+"I0000000001" "Annihilation: Accuracy/Damage"
+"I0000000002" "Annihilation: Damage/Recharge"
+"I0000000003" "Annihilation: Accuracy/Damage/Recharge"
+"I0000000004" "Annihilation: Accuracy/Damage/Endurance"
+"I0000000005" "Annihilation: Accuracy/Damage/Recharge/Endurance"
+"I0000000006" "Annihilation: Chance for -Res"
+"I0000000007" "Unbreakable Guard: Resistance"
+"I0000000008" "Unbreakable Guard: Resistance/Endurance"
+"I0000000009" "Unbreakable Guard: Endurance/Recharge"
+"I0000000010" "Unbreakable Guard: Resistance/Recharge"
+"I0000000011" "Unbreakable Guard: Resistance/Endurance/Recharge"
+"I0000000012" "Unbreakable Guard: +7.5% MAX HP"
+"I0000000013" "Reactive Defenses: Defense"
+"I0000000014" "Reactive Defenses: Defense/Endurance"
+"I0000000015" "Reactive Defenses: Endurance/Recharge"
+"I0000000016" "Reactive Defenses: Defense/Recharge"
+"I0000000017" "Reactive Defenses: Defense/Endurance/Recharge"
+"I0000000018" "Reactive Defenses: Scaling Damage Resistance" 
+"I0000000019" "Preventive Medicine: Heal/Absorb"
+"I0000000020" "Preventive Medicine: Heal/Absorb/Endurance"
+"I0000000021" "Preventive Medicine: Recharge/Endurance"
+"I0000000022" "Preventive Medicine: Heal/Absorb/Recharge"
+"I0000000023" "Preventive Medicine: Heal/Absorb/Endurance/Recharge"
+"I0000000024" "Preventive Medicine: Absorb Proc"
+"I0000000025" "Befuddling Aura: Accuracy/Recharge"
+"I0000000200" "Befuddling Aura: Endurance/Confuse"
+"I0000000200" "Befuddling Aura: Accuracy/Endurance"
+"I0000000026" "Befuddling Aura: Confuse/Range"
+"I0000000027" "Befuddling Aura: Accuracy/Confuse/Recharge"
+"I0000000028" "Bonesnap: Accuracy/Damage"
+"I0000000029" "Bonesnap: Damage/Endurance"
+"I0000000030" "Bonesnap: Accuracy/Recharge"
+"I0000000031" "Brilliant Leadership: Accuracy/Damage"
+"I0000000032" "Brilliant Leadership: Damage/Endurance"
+"I0000000033" "Brilliant Leadership: Accuracy/Endurance"
+"I0000000034" "Brilliant Leadership: Accuracy/Damage/Endurance"
+"I0000000035" "Brilliant Leadership: Accuracy"
+"I0000000036" "Brilliant Leadership: Damage"
+"I0000000037" "Bruising Blow: Accuracy/Damage"
+"I0000000038" "Bruising Blow: Damage/Endurance"
+"I0000000039" "Bruising Blow: Damage/Recharge"
+"I0000000040" "Cacophany: Accuracy/Recharge"
+"I0000000041" "Cacophany: Endurance/Confuse"
+"I0000000042" "Cacophany: Accuracy/Endurance"
+"I0000000043" "Cacophany: Confuse/Range"
+"I0000000044" "Cacophany: Accuracy/Confuse/Recharge"
+"I0000000045" "Cacophany: Chance For Energy Damage"
+"I0000000046" "Calibrated Accuracy: Accuracy/Damage"
+"I0000000047" "Calibrated Accuracy: Accuracy/Endurance"
+"I0000000048" "Calibrated Accuracy: Accuracy/Interupt"
+"I0000000049" "Calibrated Accuracy: Accuracy/Range"
+"I0000000050" "Calibrated Accuracy: Accuracy/Recharge"
+"I0000000051" "Calibrated Accuracy: Accuracy/Damage/Recharge"
+"I0000000052" "Call Of The Sandman: Accuracy/Recharge"
+"I0000000053" "Call Of The Sandman: Endurance/Sleep"
+"I0000000054" "Call Of The Sandman: "Accuracy/Endurance"
+"I0000000055" "Call Of The Sandman: Sleep/Range"
+"I0000000056" "Call Of The Sandman: Accuracy/Sleep/Recharge"
+"I0000000057" "Call Of The Sandman: Chance To Heal Self"
+"I0000000058" "Celerity: Endurance"
+"I0000000059" "Celerity: Run"
+"I0000000060" "Celerity: Stealth"
+"I0000000061" "Cleaving Blow: Accuracy/Damage"
+"I0000000062" "Cleaving Blow: Damage/Endurance"
+"I0000000063" "Cleaving Blow: Damage/Recharge"
+"I0000000064" "Cleaving Blow: Accuracy/Recharge"
+"I0000000065" "Commanding Pressence: Accuracy/Damage"
+"I0000000066" "Commanding Pressence: Damage/Endurance"
+"I0000000067" "Commanding Pressence: Accuracy/Endurance"
+"I0000000068" "Commanding Pressence: Accuracy/Damage/Endurance"
+"I0000000069" "Commanding Pressence: Taunt/Placate Resist"
+"I0000000070" "Curtail Speed: Accuracy/Slow"
+"I0000000071" "Curtail Speed: Damage/Slow"
+"I0000000072" "Curtail Speed: Accuracy/Endurance"
+"I0000000073" "Curtail Speed: Range/Slow"
+"I0000000074" "Curtail Speed: Endurance/Recharge/Slow"
+"I0000000075" "Debilitative Action: Accuracy/Recharge"
+"I0000000076" "Debilitative Action: Endurance/Immobilize"
+"I0000000077" "Debilitative Action: Accuracy/Endurance"
+"I0000000078" "Debilitative Action: Immobilize/Range"
+"I0000000079" "Debilitative Action: Accuracy/Immobilize/Recharge"
+"I0000000080" "Debilitative Action: Chance for Stun"
+"I0000000081" "Detonation: Accuracy/Damage"
+"I0000000082" "Detonation: Damage/Endurance"
+"I0000000083" "Detonation: Damage/Recharge"
+"I0000000084" "Detonation: Damage/Range"
+"I0000000085" "Detonation: Accuracy/Damage/Endurance"
+"I0000000086" "Detonation: Damage/Endurance/Range"
+"I0000000087" "Edict of the Master: Accuracy/Damage"
+"I0000000088" "Edict of the Master: Damage/Endurance"
+"I0000000089" "Edict of the Master: Accuracy/Endurance"
+"I0000000090" "Edict of the Master: Accuracy/Damage/Endurance"
+"I0000000091" "Edict of the Master: Damage"
+"I0000000092" "Edict of the Master: Defense Bonus"
+"I0000000093" "Enfeebled Operation: Accuracy/Recharge"
+"I0000000094" "Enfeebled Operation: Endurance/Immobilize"
+"I0000000095" "Enfeebled Operation: Accuracy/Endurance"
+"I0000000096" "Enfeebled Operation: Immobilize/Range"
+"I0000000097" "Enfeebled Operation: Accuracy/Immobilize/Recharge"
+"I0000000098" "Enfeebled Operation: Accuracy/Immobilize"
+"I0000000099" "Entropic Chaos: Accuracy/Damage,"
+"I0000000100" "Entropic Chaos: Damage/Endurance"
+"I0000000101" "Entropic Chaos: Damage/Recharge,"
+"I0000000102" "Entropic Chaos: Damage/Endurance/Recharge"
+"I0000000103" "Entropic Chaos: Chance to Heal Self"
+"I0000000104" "Essence of Curare: Accuracy/Recharge"
+"I0000000105" "Essence of Curare: Endurance/Hold"
+"I0000000106" "Essence of Curare: Accuracy/Endurance"
+"I0000000107" "Essence of Curare: Hold/Range"
+"I0000000108" "Essence of Curare: Accuracy/Hold"
+"I0000000109" "Essence of Curare: Accuracy/Hold/Recharge"
+"I0000000110" "Executioner's Contract: Accuracy/Damage"
+"I0000000111" "Executioner's Contract: Damage/Endurance"
+"I0000000112" "Executioner's Contract: Damage/Interrupt"
+"I0000000113" "Executioner's Contract: Damage/Range"
+"I0000000114" "Executioner's Contract: Damage/Recharge"
+"I0000000115" "Executioner's Contract: Disorient Bonus"
+"I0000000116" "Exploit Weakness: Accuracy/Damage"
+"I0000000117" "Exploit Weakness: Damage/Endurance"
+"I0000000118" "Exploit Weakness: Damage/Range"
+"I0000000119" "Exploit Weakness: Damage/Recharge"
+"I0000000120" "Far Strike: Damage/Range"
+"I0000000121" "Far Strike: Damage/Recharge"
+"I0000000122" "Far Strike: Accuracy/Endurance"
+"I0000000123" "Freebird: Endurance"
+"I0000000124" "Freebird: Fly"
+"I0000000125" "Freebird: Stealth"
+"I0000000126" "Ghost Widow's Embrace: Accuracy/Recharge"
+"I0000000127" "Ghost Widow's Embrace: Endurance/Hold"
+"I0000000128" "Ghost Widow's Embrace: Accuracy/Endurance"
+"I0000000129" "Ghost Widow's Embrace: Hold/Range"
+"I0000000130" "Ghost Widow's Embrace: Accuracy/Hold/Recharge"
+"I0000000131" "Ghost Widow's Embrace: Chance for Psionic Damage"
+"I0000000132" "Gift of the Ancients: Defense/Endurance"
+"I0000000133" "Gift of the Ancients: Defense/Recharge"
+"I0000000134" "Gift of the Ancients: Endurance/Recharge"
+"I0000000135" "Gift of the Ancients: Defense/Endurance/Recharge"
+"I0000000136" "Gift of the Ancients: Defense"
+"I0000000137" "Gift of the Ancients: Defense/Increased Run Speed"
+"I0000000138" "Glimpse of the Abyss: Accuracy/Recharge"
+"I0000000139" "Glimpse of the Abyss: Endurance/Fear"
+"I0000000140" "Glimpse of the Abyss: Accuracy/Endurance"
+"I0000000141" "Glimpse of the Abyss: Fear/Range"
+"I0000000142" "Glimpse of the Abyss: Accuracy/Fear/Recharge"
+"I0000000143" "Glimpse of the Abyss: Chance for Psionic Damage"
+"I0000000144" "Harmonized Healing: Healing/Endurance"
+"I0000000145" "Harmonized Healing: Endurance/Recharge"
+"I0000000146" "Harmonized Healing: Healing/Recharge"
+"I0000000147" "Harmonized Healing: Healing/Endurance/Recharge"
+"I0000000148" "Harmonized Healing: Healing"
+"I0000000149" "Harmonized Healing: Endurance"
+"I0000000150" "Hibernation: Accuracy/Recharge"
+"I0000000151" "Hibernation: Endurance/Sleep"
+"I0000000152" "Hibernation: Accuracy/Endurance"
+"I0000000153" "Hibernation: Sleep/Range"
+"I0000000154" "Hibernation: Accuracy/Sleep/Recharge"
+"I0000000155" "Horror: Accuracy/Recharge"
+"I0000000156" "Horror: Endurance/Fear"
+"I0000000157" "Horror: Accuracy/Endurance"
+"I0000000158" "Horror: Fear/Range"
+"I0000000159" "Horror: Accuracy/Fear/Recharge"
+"I0000000160" "Impeded Swiftness: Accuracy/Slow"
+"I0000000161" "Impeded Swiftness: Damage/Slow"
+"I0000000162" "Impeded Swiftness: Accuracy/Endurance"
+"I0000000163" "Impeded Swiftness: Range/Slow"
+"I0000000164" "Impeded Swiftness: Endurance/Recharge/Slow"
+"I0000000165" "Impeded Swiftness: Chance for Smashing Damage"
+"I0000000166" "Impervious Skin: Resistance/Endurance"
+"I0000000167" "Impervious Skin: Resistance/Recharge"
+"I0000000168" "Impervious Skin: Endurance/Recharge"
+"I0000000169" "Impervious Skin: Resistance/Endurance/Recharge"
+"I0000000170" "Impervious Skin: Status Resistance"
+"I0000000171" "Impervium Armor: Resistance/Endurance"
+"I0000000172" "Impervium Armor: Resistance/Recharge"
+"I0000000173" "Impervium Armor: Endurance/Recharge"
+"I0000000174" "Impervium Armor: Resistance/Endurance/Recharge"
+"I0000000175" "Impervium Armor: Resistance"
+"I0000000176" "Impervium Armor: Psionic Resistance"
+"I0000000177" "Induced Coma: Accuracy/Recharge"
+"I0000000178" "Induced Coma: Endurance/Sleep"
+"I0000000179" "Induced Coma: Accuracy/Endurance"
+"I0000000180" "Induced Coma: Sleep/Range"
+"I0000000181" "Induced Coma: Accuracy/Sleep/Recharge"
+"I0000000182" "Induced Coma: Chance for Recharge Slow"
+"I0000000183" "Jaunt: Range"
+"I0000000184" "Jaunt: Endurance"
+"I0000000185" "Jaunt: Range/Endurance"
+"I0000000186" "Karma: Defense/Endurance"
+"I0000000187" "Karma: Defense/Recharge"
+"I0000000188" "Karma: Knockback Protection"
+"I0000000189" "Kinetic Combat: Accuracy/Damage"
+"I0000000190" "Kinetic Combat: Damage/Endurance"
+"I0000000191" "Kinetic Combat: Damage/Recharge"
+"I0000000192" "Kinetic Combat: Damage/Endurance/Recharge"
+"I0000000193" "Kinetic Combat: Knockdown Bonus"
+"I0000000194" "Kismet: Defense/Endurance"
+"I0000000195" "Kismet: Defense/Recharge"
+"I0000000196" "Kismet: Endurance/Recharge"
+"I0000000197" "Kismet: Defense/Endurance/Recharge"
+"I0000000198" "Kismet: Accuracy"
+"I0000000199" "Lethargic Repose: Accuracy/Recharge"
+"I0000000200" "Lethargic Repose: Endurance/Sleep"
+"I0000000201" "Lethargic Repose: Accuracy/Endurance"
+"I0000000202" "Lethargic Repose: Sleep/Range"
+"I0000000203" "Lethargic Repose: Accuracy/Sleep/Recharge"
+"I0000000204" "Lethargic Repose: Accuracy/Sleep"
+"I0000000205" "Maelstrom's Fury: Accuracy/Damage"
+"I0000000206" "Maelstrom's Fury: Damage/Endurance"
+"I0000000207" "Maelstrom's Fury: Damage/Recharge"
+"I0000000208" "Maelstrom's Fury: Damage/Endurance/Recharge"
+"I0000000209" "Malaise's Illusions: Accuracy/Recharge"
+"I0000000210" "Malaise's Illusions: Endurance/Confuse"
+"I0000000211" "Malaise's Illusions: Accuracy/Endurance"
+"I0000000212" "Malaise's Illusions: Confuse/Range"
+"I0000000213" "Malaise's Illusions: Accuracy/Confuse/Recharge"
+"I0000000214" "Malaise's Illusions: Chance for Psionic Damage"
+"I0000000215" "Miracle: Healing/Endurance"
+"I0000000216" "Miracle: Endurance/Recharge"
+"I0000000217" "Miracle: Healing/Recharge"
+"I0000000218" "Miracle: Healing/Endurance/Recharge"
+"I0000000219" "Miracle: Healing"
+"I0000000220" "Miracle: Recovery"
+"I0000000221" "Multi-Strike: Accuracy/Damage"
+"I0000000222" "Multi-Strike: Damage/Endurance"
+"I0000000223" "Multi-Strike: Damage/Recharge"
+"I0000000224" "Multi-Strike: Accuracy/Endurance"
+"I0000000225" "Multi-Strike: Accuracy/Damage/Endurance"
+"I0000000226" "Multi-Strike: Damage/Endurance/Recharge"
+"I0000000227" "Neuronic Shutdown: Accuracy/Recharge"
+"I0000000228" "Neuronic Shutdown: Endurance/Hold"
+"I0000000229" "Neuronic Shutdown: Accuracy/Endurance"
+"I0000000230" "Neuronic Shutdown: Hold/Range"
+"I0000000231" "Neuronic Shutdown: Accuracy/Hold/Recharge"
+"I0000000232" "Neuronic Shutdown: Chance for Psionic Damage"
+"I0000000233" "Nightmare: Accuracy/Recharge"
+"I0000000234" "Nightmare: Endurance/Fear"
+"I0000000235" "Nightmare: Accuracy/Endurance"
+"I0000000236" "Nightmare: Fear/Range"
+"I0000000237" "Nightmare: Accuracy/Fear/Recharge"
+"I0000000238" "Nightmare: Accuracy/Fear"
+"I0000000239" "Pacing of the Turtle: Accuracy/Slow"
+"I0000000240" "Pacing of the Turtle: Damage/Slow"
+"I0000000241" "Pacing of the Turtle: Accuracy/Endurance"
+"I0000000242" "Pacing of the Turtle: Range/Slow"
+"I0000000243" "Pacing of the Turtle: Endurance/Recharge/Slow"
+"I0000000244" "Pacing of the Turtle: Chance for Recharge Slow"
+"I0000000245" "Paralytic: Accuracy/Recharge"
+"I0000000246" "Paralytic: Endurance/Hold"
+"I0000000247" "Paralytic: Accuracy/Endurance"
+"I0000000248" "Paralytic: Hold/Range"
+"I0000000249" "Paralytic: Accuracy/Hold/Recharge"
+"I0000000250" "Perplex: Accuracy/Recharge"
+"I0000000251" "Perplex: Endurance/Confuse"
+"I0000000252" "Perplex: Accuracy/Endurance"
+"I0000000253" "Perplex: Confuse/Range"
+"I0000000254" "Perplex: Accuracy/Confuse/Recharge"
+"I0000000255" "Perplex: Recharge/Confuse"
+"I0000000256" "Positron's Blast: Accuracy/Damage"
+"I0000000257" "Positron's Blast: Damage/Endurance"
+"I0000000258" "Positron's Blast: Damage/Recharge"
+"I0000000259" "Positron's Blast: Damage/Range"
+"I0000000260" "Positron's Blast: Accuracy/Damage/Endurance"
+"I0000000261" "Positron's Blast: Chance for Energy Damage"
+"I0000000262" "Pounding Slugfest: Accuracy/Damage"
+"I0000000263" "Pounding Slugfest: Damage/Endurance"
+"I0000000264" "Pounding Slugfest: Damage/Recharge"
+"I0000000265" "Pounding Slugfest: Disorient Bonus"
+"I0000000266" "Pulverizing Fisticuffs: Accuracy/Damage"
+"I0000000267" "Pulverizing Fisticuffs: Accuracy/Damage/Recharge"
+"I0000000268" "Pulverizing Fisticuffs: Accuracy/Damage/Endurance/Recharge"
+"I0000000269" "Quickfoot: Run"
+"I0000000270" "Quickfoot: Endurance"
+"I0000000271" "Quickfoot: Run/Endurance"
+"I0000000272" "Razzle Dazzle: Accuracy/Recharge"
+"I0000000273" "Razzle Dazzle: Endurance/Stun"
+"I0000000274" "Razzle Dazzle: Accuracy/Endurance"
+"I0000000275" "Razzle Dazzle: Stun/Range"
+"I0000000276" "Razzle Dazzle: Accuracy/Stun/Recharge"
+"I0000000277" "Razzle Dazzle: Chance for Immobilize"
+"I0000000278" "Reactive Armor: Resistance/Endurance"
+"I0000000279" "Reactive Armor: Resistance/Recharge"
+"I0000000280" "Reactive Armor: Endurance/Recharge" 
+"I0000000281" "Reactive Armor: Resistance/Endurance/Recharge"
+"I0000000282" "Reactive Armor: Resistance"
+"I0000000283" "Reactive Armor: Endurance"
+"I0000000284" "Regenerative Tissue: Healing/Endurance"
+"I0000000285" "Regenerative Tissue: Endurance/Recharge"
+"I0000000286" "Regenerative Tissue: Healing/Recharge"
+"I0000000287" "Regenerative Tissue: Healing/Endurance/Recharge"
+"I0000000288" "Regenerative Tissue: Regeneration"
+"I0000000289" "Rooting Grasp: Accuracy/Recharge"
+"I0000000290" "Rooting Grasp: Endurance/Immobilize"
+"I0000000291" "Rooting Grasp: Accuracy/Endurance"
+"I0000000292" "Rooting Grasp: Immobilize/Range"
+"I0000000293" "Rooting Grasp: Accuracy/Immobilize/Recharge"
+"I0000000294" "Rope A Dope: Accuracy/Recharge"
+"I0000000295" "Rope A Dope: Endurance/Stun"
+"I0000000296" "Rope A Dope: Accuracy/Endurance"
+"I0000000297" "Rope A Dope: Stun/Range"
+"I0000000298" "Rope A Dope: Accuracy/Stun/Recharge"
+"I0000000299" "Rope A Dope: Accuracy/Stun"
+"I0000000300" "Salvo: Accuracy/Damage"
+"I0000000301" "Salvo: Damage/Endurance/Recharge"
+"I0000000302" "Salvo: Accuracy/Damage/Endurance/Range"
+"I0000000303" "Scirocco's Dervish: Accuracy/Damage"
+"I0000000304" "Scirocco's Dervish: Damage/Endurance"
+"I0000000305" "Scirocco's Dervish: Damage/Recharge"
+"I0000000306" "Scirocco's Dervish: Accuracy/Recharge"
+"I0000000307" "Scirocco's Dervish: Accuracy/Damage/Endurance"
+"I0000000308" "Scirocco's Dervish: Chance for Lethal Damage"
+"I0000000309" "Serendipity: Defense/Endurance"
+"I0000000310" "Serendipity: Defense/Recharge"
+"I0000000311" "Serendipity: Endurance/Recharge"
+"I0000000312" "Serendipity: Defense/Endurance/Recharge"
+"I0000000313" "Serendipity: Defense"
+"I0000000314" "Serendipity: Endurance"
+"I0000000315" "Smashing Haymaker: Accuracy/Damage"
+"I0000000316" "Smashing Haymaker: Damage/Endurance"
+"I0000000317" "Smashing Haymaker: Damage/Recharge"
+"I0000000318" "Smashing Haymaker: Damage/Endurance/Recharge"
+"I0000000319" "Soaring: Fly"
+"I0000000320" "Soaring: Endurance"
+"I0000000321" "Soaring: Fly/Endurance"
+"I0000000322" "Springfoot: Jump"
+"I0000000323" "Springfoot: Endurance"
+"I0000000324" "Springfoot: Jump/Endurance"
+"I0000000325" "Stagger: Accuracy/Recharge"
+"I0000000326" "Stagger: Endurance/Stun"
+"I0000000327" "Stagger: Accuracy/Endurance"
+"I0000000328" "Stagger: Stun/Range"
+"I0000000329" "Stagger: Accuracy/Stun/Recharge"
+"I0000000330" "Steadfast Protection: Endurance/Resistance"
+"I0000000331" "Steadfast Protection: Resistance/Defense"
+"I0000000332" "Steadfast Protection: Knockback Protection"
+"I0000000333" "Stupefy: Accuracy/Recharge"
+"I0000000334" "Stupefy: Endurance/Stun"
+"I0000000335" "Stupefy: Accuracy/Endurance"
+"I0000000336" "Stupefy: Stun/Range"
+"I0000000337" "Stupefy: Accuracy/Stun/Recharge"
+"I0000000338" "Stupefy: Chance for Knockback"
+"I0000000339" "Tempered Readiness: Accuracy/Slow"
+"I0000000340" "Tempered Readiness: Damage/Slow"
+"I0000000341" "Tempered Readiness: Accuracy/Endurance"
+"I0000000342" "Tempered Readiness: Range/Slow"
+"I0000000343" "Tempered Readiness: Endurance/Recharge/Slow"
+"I0000000344" "Tempered Readiness: Accuracy/Damage/Slow"
+"I0000000345" "Tempest: Accuracy/Damage"
+"I0000000346" "Tempest: Damage/Endurance"
+"I0000000347" "Tempest: Damage/Recharge"
+"I0000000348" "Tempest: Chance for Endurance Drain"
+"I0000000349" "Time and Space Manipulation: Endurance"
+"I0000000350" "Time and Space Manipulation: Range"
+"I0000000351" "Time and Space Manipulation: Stealth"
+"I0000000352" "Trap of the Hunter: Accuracy/Recharge"
+"I0000000353" "Trap of the Hunter: Endurance/Immobilize"
+"I0000000354" "Trap of the Hunter: Accuracy/Endurance"
+"I0000000355" "Trap of the Hunter: Immobilize/Accuracy"
+"I0000000356" "Trap of the Hunter: Accuracy/Immobilize/Recharge"
+"I0000000357" "Trap of the Hunter: Chance for Lethal Damage"
+"I0000000358" "Triage: Healing/Endurance"
+"I0000000359" "Triage: Endurance/Recharge"
+"I0000000360" "Triage: Healing/Recharge"
+"I0000000361" "Triage: Healing/Endurance/Recharge"
+"I0000000362" "Unbounded Leap: Endurance"
+"I0000000363" "Unbounded Leap: Jump"
+"I0000000364" "Unbounded Leap: Stealth"
+"I0000000365" "Unquestioning Loyalty: Accuracy/Damage"
+"I0000000366" "Unquestioning Loyalty: Damage/Endurance"
+"I0000000367" "Unquestioning Loyalty: Accuracy/Endurance"
+"I0000000368" "Unquestioning Loyalty: Accuracy/Damage/Endurance"
+"I0000000369" "Unspeakable Terror: Accuracy/Recharge"
+"I0000000370" "Unspeakable Terror: Endurance/Fear"
+"I0000000371" "Unspeakable Terror: Accuracy/Endurance"
+"I0000000372" "Unspeakable Terror: Fear/Range"
+"I0000000373" "Unspeakable Terror: Accuracy/Fear/Recharge"
+"I0000000374" "Unspeakable Terror: Disorient Bonus"
+"I0000000375" "Volley Fire: Accuracy/Damage"
+"I0000000376" "Volley Fire: Damage/Endurance"
+"I0000000377" "Volley Fire: Damage/Recharge"
+"I0000000378" "Annoyance: Taunt"
+"I0000000379" "Annoyance: Taunt/Recharge"
+"I0000000380" "Annoyance: Taunt/Recharge/Range"
+"I0000000381" "Triumphant Insult: Taunt"
+"I0000000382" "Triumphant Insult: Taunt/Recharge"
+"I0000000383" "Triumphant Insult: Chance to Disorient"
+"I0000000384" "Volley of Velocity: Knockback/Damage"
+"I0000000385" "Volley of Velocity: Knockback/Accuracy"
+"I0000000386" "Volley of Velocity: Knockback/Recharge"
+"I0000000387" "Explosive Strike: Knockback/Damage"
+"I0000000388" "Explosive Strike: Knockback/Accuracy"
+"I0000000389" "Explosive Strike: Chance for Smashing Damage"
+"I0000000390" "Adrenal Adjustment: Endurance Modification"
+"I0000000391" "Adrenal Adjustment: Endurance Modification/Recharge"
+"I0000000392" "Adrenal Adjustment: Endurance Modification/Recharge/Accuracy"
+"I0000000393" "Energy Manipulator: Endurance Modification"
+"I0000000394" "Energy Manipulator: Endurance Modification/Recharge"
+"I0000000395" "Energy Manipulator: Chance to Stun"
+"I0000000396" "Encouraged Accuracy: To Hit Buff"
+"I0000000397" "Encouraged Accuracy: To Hit Buff/Recharge"
+"I0000000398" "Encouraged Accuracy: To Hit Buff/Recharge/Endurance"
+"I0000000399" "Rectified Reticle: To Hit Buff"
+"I0000000400" "Rectified Reticle: To Hit Buff/Recharge"
+"I0000000401" "Rectified Reticle: Increased Perception"
+"I0000000402" "Discouraging Words: To Hit DeBuff"
+"I0000000403" "Discouraging Words: To Hit DeBuff/Recharge"
+"I0000000404" "Discouraging Words: To Hit DeBuff/Recharge/Endurance"
+"I0000000405" "Deflated Ego: To Hit Debuff"
+"I0000000406" "Deflated Ego: To Hit Debuff/Recharge"
+"I0000000407" "Deflated Ego: Chance for Recovery Debuff"
+"I0000000408" "Exploited Vulnerability: Defense Debuff"
+"I0000000409" "Exploited Vulnerability: Defense Debuff/Recharge"
+"I0000000410" "Exploited Vulnerability: Defense Debuff/Recharge/Endurance"
+"I0000000411" "Achilles' Heel: Defense Debuff"
+"I0000000412" "Achilles' Heel: Defense Debuff/Recharge"
+"I0000000413" "Achilles' Heel: Chance for Resistance Debuff"
+"I0000000414" "Basilisk's Gaze: Accuracy/Hold"
+"I0000000415" "Basilisk's Gaze: Accuracy/Recharge"
+"I0000000416" "Basilisk's Gaze: Recharge/Hold"
+"I0000000417" "Basilisk's Gaze: Endurance/Recharge/Hold"
+"I0000000418" "Basilisk's Gaze: Accuracy/Endurance/Recharge/Hold"
+"I0000000419" "Basilisk's Gaze: Chance for Recharge Slow "
+"I0000000420" "Call to Arms: Accuracy/Recharge"
+"I0000000421" "Call to Arms: Accuracy/Damage"
+"I0000000422" "Call to Arms: Damage/Endurance"
+"I0000000423" "Call to Arms: Accuracy/Damage/Recharge"
+"I0000000424" "Call to Arms: Endurance/Damage/Recharge"
+"I0000000425" "Call to Arms: Defense Bonus Aura for Pets"
+"I0000000426" "Eradication: Damage"
+"I0000000427" "Eradication: Accuracy/Recharge"
+"I0000000428" "Eradication: Damage/Recharge"
+"I0000000429" "Eradication: Accuracy/Damage/Recharge"
+"I0000000430" "Eradication: Accuracy/Damage/Recharge/Endurance"
+"I0000000431" "Eradication: Chance for Energy Damage"
+"I0000000432" "Theft of Essence: Heal"
+"I0000000433" "Theft of Essence: Heal/Recharge"
+"I0000000434" "Theft of Essence: Accuracy/Heal"
+"I0000000435" "Theft of Essence: Accuracy/Endurance/Heal"
+"I0000000436" "Theft of Essence: Accuracy/Endurance/Recharge"
+"I0000000437" "Theft of Essence: Chance for +Endurance"
+"I0000000438" "Shield Breaker: Defense Debuff"
+"I0000000439" "Shield Breaker: Accuracy/Defense Debuff"
+"I0000000440" "Shield Breaker: Accuracy/Recharge"
+"I0000000441" "Shield Breaker: Defense Debuff/Endurance/Recharge"
+"I0000000442" "Shield Breaker: Accuracy/Endurance/Recharge"
+"I0000000443" "Shield Breaker: Chance for Lethal Damage"
+"I0000000444" "Cloud Senses: ToHit Debuff"
+"I0000000445" "Cloud Senses: Accuracy/ToHit Debuff"
+"I0000000446" "Cloud Senses: Accuracy/Recharge"
+"I0000000447" "Cloud Senses: ToHit Debuff/Endurance/Recharge"
+"I0000000448" "Cloud Senses: Accuracy/Endurance/Recharge"
+"I0000000449" "Cloud Senses: Chance for Negative Energy Damage"
+"I0000000450" "Blessing of the Zephyr: Run Speed, Jump, Flight Speed, Range"
+"I0000000451" "Blessing of the Zephyr: Run Speed, Jump, Flight Speed, Range/Endurance"
+"I0000000452" "Blessing of the Zephyr: Knockback Protection 4 Points"
+"I0000000453" "Winter's Gift: Run Speed, Jump, Flight Speed, Range"
+"I0000000454" "Winter's Gift: Run Speed, Jump, Flight Speed, Range/Endurance"
+"I0000000455" "Winter's Gift: Slow Resistance 20%"
+"I0000000456" "Gladiator's Strike: Damage/Accuracy"
+"I0000000457" "Gladiator's Strike: Damage/Recharge"
+"I0000000458" "Gladiator's Strike: Damage/Endurance/Recharge"
+"I0000000459" "Gladiator's Strike: Accuracy/Endurance/Recharge"
+"I0000000460" "Gladiator's Strike: Accuracy/Damage/Endurance/Recharge"
+"I0000000461" "Gladiator's Strike: Chance for Smashing Damage"
+"I0000000462" "Fury of the Gladiator: Damage/Accuracy"
+"I0000000463" "Fury of the Gladiator: Damage/Recharge"
+"I0000000464" "Fury of the Gladiator: Damage/Endurance/Recharge"
+"I0000000465" "Fury of the Gladiator: Accuracy/Endurance/Recharge"
+"I0000000466" "Fury of the Gladiator: Accuracy/Damage/Endurance/Recharge"
+"I0000000467" "Fury of the Gladiator: Chance for -Res"
+"I0000000468" "Gladiator's Javelin: Damage/Accuracy"
+"I0000000469" "Gladiator's Javelin: Damage/Recharge"
+"I0000000470" "Gladiator's Javelin: Damage/Endurance/Recharge"
+"I0000000471" "Gladiator's Javelin: Accuracy/Endurance/Recharge"
+"I0000000472" "Gladiator's Javelin: Accuracy/Damage/Endurance/Recharge"
+"I0000000473" "Gladiator's Javelin: Chance for Toxic Damage"
+"I0000000474" "Javelin Volley: Damage/Accuracy"
+"I0000000475" "Javelin Volley: Damage/Recharge"
+"I0000000476" "Javelin Volley: Damage/Endurance/Recharge"
+"I0000000477" "Javelin Volley: Accuracy/Endurance/Recharge"
+"I0000000478" "Javelin Volley: Accuracy/Damage/Endurance/Recharge"
+"I0000000479" "Javelin Volley: Chance for Lethal Damage"
+"I0000000480" "Panacea: Healing/Endurance"
+"I0000000481" "Panacea: Endurance/Recharge"
+"I0000000482" "Panacea: Healing/Recharge"
+"I0000000483" "Panacea: Healing/Endurance/Recharge"
+"I0000000484" "Panacea: Healing"
+"I0000000485" "Panacea: Chance for +Hit Points/Endurance"
+"I0000000486" "Gladiator's Armor: Resistance/Endurance"
+"I0000000487" "Gladiator's Armor: Resistance/Recharge"
+"I0000000488" "Gladiator's Armor: Endurance/Recharge"
+"I0000000489" "Gladiator's Armor: Resistance/Endurance/Recharge"
+"I0000000490" "Gladiator's Armor: Resistance"
+"I0000000491" "Gladiator's Armor: Teleportation Protection, +Def All"
+"I0000000492" "Shield Wall: Defense/Endurance"
+"I0000000493" "Shield Wall: Defense/Recharge"
+"I0000000494" "Shield Wall: Endurance/Recharge"
+"I0000000495" "Shield Wall: Defense/Endurance/Recharge"
+"I0000000496" "Shield Wall: Defense"
+"I0000000497" "Shield Wall: Teleportation Protection, +Res All"
+"I0000000498" "Gladiator's Net: Accuracy/Hold"
+"I0000000499" "Gladiator's Net: Accuracy/Recharge"
+"I0000000500" "Gladiator's Net: Recharge/Hold"
+"I0000000501" "Gladiator's Net: Endurance/Recharge/Hold"
+"I0000000502" "Gladiator's Net: Accuracy/Endurance/Recharge/Hold"
+"I0000000503" "Gladiator's Net: Chance for Lethal Damage "
+"I0000000504" "Hecatomb: Damage Superior"
+"I0000000505" "Hecatomb: Damage/Recharge Superior"
+"I0000000506" "Hecatomb: Damage/Recharge/Accuracy Superior"
+"I0000000507" "Hecatomb: Recharge/Accuracy Superior"
+"I0000000508" "Hecatomb: Damage/Endurance Superior"
+"I0000000509" "Hecatomb: Chance for Negative Energy Damage"
+"I0000000510" "Armageddon: Damage Superior"
+"I0000000511" "Armageddon: Damage/Recharge Superior"
+"I0000000512" "Armageddon: Damage/Recharge/Accuracy Superior"
+"I0000000513" "Armageddon: Recharge/Accuracy Superior"
+"I0000000514" "Armageddon: Damage/Endurance Superior"
+"I0000000515" "Armageddon: Chance for Fire Damage"
+"I0000000516" "Apocalypse: Damage Superior"
+"I0000000517" "Apocalypse: Damage/Recharge Superior"
+"I0000000518" "Apocalypse: Damage/Recharge/Accuracy Superior"
+"I0000000519" "Apocalypse: Recharge/Accuracy Superior"
+"I0000000520" "Apocalypse: Damage/Endurance Superior"
+"I0000000521" "Apocalypse: Chance for Negative Energy Damage"
+"I0000000522" "Ragnarok: Damage (Superior)"
+"I0000000523" "Ragnarok: Damage/Recharge Superior"
+"I0000000524" "Ragnarok: Damage/Recharge/Accuracy Superior"
+"I0000000525" "Ragnarok: Recharge/Accuracy Superior"
+"I0000000526" "Ragnarok: Damage/Endurance (Superior)"
+"I0000000527" "Ragnarok: Chance for Knockdown"
+"I0000000528" "Soulbound Allegiance: Damage Superior"
+"I0000000529" "Soulbound Allegiance: Damage/Recharge Superior"
+"I0000000530" "Soulbound Allegiance: Damage/Recharge/Accuracy Superior"
+"I0000000531" "Soulbound Allegiance: Recharge/Accuracy Superior"
+"I0000000532" "Soulbound Allegiance: Damage/Endurance Superior"
+"I0000000533" "Soulbound Allegiance: Chance for Build Up"
+"I0000000534" "Coercive Persuasion: Confuse Superior"
+"I0000000535" "Coercive Persuasion: Confuse/Recharge Superior"
+"I0000000536" "Coercive Persuasion: Confuse/Recharge/Accuracy Superior"
+"I0000000537" "Coercive Persuasion: Recharge/Accuracy Superior"
+"I0000000538" "Coercive Persuasion: Confuse/Endurance Superior"
+"I0000000539" "Coercive Persuasion: Contagious Confusion"
+"I0000000540" "Fortunata Hypnosis: Sleep Superior"
+"I0000000541" "Fortunata Hypnosis: Sleep/Recharge Superior"
+"I0000000542" "Fortunata Hypnosis: Sleep/Recharge/Accuracy Superior"
+"I0000000543" "Fortunata Hypnosis: Recharge/Accuracy Superior"
+"I0000000544" "Fortunata Hypnosis: Sleep/Endurance Superior"
+"I0000000545" "Fortunata Hypnosis: Chance for Placate"
+"I0000000546" "Gravitational Anchor: Immobilize Superior"
+"I0000000547" "Gravitational Anchor: Immobilize/Recharge Superior"
+"I0000000548" "Gravitational Anchor: Immobilize/Recharge/Accuracy Superior"
+"I0000000549" "Gravitational Anchor: Recharge/Accuracy Superior"
+"I0000000550" "Gravitational Anchor: Immobilize/Endurance Superior"
+"I0000000551" "Gravitational Anchor: Chance for Hold"
+"I0000000552" "Unbreakable Constraint: Hold Superior"
+"I0000000553" "Unbreakable Constraint: Hold/Recharge Superior"
+"I0000000554" "Unbreakable Constraint: Hold/Recharge/Accuracy Superior"
+"I0000000555" "Unbreakable Constraint: Recharge/Accuracy Superior"
+"I0000000556" "Unbreakable Constraint: Hold/Endurance Superior"
+"I0000000557" "Unbreakable Constraint: Chance for Smashing Damage"
+"I0000000558" "Absolute Amazement: Stun Superior"
+"I0000000559" "Absolute Amazement: Stun/Recharge Superior"
+"I0000000560" "Absolute Amazement: Stun/Recharge/Accuracy Superior"
+"I0000000561" "Absolute Amazement: Recharge/Accuracy Superior"
+"I0000000562" "Absolute Amazement: Stun/Endurance Superior"
+"I0000000563" "Absolute Amazement: Chance for ToHit Debuff"
+"I0000000564" "Overwhelming Force: Accuracy/Damage"
+"I0000000565" "Overwhelming Force: Endurance/Recharge"
+"I0000000566" "Overwhelming Force: Accuracy/Damage/Endurance"
+"I0000000567" "Overwhelming Force: Damage/Endurance/Recharge"
+"I0000000568" "Overwhelming Force: Accuracy/Damage/Endurance/Recharge"
+"I0000000569" "Overwhelming Force: Damage/Chance for Knockdown/Knockback to Knockdown"
+"I0000000570" "Incarnate Thread Conversion"
+"I0000000571" "Convert 10 Million Influence into 100 Incarnate Threads"
+"I0000000572" "Incarnate Shard Conversion"
+"I0000000573" "Convert 10 Million Influence into 4 Incarnate Shards"
+"I0000000574" "Thread to Shard Conversion"
+"I0000000575" "Convert 100 Incarnate Threads into 4 Incarnate Shards"
+"I0000000576" "Shard to Thread Conversion"
+"I0000000577" "Convert 4 Incarnate Threads into 100 Incarnate Shards"
+"I0000000578" "Aegis: Resistance/Endurance"
+"I0000000579" "Aegis: Resistance/Recharge"
+"I0000000580" "Aegis: Endurance/Recharge"
+"I0000000581" "Aegis: Resistance/Endurance/Recharge"
+"I0000000582" "Aegis: Resistance"
+"I0000000583" "Aegis: Psionic/Status Resistance"
+"I0000000584" "Air Burst: Accuracy/Damage"
+"I0000000585" "Air Burst: Damage/Endurance"
+"I0000000586" "Air Burst: Damage/Recharge"
+"I0000000587" "Air Burst: Damage/Range"
+"I0000000588" "Blood Mandate: Accuracy/Damage"
+"I0000000589" "Blood Mandate: Damage/Endurance"
+"I0000000590" "Blood Mandate: Accuracy/Endurance"
+"I0000000591" "Blood Mandate: Accuracy/Damage/Endurance"
+"I0000000592" "Blood Mandate: Accuracy"
+"I0000000593" "Blood Mandate: Damage"
+"I0000000594" "Crushing Impact: Accuracy/Damage"
+"I0000000595" "Crushing Impact: Damage/Endurance"
+"I0000000596" "Crushing Impact: Damage/Recharge"
+"I0000000597" "Crushing Impact: Accuracy/Damage/Recharge"
+"I0000000598" "Crushing Impact: Accuracy/Damage/Endurance"
+"I0000000599" "Crushing Impact: Damage/Endurance/Recharge"
+"I0000000600" "Decimation: Accuracy/Damage"
+"I0000000601" "Decimation: Damage/Endurance"
+"I0000000602" "Decimation: Damage/Recharge"
+"I0000000603" "Decimation: Accuracy/Endurance/Recharge"
+"I0000000604" "Decimation: Accuracy/Damage/Recharge"
+"I0000000605" "Decimation: Chance for Buildup"
+"I0000000606" "Devastation: Accuracy/Damage"
+"I0000000607" "Devastation: Damage/Endurance"
+"I0000000608" "Devastation: Damage/Recharge"
+"I0000000609" "Devastation: Accuracy/Damage/Recharge"
+"I0000000610" "Devastation: Accuracy/Damage/Endurance/Recharge"
+"I0000000611" "Devastation: Chance for Hold"
+"I0000000612" "Doctored Wounds: Healing/Endurance"
+"I0000000613" "Doctored Wounds: Endurance/Recharge"
+"I0000000614" "Doctored Wounds: Healing/Recharge"
+"I0000000615" "Doctored Wounds: Healing/Endurance/Recharge"
+"I0000000616" "Doctored Wounds: Healing"
+"I0000000617" "Doctored Wounds: Recharge"
+"I0000000618" "Extreme Measures: Accuracy/Damage"
+"I0000000619" "Extreme Measures: Damage/Endurance"
+"I0000000620" "Extreme Measures: Accuracy/Interrupt/Range"
+"I0000000621" "Extreme Measures: Damage/Interrupt/Recharge"
+"I0000000622" "Extreme Measures: Damage/Endurance/Recharge"
+"I0000000623" "Extreme Measures: Accuracy/Range/Recharge"
+"I0000000624" "Focused Smite: Accuracy/Damage"
+"I0000000625" "Focused Smite: Damage/Endurance"
+"I0000000626" "Focused Smite: Damage/Recharge"
+"I0000000627" "Focused Smite: Accuracy/Endurance/Recharge"
+"I0000000628" "Focused Smite: Accuracy/Damage/Recharge"
+"I0000000629" "Luck of the Gambler: Defense/Endurance"
+"I0000000630" "Luck of the Gambler: Defense/Recharge"
+"I0000000631" "Luck of the Gambler: Endurance/Recharge"
+"I0000000632" "Luck of the Gambler: Defense/Endurance/Recharge"
+"I0000000633" "Luck of the Gambler: Defense"
+"I0000000634" "Luck of the Gambler: Defense/Increased Recharge Speed"
+"I0000000635" "Mako's Bite: Accuracy/Damage"
+"I0000000636" "Mako's Bite: Damage/Endurance"
+"I0000000637" "Mako's Bite: Damage/Recharge"
+"I0000000638" "Mako's Bite: Accuracy/Endurance/Recharge"
+"I0000000639" "Mako's Bite: Accuracy/Damage/Endurance/Recharge"
+"I0000000640" "Mako's Bite: Chance for Lethal Damage"
+"I0000000641" "Numina's Convalescence: Healing/Endurance"
+"I0000000642" "Numina's Convalescence: Endurance/Recharge"
+"I0000000643" "Numina's Convalescence: Healing/Recharge"
+"I0000000644" "Numina's Convalescence: Healing/Endurance/Recharge"
+"I0000000645" "Numina's Convalescence: Healing"
+"I0000000646" "Numina's Convalescence: Regeneration/Recovery"
+"I0000000647" "Red Fortune: Defense/Endurance"
+"I0000000648" "Red Fortune: Defense/Recharge"
+"I0000000649" "Red Fortune: Endurance/Recharge"
+"I0000000650" "Red Fortune: Defense/Endurance/Recharge"
+"I0000000651" "Red Fortune: Defense"
+"I0000000652" "Red Fortune: Endurance"
+"I0000000653" "Ruin: Accuracy/Damage"
+"I0000000654" "Ruin: Damage/Endurance"
+"I0000000655" "Ruin: Damage/Recharge"
+"I0000000656" "Ruin: Accuracy/Endurance/Recharge"
+"I0000000657" "Ruin: Accuracy/Damage/Recharge"
+"I0000000658" "Sovereign Right: Accuracy/Damage"
+"I0000000659" "Sovereign Right: Damage/Endurance"
+"I0000000660" "Sovereign Right: Accuracy/Endurance"
+"I0000000661" "Sovereign Right: Accuracy/Damage/Endurance"
+"I0000000662" "Sovereign Right: Accuracy"
+"I0000000663" "Sovereign Right: Resistance Bonus"
+"I0000000664" "Sting of the Manticore: Accuracy/Damage"
+"I0000000665" "Sting of the Manticore: Damage/Endurance"
+"I0000000666" "Sting of the Manticore: Accuracy/Interrupt/Range"
+"I0000000667" "Sting of the Manticore: Damage/Interrupt/Recharge"
+"I0000000668" "Sting of the Manticore: Damage/Endurance/Recharge"
+"I0000000669" "Sting of the Manticore: Chance for Toxic Damage"
+"I0000000670" "Thunderstrike: Accuracy/Damage"
+"I0000000671" "Thunderstrike: Damage/Endurance"
+"I0000000672" "Thunderstrike: Damage/Recharge"
+"I0000000673" "Thunderstrike: Accuracy/Damage/Recharge"
+"I0000000674" "Thunderstrike: Accuracy/Damage/Endurance"
+"I0000000675" "Thunderstrike: Damage/Endurance/Recharge"
+"I0000000676" "Titanium Coating: Endurance/Resistance"
+"I0000000677" "Titanium Coating: Recharge/Resistance"
+"I0000000678" "Titanium Coating: Endurance/Recharge"
+"I0000000679" "Titanium Coating: Endurance/Recharge/Resistance"
+"I0000000680" "Titanium Coating: Resistance"
+"I0000000681" "Titanium Coating: Endurance"
+"I0000000682" "Touch of Death: Accuracy/Damage"
+"I0000000683" "Touch of Death: Damage/Endurance,"
+"I0000000684" "Touch of Death: Damage/Recharge"
+"I0000000685" "Touch of Death: Accuracy/Damage/Endurance"
+"I0000000686" "Touch of Death: Damage/Endurance/Recharge"
+"I0000000687" "Touch of Death: Negative Energy Damage"
+"I0000000688" "Mocking Beratement: Taunt"
+"I0000000689" "Mocking Beratement: Taunt/Recharge"
+"I0000000690" "Mocking Beratement: Taunt/Recharge/Range"
+"I0000000691" "Mocking Beratement: Recharge/Accuracy"
+"I0000000692" "Mocking Beratement: Taunt/Range"
+"I0000000693" "Mocking Beratement: Recharge"
+"I0000000694" "Perfect Zinger: Taunt,"
+"I0000000695" "Perfect Zinger: Taunt/Recharge,"
+"I0000000696" "Perfect Zinger: Taunt/Recharge/Range,"
+"I0000000697" "Perfect Zinger: Recharge/Accuracy,"
+"I0000000698" "Perfect Zinger: Taunt/Range,"
+"I0000000699" "Perfect Zinger: Chance for Psionic Damage"
+"I0000000700" "Kinetic Crash: Knockback/Damage"
+"I0000000701" "Kinetic Crash: Knockback/Accuracy"
+"I0000000702" "Kinetic Crash: Knockback/Recharge"
+"I0000000703" "Kinetic Crash: Recharge/Endurance"
+"I0000000704" "Kinetic Crash: Knockback/Damage/Endurance"
+"I0000000705" "Kinetic Crash: Knockback/Damage/Accuracy"
+"I0000000706" "Force Feedback: Knockback/Damage"
+"I0000000707" "Force Feedback: Knockback/Accuracy"
+"I0000000708" "Force Feedback: Knockback/Recharge"
+"I0000000709" "Force Feedback: Recharge/Endurance"
+"I0000000710" "Force Feedback: Knockback/Damage/Endurance"
+"I0000000711" "Force Feedback: Chance for +Recharge"
+"I0000000712" "Efficacy Adaptor: Endurance Modification"
+"I0000000713" "Efficacy Adaptor: Endurance Modification/Recharge"
+"I0000000714" "Efficacy Adaptor: Endurance Modification/Recharge/Accuracy"
+"I0000000715" "Efficacy Adaptor: Recharge/Accuracy"
+"I0000000716" "Efficacy Adaptor: Endurance Modification/Accuracy"
+"I0000000717" "Efficacy Adaptor: Endurance Modification/Endurance Reduction"
+"I0000000718" "Performance Shifter: Endurance Modification"
+"I0000000719" "Performance Shifter: Endurance Modification/Recharge"
+"I0000000720" "Performance Shifter: Endurance Modification/Recharge/Accuracy"
+"I0000000721" "Performance Shifter: Recharge/Accuracy"
+"I0000000722" "Performance Shifter: Endurance Modification/Accuracy"
+"I0000000723" "Performance Shifter: Chance for +Endurance"
+"I0000000724" "Adjusted Targeting: To Hit Buff"
+"I0000000725" "Adjusted Targeting: To Hit Buff/Recharge"
+"I0000000726" "Adjusted Targeting: To Hit Buff/Recharge/Endurance"
+"I0000000727" "Adjusted Targeting: Recharge/Endurance"
+"I0000000728" "Adjusted Targeting: To Hit Buff/Endurance"
+"I0000000729" "Adjusted Targeting: Recharge"
+"I0000000730" "Gaussian's Synchronized Fire-Control: To Hit Buff"
+"I0000000731" "Gaussian's Synchronized Fire-Control: To Hit Buff/Recharge"
+"I0000000732" "Gaussian's Synchronized Fire-Control: To Hit Buff/Recharge/Endurance"
+"I0000000733" "Gaussian's Synchronized Fire-Control: Recharge/Endurance"
+"I0000000734" "Gaussian's Synchronized Fire-Control: To Hit Buff/Endurance"
+"I0000000735" "Gaussian's Synchronized Fire-Control: Chance for Build Up"
+"I0000000736" "Dampened Spirits: To Hit Debuff"
+"I0000000737" "Dampened Spirits: To Hit Debuff/Recharge"
+"I0000000738" "Dampened Spirits: To Hit Debuff/Recharge/Endurance"
+"I0000000739" "Dampened Spirits: Recharge/Endurance"
+"I0000000740" "Dampened Spirits: To Hit Debuff/Endurance"
+"I0000000741" "Dampened Spirits: Recharge"
+"I0000000742" "Dark Watcher's Despair: To Hit Debuff"
+"I0000000743" "Dark Watcher's Despair: To Hit Debuff/Recharge"
+"I0000000744" "Dark Watcher's Despair: To Hit Debuff/Recharge/Endurance"
+"I0000000745" "Dark Watcher's Despair: Recharge/Endurance"
+"I0000000746" "Dark Watcher's Despair: To Hit Debuff/Endurance"
+"I0000000747" "Dark Watcher's Despair: Chance for Recharge Slow"
+"I0000000748" "Undermined Defenses: Defense Debuff"
+"I0000000749" "Undermined Defenses: Defense Debuff/Recharge"
+"I0000000750" "Undermined Defenses: Defense Debuff/Recharge/Endurance"
+"I0000000751" "Undermined Defenses: Recharge/Endurance"
+"I0000000752" "Undermined Defenses: Defense Debuff/Endurance"
+"I0000000753" "Undermined Defenses: Recharge"
+"I0000000754" "Touch of Lady Grey: Defense Debuff"
+"I0000000755" "Touch of Lady Grey: Defense Debuff/Recharge"
+"I0000000756" "Touch of Lady Grey: Defense Debuff/Recharge/Endurance"
+"I0000000757" "Touch of Lady Grey: Recharge/Endurance"
+"I0000000758" "Touch of Lady Grey: Defense Debuff/Endurance"
+"I0000000759" "Touch of Lady Grey: Chance for Negative Energy Damage"
+"I0000000760" "Lockdown: Accuracy/Hold"
+"I0000000761" "Lockdown: Accuracy/Recharge"
+"I0000000762" "Lockdown: Recharge/Hold"
+"I0000000763" "Lockdown: Endurance/Recharge/Hold"
+"I0000000764" "Lockdown: Accuracy/Endurance/Recharge/Hold"
+"I0000000765" "Lockdown: Chance for +2 Mag Hold"
+"I0000000766" "Expedient Reinforcement: Accuracy/Recharge"
+"I0000000767" "Expedient Reinforcement: Accuracy/Damage"
+"I0000000768" "Expedient Reinforcement: Damage/Endurance"
+"I0000000769" "Expedient Reinforcement: Accuracy/Damage/Recharge"
+"I0000000770" "Expedient Reinforcement: Endurance/Damage/Recharge"
+"I0000000771" "Expedient Reinforcement: Resist Bonus Aura for Pets"
+"I0000000772" "Obliteration: Damage"
+"I0000000773" "Obliteration: Accuracy/Recharge"
+"I0000000774" "Obliteration: Damage/Recharge"
+"I0000000775" "Obliteration: Accuracy/Damage/Recharge"
+"I0000000776" "Obliteration: Accuracy/Damage/Recharge/Endurance"
+"I0000000777" "Obliteration: Chance for Smashing Damage"
+"I0000000778" "Touch of the Nictus: Heal"
+"I0000000779" "Touch of the Nictus: Heal/Recharge"
+"I0000000780" "Touch of the Nictus: Accuracy/Heal"
+"I0000000781" "Touch of the Nictus: Accuracy/Endurance/Heal"
+"I0000000782" "Touch of the Nictus: Accuracy/Endurance/Recharge"
+"I0000000783" "Touch of the Nictus: Chance for Negative Energy Damage"
+"I0000000784" "Analyze Weakness: Defense Debuff"
+"I0000000785" "Analyze Weakness: Accuracy/Defense Debuff"
+"I0000000786" "Analyze Weakness: Accuracy/Recharge"
+"I0000000787" "Analyze Weakness: Defense Debuff/Endurance/Recharge"
+"I0000000788" "Analyze Weakness: Accuracy/Endurance/Recharge"
+"I0000000789" "Analyze Weakness: Chance for +ToHit"
+"I0000000790" "Siphon Insight: ToHit Debuff"
+"I0000000791" "Siphon Insight: Accuracy/ToHit Debuff"
+"I0000000792" "Siphon Insight: Accuracy/Recharge"
+"I0000000793" "Siphon Insight: ToHit Debuff/Endurance/Recharge"
+"I0000000794" "Siphon Insight: Accuracy/Endurance/Recharge"
+"I0000000795" "Siphon Insight: Chance for +ToHit"
+"I0000000796" "Defiant Barrage: Accuracy/Damage"
+"I0000000797" "Defiant Barrage: Damage/Recharge"
+"I0000000798" "Defiant Barrage: Accuracy/Damage/Recharge"
+"I0000000799" "Defiant Barrage: Accuracy/Damage/Endurance"
+"I0000000800" "Defiant Barrage: Accuracy/Damage/Endurance/Recharge"
+"I0000000801" "Defiant Barrage: Recharge/Chance for +Status Protection"
+"I0000000802" "Unrelenting Fury: Accuracy/Damage"
+"I0000000803" "Unrelenting Fury: Damage/Recharge"
+"I0000000804" "Unrelenting Fury: Accuracy/Damage/Recharge"
+"I0000000805" "Unrelenting Fury: Accuracy/Damage/Endurance"
+"I0000000806" "Unrelenting Fury: Accuracy/Damage/Endurance/Recharge"
+"I0000000807" "Unrelenting Fury: Recharge/Chance for -Def(All)"
+"I0000000808" "Overpowering Presence: Accuracy/Control Duration"
+"I0000000809" "Overpowering Presence: Control Duration/Recharge"
+"I0000000810" "Overpowering Presence: Endurance/Recharge"
+"I0000000811" "Overpowering Presence: Accuracy/Control Duration/Endurance"
+"I0000000812" "Overpowering Presence: Accuracy/Control Duration/Endurance/Recharge"
+"I0000000813" "Overpowering Presence: Recharge/Chance for Energy Font"
+"I0000000814" "Scourging Blast: Accuracy/Damage"
+"I0000000815" "Scourging Blast: Damage/Recharge"
+"I0000000816" "Scourging Blast: Accuracy/Damage/Recharge"
+"I0000000817" "Scourging Blast: Damage/Endurance/Recharge"
+"I0000000818" "Scourging Blast: Accuracy/Damage/Endurance/Recharge"
+"I0000000819" "Scourging Blast: Recharge/Chance for Minor PBAoE +End"
+"I0000000820" "Vigilant Assault: Accuracy/Damage"
+"I0000000821" "Vigilant Assault: Damage/Recharge"
+"I0000000822" "Vigilant Assault: Accuracy/Damage/Recharge"
+"I0000000823" "Vigilant Assault: Accuracy/Damage/Endurance"
+"I0000000824" "Vigilant Assault: Accuracy/Damage/Endurance/Recharge"
+"I0000000825" "Vigilant Assault: Recharge/Chance for Minor PBAoE +Absorb"
+"I0000000826" "Essence Transfer: Accuracy/Damage"
+"I0000000827" "Essence Transfer: Damage/Recharge"
+"I0000000828" "Essence Transfer: Accuracy/Damage/Recharge"
+"I0000000829" "Essence Transfer: Damage/Endurance/Recharge"
+"I0000000830" "Essence Transfer: Accuracy/Damage/Endurance/Recharge"
+"I0000000831" "Essence Transfer: Recharge/Global Heal Proc"
+"I0000000832" "Mark of Spremacy: Damage"
+"I0000000833" "Mark of Spremacy: Damage/Endurance"
+"I0000000834" "Mark of Spremacy: Accuracy/Damage"
+"I0000000835" "Mark of Spremacy: Accuracy/Endurance"
+"I0000000836" "Mark of Spremacy: Accuracy/Damage/Endurance"
+"I0000000837" "Mark of Spremacy: Endurance/Pet +Resist(All) and +Regen Aura"
+"I0000000838" "Critical Strikes: Accuracy/Damage"
+"I0000000839" "Critical Strikes: Damage/Recharge"
+"I0000000840" "Critical Strikes: Accuracy/Damage/Recharge"
+"I0000000841" "Critical Strikes: Damage/Endurance/Recharge"
+"I0000000842" "Critical Strikes: Accuracy/Damage/Endurance/Recharge"
+"I0000000843" "Critical Strikes: Recharge/+50% Critical Hit Chance Proc"
+"I0000000844" "Spider's Bite: Accuracy/Damage"
+"I0000000845" "Spider's Bite: Damage/Recharge"
+"I0000000846" "Spider's Bite: Accuracy/Damage/Recharge"
+"I0000000847" "Spider's Bite: Damage/Endurance/Recharge"
+"I0000000848" "Spider's Bite: Accuracy/Damage/Endurance/Recharge"
+"I0000000849" "Spider's Bite: Recharge/Global Chance for Toxic DMG"
+"I0000000850" "Assassin's Mark: Accuracy/Damage"
+"I0000000851" "Assassin's Mark: Damage/Recharge"
+"I0000000852" "Assassin's Mark: Accuracy/Damage/Recharge"
+"I0000000853" "Assassin's Mark: Accuracy/Damage/Endurance"
+"I0000000854" "Assassin's Mark: Accuracy/Damage/Endurance/Recharge"
+"I0000000855" "Assassin's Mark: Recharge/Chance to Recharge Build Up"
+"I0000000862" "Sentinel's Ward: "
+"I0000000863" "Sentinel's Ward: "
+"I0000000864" "Sentinel's Ward: "
+"I0000000865" "Sentinel's Ward: "
+"I0000000866" "Sentinel's Ward: "
+"I0000000867" "Sentinel's Ward: "
+"I0000000868" "Opportunity Strikes: "
+"I0000000869" "Opportunity Strikes: "
+"I0000000870" "Opportunity Strikes: "
+"I0000000871" "Opportunity Strikes: "
+"I0000000872" "Opportunity Strikes: "
+"I0000000873" "Opportunity Strikes: "
+
+// Genesis Incarnates
+"I0000000874" "Genesis|Data|Common"
+"I0000000875" "Genesis|Data|Uncommon"
+"I0000000876" "Genesis|Data|Rare"
+"I0000000877" "Genesis|Data|Very Rare"
+"I0000000878" "Genesis|Verdict|Common"
+"I0000000879" "Genesis|Verdict|Uncommon"
+"I0000000880" "Genesis|Verdict|Rare"
+"I0000000881" "Genesis|Verdict|Very Rare"
+"I0000000882" "Genesis|Fate|Common"
+"I0000000883" "Genesis|Fate|Uncommon"
+"I0000000884" "Genesis|Fate|Rare"
+"I0000000885" "Genesis|Fate|Very Rare"
+"I0000000886" "Genesis|Socket|Common"
+"I0000000887" "Genesis|Socket|Uncommon"
+"I0000000888" "Genesis|Socket|Rare"
+"I0000000889" "Genesis|Socket|Very Rare"
+
+//Genesis Data
+"I0000000890" "Draws forth the essence of a Rikti Headman from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000891" "+2.5% DMG +50 HP "
+
+//Genesis Data Core
+"I0000000892" "Draws forth the essence of a Robotic Assault Drone from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000893" "+5% DMG +100 HP"
+
+//Genesis Data Radial
+"I0000000894" "Draws forth the essences of a vanquished Borealis and Australis from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000895" "+5% DMG +100 HP"
+
+//Genesis Data Total Core
+"I0000000896" "Draws forth the essences of a vanquished Cimeroran Praefectus Castorum and a Centurion from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000897" "+7.5% DMG +150 HP"
+
+//Genesis Data Partial Core
+"I0000000898" "Draws forth the essences of a vanquished IDF Commander and Battle Orb from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000899" "+7.5% DMG +150 HP"
+
+//Genesis Data Partial Radial
+"I0000000900" "Draws forth the essences of a vanquished Clockwork Builder and Mender from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000901" "+7.5% DMG +150 HP"
+
+//Genesis Data Total Radial
+"I0000000902" "Draws forth the essences of a vanquished Vanguard Sergeant and Magician from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000903" "+7.5% DMG +150 HP"
+
+//Genesis Data Core Flawless
+"I0000000904" "Draws forth the essences of a vanquished Longbow Cataphract and Nullifier from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000905" "+10% DMG +200 HP"
+
+//Genesis Data Radial Flawless
+"I0000000906" "Draws forth the essences of a vanquished Arachnos Tarantula and Fortunata from the Well of Furies to serve you for 2 minutes and 30 seconds."
+"I0000000907" "+10% DMG +200 HP"
+
+//Genesis Verdict
+"I0000000908" "PBAoE High DMG (Negative Energy)"
+"I0000000909" "+2.5% DMG"
+
+//Genesis Verdict Core
+"I0000000910" "PBAoE High DMG (Negative Energy) + chance for additional Energy Damage"
+"I0000000911" "+5% DMG"
+
+//Genesis Verdict Radial
+"I0000000912" "PBAoE High DMG (Negative Energy) and -25% damage for 30 seconds on targets."
+"I0000000913" "+5% DMG"
+
+//Genesis Verdict Total Core
+"I0000000914" "Chain Ranged AoE, Superior DMG (Energy) and has a chance to do additional Energy damage to all foes."
+"I0000000915" "+7.5% DMG"
+
+//Genesis Verdict Partial Core
+"I0000000916" "Chain Ranged AoE, Superior DMG (Energy) and has a chance to do additional Energy damage to all foes. Drains endurance and debuffs the recovery of affected targets."
+"I0000000917" "+7.5% DMG"
+
+//Genesis Verdict Partial Radial
+"I0000000918" "Ranged Cone, High DMG (Cold) and reduces recharge rate and movement speed of targets."
+"I0000000919" "+7.5% DMG"
+
+//Genesis Verdict Total Radial
+"I0000000920" "Ranged Cone, High DMG (Cold) and reduces recharge rate and movement speed of targets."
+"I0000000921" "+7.5% DMG"
+
+//Genesis Verdict Core Flawless
+"I0000000922" "Targeted Ranged AoE, High DMG (Fire) and chance for Minor DoT (Fire)."
+"I0000000923" "+10% DMG"
+
+//Genesis Verdict Radial Flawless
+"I0000000924" "Ranged Cone, High DMG (Smashing) and +15% DEF on self."
+"I0000000925" "+10% DMG"
+
+//Genesis Fate
+"I0000000926" "PBAoE Ally +Endurance, +Recharge Rate. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 60 seconds."
+"I0000000927" "+2.5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Core
+"I0000000928" "PBAoE Ally +Endurance, +Recharge Rate, +Recovery Rate. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 60 seconds."
+"I0000000929" "+5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis1 Fate Radial
+"I0000000930" "PBAoE Ally +Endurance, +Recharge Rate, +Debuff Resistance. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 60 seconds."
+"I0000000931" "+5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis2. Fate Total Core
+"I0000000932" "PBAoE Ally Heal +Max HP. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 60 seconds."
+"I0000000933" "+7.5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Partial Core
+"I0000000934" "PBAoE Ally Heal +Max HP. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 90 seconds."
+"I0000000935" "+7.5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Partial Radial
+"I0000000936" "PBAoE Ally Heal, Endurance, +DEF (ALL), +RES (ALL). The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 90 seconds."
+"I0000000937" "+7.5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Total Radial
+"I0000000938" "PBAoE Ally Heal, Endurance, +DEF (ALL), +RES (ALL). The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 90 seconds."
+"I0000000939" "+7.5% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Core Flawless
+"I0000000940" "Wide PBAoE Ally Status Effect Protection. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 120 seconds."
+"I0000000941" "+10% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Fate Radial Flawless
+"I0000000942" "Wide PBAoE Ally Status Effect Protection. The continuing buffs from this power will gradually lose effectiveness over time before they expire completely after 90 seconds."
+"I0000000943" "+10% buffs for DEF, HP, Healing, End, and Status Effects."
+
+//Genesis Socket
+"I0000000944" "Grants power: Spectral Socket"
+"I0000000945" "+HP, +End"
+
+//Genesis Socket Core
+"I0000000946" "Grants power: Cognitive Socket"
+"I0000000947" "+HP, +End"
+
+//Genesis Socket Radial
+"I0000000948" "Grants power: Cognitive Socket x2"
+"I0000000949" "+HP, +End"
+
+//Genesis1. Socket Total Core
+"I0000000950" "Grants power: Preemptive Socket"
+"I0000000951" "+HP, +End"
+
+//Genesis2. Socket Partial Core
+"I0000000952" "Grants power: Preemptive Socket x2"
+"I0000000953" "+HP, +End"
+
+//Genesis Socket Partial Radial
+"I0000000954" "Grants power: Degenerative Socket x2"
+"I0000000955" "+HP, +End"
+
+//Genesis Socket Total Radial
+"I0000000956" "Grants power: Degenerative Socket"
+"I0000000957" "+HP, +End"
+
+//Genesis Socket Core Flawless
+"I0000000958" "Grants power: Reactive Socket x2"
+"I0000000959" "+HP, +End"
+
+//Genesis Socket Radial Flawless
+"I0000000960" "Grants power: Reactive Socket x2"
+"I0000000961" "+HP, +End"
+
+//Sanctor Influence
+//DisplayName
+"I0000000962" "Influence"
+//DisplayHelp
+"I0000000963" "Gain 1 Billion Influence"
+
+//Sanctor Unlock Additional Builds
+//DisplayName
+"I0000000963" "Unlock Additional Build"
+//DisplayHelp
+"I0000000964" "Unlock additional builds to switch between at a trainer!"
+
+"Cosmic_Energy" "Cosmic Energy"
+// Effect AttackerHit Message :
+"Z0000000001" "You shred {PlayerDest} with your {PowerName} for {Damage} points of Cosmic Energy Damage!"
+// Effect VictimHit Message :
+"Z0000000002" "{PlayerSource} Swipes you with their Claws for {Damage} points of Cosmic Energy Damage!"
+
+//Misc Binning Cleanup
+// Power Category: Synergist_Assault
+//
+// Uses the same pstrings from the Dominator versions where applicable
+//
+// ====================================================================
+// Powerset: Dark Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P2025747617" "Imbue Shadows"
+// DisplayShortHelp (mouse-over text)
+"P1203468010" "Ranged, Shadow Partner"
+// DisplayHelp (Power Help Text)
+"P3800348914" "Imbue Shadows will permanently augment your partner's power with the forces of the Netherworld, granting it access to Smite and Gloom."
+// --------------------------------------------------------------------
+// DisplayName
+"P4182599807" "Imbue Darkness"
+// DisplayShortHelp (mouse-over text)
+"P1013859719" "Ranged, Darken Partner"
+// DisplayHelp (Power Help Text)
+"P982361076" "Imbue Darkness will unlock yet darker powers for your Partner to wield, permanently granting them the Night Fall and Life Drain powers."
+// ====================================================================
+// Powerset: Earth Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P697562965" "Fortify Partner"
+// DisplayShortHelp (mouse-over text)
+"P1534087862" "Ranged, Fortify Partner"
+// DisplayHelp (Power Help Text)
+"P888044537" "Fortify Partner grants your Partner some measure of your ability to control earth and stone, augmenting their offensive capability with Stone Spears and Stone Mallet."
+// --------------------------------------------------------------------
+// DisplayName
+"P2212534709" "Reinforce Partner"
+// DisplayShortHelp (mouse-over text)
+"P1343167518" "Ranged, Reinforce Partner"
+// DisplayHelp (Power Help Text)
+"P2572935196" "Reinforce Partner further enhances your Partner's control of earth, adding the Heavy Mallet and Seismic Smash powers to their arsenal."
+// ====================================================================
+// Powerset: Electricity Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P308873419" "Charge Partner"
+// DisplayShortHelp (mouse-over text)
+"P4138429965" "Ranged, Charge Partner"
+// DisplayHelp (Power Help Text)
+"P191860999" "Charge Partner imbues your Partner with a powerful electric charge, allowing it to use the Lightning Bolt and Charged Brawl powers."
+// --------------------------------------------------------------------
+// DisplayName
+"P4239486415" "Electrify Partner"
+// DisplayShortHelp (mouse-over text)
+"P794749028" "Ranged, Electrify Partner"
+// DisplayHelp (Power Help Text)
+"P145193901" "Electrify Partner generates a powerful charge within your Partner, granting it the ability to generate electric shocks as a Havok Punch or Static Discharge."
+// ====================================================================
+// Powerset: Energy Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P3745993606" "Energize Partner"
+// DisplayShortHelp (mouse-over text)
+"P3862299617" "Ranged, Energize Partner"
+// DisplayHelp (Power Help Text)
+"P3093205067" "Energize Partner fills your Partner with the same Energy you wield, allowing them to channel it into a Power Bolt or Bone Smasher at will."
+// --------------------------------------------------------------------
+// DisplayName
+"P4044208755" "Overload Partner"
+// DisplayShortHelp (mouse-over text)
+"P3363629588" "Ranged, Overload Partner"
+// DisplayHelp (Power Help Text)
+"P4236453389" "Overload Partner fills your Partner's body to its limit with energy, allowing it to channel that energy into the Power Blast and Total Focus powers."
+// ====================================================================
+// Powerset: Fiery Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P3572818288" "Ignite Partner"
+// DisplayShortHelp (mouse-over text)
+"P808880054" "Ranged, Ignite Partner"
+// DisplayHelp (Power Help Text)
+"P2081031472" "Ignite Partner creates a small but potent flame within your Partner, granting it the ability to project Flares or unleash a Fire Breath."
+// --------------------------------------------------------------------
+// DisplayName
+"P3550249155" "Enflame Partner"
+// DisplayShortHelp (mouse-over text)
+"P2709464352" "Ranged, Enflame Partner"
+// DisplayHelp (Power Help Text)
+"P3061112198" "Enflame Partner turns your Partner into a roiling ignition source, allowing it to unleash a Fire Blast or Combustion on enemies."
+// ====================================================================
+// Powerset: Icy Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P3790873920" "Chill Partner"
+// DisplayShortHelp (mouse-over text)
+"P761129164" "Ranged, Chill Partner"
+// DisplayHelp (Power Help Text)
+"P3089713837" "Chill Partner causes your Partner's body to run cold and grants it power over ice, allowing it to generate Ice Swords and Ice Sword Circles."
+// --------------------------------------------------------------------
+// DisplayName
+"P1136640802" "Cryolize Partner"
+// DisplayShortHelp (mouse-over text)
+"P2060358469" "Ranged, Cryolize Partner"
+// DisplayHelp (Power Help Text)
+"P2333425276" "Cryolize Partner turns your Partner into a living north wind, granting it access the the Greater Ice Sword and Frost Breath."
+// ====================================================================
+// Powerset: Martial Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P3165881048" "Train Partner"
+// DisplayShortHelp (mouse-over text)
+"P1880772436" "Ranged, Train Partner"
+// DisplayHelp (Power Help Text)
+"P2800488662" "With Train Partner, you run your partner through a brief but grueling training regimen, allowing it to master the Shuriken Throw and Thunder Kick."
+// --------------------------------------------------------------------
+// DisplayName
+"P3002958385" "Complete Training"
+// DisplayShortHelp (mouse-over text)
+"P3925120425" "Ranged, Complete Partner's Training"
+// DisplayHelp (Power Help Text)
+"P3957260592" "Complete Training allows you to teach your most advanced techniques to your partner, giving it the ability to unleash a Spinning Kick and a Dragon's Tail."
+// ====================================================================
+// Powerset: Psionic Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P761260146" "Commune"
+// DisplayShortHelp (mouse-over text)
+"P275522679" "Ranged, Link with Partner"
+// DisplayHelp (Power Help Text)
+"P1496847150" "Commune allows you to create an intimate mental link with your Partner, allowing it to use some of your powers. It gains Psionic Dart and Mind Probe."
+// --------------------------------------------------------------------
+// DisplayName
+"P159569437" "Enhance Link"
+// DisplayShortHelp (mouse-over text)
+"P1674109494" "Ranged, Enhance Mental Link"
+// DisplayHelp (Power Help Text)
+"P1020970103" "Enhance Link allows you to deepen your Partner's access to your psychic power, granting it the ability to use Mental Blast and Telekinetic Thrust."
+// ====================================================================
+// Powerset: Thorny Assault
+// --------------------------------------------------------------------
+// DisplayName
+"P3179205079" "Seed Partner"
+// DisplayShortHelp (mouse-over text)
+"P415549539" "Ranged, Seed Partner"
+// DisplayHelp (Power Help Text)
+"P1496927594" "Seed Partner plants a symbiotic seed into your Partner's body, allowing them to use thorny attacks like yours. It gains the Skewer and Fling Thorns powers."
+// --------------------------------------------------------------------
+// DisplayName
+"P915773290" "Cultivate Partner"
+// DisplayShortHelp (mouse-over text)
+"P3849982657" "Ranged, Cultivate Partner"
+// DisplayHelp (Power Help Text)
+"P1984437535" "Cultivate Partner further adapts your partner to more deeply connect with the thorns, allowing it to use the Impale and Thorn Burst powers."
+
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// Power Catagory : Synergist_Support 
+// 			Worksheet : Synergist_Support 
+// -------------------------------------------------------------------------------- 
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1337578041" "Composition"
+//
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Hellfire Aura
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2648838997" "Hellfire Aura"
+// DisplayHelp :
+"P751654362" "You can control the forces of Hell to create a protective barrier around yourself, and have bound a demon to your service. This powerset has very strong resistance to fire damage, and also has a high offensive potential."
+// -------------------------------------------------------------------------------- 
+// Power : Fire Shield
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P3602062519" "While this power is active, Fire Shield gives you and those around you good resistance to Lethal, Smashing and Fire damage. Fire Shield also provides minimal resistance to Cold damage as well as protecting you and your partners from Disorient effects. "
+// -------------------------------------------------------------------------------- 
+// Power : Healing Flames
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P2452612224" "You can concentrate for a few moments to heal yourself and your allies. The power of the flames also grant protection from Toxic Damage for a while."
+// -------------------------------------------------------------------------------- 
+// Power : Plasma Shield
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P320120520" "While this power is active, you are surrounded by pure plasma. The Plasma Shield gives you and your allies resistance to Energy, Negative Energy, and Fire damage. Plasma Shield also gives you and your partners protection from Sleep and Hold effects. "
+// -------------------------------------------------------------------------------- 
+// Power : Fiery Embrace
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P2037304043" "Significantly boosts the damage of all your and your Demons' Fire attacks for quite a while. Also increases the damage of all your other non-fire based attacks for a short while."
+// -------------------------------------------------------------------------------- 
+// Power : Hellish Transformation
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1178955264" "Hellish Transformation"
+// DisplayShortHelp :
+"P4039778946" "Special, Merge with Demons"
+// DisplayHelp (Power Help Text) :
+"P4147921292" "You have taken the demons you summon into yourself, allowing you to wield their Hellfire directly as a Demon Lord. This increases your resistance to Lethal, Smashing, Fire, Cold and Toxic damage, as well as protection from Fear and a host of hellish attacks."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Natural Instinct
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P754651892" "Natural Instinct"
+// DisplayHelp :
+"P2761383659" "You have linked yourself to nature through a bond with a Dire Wolf, granting you that ability to bend it to your will. You can use this force to heal yourself and allies. Some powers in this set provide Bloom, which augments your healing abilities."
+// -------------------------------------------------------------------------------- 
+// Power : Summon Dire Wolf
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P317081537" "You call upon the aid of the fabled Dire Wolf. It has powerful bite and breath attacks. Unlike wolves and lions, the Dire Wolf has some limited ranged attacks. The Dire Wolf has good defense to Melee, Ranged and AoE attacks and good resistance to Cold damage. You may only have 1 Dire Wolf under your control at any given time. If you attempt to summon another Dire Wolf the power will fail."
+// -------------------------------------------------------------------------------- 
+// Power : Reconstruction
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P2130424238" "PBAoE Ally Heal, +Resistance(Toxic), +1 Bloom"
+// DisplayHelp (Power Help Text) :
+"P3409809199" "Through perfect control of your body, you can concentrate for a few moments and heal those around you. The effects of Reconstruction also grant resistance to Toxic damage for a while and a stack of Bloom."
+// -------------------------------------------------------------------------------- 
+// Power : Integration
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3486504328" "Toggle: Self +Resistance(Disorient, Hold, Sleep, Immobilize, Knockback), AOE Ally +Regeneration "
+// DisplayHelp (Power Help Text) :
+"P870054195" "You can Integrate your mind and body, making you and your partner resistant to Knockback, Disorient, Hold, Sleep, and Immobilization effects, as well as increase the regeneration rate of all nearby allies, for as long as you can keep this toggle power active."
+// -------------------------------------------------------------------------------- 
+// Power : Instant Healing
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3713351444" "PBAoE Ally +Regeneration"
+// DisplayHelp (Power Help Text) :
+"P2851860656" "When you activate this power, you and those around you can regenerate your health at an astounding rate. This boost to your Regeneration Rate lasts about a minute and takes a long time to recharge once used."
+// -------------------------------------------------------------------------------- 
+// Power : Revive
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P1840904556" "Click: PBAoE Self and Ally Resurrect"
+// DisplayHelp (Power Help Text) :
+"P1962691160" "Should you fall in battle, you can Revive yourself from the brink of death, unleashing a rush of healing energy in the process. You and other fallen allies around you will revive with most of your Hit Points and half your Endurance and be protected from XP Debt for 90 seconds. You will also have 15 seconds of immunity to most damage. "
+// -------------------------------------------------------------------------------- 
+// Power : Primal Form
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P442733025" "Primal Form"
+// DisplayShortHelp (Mouseover) :
+"P1087378198" "Special, Merge with Dire Wolf"
+// DisplayHelp (Power Help Text) :
+"P3015029121" "You can become one with your Dire Wolf, granting you its teeth and claws, as well as bonuses to defense against ranged, melee and AoE attacks, protection from Confuse and Placate, increased movement speed, and resistance to cold, lethal and smashing damage."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Nether Force
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4022775679" "Nether Force"
+// DisplayHelp :
+"P2340395656" "You have become connected to a powerful being of the Netherworld known as a Lich, who has granted you access to the Netherworld's protective energy in exchange for anchoring it to our plane."
+// -------------------------------------------------------------------------------- 
+// Power : Dark Embrace
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P2681633570" "Toggle: Self and Partner +Res(Smash, Lethal, Negative, Toxic)"
+// DisplayHelp (Power Help Text) :
+"P1256096602" "You tap into the energy of the Netherworld to protect yourself and your Partner from damage. This Dark Embrace shrouds you and grants resistance to Lethal, Smashing, Negative Energy and Toxic damage."
+// -------------------------------------------------------------------------------- 
+// Power : Murky Cloud
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3220034228" "Toggle: PBAoE Self and Partner +Resistance(Fire, Cold, Energy, Negative, Endurance Drain) "
+// DisplayHelp (Power Help Text) :
+"P1087864338" "You create a Murky Cloud enshrouding you. This cloud can absorb all forms of energy, making you and your Partner more resistant to Fire, Cold, Energy, and Negative Energy attacks, as well as Endurance Drain effects. "
+// -------------------------------------------------------------------------------- 
+// Power : Obsidian Shield
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P2451919899" "Toggle: PBAoE Ally +Resistance(Psionic), Self +Resistance(Sleep, Hold, Disorient, Fear)"
+// DisplayHelp (Power Help Text) :
+"P4182336535" "You can create a special Obsidian Shield that grants good resistance to Psionic damage to those around you. With your mind enshrouded in darkness you are protected from Sleep, Fear, Hold and Disorient attacks."
+// -------------------------------------------------------------------------------- 
+// Power : Assume Undeath
+// -------------------------------------------------------------------------------- 
+// DisplayName : 
+"P2139058635" "Assume Undeath"
+// DisplayShortHelp (Mouseover) :
+"P2723632671" "Special, Merge with Lich"
+// DisplayHelp (Power Help Text) :
+"P4235287675" "You have combined your power with that of your undead ally, unlocking greater powers over darkness, as well as imbuind you with enhanced resistance to Negative Energy, Cold and Toxic damage, as well as protection from Sleep and Fear effects and a set of shadowy attacks."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Ninjitsu
+// -------------------------------------------------------------------------------- 
+// DisplayHelp :
+"P2998955237" "You are a practitioner of the arts of ninjutsu. Along with your trusted student, you are able to evade attacks and befuddle enemies."
+// -------------------------------------------------------------------------------- 
+// Power : Ninja Reflexes
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3861873125" "Toggle: PBAoE Ally +Def(Melee), +Res(Def Debuff)"
+// DisplayHelp (Power Help Text) :
+"P2236912589" "Activating the Seal of Intuition, you grant yourself and those around you a bonus to defense against melee attack and a greater resistance to defense debuffs."
+// -------------------------------------------------------------------------------- 
+// Power : Danger Sense
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3409798308" "Toggle: PBAoE Ally +Def(Ranged, Area of Effect), +Res(Def Debuff), +Perception"
+// DisplayHelp (Power Help Text) :
+"P3014511944" "The Seal of Awareness grants you and nearby allies a bonus to defense against ranged and area attacks while active, as well as enhancing perception and resistance to defense debuffs."
+// -------------------------------------------------------------------------------- 
+// Power : Kuji-In Rin
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P1400518892" "Kuji-In Rin is the strength of mind and body. By focusing your power on this exercise, you and your Jounin gain a resistance to Disorient, Hold, Sleep, Immobilization, Confusion, and Fear, as well as resistance to Psionic damage for a few minutes. "
+// -------------------------------------------------------------------------------- 
+// Power : Kuji-In Sha
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P1949928212" "Click: PBAoE Ally Heal, +Res(Toxic)"
+// DisplayHelp (Power Help Text) :
+"P3164625867" "Kuji-In Sha invokes the power of Sha, or healing. Focusing your inner power, you can heal yourself and your allies of wounds and leave all resistant to the effects of Toxic damage for a while. "
+// -------------------------------------------------------------------------------- 
+// Power : Oni no Henshin
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P2629978112" "Oni no Henshin"
+// DisplayShortHelp (Mouseover) :
+"P4019493806" "Special, Oni Transformation"
+// DisplayHelp (Power Help Text) :
+"P3093783699" "Your disciples sacrifice themselves to fuel your transformation into a demon of fire and vengeance known as an Oni. Whil in this form, you wield several fiery attacks, and gain enhanced defense against melee, ranged and area attacks, resistance to Smashing, Lethal and Fire damage, enhanced Endurance recovery, protection from Confusion and Taunts, and resistance to defense debuffs."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Robotics
+// -------------------------------------------------------------------------------- 
+// DisplayHelp :
+"P3284189322" "You have control over an Assault Bot loaded with a variety of weapons. In addition, you have several devices capable of hindering enemies or emitting protective force fields around you."
+// -------------------------------------------------------------------------------- 
+// Power : Deflection Shield
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P1710388808" "Toggle: PBAoE, Ally +DEF(Smash, Lethal, Melee), +Res(Toxic)"
+// DisplayHelp (Power Help Text) :
+"P1882102583" "Dramatically protects you and nearby allies from Smashing, Lethal and all Melee attacks while active. Also reduces Toxic damage."
+// -------------------------------------------------------------------------------- 
+// Power : Insulation Shield
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P2299597199" "Toggle: PBAoE Ally +DEF(Fire, Cold, Energy, Negative, Ranged, AoE), +Res(End Drain)"
+// DisplayHelp (Power Help Text) :
+"P3880114694" "Dramatically protects you and allies from Fire, Cold, Energy, Negative Energy, Ranged and AoE attacks while active. The Insulation also protects the target from Endurance Draining effects."
+// -------------------------------------------------------------------------------- 
+// Power : Repair
+// -------------------------------------------------------------------------------- 
+// DisplayHelp (Power Help Text) :
+"P342572899" "You can release a small swarm of nanites that can Repair your Assault Bot to full health and restores some of its Endurance. This power only works on your Assault Bot partner."
+// -------------------------------------------------------------------------------- 
+// Power : Armor Protocol
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P2259517410" "Armor Protocol"
+// DisplayShortHelp (Mouseover) :
+"P1493065189" "Special, Merge with Assault Bot"
+// DisplayHelp (Power Help Text) :
+"P2479789803" "You can wrap yourself in your assault bot like an exoskeleton, offering you direct access to its weapons and defenses, as well as a thick layer of protection. You gain protection from Sleep, Fear, and Stun effects, resistance to Lethal, Cold, and Psionic damage, and a significant amount of Absorb."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Streetwise
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4149362117" "Streetwise"
+// DisplayHelp :
+"P3877431251" "Your charisma and determination allow you to push your allies forward and have attracted the loyalty of a Bruiser. This powerset is an all-around effective set with strong group buffs."
+// -------------------------------------------------------------------------------- 
+// Power : Mind Over Body
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P1444489732" "Toggle: PBAoE Ally +Resistance(Smashing, Lethal, Psionic)"
+// DisplayHelp (Power Help Text) :
+"P2213276857" "When you toggle on this power, you empower your allies' Mind Over Body to become highly resistant to Smashing, Lethal and Psionic damage."
+// -------------------------------------------------------------------------------- 
+// Power : Indomitable Will
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P163431477" "Toggle: PBAoE Ally +Defense(Psionic), Self +Res(Disorient, Hold, Sleep, Fear, Confusion, Knockback)"
+// DisplayHelp (Power Help Text) :
+"P2684890606" "When you toggle on this power, it grants you and your partner protection from Sleep, Disorient, Fear, Confusions, Repel, Knockback and Hold effects. Indomitable Will also grant a moderate defense to Psionic based attacks to all nearby allies. "
+// -------------------------------------------------------------------------------- 
+// Power : Rally
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P2788631719" "Rally"
+// DisplayShortHelp (Mouseover) :
+"P1139366202" "PBAoE: Ally +Absorb, +Regeneration"
+// DisplayHelp (Power Help Text) :
+"P541216686" "You can rally your friends and your partner to victory, giving them an Absorb shield and a bonus to regeneration."
+// -------------------------------------------------------------------------------- 
+// Power : Call Everybody
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P1757268311" "Call Everybody"
+// DisplayShortHelp (Mouseover) :
+"P2512820719" "Summon Gang"
+// DisplayHelp (Power Help Text) :
+"P4247907385" "You put out a call for the roughest guys in the neighborhood. This summons five local ruffians, who will aid you for a few minutes. They take orders better than the average guy, and can even be enhanced with your own powers!"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Super Serum
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3409802089" "Super Serum"
+// DisplayHelp :
+"P1993497039" "You have created a super serum that has grant you and your Commando partner, a fellow beneficiary of the serum, extreme durability and a defensive aura. This set has high resistance to most damage types, as well as potent offensive debuffs as you learn to unlock the serum's properties."
+// -------------------------------------------------------------------------------- 
+// Power : Temp Invulnerability
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3330653477" "Toggle: PBAoE Ally +Res(Smashing, Lethal)"
+// DisplayHelp (Power Help Text) :
+"P3276870019" "When you toggle on this power, you perspire a vapor that causes you and those around you to become highly resistant to Smashing and Lethal damage."
+// -------------------------------------------------------------------------------- 
+// Power : Resist Elements
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3993718417" "Auto: Self and Partner +Res(Fire, Cold, Toxic, -Recharge, -Speed, -Jump)"
+// DisplayHelp (Power Help Text) :
+"P4139476358" "Your serum passively protects you and your Partner, granting resistance to Fire, Cold and Toxic damage, as well as resistance to Slow effects."
+// -------------------------------------------------------------------------------- 
+// Power : Resist Energies
+// -------------------------------------------------------------------------------- 
+// DisplayShortHelp (Mouseover) :
+"P3036819721" "Toggle: PBAoE Ally +Res(Energy, Negative, End Drain)"
+// DisplayHelp (Power Help Text) :
+"P4100698844" "While this power is toggled, your serum causes create a field that confers resistance to Energy and Negative Energy damage and Endurance drain effects to you and your Partner."
+// -------------------------------------------------------------------------------- 
+// Power : Transmute
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P1802669341" "Transmute"
+// DisplayShortHelp (Mouseover) :
+"P1379947600" "Special, Mutate Self and Partner"
+// DisplayHelp (Power Help Text) :
+"P392358043" "You have perfected a serum to a point that  you can briefly turn both yourself and your Commando into hideous but powerful monsters bonuses to Damage and To Hit. However, when the formula wears off, you are both left with reduced Defense, drained of some of your Endurance, and your attacks are substantially weakened."
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Mental Projection
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3455256583" "Mental Projection"
+// DisplayHelp :
+"P2021209852" "You can project your will onto those around you, establishing telepathic defenses for yourself and others and using an astral Doppleganger of yourself to fight."
+// -------------------------------------------------------------------------------- 
+// Power : Doppleganger
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P1392446365" "Doppleganger"
+// DisplayShortHelp (Mouseover) :
+"P1935666599" "Summon Astral Double"
+// DisplayHelp (Power Help Text) :
+"P1572684069" "This power summons a doppleganger from your mind to assist you. Although made of thought, the Doppleganger is tangible and has powerful Energy attacks. The Doppleganger can also fly and summon Phantasms. The Phantasms are intangible, and cannot be harmed. The Phantasms' attacks deal illusory damage similar to that dealt by Spectral Wounds. Only the original Doppleganger can be commanded, healed and buffed."
+// -------------------------------------------------------------------------------- 
+// Power : Daze
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P2486154698" "Daze"
+// DisplayShortHelp (Mouseover) :
+"P2132242576" "Ranged (Cone): Foe Stun"
+// DisplayHelp (Power Help Text) :
+"P1651619034" "You can project a burst of psychic noise that render targets disoriented."
+// -------------------------------------------------------------------------------- 
+// Power : Mass Placate
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P2279158496" "Mass Placate"
+// DisplayShortHelp (Mouseover) :
+"P3415948755" "Click: PBAoE Foe Placate"
+// DisplayHelp (Power Help Text) :
+"P2973061334" "You can exude a wave of calm that forces enemies to stop fighting momentarily, Placating them. They will be able to attack you again if you attack them."
+// -------------------------------------------------------------------------------- 
+// Power : Astral Form
+// -------------------------------------------------------------------------------- 
+// Display Name
+"P1657628533" "Astral Form"
+// DisplayShortHelp (Mouseover) :
+"P2335305095" "Special, Assume Astral Form"
+// DisplayHelp (Power Help Text) :
+"P2437706068" "You push your psychic power to the limit, transforming you into a psychic being that exudes a protective aura and can strike terror into enemies. Afterward, you are left drained of most of your endurance and endurance recovery for a while."
+
+
+//Synergist ATOs
+// Group Name:
+"P0762106681" "Synergist Archetype Sets"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1068874" "(Synergist) Synergist's Coordination:"
+// Group Name :
+"P609373253" "Synergist's Coordination"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination A
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P225478393" "Attuned Synergist's Coordination A"
+// DisplayShortHelp :
+"P1906411549" "Set: Synergist's Coordination"
+// DisplayHelp :
+"P3122960206" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and accuracy by {Boost.Attrib.Accuracy.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2234366027" "(Synergist) Synergist's Coordination: Accuracy/Damage"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination B
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2491012931" "Attuned Synergist's Coordination B"
+// DisplayHelp :
+"PSYNATO1B" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the damage of a power by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}%.  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1068874" "(Synergist) Synergist's Coordination:"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination C
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3816744917" "Attuned Synergist's Coordination C"
+// DisplayHelp :
+"P1309864322" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P681985613" "(Synergist) Synergist's Coordination: Accuracy/Damage/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination D
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2098885238" "Attuned Synergist's Coordination D"
+// DisplayHelp :
+"P499014271" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P498590442" "(Synergist) Synergist's Coordination: Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination E
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P169689824" "Attuned Synergist's Coordination E"
+// DisplayHelp :
+"P709232492" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2885968658" "(Synergist) Synergist's Coordination: Accuracy/Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Synergist's Coordination F
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1043647839" "Attuned Synergist's Coordination"
+// DisplayHelp :
+"P3780991518" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Reduces recharge time by {Boost.Attrib.Recharge.Scale}% Additionally, while slotted in one of your attacks, that attack has a 1PPM chance to grant you a boost to damage and ToHit, and if slotted in a pet power, it grants that to the pets' attacks instead .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P325354271" "(Synergist) Synergist's Coordination: Recharge/Special Chance for Build Up"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2872373039" "(Synergist) Superior Synergist's Coordination"
+// Group Name :
+"P1398496226" "Superior Synergist's Coordination"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination A
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3270190767" "Attuned Superior Synergist's Coordination A"
+// DisplayShortHelp :
+"P1843939393" "Set: Superior Synergist's Coordination"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P543293565" "(Synergist) Superior Synergist's Coordination: Accuracy/Damage"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination B
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1541568277" "Attuned Superior Synergist's Coordination B"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2872373039" "(Synergist) Superior Synergist's Coordination:"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination C
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P753223555" "Attuned Superior Synergist's Coordination C"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2332866506" "(Synergist) Superior Synergist's Coordination: Accuracy/Damage/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination D
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2994852384" "Attuned Superior Synergist's Coordination D"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1858625176" "(Synergist) Superior Synergist's Coordination: Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination E
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3313951414" "Attuned Superior Synergist's Coordination E"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1688114180" "(Synergist) Superior Synergist's Coordination: Accuracy/Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Synergist's Coordination F
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P3205451371" "Attuned Superior Synergist's Coordination F"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Synergist's Coordination
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P740661741" "(Synergist) Superior Synergist's Coordination: Recharge/Special Chance for Build Up"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P512506119" "(Synergist) Shared Victory"
+// Group Name :
+"P650497685" "Shared Victory"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory A
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4173187091" "Attuned Shared Victory A"
+// DisplayShortHelp :
+"P1233759980" "Set: Shared Victory"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P124447359" "(Synergist) Shared Victory: Accuracy/Damage"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory B
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1639225769" "Attuned Shared Victory B"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P512506119" "(Synergist) Shared Victory: Damage/Endurance"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory C
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P380873023" "Attuned Shared Victory C"
+// DisplayHelp :
+"P1309864322" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}% and damage by {Boost.Attrib.Damage.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P2662128908" "(Synergist) Shared Victory: Accuracy/Damage/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory D
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2295807132" "Attuned Shared Victory D"
+// DisplayHelp :
+"P499014271" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the damage by {Boost.Attrib.Damage.Scale}% and reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P484088183" "(Synergist) Shared Victory: Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory E
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4291824650" "Attuned Shared Victory E"
+// DisplayHelp :
+"P709232492" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Enhances the accuracy of a power by {Boost.Attrib.Accuracy.Scale}%, damage by {Boost.Attrib.Damage.Scale}%, reduces endurance cost by {Boost.Attrib.Endurance.Scale}% and reduces recharge time by {Boost.Attrib.Recharge.Scale}% .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1205450045" "(Synergist) Shared Victory: Accuracy/Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Shared Victory F
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1725521328" "Attuned Shared Victory F"
+// DisplayHelp :
+"P4213552862" "UNIQUE -- No more than 1 enhancement of this type may be slotted by a character.  Reduces recharge time by {Boost.Attrib.Recharge.Scale}% Additionally, while slotted in one of your attacks, that attack has a 1PPM chance to grant your pet(s) a +1 level combat shift, and if slotted in a pet power, it grants that to the pets' attacks instead .  This enhancement can only be slotted in a Synergist attack or pet power."
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P4087515641" "(Synergist) Shared Victory: Recharge/Pet Combat Shift"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1943782260" "(Synergist) Superior Shared Victory"
+// Group Name :
+"P230283344" "Superior Shared Victory"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory A
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P441307819" "Attuned Superior Shared Victory A"
+// DisplayShortHelp :
+"P4217090023" "Set: Superior Shared Victory"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3574161896" "(Synergist) Superior Shared Victory: Accuracy/Damage"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory B
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2202305297" "Attuned Superior Shared Victory B"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1943782260" "(Synergist) Superior Shared Victory:"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory C
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P4098077575" "Attuned Superior Shared Victory C"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3684794411" "(Synergist) Superior Shared Victory: Accuracy/Damage/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory D
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P1780950564" "Attuned Superior Shared Victory D"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3113558337" "(Synergist) Superior Shared Victory: Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory E
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P488642226" "Attuned Superior Shared Victory E"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P3832759482" "(Synergist) Superior Shared Victory: Accuracy/Damage/Endurance/Recharge"
+// ******************************************************************************** 
+// -------------------------------------------------------------------------------- 
+// Power Set : Superior Shared Victory F
+// -------------------------------------------------------------------------------- 
+// DisplayName :
+"P2217297672" "Attuned Superior Shared Victory F"
+// -------------------------------------------------------------------------------- 
+// Power : Attuned Superior Shared Victory
+// -------------------------------------------------------------------------------- 
+// Display Name :
+"P1458385359" "(Synergist) Superior Shared Victory: Recharge/Pet Combat Shift"
+
+"P1458385358" "When you and your partner are within 60 feet of each other, both of you receive a small boost to Damage and ToHit."
+"P1086690977" "Partner: +ToHit, +DMG"
+"P8739193" "Partnership"
+"GameMaster_Special" "GM Special"
+"GM_Buff" "GM Buff"
+"GM_Buff_Help" "Drastically improves your Regeneration, Recovery, Damage, ToHit, Perception, and Resistance to Status effects"
+"GM_Buff_Victim" "You empower {PlayerDest} with dramatically increased Endurance Recovery, Hit Point Regeneration, Attack Rate, Damage, ToHit, Perception, and Resistance to Status Effects."
+"GM_Buff_VictimHit" "{PlayerSource} empowers you with dramatically increased Endurance Recovery, Hit Point Regeneration, Attack Rate, Damage, ToHit, Perception, and Resistance to Status Effects."

@@ -586,8 +586,8 @@ Power Scrapper_Melee.Anarchist.Bang!
 	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kRange_Boost, kKnockback_Boost, kDebuff_Defense_Boost
 	// Additional Power Factors
 	StrengthsDisallowed  kRange
-	VisualFX             "menu\Powers\AnimFX\DualPistols_ExecutionersShot.pfx"
-	include              menu\Powers\AnimFX\DualPistols_ExecutionersShot.pfx
+	VisualFX             "menu\Powers\AnimFX\Temp_Revolver.pfx"
+	include              menu\Powers\AnimFX\Temp_Revolver.pfx
 	DisplayShortHelp     "P4159312437"
 	DisplayHelp          "P1021305553"
 	IconName             "Anarchist_bang.tga"

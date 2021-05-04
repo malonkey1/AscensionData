@@ -278,7 +278,7 @@ Power Tanker_Melee.Absolute_Strength.Roomsweeper
 	EntsAffected         kFoe
 	EntsAutoHit          kNone
 	Target               kFoe
-	Range                7
+	Range                10
 	EnduranceCost        8.528
 	IdeaCost             0
 	TravelSuppression    1
@@ -287,7 +287,7 @@ Power Tanker_Melee.Absolute_Strength.Roomsweeper
 	RechargeTime         8
 	ActivatePeriod       0
 	EffectArea           kCone
-	Radius               7
+	Radius               10
 	Arc                  50
 	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kStunned_Boost, kTaunt_Boost
 	// Additional Power Factors
@@ -1057,7 +1057,7 @@ Power Tanker_Melee.Absolute_Strength.Shattering_Uppercut
 	include              menu\Powers\AnimFX\PlayerPowers\TankerMelee_AbsoluteStrength_Shattering_Uppercut.pfx
 	DisplayShortHelp     "P2442703215"
 	DisplayHelp          "P3314722325"
-	IconName             "Absolute_Strength_T5Shattering_Uppercut.tga"
+	IconName             "Absolute_Strength_T5_Shattering_Uppercut.tga"
 	TimeToConfirm        0
 	MaxTargetsHit        5
 	AnimMainTargetOnly   kTrue
