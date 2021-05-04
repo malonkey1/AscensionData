@@ -1535,7 +1535,7 @@ Power Tanker_Defense.Energy_Aura.Entropy_Shield
 		Table                "Melee_Damage"                
 		Aspect               kAbs
 		Attrib               kEnergy
-		Target               kTarget
+		Target               kFoe
 		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kTrue
@@ -1557,7 +1557,7 @@ Power Tanker_Defense.Energy_Aura.Entropy_Shield
 		Table                "Melee_Damage"                
 		Aspect               kAbs
 		Attrib               kFire
-		Target               kTarget
+		Target               kFoe
 		Scale                45
 		Type                 kMagnitude
 		AllowStrength        kTrue
