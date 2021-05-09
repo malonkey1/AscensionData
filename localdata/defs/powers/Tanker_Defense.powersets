@@ -1090,3 +1090,85 @@ PowerSet Tanker_Defense.Energy_Aura
 	MaxDifficulty 9999
 
 }
+
+PowerSet Tanker_Defense.Plant_Armor
+{
+	Name             "Plant_Armor"
+	DisplayName      "P4057233587"
+	DisplayShortHelp "P4057233587"
+	DisplayHelp      "P1947600273"
+	IconName         "Energy_Aura_set.ico"
+
+	Powers Tanker_Defense.Plant_Armor.Vine_Grip
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Spore_Emanation
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Natures_Grasp
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Photosynthesis
+	Available 5
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Pheromones
+	Available 7
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Entangling_Aura
+	Available 11
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Vine_Burst
+	Available 17
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Rebirth
+	Available 25
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Tanker_Defense.Plant_Armor.Overgrowth
+	Available 31
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}

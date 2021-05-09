@@ -373,3 +373,8 @@ Powers Mastermind_Buff.Radiation_Emission.Radiation_Emission
 //Tanker Energy Aura
 Powers Tanker_Defense.Energy_Aura.Energize
 Powers Tanker_Defense.Energy_Aura.Overload
+//Plant Defense
+Powers Scrapper_Defense.Plant_Armor.Photosynthesis
+Powers Scrapper_Defense.Plant_Armor.Rebirth
+Powers Tanker_Defense.Plant_Armor.Photosynthesis
+Powers Tanker_Defense.Plant_Armor.Rebirth

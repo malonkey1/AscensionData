@@ -179,3 +179,6 @@ Powers Scrapper_Melee.Energy_Melee.Build_Up
 Powers Defender_Ranged.Sorcerous_Blast.Arcane_Power
 //Heretical Occultism
 Powers Blaster_Ranged.Heretical_Occultism.Midnight_Focus
+//Plant Armor
+Powers Tanker_Defense.Plant_Armor.Overgrowth
+Powers Scrapper_Defense.Plant_Armor.Overgrowth

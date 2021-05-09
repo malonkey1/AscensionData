@@ -11784,7 +11784,7 @@ Power Inherent.Inherent.Cosmic_Balance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -11807,7 +11807,7 @@ Power Inherent.Inherent.Cosmic_Balance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -12960,7 +12960,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -12983,7 +12983,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13006,7 +13006,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13029,7 +13029,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13052,7 +13052,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13075,7 +13075,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13098,7 +13098,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 
@@ -13121,7 +13121,7 @@ Power Inherent.Inherent.Dark_Sustenance
 		NearGround           kFalse
 		CancelOnMiss         kFalse
 		StackType            kStack
-		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  ||
+		Requires             arch target> Class_Tanker eq  arch target> Class_Defender eq  || arch target> Class_Mastermind eq  || arch target> Class_Corruptor eq  || arch target> Class_Synergist eq  ||
 		AllowCombatMods      kFalse
 	}
 

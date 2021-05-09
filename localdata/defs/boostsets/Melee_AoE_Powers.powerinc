@@ -368,3 +368,6 @@ Powers Defender_Ranged.Sorcerous_Blast.Dimensional_Aegis
 //Heretical Occultism
 Powers Blaster_Ranged.Heretical_Occultism.Twilight_Hail
 Powers Blaster_Ranged.Heretical_Occultism.Cthulus_Rage
+//Plant Armor
+Powers Scrapper_Defense.Plant_Armor.Vine_Burst
+Powers Tanker_Defense.Plant_Armor.Vine_Burst

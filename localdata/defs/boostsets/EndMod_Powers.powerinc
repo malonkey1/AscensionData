@@ -355,3 +355,8 @@ Powers Tanker_Defense.Energy_Aura.Overload
 //Heretical Occultism
 Powers Blaster_Ranged.Heretical_Occultism.Ancient_Bolt
 Powers Blaster_Ranged.Heretical_Occultism.Ancient_Blast
+//Plant Armor
+Powers Scrapper_Defense.Plant_Armor.Photosynthesis
+Powers Scrapper_Defense.Plant_Armor.Rebirth
+Powers Tanker_Defense.Plant_Armor.Photosynthesis
+Powers Tanker_Defense.Plant_Armor.Rebirth

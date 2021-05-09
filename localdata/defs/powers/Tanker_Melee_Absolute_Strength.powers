@@ -288,7 +288,7 @@ Power Tanker_Melee.Absolute_Strength.Roomsweeper
 	ActivatePeriod       0
 	EffectArea           kCone
 	Radius               10
-	Arc                  50
+	Arc                  60
 	BoostsAllowed        kAccuracy_Boost, kDamage_Boost, kRecharge_Boost, kEnduranceDiscount_Boost, kStunned_Boost, kTaunt_Boost
 	// Additional Power Factors
 	StrengthsDisallowed  kRange

@@ -62,12 +62,12 @@ Power Scrapper_Melee.Anarchist.Knife_Slash
 		Aspect               kAbs
 		Attrib               kLethal
 		Target               kTarget
-		Scale                0.15
+		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kTrue
 		AllowResistance      kTrue
 		Delay                0
-		Duration             5
+		Duration             0
 		Magnitude            1
 		Period               0
 		Chance               1.000

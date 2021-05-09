@@ -299,3 +299,6 @@ Powers Tanker_Defense.Empyrean_Armor.Well_Of_The_Furies
 ///Tanker Energy Aura
 Powers Tanker_Defense.Energy_Aura.Dampening_Field
 Powers Tanker_Defense.Energy_Aura.Entropy_Shield
+//Plant Armor
+Powers Tanker_Defense.Plant_Armor.Vine_Grip
+Powers Scrapper_Defense.Plant_Armor.Vine_Grip

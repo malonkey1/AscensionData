@@ -297,7 +297,7 @@ Power Tanker_Defense.Energy_Aura.Dampening_Field
 		Aspect               kRes
 		Attrib               kSmashing
 		Target               kSelf
-		Scale                1.25
+		Scale                3.25
 		Type                 kMagnitude
 		AllowStrength        kTrue
 		AllowResistance      kFalse
@@ -319,7 +319,7 @@ Power Tanker_Defense.Energy_Aura.Dampening_Field
 		Aspect               kRes
 		Attrib               kLethal
 		Target               kSelf
-		Scale                1.25
+		Scale                3.25
 		Type                 kMagnitude
 		AllowStrength        kTrue
 		AllowResistance      kFalse
@@ -1535,7 +1535,7 @@ Power Tanker_Defense.Energy_Aura.Entropy_Shield
 		Table                "Melee_Damage"                
 		Aspect               kAbs
 		Attrib               kEnergy
-		Target               kFoe
+		Target               kTarget
 		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kTrue
@@ -1557,7 +1557,7 @@ Power Tanker_Defense.Energy_Aura.Entropy_Shield
 		Table                "Melee_Damage"                
 		Aspect               kAbs
 		Attrib               kFire
-		Target               kFoe
+		Target               kTarget
 		Scale                45
 		Type                 kMagnitude
 		AllowStrength        kTrue
@@ -1854,7 +1854,6 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 	EntsAutoHit          kFoe
 	Target               kCaster
 	Range                0
-	TargetSecondary      kPosition
 	EnduranceCost        0.52
 	IdeaCost             0
 	InterruptTime        0
@@ -1866,8 +1865,6 @@ Power Tanker_Defense.Energy_Aura.Magnetic_Aegis
 	Arc                  0
 	BoostsAllowed        kRecharge_Boost, kEnduranceDiscount_Boost, kBuff_Defense_Boost
 	// Additional Power Factors
-	PositionCenter       kCaster
-	PositionDistance     5
 	ToggleIgnoreHold     kTrue
 	ToggleIgnoreSleep    kTrue
 	ToggleIgnoreStun     kTrue

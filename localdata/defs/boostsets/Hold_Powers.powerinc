@@ -176,3 +176,6 @@ Powers Mastermind_Buff.Radiation_Emission.Choking_Cloud
 Powers Mastermind_Buff.Radiation_Emission.EMP_Pulse
 //Might Assault
 Powers Dominator_Assault.Might_Assault.Knockout_Blow
+//Plant Armor
+Powers Tanker_Defense.Plant_Armor.Entangling_Aura
+Powers Scrapper_Defense.Plant_Armor.Entangling_Aura
