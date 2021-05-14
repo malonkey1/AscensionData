@@ -4,6 +4,7 @@ PowerCategory Mastermind_Summon
 {
 	DisplayName "P3418814687"
 	PowerSets Mastermind_Summon.Beast_Mastery
+	PowerSets Mastermind_Summon.Carnival_Command
 	PowerSets Mastermind_Summon.Clockwork_Assembly
 	PowerSets Mastermind_Summon.Demon_Summoning
 	PowerSets Mastermind_Summon.Mercenaries

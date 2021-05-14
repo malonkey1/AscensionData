@@ -108,5 +108,14 @@ PowerCategory Mastermind_Pets
 	PowerSets Mastermind_Pets.Clockwork_Prince_3
 	PowerSets Mastermind_Pets.Clockwork_Build
 	PowerSets Mastermind_Pets.Synergist
+	PowerSets Mastermind_Pets.Harlequin
+	PowerSets Mastermind_Pets.Harlequin_2
+	PowerSets Mastermind_Pets.Harlequin_3
+	PowerSets Mastermind_Pets.Master_Illusionist
+	PowerSets Mastermind_Pets.Master_Illusionist_2
+	PowerSets Mastermind_Pets.Master_Illusionist_3
+	PowerSets Mastermind_Pets.Steel_Strongman
+	PowerSets Mastermind_Pets.Steel_Strongman_2
+	PowerSets Mastermind_Pets.Steel_Strongman_3
 }
 
