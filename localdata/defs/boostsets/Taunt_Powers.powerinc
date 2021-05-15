@@ -381,3 +381,7 @@ Powers Tanker_Defense.Empyrean_Armor.Bio-Electric_Aura
 //Tanker Energy Aura
 Powers Tanker_Defense.Energy_Aura.Entropy_Shield
 Powers Tanker_Defense.Energy_Aura.Energy_Drain
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Taunt
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Taunt

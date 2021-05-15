@@ -5797,7 +5797,6 @@ PowerSet Temporary_Powers.Temporary_Powers
 	AIMaxRankCon 9999
 	MinDifficulty 2
 	MaxDifficulty 9999
-
 }
 PowerSet Temporary_Powers.Accolades
 {

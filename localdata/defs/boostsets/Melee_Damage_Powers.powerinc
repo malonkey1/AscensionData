@@ -467,3 +467,12 @@ Powers Dominator_Assault.Might_Assault.Punch
 Powers Dominator_Assault.Might_Assault.Haymaker
 Powers Dominator_Assault.Might_Assault.Knockout_Blow
 Powers Dominator_Assault.Might_Assault.Foot_Stomp
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Rapid_Strikes
+Powers Scrapper_Melee.Speed_Force.Tunnel_Vortex
+Powers Scrapper_Melee.Speed_Force.Vorpal_Flurry
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Stone_Fist
+Powers Scrapper_Melee.Stone_Melee.Stone_Mallet
+Powers Scrapper_Melee.Stone_Melee.Heavy_Mallet
+Powers Scrapper_Melee.Stone_Melee.Seismic_Smash

@@ -1793,3 +1793,15 @@ Powers Mastermind_Summon.Carnival_Command.Blind
 Powers Mastermind_Summon.Carnival_Command.Conjure_Illusionists
 Powers Mastermind_Summon.Carnival_Command.Decoy
 Powers Mastermind_Summon.Carnival_Command.Conjure_Strongman
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Rapid_Strikes
+Powers Scrapper_Melee.Speed_Force.Dashing_Force
+Powers Scrapper_Melee.Speed_Force.Sound_Barrier
+Powers Scrapper_Melee.Speed_Force.Speed_Conduit
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Heavy_Mallet
+Powers Scrapper_Melee.Stone_Melee.Hurl_Boulder
+Powers Scrapper_Melee.Stone_Melee.Seismic_Smash
+Powers Scrapper_Melee.Stone_Melee.Stone_Fist
+Powers Scrapper_Melee.Stone_Melee.Stone_Mallet
+Powers Scrapper_Melee.Stone_Melee.Tremor

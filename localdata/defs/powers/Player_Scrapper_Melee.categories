@@ -18,6 +18,8 @@ PowerCategory Scrapper_Melee
 	PowerSets Scrapper_Melee.Psionic_Melee
 	PowerSets Scrapper_Melee.Radiation_Melee
 	PowerSets Scrapper_Melee.Savage_Melee
+	PowerSets Scrapper_Melee.Speed_Force
+	PowerSets Scrapper_Melee.Stone_Melee
 	PowerSets Scrapper_Melee.Quills
 	PowerSets Scrapper_Melee.Staff_Fighting
 	PowerSets Scrapper_Melee.Brawling

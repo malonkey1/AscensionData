@@ -371,3 +371,9 @@ Powers Blaster_Ranged.Heretical_Occultism.Cthulus_Rage
 //Plant Armor
 Powers Scrapper_Defense.Plant_Armor.Vine_Burst
 Powers Tanker_Defense.Plant_Armor.Vine_Burst
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Tunnel_Vortex
+Powers Scrapper_Melee.Speed_Force.Dashing_Force
+Powers Scrapper_Melee.Speed_Force.Vorpal_Flurry
+Powers Scrapper_Melee.Speed_Force.Sound_Barrier
+Powers Scrapper_Melee.Speed_Force.Speed_Conduit

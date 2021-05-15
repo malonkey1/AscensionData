@@ -164,3 +164,15 @@ Powers Scrapper_Melee.Anarchist.Rocket_Launcher
 Powers Scrapper_Melee.Anarchist.Molotov_Cocktail
 //Plant Armor
 Powers Scrapper_Defense.Plant_Armor.Vine_Burst
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Rapid_Strikes
+Powers Scrapper_Melee.Speed_Force.Dashing_Force
+Powers Scrapper_Melee.Speed_Force.Sound_Barrier
+Powers Scrapper_Melee.Speed_Force.Speed_Conduit
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Heavy_Mallet
+Powers Scrapper_Melee.Stone_Melee.Hurl_Boulder
+Powers Scrapper_Melee.Stone_Melee.Seismic_Smash
+Powers Scrapper_Melee.Stone_Melee.Stone_Fist
+Powers Scrapper_Melee.Stone_Melee.Stone_Mallet
+Powers Scrapper_Melee.Stone_Melee.Tremor

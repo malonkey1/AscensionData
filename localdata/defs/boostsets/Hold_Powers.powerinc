@@ -181,3 +181,5 @@ Powers Tanker_Defense.Plant_Armor.Entangling_Aura
 Powers Scrapper_Defense.Plant_Armor.Entangling_Aura
 //Carnival Command
 Powers Mastermind_Summon.Carnival_Command.Blind
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Seismic_Smash

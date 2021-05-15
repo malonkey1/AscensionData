@@ -2925,7 +2925,7 @@
 // DisplayName :
 "P447992724" "Speed Force"
 // DisplayHelp :
-"P2824876503" "This set grants you ways in using the Speed Force to the highest potential, whether it be punching really fast or dashing in and out of combat, you truly harness the power of the Speed Force, in addition, if you use the powers Rapid Strikes and Vorpal Flurry, you have a 10% chance to tap into the Speed Force itself and instantly recharge Sound Barrier while also gaining a small run speed buff."
+"P2824876503" "You are attuned to the Speed Force, the sum total of all kinetic energy in the cosmos. This connection grants you the ability to attack at extreme speeds, your movement seeming almost instantaneous at times. When you use the powers Rapid Strikes and Vorpal Flurry, you have a 10% chance to tap into the Speed Force instantly recharge Sound Barrier while also gaining a small run speed buff."
 
 // -------------------------------------------------------------------------------- 
 // Power : Rapid Strikes 

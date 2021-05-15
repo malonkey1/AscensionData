@@ -182,3 +182,8 @@ Powers Blaster_Ranged.Heretical_Occultism.Midnight_Focus
 //Plant Armor
 Powers Tanker_Defense.Plant_Armor.Overgrowth
 Powers Scrapper_Defense.Plant_Armor.Overgrowth
+//Anarchist
+Powers Scrapper_Melee.Anarchist.Build_Up
+//Speed Boost
+Powers Scrapper_Melee.Energy_Melee.Build_Up
+Powers Scrapper_Melee.Speed_Force.Velocity_Boost

@@ -1684,5 +1684,167 @@ PowerSet Scrapper_Melee.Energy_Melee
 	MaxDifficulty 9999
 
 }
+PowerSet Scrapper_Melee.Stone_Melee
+{
+	Name             "Stone_Melee"
+	DisplayName      "P635704859"
+	DisplayShortHelp "P635704859"
+	DisplayHelp      "P211611681"
+	IconName         "Stone_Melee_set.ico"
+
+	Powers Scrapper_Melee.Stone_Melee.Stone_Fist
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Stone_Mallet
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Heavy_Mallet
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Build_Up
+	Available 5
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Fault
+	Available 7
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Taunt
+	Available 11
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Seismic_Smash
+	Available 17
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Hurl_Boulder
+	Available 25
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Stone_Melee.Tremor
+	Available 31
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
+PowerSet Scrapper_Melee.Speed_Force
+{
+	Name             "Speed_Force"
+	DisplayName      "P447992724"
+	DisplayShortHelp "P447992724"
+	DisplayHelp      "P2824876503"
+	IconName         "Speed_Force_set.ico"
+
+	Powers Scrapper_Melee.Speed_Force.Rapid_Strikes
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Tunnel_Vortex
+	Available 0
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Dashing_Force
+	Available 1
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Velocity_Boost
+	Available 5
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Accelerated_Perception
+	Available 7
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Taunt
+	Available 11
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Vorpal_Flurry
+	Available 17
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Sound_Barrier
+	Available 25
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+	Powers Scrapper_Melee.Speed_Force.Speed_Conduit
+	Available 31
+	AIMaxLevel 0
+	AIMinRankCon -9999
+	AIMaxRankCon 9999
+	MinDifficulty 2
+	MaxDifficulty 9999
+
+}
 // END
 // INSERT AFTER

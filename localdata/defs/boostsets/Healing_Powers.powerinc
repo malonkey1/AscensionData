@@ -378,3 +378,6 @@ Powers Scrapper_Defense.Plant_Armor.Photosynthesis
 Powers Scrapper_Defense.Plant_Armor.Rebirth
 Powers Tanker_Defense.Plant_Armor.Photosynthesis
 Powers Tanker_Defense.Plant_Armor.Rebirth
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Velocity_Boost
+Powers Scrapper_Melee.Speed_Force.Accelerated_Perception

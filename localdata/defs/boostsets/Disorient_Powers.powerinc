@@ -296,3 +296,8 @@ Powers Scrapper_Melee.Energy_Melee.Stun
 Powers Scrapper_Melee.Energy_Melee.Energy_Transfer
 //Might Assault
 Powers Dominator_Assault.Might_Assault.Ground_Pound
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Stone_Fist
+Powers Scrapper_Melee.Stone_Melee.Fault
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Rapid_Strikes

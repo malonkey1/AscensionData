@@ -555,3 +555,13 @@ Powers Dominator_Assault.Might_Assault.Haymaker
 Powers Dominator_Assault.Might_Assault.Foot_Stomp
 //Sorcerous Blast
 Powers Defender_Ranged.Sorcerous_Blast.Archaic_Force
+//Stone Melee
+Powers Scrapper_Melee.Stone_Melee.Stone_Mallet
+Powers Scrapper_Melee.Stone_Melee.Heavy_Mallet
+Powers Scrapper_Melee.Stone_Melee.Fault
+Powers Scrapper_Melee.Stone_Melee.Hurl_Boulder
+Powers Scrapper_Melee.Stone_Melee.Tremor
+//Speed Force
+Powers Scrapper_Melee.Speed_Force.Tunnel_Vortex
+Powers Scrapper_Melee.Speed_Force.Sound_Barrier
+Powers Scrapper_Melee.Speed_Force.Speed_Conduit
